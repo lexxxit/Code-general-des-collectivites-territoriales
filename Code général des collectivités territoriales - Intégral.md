@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1996-11-15
+Version Consolidée au 1996-12-31
 
 # Partie législative
 
@@ -7732,23 +7732,35 @@ locales.
 
 ###### Article L1614-4
 
-- Les charges visées à l'article L. 1614-1 sont compensées par le transfert d'impôts d'Etat et par l'attribution d'une
-dotation générale de décentralisation. Les collectivités locales bénéficiaires utilisent librement cette dotation qui est
-inscrite en section de fonctionnement du budget.
+Les charges visées à l'article L. 1614-1 sont compensées par le transfert d'impôts d'Etat, par les ressources du Fonds de
+compensation de la fiscalité transférée et, pour le solde, par l'attribution d'une dotation générale de décentralisation. Les
+collectivités locales bénéficiaires utilisent librement la dotation générale de décentralisation et les ressources en
+provenance du Fonds de compensation de la fiscalité transférée qui sont inscrites; en section de fonctionnement du budget.
 
 Dans le cas où, l'année d'un transfert de compétences, le produit des impôts affectés à cette compensation, calculé aux taux
 en vigueur à la date du transfert de compétences, est supérieur, pour une collectivité donnée, au montant des charges qui
 résultent du transfert de compétences, tel qu'il est constaté dans l'arrêté interministériel mentionné à l'article L. 1614-3,
 il est procédé l'année même aux ajustements nécessaires.
 
-A cette fin, le produit des impôts revenant à la collectivité concernée est diminué, au profit du budget général, de la
-différence entre le produit calculé sur la base des taux en vigueur à la date du transfert et le montant des charges visé ci-
-dessus ainsi que la moitié du supplément de ressources fiscales résultant des dispositions de l'article 14 de la loi de
-finances pour 1984 (n° 83-1179 du 29 décembre 1983).
+A cette fin, le produit des impôts revenant à la collectivité concernée est diminué, de la différence entre le produit
+calculé sur la base des taux en vigueur à la date du transfert et le montant des charges visé ci-dessus ainsi que la moitié
+du supplément de ressources fiscales résultant des dispositions de l'article 14 de la loi de finances pour 1984 (n° 83-1179
+du 29 décembre 1983).
 
 Pour les années ultérieures, le montant de cet ajustement évolue dans les conditions prévues à l'article L. 1614-1. Il est
 modifié, en tant que de besoin, pour tenir compte des accroissements de charges résultant de nouveaux transferts de
 compétences.
+
+A compter de 1997, il est créé un Fonds de compensation de la fiscalité transférée qui dispose en ressources de la diminution
+du produit des impôts définie au troisième alinéa du présent article.
+
+Sont éligibles à ce fonds les collectivités territoriales pour lesquelles le transfert d'impôt d'Etat a été insuffisant pour
+compenser intégralement l'accroissement net de charges résultant des transferts de compétences entre l'Etat et ces
+collectivités territoriales.
+
+Ce fonds est réparti entre les collectivités territoriales éligibles au prorata de leur part dans l'accroissement net de
+charge précité, diminué du produit des impôts d'Etat transférés affecté, en application du premier alinéa, à la compensation
+de ces charges.
 
 **Liens relatifs à cet article**
 
@@ -7806,10 +7818,6 @@ compétences.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 10 avril 1996
@@ -7832,6 +7840,10 @@ compétences.
 	  - TXT_SOURCE: Arrêté du 6 mai 2004
 	  - TXT_SOURCE: Arrêté du 6 mai 2004 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 6 mai 2004 - art. ANNEXE (V)
+
+	**Modifié par**:
+
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 31 ()
 
 
 ###### Article L1614-7
@@ -8152,15 +8164,19 @@ sociale, les caisses des écoles, le Centre national de la fonction publique ter
 personnels de la fonction publique territoriale au prorata de leurs dépenses réelles d'investissement, telles qu'elles sont
 définies par décret.
 
+" Les établissements de coopération intercommunale bénéficient, en lieu et place des communes membres propriétaires, des
+attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement exposées, à
+compter du 1er janvier 1997, dans l'exercice de leurs compétences relatives à la voirie. "
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 33 ()
 
 	**Anciens textes**:
 
@@ -23436,9 +23452,10 @@ Les taxes ou portions de taxes attribuées à un fonds commun sont exclues des r
 
 ###### Article L2333-1
 
-- Toute personne qui fait abattre un animal dans un abattoir public est redevable d'une taxe d'usage au profit de la
-collectivité territoriale propriétaire. Cette taxe est affectée à la section d'investissement du budget du maître de
-l'ouvrage.
+Toute personne qui fait abattre un animal dans un abattoir public est redevable d'une taxe d'usage au profit de la
+collectivité territoriale propriétaire. Cette taxe est affectée à la couverture des dépenses d'investissement des abattoirs
+publics et des frais financiers liés aux emprunts contractés pour ces investissements. Elle sert également à financer les
+dépenses de gros entretien des abattoirs publics. Un décret précise les conditions d'application de la taxe.
 
 La collectivité territoriale, après avis de la commission consultative de l'abattoir, vote le taux de cette taxe, qui est
 compris entre 0,155 F et 0,60 F par kilogramme de viande nette.
@@ -23471,9 +23488,9 @@ décembre 1993).
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-1182 du 30 décembre 1996 - art. 38 (V)
 
 	**Cité par**:
 
@@ -25988,18 +26005,18 @@ Le versement est institué par délibération du conseil municipal ou de l'organ
 
 ###### Article L2333-67
 
-- Le taux de versement est fixé ou modifié par délibération du conseil municipal ou de l'organisme compétent de
-l'établissement public dans la limite de :
+Le taux de versement est fixé ou modifié par délibération du conseil municipal ou de l'organisme compétent de l'établissement
+public dans la limite de :
 
-- 0,55 p. 100 des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public
-est comprise entre 20 000 et 100 000 habitants ;
+0,55 p. 100 des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public est
+comprise entre 20 000 et 100 000 habitants ;
 
--    1 p. 100 des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public
-est supérieure à 100 000 habitants ;
+1 p. 100 des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public est
+supérieure à 100 000 habitants ;
 
--    1,75 p. 100 des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public
-est supérieure à 100 000 habitants et que l'autorité organisatrice a décidé de réaliser une infrastructure de transport
-collectif et obtenu une subvention de l'Etat pour l'investissement correspondant.
+1,75 p. 100 des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public est
+supérieure à 100 000 habitants et que l'autorité organisatrice a décidé de réaliser une infrastructure de transport collectif
+et que l'Etat a notifié un engagement de principe sur le subventionnement de l'investissement correspondant.
 
 Toutefois, les communautés de communes et communautés de villes ont la faculté de majorer de 0,05 p. 100 les taux maxima
 mentionnés aux alinéas précédents.
@@ -26013,9 +26030,9 @@ ont adhéré une communauté urbaine, une communauté de villes ou une communaut
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 133 ()
 
 	**Cité par**:
 
@@ -28879,7 +28896,7 @@ Elle est imputée sur un crédit budgétaire spécialement ouvert à cette fin.
 
 ###### Article L2335-9
 
-- Le compte d'affectation spéciale ouvert dans les écritures du Trésor sous le titre de Fonds national pour le développement
+Le compte d'affectation spéciale ouvert dans les écritures du Trésor sous le titre de Fonds national pour le développement
 des adductions d'eau a pour objet de permettre :
 
 1° L'allégement de la charge des annuités supportées par les collectivités locales qui réalisent des adductions d'eau potable
@@ -28891,6 +28908,10 @@ dans les communes rurales ;
 3° Subsidiairement, l'octroi de prêts pour le financement des travaux d'alimentation en eau potable dans les communes
 rurales.
 
+4° Jusqu'au 31 décembre 1999, l'attribution de subventions en capital aux exploitations agricoles pour l'exécution de travaux
+de maîtrise des pollutions d'origine agricole destinés à assurer la protection de la qualité de l'eau.
+
+A cette date, il sera procédé à un réexamen de cette compétence du Fonds national pour le développement des adductions d'eau.
 Il est débité des dépenses correspondant aux charges énumérées ci-dessus.
 
 **Liens relatifs à cet article**
@@ -28903,9 +28924,9 @@ Il est débité des dépenses correspondant aux charges énumérées ci-dessus.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 65 ()
 
 	**Cité par**:
 
@@ -41311,36 +41332,22 @@ cas échéant par les chartes intercommunales.
 
 ###### Article L3232-2
 
-- Les aides financières consenties, d'une part, par le Fonds national pour le développement des adductions d'eau, prévu à
+Les aides financières consenties, d'une part, par le Fonds national pour le développement des adductions d'eau, prévu à
 l'article L. 2335-9 et, d'autre part, par le Fonds d'amortissement des charges d'électrification, créé par la loi du 31
 décembre 1936 portant fixation du budget général de l'exercice 1937, sont réparties par département sous forme de dotations
 affectées à l'eau et à l'assainissement, d'une part, à l'électrification rurale, d'autre part.
 
-Dans le cadre des lois et règlements, le département règle, sur la base des propositions présentées par les collectivités
-concernées, la répartition de ces dotations, d'une part, entre les communes rurales et leurs groupements qui réalisent des
-travaux d'alimentation en eau potable et d'assainissement, d'autre part, entre les collectivités territoriales ou leurs
-groupements et les maîtres d'ouvrage des travaux d'électrification rurale pouvant bénéficier des participations du Fonds
-d'amortissement des charges d'électrification.
+Dans le cadre des lois et règlements, le département règle, sur la base des propositions présentées par les collectivités et
+exploitations agricoles concernées, la répartition de ces dotations, d'une part, entre les communes rurales, leurs
+groupements et les exploitations agricoles qui réalisent les travaux mentionnés à l'article L. 2335-9, d'autre part, entre
+les collectivités territoriales ou leurs groupements et les maîtres d'ouvrage des travaux d'électrification rurale pouvant
+bénéficier des participations du fonds d'amortissement des charges d'électrification.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°1936-12-31
-	  - Code général des collectivités territoriales - art. L2335-9 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°83-8 1983-01-07 art. 109
-	  - Loi n°83-8 du 7 janvier 1983 - art. 109 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 	**Cité par**:
 
@@ -41349,12 +41356,26 @@ d'amortissement des charges d'électrification.
 	  - Code de l'énergie - art. L432-5 (V)
 	  - Code général des collectivités territoriales - art. L3553-6 (Ab)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2335-9 (M)
+	  - Loi n°1936-12-31
+
+	**Anciens textes**:
+
+	  - Loi n°83-8 1983-01-07 art. 109
+	  - Loi n°83-8 du 7 janvier 1983 - art. 109 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 65 ()
+
 
 ###### Article L3232-3
 
-- Le département règle sur la base des propositions présentées par les collectivités concernées la répartition des aides
-mentionnées à l'article L. 2335-11 entre les communes rurales et leurs groupements qui réalisent des travaux d'alimentation
-en eau potable et d'assainissement.
+Le département règle sur la base des propositions présentées par les collectivités et les exploitations agricoles concernées
+la répartition des aides mentionnées à l'article L. 2335-11 entre les communes rurales, leurs groupements et les
+exploitations agricoles qui réalisent les travaux mentionnés à l'article L. 2335-9. "
 
 **Liens relatifs à cet article**
 
@@ -41362,9 +41383,13 @@ en eau potable et d'assainissement.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-1181 du 30 décembre 1996 - art. 65 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2004-1485 du 30 décembre 2004 - art. 121 (V) JORF 31 décembre 2004
 
 	**Anciens textes**:
 
@@ -41375,6 +41400,10 @@ en eau potable et d'assainissement.
 
 	  - Code général des collectivités territoriales - art. L2335-11 (Ab)
 	  - Code général des collectivités territoriales - art. L3553-6 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2335-9 (M)
 
 
 ##### Section 3 : Aides aux entreprises de spectacle cinématographique
