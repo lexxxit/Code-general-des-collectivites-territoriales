@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1999-02-24
+Version Consolidée au 1999-04-16
 
 # Partie législative
 
@@ -15812,7 +15812,9 @@ municipale exécutent, dans la limite de leurs attributions et sous son autorit�
 maire que celui-ci leur confie en matière de prévention et de surveillance du bon ordre, de la tranquillité, de la sécurité
 et de la salubrité publiques.
 
-Ils sont chargés d'assurer l'exécution des arrêtés de police du maire.
+Ils sont chargés d'assurer l'exécution des arrêtés de police du maire et de constater par procès-verbaux les contraventions
+auxdits arrêtés. Sans préjudice des compétences qui leur sont dévolues par des lois spéciales, ils constatent également par
+procès-verbaux les contraventions aux dispositions du code de la route dont la liste est fixée par décret en Conseil d'Etat.
 
 Ils exercent leurs fonctions sur le territoire communal, dans les conditions prévues aux quatrième à septième alinéas de
 l'article 21 du code de procédure pénale.
@@ -15843,9 +15845,9 @@ l'article 21 du code de procédure pénale.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-291 du 15 avril 1999 - art. 1 ()
 
 	**Liens**:
 
@@ -15862,6 +15864,149 @@ l'article 21 du code de procédure pénale.
 	**Cite**:
 
 	  - CODE DE PROCEDURE PENALE - art. 21 (M)
+
+
+###### Article L2212-6
+
+Dès lors qu'un service de police municipale comporte au moins cinq emplois d'agent de police municipale, une convention de
+coordination est conclue entre le maire de la commune et le représentant de l'Etat dans le département, après avis du
+procureur de la République. Un décret en Conseil d'Etat détermine les clauses d'une convention type.
+
+Cette convention précise la nature et les lieux des interventions des agents de police municipale. Elle détermine les
+modalités selon lesquelles ces interventions sont coordonnées avec celles de la police et de la gendarmerie nationales.
+
+A défaut de convention, les missions de police municipale ne peuvent s'exercer qu'entre 6 heures et 23 heures, à l'exception
+des gardes statiques des bâtiments communaux et de la surveillance des cérémonies, fêtes et réjouissances organisées par la
+commune.
+
+Une convention de coordination peut également être conclue, à la demande du maire, lorsqu'un service de police municipale
+compte moins de cinq emplois d'agent de police municipale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-291 du 15 avril 1999 - art. 2 ()
+
+	**Cité par**:
+
+	  - Loi n°99-291 du 15 avril 1999 - art. 23 (V)
+	  - Décret n°2000-275 du 24 mars 2000 - art. 1 (Ab)
+	  - Décret n°2000-275 du 24 mars 2000 - art. ANNEXE (Ab)
+	  - Décret n°2000-276 du 24 mars 2000 - art. 4 (VT)
+	  - Décret n°2000-276 du 24 mars 2000 - art. 8 (VT)
+	  - Décret n°2000-1329 du 26 décembre 2000 - art. 2 (V)
+	  - Décret n°2010-544 du 26 mai 2010 (V)
+	  - CODE DES COMMUNES. - art. L412-51 (VT)
+	  - Code général des collectivités territoriales - art. Annexe IV-I (VT)
+	  - Code général des collectivités territoriales - art. Annexe IV-II (VT)
+	  - Code général des collectivités territoriales - art. L2212-10 (VT)
+	  - Code général des collectivités territoriales - art. L2564-19 (V)
+	  - Code général des collectivités territoriales - art. R2212-1 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2000-275 du 24 mars 2000
+	  - TXT_SOURCE: Décret n°2000-275 du 24 mars 2000 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°2000-275 du 24 mars 2000 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°2000-275 du 24 mars 2000 - art. ANNEXE (Ab)
+
+
+###### Article L2212-7
+
+Une commission consultative des polices municipales est créée auprès du ministre de l'intérieur. Elle est composée pour un
+tiers de représentants des maires des communes employant des agents de police municipale, pour un tiers de représentants de
+l'Etat et, pour le dernier tiers, de représentants des agents de police municipale choisis par les organisations syndicales
+représentatives des fonctionnaires territoriaux. Elle est présidée par un maire élu en son sein, qui a voix prépondérante en
+cas de partage égal des voix.
+
+Un décret en Conseil d'Etat définit les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 du 21 février 1996
+
+	**Créé par**:
+
+	  - Loi n°99-291 du 15 avril 1999 - art. 3 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L514-1 (VD)
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. L412-52 (VT)
+
+
+###### Article L2212-8
+
+A la demande du maire, du représentant de l'Etat dans le département ou du procureur de la République, et après avis de la
+commission consultative des polices municipales, le ministre de l'intérieur peut décider de la vérification de l'organisation
+et du fonctionnement d'un service de police municipale. Il en fixe les modalités après consultation du maire. Cette
+vérification peut être opérée par les services d'inspection générale de l'Etat. Ses conclusions sont transmises au maire de
+la commune concernée, au représentant de l'Etat dans le département et au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-291 du 15 avril 1999 - art. 4 ()
+
+	**Cité par**:
+
+	  - Décret n°2000-276 du 24 mars 2000 - art. 11 (VT)
+	  - Décret n°2006-1409 du 20 novembre 2006 - art. 4 (VT)
+	  - Arrêté du 14 avril 2009 - art. 8 (V)
+	  - Code général des collectivités territoriales - art. L2573-18 (V)
+
+
+###### Article L2212-9
+
+Lors d'une manifestation exceptionnelle, notamment à caractère culturel, récréatif ou sportif, à l'occasion d'un afflux
+important de population ou en cas de catastrophe naturelle, les maires de communes limitrophes ou appartenant à une même
+agglomération peuvent être autorisés à utiliser en commun, sur le territoire d'une ou plusieurs communes, pour un délai
+déterminé, tout ou partie des moyens et des effectifs de leurs services de police municipale. Cette faculté s'exerce
+exclusivement en matière de police administrative.
+
+Cette utilisation en commun des moyens et effectifs est autorisée par arrêté du représentant de l'Etat dans le département
+qui en fixe les conditions et les modalités au vu des propositions des maires des communes concernées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-291 du 15 avril 1999 - art. 5 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 19 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la sécurité intérieure - art. L512-3 (VD)
+
+	**Anciens textes**:
+
+	  - CODE DES COMMUNES. - art. L131-2 (Ab)
 
 
 ##### CHAPITRE III : Pouvoirs de police portant sur des objets particuliers
@@ -33657,9 +33802,10 @@ préfet de police associe le maire à la définition du programme de prévention
 
 ###### Article L2512-16
 
-- Les personnels du service des parcs et jardins de la commune de Paris sont autorisés à constater les infractions au
-règlement départemental sur les parcs et jardins de la commune de Paris. Les dispositions de l'article L. 48 du code de la
-santé publique sont applicables aux inspecteurs de salubrité de la commune de Paris.
+Les agents de la ville de Paris chargés de l'application du règlement des parcs et promenades et du règlement général sur les
+cimetières de la ville de Paris sont autorisés à constater les infractions à leurs dispositions. Ils doivent être agréés par
+le procureur de la République et assermentés. L'article L. 48 du code de la santé publique est applicable aux inspecteurs de
+salubrité de la ville de Paris.
 
 **Liens relatifs à cet article**
 
@@ -33672,9 +33818,9 @@ santé publique sont applicables aux inspecteurs de salubrité de la commune de 
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-291 du 15 avril 1999 - art. 6 ()
 
 	**Cité par**:
 
