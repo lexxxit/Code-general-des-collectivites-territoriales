@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1999-07-13
+Version Consolidée au 1999-07-28
 
 # Partie législative
 
@@ -23070,8 +23070,7 @@ publicité appropriée en mairie et sur les lieux où se pratiquent ces activit�
 
 10° Les dépenses résultant de l'application de l'article L. 521-1 du code de la mutualité ;
 
-11° La participation de la commune aux dépenses d'aide sociale conformément aux dispositions de l'article 93 de la loi n°
-83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat ;
+11° Abrogé ;
 
 12° Les dépenses des services communaux de désinfection et des services communaux d'hygiène et de santé dans les conditions
 prévues par le titre Ier du livre Ier du code de la santé publique ;
@@ -23159,10 +23158,6 @@ remboursement ;
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
 	**Cité par**:
 
 	  - Décret n°96-525 du 13 juin 1996 - art. 2 (Ab)
@@ -23187,6 +23182,10 @@ remboursement ;
 
 	  - TXT_SOURCE: Décret n°98-1012 du 9 novembre 1998
 	  - TXT_SOURCE: Décret n°98-1012 du 9 novembre 1998 - art. 1 ()
+
+	**Modifié par**:
+
+	  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
 
 
 ###### Article L2321-3
@@ -27161,6 +27160,10 @@ Le montant de la régularisation, auquel est ajouté le reliquat comptable éven
 bénéficiaires de la dotation globale de fonctionnement au prorata des sommes perçues au titre de la dotation initiale de
 l'année au cours de laquelle la régularisation est versée.
 
+A compter de 2000, le montant de la dotation globale de fonctionnement visée au premier alinéa est égal à la différence entre
+le montant de la dotation prévue à l'article L. 1613-3 et le montant de la dotation prévue à l'article L. 3334-1 après
+application de l'article L. 3334-7-1.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -27180,14 +27183,20 @@ l'année au cours de laquelle la régularisation est versée.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
 
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L234-1 (M)
 	  - CODE DES COMMUNES. - art. L234-1 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1613-3 (V)
+	  - Code général des collectivités territoriales - art. L3334-1 (M)
+	  - Code général des collectivités territoriales - art. L3334-7-1 (M)
 
 
 ###### Article L2334-2
@@ -27704,6 +27713,87 @@ dotation, est relevée d'un pourcentage égal à 8,9 %.
 
 	  - Code des communes L234-7 al. 1, 2 et 4
 	  - CODE DES COMMUNES. - art. L234-7 (Ab)
+
+
+###### Article L2334-7-2
+
+I. - La dotation forfaitaire visée à l'article L. 2334-7 est diminuée, à compter de 2000, d'un montant égal à la
+participation de la commune aux dépenses d'aide sociale du département au titre de 1999 et revalorisé comme la dotation
+globale de fonctionnement mise en répartition.
+
+Un abattement est appliqué à la diminution de la dotation forfaitaire telle que définie à l'alinéa précédent pour les
+communes éligibles à la dotation de solidarité urbaine et à la dotation de solidarité rurale en 1999 dont l'écart entre la
+contribution par habitant au titre de 1999 et la moyenne par habitant des contributions communales de l'ensemble des
+départements, à l'exception de Paris, est supérieur à 30 %.
+
+L'abattement prévu au deuxième alinéa est calculé à partir :
+
+1° De l'écart, sous réserve qu'il soit positif, entre la contribution de la commune par habitant au titre de 1999 et la
+moyenne par habitant des contributions communales du département ;
+
+2° De l'écart entre la contribution de la commune par habitant au titre de 1999 et la moyenne par habitant des contributions
+communales de l'ensemble des départements, à l'exception de Paris.
+
+Cet abattement est égal à la somme des produits de 10 % des écarts définis aux 1° et 2° par la population de la commune en
+1999.
+
+II. - Pour le calcul, en 2000, de la diminution de la dotation forfaitaire prévue au premier alinéa du I, la participation de
+la commune aux dépenses d'aide sociale du département au titre de 1999 et appelée au cours de cet exercice est fixée, avant
+le 30 octobre 1999, par arrêté du préfet pris après avis du président du conseil général.
+
+Un ajustement de la diminution de la dotation forfaitaire est opéré en 2001 sur la base d'un arrêté du préfet pris après avis
+du président du conseil général fixant, avant le 30 octobre 2000, le montant définitif de la participation de la commune aux
+dépenses d'aide sociale du département au titre de 1999. L'abattement visé au deuxième alinéa du I est appliqué à la
+diminution de la dotation forfaitaire opérée sur la base de ce montant.
+
+Pour la mise en oeuvre des deux précédents alinéas, le président du conseil général transmet au préfet, avant le 30 septembre
+1999, le montant de la participation appelée pour chaque commune au titre de 1999 et, avant le 30 septembre 2000, le montant
+définitif de cette participation.
+
+III. - Dans le cas où la participation de la commune visée au premier alinéa du I est supérieure à la dotation forfaitaire,
+la différence est prélevée sur le produit des impôts directs locaux visés aux 1°, 2°, 3° et 4° du I de l'article 1379 du code
+général des impôts. Pour les communes membres d'un établissement public de coopération intercommunale soumis aux dispositions
+de l'article 1609 nonies C du code général des impôts et dont le produit des impôts défini ci-dessus est insuffisant, le
+complément est prélevé sur le montant de l'attribution de compensation versée par le groupement à la commune.
+
+A compter de 2001, le montant du prélèvement visé à l'alinéa précédent évolue comme la dotation forfaitaire.
+
+Il est créé, à compter de 2000, un fonds qui dispose en ressources du prélèvement défini au premier alinéa du III. Les
+ressources de ce fonds sont réparties en application de l'article L. 3334-7-1.
+
+Les sommes affectées à ce fonds ne sont pas prises en compte dans le montant de la dotation globale de fonctionnement pour
+l'application des I et II de l'article 57 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998).
+
+IV. - Pour l'application du I du présent article, la population de la commune à prendre en compte est celle définie à
+l'article R. 114-1 du code des communes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Cite**:
+
+	  - Loi n°98-1266 1998-12-30 art. 57 Finances pour 1999
+	  - CGI 1379, 1609 nonies C
+	  - CODE DES COMMUNES. - art. R114-1 (Ab)
+	  - Code général des collectivités territoriales - art. L3334-7-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+	**Cité par**:
+
+	  - Arrêté du 4 avril 2009 (V)
+	  - Arrêté du 3 septembre 2014 - art. (V)
+	  - Arrêté du 3 septembre 2014 - art. 1 (V)
+	  - Code général des collectivités territoriales - art. L2334-4 (V)
+	  - Code général des collectivités territoriales - art. L2334-7 (V)
+	  - Code général des collectivités territoriales - art. L3334-7-2 (Ab)
+	  - Code général des collectivités territoriales - art. L3413-2 (V)
+	  - Code général des collectivités territoriales - art. L5211-27-1 (V)
 
 
 ###### Article L2334-8
@@ -43338,7 +43428,7 @@ population de ce département, tel que défini à l'article L. 3334-2.
 	  - Code général des collectivités territoriales - art. L3334-2 (M)
 
 
-##### Sous-section 4 : Dotation de fonctionnement minimale.
+##### Sous-section 4 : Concours particuliers
 
 ###### Article L3334-7
 
@@ -43388,9 +43478,61 @@ tiers de cette même dotation.
 
 	  - Loi n°96-142 1996-02-21
 
+	**Modifié par**:
+
+	  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+
+###### Article L3334-7-1
+
+Il est créé, au sein de la dotation globale de fonctionnement des départements, une dotation dont le montant est égal à la
+diminution de la dotation forfaitaire augmentée, le cas échéant, des ressources du fonds prévu au III de l'article L.
+2334-7-2.
+
+En 2000, cette dotation est répartie entre les départements proportionnellement aux participations communales aux dépenses
+d'aide sociale de chaque département fixées par l'arrêté prévu au premier alinéa du II de l'article L. 2334-7-2.
+
+A compter de 2001, cette dotation évolue, chaque année, comme la dotation globale de fonctionnement mise en répartition.
+
+En 2001, un ajustement de la dotation est opéré sur la base de l'arrêté prévu au deuxième alinéa du II de l'article L.
+2334-7-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°85-1268 du 29 novembre 1985 - art. 34 (M)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+	**Cité par**:
+
+	  - Loi - art. 49 (V)
+	  - Loi n°2004-1484 du 30 décembre 2004 - art. 53 (M)
+	  - Loi n°2006-1771 du 30 décembre 2006 - art. 11 (V)
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 39 (V)
+	  - Code général des collectivités territoriales - art. L1613-1 (V)
+	  - Code général des collectivités territoriales - art. L2334-1 (M)
+	  - Code général des collectivités territoriales - art. L2334-7-2 (M)
+	  - Code général des collectivités territoriales - art. L2513-7 (V)
+	  - Code général des collectivités territoriales - art. L3334-1 (M)
+	  - Code général des collectivités territoriales - art. L3334-3 (M)
+	  - Code général des collectivités territoriales - art. L3334-4 (V)
+	  - Code général des collectivités territoriales - art. L3334-6 (V)
+	  - Code général des collectivités territoriales - art. L3334-7-1 (M)
+	  - Code général des collectivités territoriales - art. L3413-2 (M)
+	  - Code général des collectivités territoriales - art. L3662-4 (VD)
+	  - Code général des collectivités territoriales - art. L3663-9 (V)
+	  - Code général des collectivités territoriales - art. L6173-5 (VT)
+	  - Code général des collectivités territoriales - art. L6264-3 (V)
+	  - Code général des collectivités territoriales - art. L6364-3 (V)
+	  - Code général des collectivités territoriales - art. L6473-5 (V)
 
 
 ##### Sous-section 5 : Solidarité financière entre les départements.
@@ -43471,8 +43613,8 @@ compte administratif afférent au pénultième exercice.
 progresse, d'une année sur l'autre, de 55 p. 100 au moins du taux d'évolution de l'ensemble des ressources affectées à la
 dotation globale de fonctionnement.
 
-Les sommes correspondantes sont prélevées sur la dotation globale de fonctionnement des départements après déduction du
-concours particulier prévu à l'article L. 3334-7.
+Les sommes correspondantes sont prélevées sur la dotation globale de fonctionnement des départements après déduction des
+concours particuliers prévus à la sous-section 4.
 
 **Liens relatifs à cet article**
 
@@ -43485,9 +43627,13 @@ concours particulier prévu à l'article L. 3334-7.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+	**Abrogé par**:
+
+	  - Loi - art. 49 (V) JORF 31 décembre 2003
 
 	**Cité par**:
 
@@ -44157,6 +44303,28 @@ mentionnés à l'article L. 2334-6.
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L3431-1 (VT)
+
+
+###### Article L3413-2
+
+Les dispositions des articles L. 2334-7-2 et L. 3334-7-1 ne sont pas applicables à Paris. Le Conseil de Paris fixe les
+conditions financières de la suppression de la participation de la commune aux dépenses d'aide sociale et de santé du
+département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-7-2 (M)
+	  - Code général des collectivités territoriales - art. L3334-7-1 (M)
 
 
 #### TITRE II : DÉPARTEMENTS DES HAUTS-DE-SEINE, DE LA SEINE-SAINT-DENIS ET DU VAL-DE-MARNE
@@ -56324,6 +56492,35 @@ jugement, un liquidateur dans les conditions et en vue de l'exercice des mission
 	  - Code général des collectivités territoriales - art. L5211-26 (V)
 
 
+###### Article L5211-27-1
+
+Lorsque la participation de la commune aux dépenses d'aide sociale du département au titre de 1999 est acquittée par
+l'établissement public de coopération intercommunale au lieu et place de la commune membre, celui-ci procède, à compter de
+2000, à un reversement au profit de la commune. 
+
+Ce reversement, qui constitue une dépense obligatoire pour l'établissement public de coopération intercommunale, est égal,
+pour les exercices 2000 et 2001, aux prélèvements opérés en application des II et III de l'article L. 2334-7-2. Pour les
+exercices ultérieurs, il évolue comme la dotation forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-7-2 (V)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5722-2-1 (V)
+
+
 ##### Sous-section 2 : Etablissements de coopération intercommunale à fiscalité propre.
 
 ###### Article L5211-28
@@ -58259,44 +58456,6 @@ des communes au budget du syndicat.
 
 
 ##### Section 5 : Modification des conditions initiales de composition et de fonctionnement
-
-##### Sous-section 1 : Admission de nouvelles communes.
-
-###### Article L5212-26
-
-- Des communes autres que celles primitivement syndiquées peuvent être admises à faire partie du syndicat avec le
-consentement du comité. La délibération du comité doit être notifiée aux maires de chacune des communes syndiquées. Les
-conseils municipaux doivent obligatoirement être consultés dans un délai de quarante jours à compter de cette notification.
-
-La décision d'admission ne peut intervenir si plus d'un tiers des conseils municipaux s'y oppose.
-
-La décision est prise par le représentant de l'Etat dans le département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L163-15 (M)
-	  - CODE DES COMMUNES. - art. L163-15 (Ab)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L5212-27 (Ab)
-	  - Code général des collectivités territoriales - art. L5212-28 (Ab)
-	  - Code général des collectivités territoriales - art. L5332-3 (M)
-
 
 ##### Sous-section 3 : Retrait de communes.
 
@@ -64632,6 +64791,25 @@ conseils généraux et des conseils régionaux intéressés.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L5212-21 (V)
+
+
+###### Article L5722-2-1
+
+Les dispositions de l'article L. 5211-27-1 sont applicables aux syndicats mixtes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-641 1999-07-27 art. 13 JORF 28 juillet 1999 rectificatif JORF 20 octobre 1999
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-27-1 (V)
 
 
 ###### Article L5722-3
