@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1998-07-31
+Version Consolidée au 1998-12-31
 
 # Partie législative
 
@@ -8279,14 +8279,23 @@ sociale, les caisses des écoles, le Centre national de la fonction publique ter
 personnels de la fonction publique territoriale au prorata de leurs dépenses réelles d'investissement, telles qu'elles sont
 définies par décret.
 
-Les établissements publics de coopération intercommunale bénéficient, en lieu et place des communes membres propriétaires,
-des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement exposées
-dans l'exercice de leurs compétences.
+Les établissements publics de coopération intercommunale et les syndicats mixtes exclusivement composés de membres éligibles
+au Fonds de compensation pour la taxe sur la valeur ajoutée bénéficient, en lieu et place de leurs membres propriétaires, des
+attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement exposées dans
+l'exercice de leurs compétences.
 
 Les services départementaux d'incendie et de secours bénéficient, en lieu et place des communes, des établissements publics
 intercommunaux ou des départements propriétaires, des attributions du Fonds de compensation pour la taxe sur la valeur
 ajoutée au titre des dépenses exposées, à compter du 1er janvier 1998, dans l'exercice de leurs compétences sur les biens
 visés à l'article L. 1424-17.
+
+Par dérogation, les collectivités territoriales et leurs groupements bénéficient des attributions du Fonds de compensation
+pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement exposées sur des biens dont ils n'ont pas la
+propriété, dès lors qu'elles concernent des travaux de lutte contre les avalanches, glissements de terrains, inondations,
+ainsi que des travaux de défense contre la mer, présentant un caractère d'intérêt général ou d'urgence. S'agissant des
+travaux effectués sur le domaine public de l'Etat, seules ouvrent droit aux attributions du fonds les dépenses
+d'investissement réalisées par les collectivités territoriales ou leurs groupements ayant conclu une convention avec l'Etat
+précisant notamment les équipements à réaliser, le programme technique des travaux et les engagements financiers des parties.
 
 **Liens relatifs à cet article**
 
@@ -8296,7 +8305,8 @@ visés à l'article L. 1424-17.
 
 	**Modifié par**:
 
-	  - Loi n°98-546 du 2 juillet 1998 - art. 83 ()
+	  - Loi - art. 60 ()
+	  - Loi n°98-1266 1998-12-30 art. 60, 61 jorf 31 décembre 1998
 
 	**Anciens textes**:
 
@@ -12328,7 +12338,10 @@ droits ;
 
 2° De gérer les revenus, de surveiller les établissements communaux et la comptabilité communale ;
 
-3° De préparer et proposer le budget et ordonnancer les dépenses ;
+3° De préparer et proposer le budget et ordonnancer les dépenses de les imputer en section d'investissement conformément à
+chacune des délibérations expresses de l'assemblée pour les dépenses d'équipement afférentes à des biens meubles ne figurant
+pas sur les listes et d'une valeur inférieure à un seuil fixé par arrêté des ministres en charge des finances et des
+collectivités locales ;
 
 4° De diriger les travaux communaux ;
 
@@ -12350,10 +12363,6 @@ derniers, de surveiller et d'assurer l'exécution des mesures ci-dessus et d'en 
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code rural L227-8, L227-9, L227-5
-
 	**Cité par**:
 
 	  - Décret n°79-696 du 18 août 1979 - art. 56 (Ab)
@@ -12374,14 +12383,18 @@ derniers, de surveiller et d'assurer l'exécution des mesures ci-dessus et d'en 
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi - art. 47 ()
 
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L122-19 (M)
 	  - CODE DES COMMUNES. - art. L122-19 (Ab)
+
+	**Cite**:
+
+	  - Code rural L227-8, L227-9, L227-5
 
 
 ###### Article L2122-22
@@ -27216,6 +27229,14 @@ dont elles sont membres lorsque ceux-ci sont compétents en matière de fonction
 élémentaire et préélémentaire. Les années suivantes, ces majorations évoluent selon les modalités définies aux sixième à
 huitième alinéas.
 
+Article 118
+
+A compter de 1999, la dotation forfaitaire des communes qui, en application de l'article 10 de la loi n° 91-429 du 13 mai
+1991 instituant une dotation de solidarité urbaine et un fonds de solidarité des communes de la région d'Ile-de-France,
+réformant la dotation globale de fonctionnement des communes et des départements et modifiant le code des communes, ont
+contribué à partir de 1991 au financement de la dotation de solidarité urbaine, et qui bénéficiaient en 1997 de cette même
+dotation, est relevée d'un pourcentage égal à 8,9 %.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -27284,14 +27305,18 @@ huitième alinéas.
 
 	**Cite**:
 
+	  - Loi n°91-429 1991-05-13 art. 10
 	  - Loi n°93-1436 1993-12-31
+	  - CODE DES COMMUNES. - art. L234-10 (M)
 	  - CODE DES COMMUNES. - art. L234-13 (M)
 	  - CODE DES COMMUNES. - art. L234-14 (M)
 	  - CODE DES COMMUNES. - art. L234-14-2 (Ab)
 	  - CODE DES COMMUNES. - art. L234-19-1 (M)
 	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-2 (Ab)
+	  - CODE DES COMMUNES. - art. L234-4 (M)
 	  - Code général des collectivités territoriales - art. L1613-1 (M)
-	  - Code général des collectivités territoriales L234-2, L234-4, L234-10, L2334-9 à L2334-12, L1613-1
+	  - Code général des collectivités territoriales L2334-9 à L2334-12, L1613-1
 
 	**Codifié par**:
 
@@ -27299,7 +27324,7 @@ huitième alinéas.
 
 	**Modifié par**:
 
-	  - Loi n°96-241 du 26 mars 1996 - art. 1 ()
+	  - Loi - art. 118 ()
 
 	**Anciens textes**:
 
@@ -40747,9 +40772,17 @@ Il prépare et exécute les délibérations du conseil général.
 
 ###### Article L3221-2
 
-- Le président du conseil général est l'ordonnateur des dépenses du département et prescrit l'exécution des recettes
+Le président du conseil général est l'ordonnateur des dépenses du département et prescrit l'exécution des recettes
 départementales, sous réserve des dispositions particulières du code général des impôts relatives au recouvrement des
 recettes fiscales des collectivités locales.
+
+Il impute en section d'investissement les dépenses d'équipement afférentes à des biens meubles ne figurant pas sur les listes
+et d'une valeur inférieure à un seuil fixés par arrêté des ministres en charge des finances et des collectivités locales, sur
+délibérations expresses de l'assemblée.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -40762,9 +40795,9 @@ recettes fiscales des collectivités locales.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°98-1267 du 30 décembre 1998 - art. 47
 
 	**Cité par**:
 
@@ -47122,9 +47155,13 @@ Il prépare et exécute les délibérations du conseil régional.
 
 ###### Article L4231-2
 
-- Le président du conseil régional est l'ordonnateur des dépenses de la région et prescrit l'exécution des recettes
-régionales, sous réserve des dispositions particulières du code général des impôts relatives au recouvrement des recettes
-fiscales des collectivités locales.
+Le président du conseil régional est l'ordonnateur des dépenses de la région et prescrit l'exécution des recettes régionales,
+sous réserve des dispositions particulières du code général des impôts relatives au recouvrement des recettes fiscales des
+collectivités locales.
+
+Il impute en section d'investissement les dépenses d'équipement afférentes à des biens meubles ne figurant pas sur les listes
+et d'une valeur inférieure à un seuil fixé par arrêté des ministres en charge des finances et des collectivités locales, sur
+délibérations expresses de l'assemblée.
 
 **Liens relatifs à cet article**
 
@@ -47136,9 +47173,9 @@ fiscales des collectivités locales.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°98-1267 du 30 décembre 1998 - art. 47
 
 	**Cité par**:
 
