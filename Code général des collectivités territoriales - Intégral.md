@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 2000-01-23
+Version Consolidée au 2000-02-11
 
 # Partie législative
 
@@ -21054,6 +21054,379 @@ L'extension du périmètre primitivement fixé peut être ordonnée dans les for
 	  - Code général des collectivités territoriales - art. R2224-32 (Ab)
 
 
+##### Section 6 : Distribution et production d'électricité.
+
+###### Article L2224-31
+
+I. - Sans préjudice des dispositions de l'article 23 de la loi n° 46-628 du 8 avril 1946 sur la nationalisation de
+l'électricité et du gaz, les collectivités territoriales ou leurs établissements publics de coopération, en tant qu'autorités
+concédantes de la distribution publique d'électricité en application de l'article 6 de la loi du 15 juin 1906 sur les
+distributions d'énergie et de l'article 36 de la loi n° 46-628 du 8 avril 1946 précitée, négocient et concluent les contrats
+de concession, et exercent le contrôle du bon accomplissement des missions de service public fixées, pour ce qui concerne les
+autorités concédantes, par les cahiers des charges de ces concessions.
+
+Les autorités concédantes précitées assurent le contrôle des réseaux publics de distribution d'électricité. A cette fin,
+elles désignent un agent du contrôle distinct du gestionnaire du réseau public de distribution.
+
+Chaque organisme de distribution tient à la disposition de chacune des autorités concédantes précitées dont il dépend les
+informations d'ordre économique, commercial, industriel, financier ou technique utiles à l'exercice des compétences de celle-
+ci, sous réserve des dispositions de l'article 20 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au
+développement du service public de l'électricité.
+
+En application des dispositions du quatrième alinéa de l'article 36 de la loi n° 46-628 du 8 avril 1946 précitée, les
+collectivités et établissements précités peuvent assurer la maîtrise d'ouvrage des travaux de développement des réseaux
+publics de distribution d'électricité. Le même droit est accordé aux collectivités territoriales et aux établissements
+publics de coopération compétents en matière de distribution publique d'électricité ayant constitué un organisme de
+distribution mentionné à l'article 23 de la loi n° 46-628 du 8 avril 1946 précitée.
+
+II. - Pour assurer le respect des principes et conditions énoncés à l'article 1er de la loi n° 2000-108 du 10 février 2000
+précitée, des décrets en Conseil d'Etat fixent en tant que de besoin :
+
+- les procédures et prescriptions particulières applicables aux cahiers des charges des concessions et aux règlements de
+service des régies ;
+
+- les règles et les indicateurs de performances techniques destinés à répondre aux objectifs de sécurité et de qualité de
+l'électricité livrée ;
+
+- les normes relatives à l'intégration visuelle et à la protection de l'environnement applicables aux réseaux publics de
+distribution ;
+
+- les conditions dans lesquelles les collectivités concédantes peuvent faire prendre en charge par leur concessionnaire des
+opérations de maîtrise de la demande d'électricité ;
+
+- les conditions financières des concessions en matière de redevance et de pénalités.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°1919-10-16. du 16 octobre 1919 - art. 10 (V)
+	  - Loi n°46-628 du 8 avril 1946 - art. 23 bis (VT)
+	  - Loi n°46-628 du 8 avril 1946 - art. 5 (VT)
+	  - Loi n°2000-108 du 10 février 2000 - art. 3 (Ab)
+	  - Loi n°2000-108 du 10 février 2000 - art. 2 (VT)
+	  - Loi n°2000-108 du 10 février 2000 - art. 20 (VT)
+	  - Loi n°2000-108 du 10 février 2000 - art. 21 (VT)
+	  - Loi n°2000-108 du 10 février 2000 - art. 21-1 (VT)
+	  - Loi n°2000-108 du 10 février 2000 - art. 51 (VT)
+	  - Décret n°2000-894 du 11 septembre 2000 - art. 5 (Ab)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 1 (VT)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 14 (VT)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 16 (VT)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 22 (VT)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 26 (VT)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 3 (VT)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 5 (VT)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 7 (VT)
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 9 (VT)
+	  - Loi n°2004-803 du 9 août 2004 - art. 1 (VT)
+	  - Loi n°2004-803 du 9 août 2004 - art. 13 (VT)
+	  - Loi n°2004-803 du 9 août 2004 - art. 14 (VT)
+	  - Loi n°2004-803 du 9 août 2004 - art. 15 (Ab)
+	  - Loi n°2004-803 du 9 août 2004 - art. 36 (VT)
+	  - Décret n°2004-1224 du 17 novembre 2004 - art. ANNEXE (V)
+	  - Arrêté du 16 juin 2005 - art. 2 (V)
+	  - Arrêté du 24 décembre 2007 - art. Annexe 1 (VD)
+	  - Décret n°2007-1826 du 24 décembre 2007 (Ab)
+	  - Décret n°2007-1826 du 24 décembre 2007 - art. 10 (Ab)
+	  - Décret n°2007-1826 du 24 décembre 2007 - art. 15 (Ab)
+	  - Décret n°2007-1826 du 24 décembre 2007 - art. 16 (Ab)
+	  - Décret n°2007-1826 du 24 décembre 2007 - art. 18 (Ab)
+	  - Décret n°2007-1826 du 24 décembre 2007 - art. 2 (Ab)
+	  - Décret n°2007-1826 du 24 décembre 2007 - art. 20 (Ab)
+	  - Décret n°2007-1826 du 24 décembre 2007 - art. 6 (Ab)
+	  - Décret n°2007-1826 du 24 décembre 2007 - art. 8 (Ab)
+	  - Décret n°2008-740 du 28 juillet 2008 - art. 11 (Ab)
+	  - Arrêté du 16 décembre 2008 (V)
+	  - Décret n°2009-1603 du 18 décembre 2009 - art. 2 (Ab)
+	  - Arrêté du 22 décembre 2009 (V)
+	  - Décret n°2011-1554 du 16 novembre 2011 (Ab)
+	  - Décret n°2011-1554 du 16 novembre 2011 - art. 1 (Ab)
+	  - Décret n°2011-1697 du 1er décembre 2011 - art. 13 (Ab)
+	  - Décret n°2011-1697 du 1er décembre 2011 - art. 14 (Ab)
+	  - Décret n°2011-1697 du 1er décembre 2011 - art. 22 (Ab)
+	  - Décret n°2011-1697 du 1er décembre 2011 - art. 7 (Ab)
+	  - Loi n°2011-1978 du 28 décembre 2011 - art. 7 (VD)
+	  - Arrêté du 19 décembre 2011 (V)
+	  - Décret n°2012-150 du 30 janvier 2012 (Ab)
+	  - Décret n°2012-150 du 30 janvier 2012 - art. 2 (Ab)
+	  - Décret n°2012-150 du 30 janvier 2012 - art. 3 (Ab)
+	  - Arrêté du 23 juillet 2012 (V)
+	  - Décret n°2012-980 du 21 août 2012 (V)
+	  - Décret n°2012-980 du 21 août 2012 - art. 1 (VD)
+	  - Décret n°2012-980 du 21 août 2012 - art. 7 (V)
+	  - Décret n°2013-46 du 14 janvier 2013 (V)
+	  - Décret n°2013-46 du 14 janvier 2013 - art. 1 (V)
+	  - Décret n°2013-46 du 14 janvier 2013 - art. 6 (VD)
+	  - Arrêté du 27 mars 2013 (V)
+	  - Arrêté du 27 mars 2013 - art. 14 (V)
+	  - Arrêté du 27 mars 2013 - art. 2 (V)
+	  - Arrêté du 21 août 2013 (V)
+	  - Arrêté du 30 juillet 2014 (V)
+	  - Décret n°2014-1687 du 29 décembre 2014 (V)
+	  - Décret n°2015-206 du 24 février 2015 - art. 8 (Ab)
+	  - Loi n°2015-992 du 17 août 2015 - art. 199 (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 201
+	  - Ordonnance n°2016-282 du 10 mars 2016 - art. 5
+	  - Arrêté du 11 mars 2016 - art. 3 (V)
+	  - Décret n°2016-495 du 21 avril 2016 (V)
+	  - Décret n°2016-495 du 21 avril 2016 - art. 2 (V)
+	  - Décret n°2016-496 du 21 avril 2016 (V)
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+	  - Décret n°2016-705 du 30 mai 2016 - art. 1
+	  - Décret n°2016-705 du 30 mai 2016 - art. 2
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 1
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 2
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 3
+	  - Loi n°2016-1321 du 7 octobre 2016 - art. 23
+	  - Code de l'environnement - art. L229-26 (V)
+	  - Code de l'environnement - art. R229-53 (V)
+	  - Code de l'énergie - art. D111-39 (V)
+	  - Code de l'énergie - art. D111-40 (V)
+	  - Code de l'énergie - art. D111-54 (V)
+	  - Code de l'énergie - art. D111-55 (V)
+	  - Code de l'énergie - art. D112-2 (V)
+	  - Code de l'énergie - art. D113-3 (V)
+	  - Code de l'énergie - art. D322-10 (V)
+	  - Code de l'énergie - art. D322-7 (V)
+	  - Code de l'énergie - art. L111-100 (V)
+	  - Code de l'énergie - art. L111-51 (V)
+	  - Code de l'énergie - art. L111-53 (V)
+	  - Code de l'énergie - art. L111-55 (V)
+	  - Code de l'énergie - art. L111-56-1 (V)
+	  - Code de l'énergie - art. L111-56-2 (V)
+	  - Code de l'énergie - art. L111-59 (V)
+	  - Code de l'énergie - art. L111-61 (VD)
+	  - Code de l'énergie - art. L111-71 (V)
+	  - Code de l'énergie - art. L111-73-1 (V)
+	  - Code de l'énergie - art. L111-77-1 (V)
+	  - Code de l'énergie - art. L111-81 (V)
+	  - Code de l'énergie - art. L111-82 (V)
+	  - Code de l'énergie - art. L111-99 (V)
+	  - Code de l'énergie - art. L121-32 (VT)
+	  - Code de l'énergie - art. L121-4 (V)
+	  - Code de l'énergie - art. L121-46 (V)
+	  - Code de l'énergie - art. L121-5 (VD)
+	  - Code de l'énergie - art. L322-1 (V)
+	  - Code de l'énergie - art. L322-10 (VD)
+	  - Code de l'énergie - art. L322-12 (VD)
+	  - Code de l'énergie - art. L322-4 (V)
+	  - Code de l'énergie - art. L322-6 (V)
+	  - Code de l'énergie - art. L322-7 (V)
+	  - Code de l'énergie - art. L322-8 (VD)
+	  - Code de l'énergie - art. L363-8 (V)
+	  - Code de l'énergie - art. L432-1 (V)
+	  - Code de l'énergie - art. L432-4 (VD)
+	  - Code de l'énergie - art. L432-5 (V)
+	  - Code de l'énergie - art. L432-8 (VD)
+	  - Code de l'énergie - art. L432-9 (VD)
+	  - Code de l'énergie - art. L433-14 (V)
+	  - Code de l'énergie - art. L444-1 (V)
+	  - Code de l'énergie - art. L452-1 (V)
+	  - Code de l'énergie - art. L452-5 (V)
+	  - Code de l'énergie - art. L521-20 (T)
+	  - Code de l'énergie - art. L522-3 (V)
+	  - Code de l'énergie - art. R111-19-1 (V)
+	  - Code de l'énergie - art. R111-19-10 (V)
+	  - Code de l'énergie - art. R111-19-15 (V)
+	  - Code de l'énergie - art. R111-19-22 (V)
+	  - Code de l'énergie - art. R134-15 (V)
+	  - Code de l'énergie - art. R151-2 (V)
+	  - Code de l'énergie - art. R151-9 (V)
+	  - Code de l'énergie - art. R323-29 (V)
+	  - Code de l'énergie - art. R323-30 (V)
+	  - Code de l'énergie - art. R445-1 (V)
+	  - Code de l'énergie - art. R453-7 (V)
+	  - Code général des collectivités territoriales - art. D2224-39 (V)
+	  - Code général des collectivités territoriales - art. D2224-52 (V)
+	  - Code général des collectivités territoriales - art. L1425-2 (V)
+	  - Code général des collectivités territoriales - art. L2224-33 (V)
+	  - Code général des collectivités territoriales - art. L2224-34 (M)
+	  - Code général des collectivités territoriales - art. L2224-37 (V)
+	  - Code général des collectivités territoriales - art. L2333-2 (VD)
+	  - Code général des collectivités territoriales - art. L2333-4 (V)
+	  - Code général des collectivités territoriales - art. L3232-2 (VD)
+	  - Code général des collectivités territoriales - art. L3662-1 (V)
+	  - Code général des collectivités territoriales - art. L5212-24 (VD)
+	  - Code général des collectivités territoriales - art. L5214-23 (V)
+	  - Code général des collectivités territoriales - art. L5215-32 (VT)
+	  - Code général des collectivités territoriales - art. L5216-8 (V)
+	  - Code général des collectivités territoriales - art. L5219-1 (V)
+	  - Code général des impôts, CGI. - art. 1379-0 bis (VD)
+	  - Code général des impôts, CGI. - art. 212 bis (VT)
+	  - Code général des impôts, CGI. - art. 223 B bis (V)
+	  - Livre des procédures fiscales - art. L102 AC (V)
+
+	**Cite**:
+
+	  - Loi n°46-628 1946-04-08 art. 23, art. 36
+	  - Loi n°46-628 du 8 avril 1946 - art. 23 (M)
+	  - Loi n°2000-108 du 10 février 2000 - art. 1 (V)
+	  - Loi n°1906-06-15 art. 6
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 17 ()
+
+
+###### Article L2224-32
+
+Sous réserve de l'autorisation prévue à l'article 7 de la loi n° 2000-108 du 10 février 2000 précitée et dans la mesure où
+l'électricité produite n'est pas destinée à l'alimentation de clients éligibles, les communes, sur leur territoire, et les
+établissements publics de coopération, sur le territoire des communes qui en sont membres, peuvent, outre les possibilités
+ouvertes par les douzième et treizième alinéas de l'article 8 de la loi n° 46-628 du 8 avril 1946 précitée, aménager et
+exploiter dans les conditions prévues par le présent code toute nouvelle installation hydroélectrique d'une puissance
+maximale de 8 000 kVA (puissance maximale des machines électrogènes susceptibles de fonctionner simultanément), toute
+nouvelle installation utilisant les autres énergies renouvelables, toute nouvelle installation de valorisation énergétique
+des déchets ménagers ou assimilés mentionnés aux articles L. 2224-13 et L. 2224-14, ou toute nouvelle installation de
+cogénération ou de récupération d'énergie provenant d'installations visant l'alimentation d'un réseau de chaleur dans les
+conditions fixées par le dixième alinéa (6°) de l'article 8 de la loi n° 46-628 du 8 avril 1946 précitée lorsque ces
+nouvelles installations se traduisent par une économie d'énergie et une réduction des pollutions atmosphériques.
+
+Les dispositions de l'alinéa précédent s'appliquent sans préjudice du maintien des activités de production existantes à la
+date de publication de la loi n° 2000-108 du 10 février 2000 précitée, en application notamment de l'article 23 de la loi du
+16 octobre 1919 relative à l'utilisation de l'énergie hydraulique.
+
+Pour les installations mentionnées au présent article entrant dans le champ d'application de l'article 10 de la loi n°
+2000-108 du 10 février 2000 précitée, les communes et les établissements publics de coopération dont elles sont membres
+bénéficient, à leur demande, de l'obligation d'achat de l'électricité produite dans les conditions prévues à cet article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°46-628 du 8 avril 1946 - art. 8 (M)
+	  - Loi n°2000-108 du 10 février 2000 - art. 10 (M)
+	  - Code général des collectivités territoriales - art. L2224-13 (M)
+	  - Code général des collectivités territoriales - art. L2224-14 (V)
+	  - Loi n°1919-10-16 art. 23
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 11 (VT)
+
+	**Cité par**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 6 (VD)
+	  - Loi n°2000-108 du 10 février 2000 - art. 7 (VT)
+	  - Loi n°2000-108 du 10 février 2000 - art. 8 (VT)
+	  - Ordonnance n°2016-411 du 7 avril 2016 - art. 1
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 1
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 2
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 3
+	  - Décret n°2017-686 du 28 avril 2017 - art. 4 (V)
+	  - Code de l'énergie - art. D111-55 (V)
+	  - Code de l'énergie - art. D112-2 (V)
+	  - Code de l'énergie - art. D113-3 (V)
+	  - Code de l'énergie - art. L311-1 (M)
+	  - Code de l'énergie - art. L311-10 (V)
+	  - Code de l'énergie - art. L311-2 (V)
+	  - Code de l'énergie - art. L311-3 (V)
+	  - Code de l'énergie - art. L363-8 (V)
+	  - Code de l'énergie - art. L446-5 (VD)
+	  - Code de l'énergie - art. L511-11 (V)
+
+
+###### Article L2224-33
+
+Dans le cadre de la distribution publique d'électricité, et sous réserve de l'autorisation prévue à l'article 7 de la loi n°
+2000-108 du 10 février 2000 précitée, les autorités concédantes de la distribution d'électricité visées au I de l'article L.
+2224-31 peuvent aménager, exploiter directement ou faire exploiter par leur concessionnaire de la distribution d'électricité
+toute installation de production d'électricité de proximité d'une puissance inférieure à un seuil fixé par décret, lorsque
+cette installation est de nature à éviter, dans de bonnes conditions économiques, de qualité, de sécurité et de sûreté de
+l'alimentation électrique, l'extension ou le renforcement des réseaux publics de distribution d'électricité relevant de leur
+compétence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 11 (VT)
+
+	**Cite**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 7 (V)
+
+	**Cité par**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 2 (VT)
+	  - Loi n°2000-108 du 10 février 2000 - art. 6 (VD)
+	  - Loi n°2000-108 du 10 février 2000 - art. 8 (M)
+	  - Décret n°2004-46 du 6 janvier 2004 - art. 1 (V)
+	  - Arrêté du 27 mars 2013 (V)
+	  - Loi n°2015-992 du 17 août 2015 - art. 203
+	  - Ordonnance n°2016-411 du 7 avril 2016 - art. 1
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 1
+	  - Ordonnance n°2016-572 du 12 mai 2016 - art. 3
+	  - Code de l'énergie - art. L121-5 (VD)
+	  - Code de l'énergie - art. L141-5 (V)
+	  - Code de l'énergie - art. L311-4 (V)
+	  - Code de l'énergie - art. L363-8 (V)
+	  - Code de l'énergie - art. L446-5 (VD)
+	  - Code général des collectivités territoriales - art. L2224-31 (VT)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2004-46 du 6 janvier 2004
+	  - TXT_SOURCE: Décret n°2004-46 du 6 janvier 2004 - art. 1 (V)
+
+
+###### Article L2224-34
+
+Afin de répondre aux objectifs fixés au titre Ier de la loi n° 2000-108 du 10 février 2000 précitée, les collectivités
+territoriales ou les établissements publics de coopération compétents en matière de distribution publique d'électricité
+peuvent réaliser ou faire réaliser dans le cadre des dispositions de l'article L. 2224-31 des actions tendant à maîtriser la
+demande d'électricité des consommateurs desservis en basse tension lorsque ces actions sont de nature à éviter ou à différer,
+dans de bonnes conditions économiques, l'extension ou le renforcement des réseaux publics de distribution d'électricité
+relevant de leur compétence. Ces actions peuvent également tendre à maîtriser la demande d'électricité des personnes en
+situation de précarité mentionnées au 1° du III de l'article 2 de la même loi.
+
+Ils peuvent notamment apporter leur aide à ces consommateurs en prenant en charge, en tout ou partie, des travaux
+d'isolation, de régulation thermique ou de régulation de la consommation d'électricité, ou l'acquisition d'équipements
+domestiques à faible consommation. Ces aides font l'objet de conventions avec les bénéficiaires.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 17 ()
+
+	**Cite**:
+
+	  - Loi n°2000-108 du 10 février 2000 - art. 2 (M)
+	  - Code général des collectivités territoriales - art. L2224-31 (M)
+
+	**Cité par**:
+
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 1
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 2
+	  - Décret n°2016-973 du 18 juillet 2016 - art. 3
+	  - Code de l'énergie - art. D111-55 (V)
+	  - Code de l'énergie - art. D112-2 (V)
+	  - Code de l'énergie - art. D113-3 (V)
+	  - Code de l'énergie - art. L211-4 (V)
+
+
 #### TITRE III : STATIONS CLASSÉES
 
 ##### CHAPITRE unique
@@ -27183,10 +27556,7 @@ distribution d'électricité et de gaz, par les lignes ou canalisations particul
 
 ###### Article L2333-85
 
-- Les redevances visées à l'article L. 2333-84 sont payables d'avance pour une période entière de trois années.
-
-Les tarifs applicables à chaque période sont fixés le 31 décembre au plus tard de la dernière année de la période triennale
-précédente.
+A compter de l'exercice 2000, les redevances visées à l'article L. 2333-84 sont payables annuellement et d'avance.
 
 **Liens relatifs à cet article**
 
@@ -27194,13 +27564,13 @@ précédente.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-108 du 10 février 2000 - art. 52 ()
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2333-84 (M)
+	  - Code général des collectivités territoriales - art. L2333-84 (V)
 
 
 ###### Article L2333-86
