@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1996-03-27
+Version Consolidée au 1996-04-13
 
 # Partie législative
 
@@ -3186,22 +3186,26 @@ du marché. Toutefois, il peut être consenti des rabais sur ces conditions ains
 rénovation de bâtiments industriels anciens suivant les règles de plafond et de zone prévues par le décret mentionné au
 premier alinéa de l'article L. 1511-2.
 
+Les commissions dues par les bénéficiaires de garanties d'emprunt accordées par les établissements de crédit peuvent être
+prises en charge, totalement ou partiellement, dans des conditions fixées par décret en Conseil d'Etat. Cette aide ne peut
+pas être cumulée, pour un même emprunt, avec la garantie ou le cautionnement accordé par une collectivité ou un groupement. "
+
 Les autres aides indirectes sont libres.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°82-6 1982-01-07 art. 4 al. 4, 5 et 6
+	  - Loi n°82-6 1982-01-07 art. 4 al. 4 et 5 et 6
 	  - Loi n°82-6 du 7 janvier 1982 - art. 4 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 21 ()
 
 	**Cité par**:
 
@@ -4177,6 +4181,67 @@ d'emprunt à échoir au cours de l'exercice.
 	  - Code des juridictions financières - art. L232-7 (M)
 	  - Code général des collectivités territoriales - art. L1772-1 (V)
 	  - Code général des collectivités territoriales - art. L1791-3 (Ab)
+
+
+###### Article L1612-5
+
+Lorsque le budget d'une collectivité territoriale n'est pas voté en équilibre réel, la chambre régionale des comptes, saisie
+par le représentant de l'Etat dans un délai de trente jours à compter de la transmission prévue aux articles L. 2131-1, L.
+3131-1 et L. 4141-1, le constate et propose à la collectivité territoriale, dans un délai de trente jours à compter de la
+saisine, les mesures nécessaires au rétablissement de l'équilibre budgétaire et demande à l'organe délibérant une nouvelle
+délibération. 
+
+La nouvelle délibération, rectifiant le budget initial, doit intervenir dans un délai d'un mois à partir de la communication
+des propositions de la chambre régionale des comptes. 
+
+Si l'organe délibérant ne s'est pas prononcé dans le délai prescrit, ou si la délibération prise ne comporte pas de mesures
+de redressement jugées suffisantes par la chambre régionale des comptes, qui se prononce sur ce point dans un délai de quinze
+jours à partir de la transmission de la nouvelle délibération, le budget est réglé et rendu exécutoire par le représentant de
+l'Etat dans le département. Si celui-ci s'écarte des propositions formulées par la chambre régionale des comptes, il assortit
+sa décision d'une motivation explicite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°96-314 du 12 avril 1996 - art. 72 ()
+
+	**Cité par**:
+
+	  - Arrêté du 26 avril 1996 - art. 5 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (Ab)
+	  - Code de l'action sociale et des familles - art. R314-226 (V)
+	  - Code de l'éducation - art. L421-13 (V)
+	  - Code de la construction et de l'habitation. - art. L421-19 (V)
+	  - Code des juridictions financières - art. L232-1 (VD)
+	  - Code des juridictions financières - art. L232-4 (VD)
+	  - Code des juridictions financières - art. L232-6 (Ab)
+	  - Code général des collectivités territoriales - art. L1511-1-1 (V)
+	  - Code général des collectivités territoriales - art. L1612-10 (V)
+	  - Code général des collectivités territoriales - art. L1612-13 (V)
+	  - Code général des collectivités territoriales - art. L1612-14 (V)
+	  - Code général des collectivités territoriales - art. L1612-19 (V)
+	  - Code général des collectivités territoriales - art. L1612-6 (V)
+	  - Code général des collectivités territoriales - art. L1612-7 (V)
+	  - Code général des collectivités territoriales - art. L1612-9 (V)
+	  - Code général des collectivités territoriales - art. L1781-2 (T)
+	  - Code général des collectivités territoriales - art. L1791-2 (Ab)
+	  - Code général des collectivités territoriales - art. L1872-1 (VD)
+	  - Code général des collectivités territoriales - art. R1612-19 (V)
+	  - Code général des collectivités territoriales - art. R1612-21 (V)
+	  - Code général des collectivités territoriales - art. R1612-22 (VD)
+	  - Code général des collectivités territoriales - art. R1612-23 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2131-1 (V)
+	  - Code général des collectivités territoriales - art. L3131-1 (V)
+	  - Code général des collectivités territoriales - art. L4141-1 (V)
 
 
 ###### Article L1612-6
@@ -5253,23 +5318,18 @@ La liste des pièces justificatives que le comptable peut exiger avant de procé
 
 ###### Article L1611-5
 
-- Les créances non fiscales des collectivités territoriales et des établissements publics locaux, à l'exception des droits au
-comptant, ne sont mises en recouvrement que lorsqu'elles atteignent le seuil fixé pour la liquidation des créances de l'Etat
-étrangères à l'impôt et au domaine.
+Les créances non fiscales des collectivités territoriales et des établissements publics locaux, à l'exception des droits au
+comptant, ne sont mises en recouvrement que lorsqu'elles atteignent un seuil fixé par décret.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°71-1061 du 29 décembre 1971 - art. 63, v. init.
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 70 ()
 
 	**Liens**:
 
@@ -5292,7 +5352,7 @@ comptant, ne sont mises en recouvrement que lorsqu'elles atteignent le seuil fix
 
 ###### Article L1612-1
 
-- Dans le cas où le budget d'une collectivité territoriale n'a pas été adopté avant le 1er janvier de l'exercice auquel il
+Dans le cas où le budget d'une collectivité territoriale n'a pas été adopté avant le 1er janvier de l'exercice auquel il
 s'applique, l'exécutif de la collectivité territoriale est en droit, jusqu'à l'adoption de ce budget, de mettre en
 recouvrement les recettes et d'engager, de liquider et de mandater les dépenses de la section de fonctionnement dans la
 limite de celles inscrites au budget de l'année précédente.
@@ -5301,10 +5361,18 @@ Il est en droit de mandater les dépenses afférentes au remboursement en capita
 avant le vote du budget.
 
 En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars, en l'absence d'adoption du budget avant cette date, l'exécutif de
-la collectivité territoriale peut, sur autorisation de l'organe délibérant, engager, liquider et mandater des dépenses
+la collectivité territoriale peut, sur autorisation de l'organe délibérant, engager, liquider et mandater les dépenses
 d'investissement, dans la limite du quart des crédits ouverts au budget de l'exercice précédent, non compris les crédits
-afférents au remboursement de la dette. Les crédits correspondants sont inscrits au budget lors de son adoption.
-L'autorisation mentionnée au présent alinéa précise le montant et l'affectation des crédits.
+afférents au remboursement de la dette, et, pour les dépenses à caractère pluriannuel incluses dans une autorisation de
+programme, les liquider et les mandater dans la limite des crédits de paiement prévus au titre de l'exercice par la
+délibération d'ouverture d'autorisation de programme.
+
+L'autorisation mentionnée à l'alinéa ci-dessus précise le montant et l'affectation des crédits.
+
+Les crédits correspondants, visés aux alinéas ci-dessus, sont inscrits au budget lors de son adoption. Le comptable est en
+droit de payer les mandats et recouvrer les titres de recettes émis dans les conditions ci-dessus.
+
+Le présent article s'applique aux régions, sous réserve des dispositions du dernier alinéa de l'article L. 4311-3.
 
 **Liens relatifs à cet article**
 
@@ -5312,9 +5380,9 @@ L'autorisation mentionnée au présent alinéa précise le montant et l'affectat
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 69 ()
 
 	**Cité par**:
 
@@ -5361,6 +5429,10 @@ L'autorisation mentionnée au présent alinéa précise le montant et l'affectat
 	  - Code général des collectivités territoriales - art. R2311-9 (M)
 	  - Code général des collectivités territoriales - art. R3312-6 (Ab)
 	  - Code rural - art. R811-54 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4311-3 (M)
 
 
 ###### Article L1612-2
@@ -5418,64 +5490,6 @@ décret. Dans ce cas, l'organe délibérant dispose de quinze jours à compter d
 	  - Code général des collectivités territoriales - art. R5111-1 (V)
 	  - Code général des impôts, CGI. - art. 1639 A (V)
 	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 octodecies (P)
-
-
-###### Article L1612-5
-
-- Lorsque le budget d'une collectivité territoriale n'est pas voté en équilibre réel, la chambre régionale des comptes,
-saisie par le représentant de l'Etat dans un délai de trente jours à compter de la transmission prévue à l'article L. 1612-8,
-le constate et propose à la collectivité territoriale, dans un délai de trente jours à compter de la saisine, les mesures
-nécessaires au rétablissement de l'équilibre budgétaire et demande à l'organe délibérant une nouvelle délibération.
-
-La nouvelle délibération, rectifiant le budget initial, doit intervenir dans un délai d'un mois à partir de la communication
-des propositions de la chambre régionale des comptes.
-
-Si l'organe délibérant ne s'est pas prononcé dans le délai prescrit, ou si la délibération prise ne comporte pas de mesures
-de redressement jugées suffisantes par la chambre régionale des comptes, qui se prononce sur ce point dans un délai de quinze
-jours à partir de la transmission de la nouvelle délibération, le budget est réglé et rendu exécutoire par le représentant de
-l'Etat dans le département. Si celui-ci s'écarte des propositions formulées par la chambre régionale des comptes, il assortit
-sa décision d'une motivation explicite.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cité par**:
-
-	  - Arrêté du 26 avril 1996 - art. 5 (V)
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 B (Ab)
-	  - Code de l'action sociale et des familles - art. R314-226 (V)
-	  - Code de l'éducation - art. L421-13 (V)
-	  - Code de la construction et de l'habitation. - art. L421-19 (V)
-	  - Code des juridictions financières - art. L232-1 (VD)
-	  - Code des juridictions financières - art. L232-4 (VD)
-	  - Code des juridictions financières - art. L232-6 (Ab)
-	  - Code général des collectivités territoriales - art. L1511-1-1 (V)
-	  - Code général des collectivités territoriales - art. L1612-10 (V)
-	  - Code général des collectivités territoriales - art. L1612-13 (V)
-	  - Code général des collectivités territoriales - art. L1612-14 (V)
-	  - Code général des collectivités territoriales - art. L1612-19 (V)
-	  - Code général des collectivités territoriales - art. L1612-6 (V)
-	  - Code général des collectivités territoriales - art. L1612-7 (V)
-	  - Code général des collectivités territoriales - art. L1612-9 (V)
-	  - Code général des collectivités territoriales - art. L1781-2 (T)
-	  - Code général des collectivités territoriales - art. L1791-2 (Ab)
-	  - Code général des collectivités territoriales - art. L1872-1 (VD)
-	  - Code général des collectivités territoriales - art. R1612-19 (V)
-	  - Code général des collectivités territoriales - art. R1612-21 (V)
-	  - Code général des collectivités territoriales - art. R1612-22 (VD)
-	  - Code général des collectivités territoriales - art. R1612-23 (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1612-8 (V)
 
 
 ###### Article L1612-12
@@ -6403,6 +6417,102 @@ collectivités, à l'exception des établissements publics de santé.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L1617-3 (V)
+
+
+###### Article L1617-5
+
+1° En l'absence de contestation, le titre de recettes individuel ou collectif émis par la collectivité territoriale ou
+l'établissement public local permet l'exécution forcée d'office contre le débiteur.
+
+Toutefois, l'introduction devant une juridiction de l'instance ayant pour objet de contester le bien-fondé d'une créance
+assise et liquidée par une collectivité territoriale ou un établissement public local suspend la force exécutoire du titre.
+
+L'introduction de l'instance ayant pour objet de contester la régularité formelle d'un acte de poursuite suspend l'effet de
+cet acte.
+
+2° L'action dont dispose le débiteur d'une créance assise et liquidée par une collectivité territoriale ou un établissement
+public local pour contester directement devant la juridiction compétente le bien-fondé de ladite créance se prescrit dans le
+délai de deux mois suivant la réception du titre exécutoire ou, à défaut, du premier acte procédant de ce titre ou de la
+notification d'un acte de poursuite.
+
+L'action dont dispose le débiteur de la créance visée à l'alinéa précédent pour contester directement devant le juge de
+l'exécution visé à l'article L. 311-12 du code de l'organisation judiciaire la régularité formelle de l'acte de poursuite
+diligenté à son encontre se prescrit dans le délai de deux mois suivant la notification de l'acte contesté.
+
+3° L'action des comptables publics chargés de recouvrer les créances des régions, des départements, des communes et des
+établissements publics locaux se prescrit par quatre ans à compter de la prise en charge du titre de recettes.
+
+Le délai de quatre ans mentionné à l'alinéa précédent est interrompu par tous actes comportant reconnaissance de la part des
+débiteurs et par tous actes interruptifs de la prescription.
+
+4° Le titre de recettes individuel ou un extrait du titre de recettes collectif est adressé aux redevables sous pli simple.
+Lorsque le redevable n'a pas effectué le versement qui lui était demandé à la date limite du paiement, le comptable chargé du
+recouvrement doit lui envoyer une lettre de rappel avant la notification du premier acte de poursuite devant donner lieu à
+des frais.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°88-1088 du 1 décembre 1988 - art. 42-10 (Ab)
+	  - Ordonnance n°2004-632 du 1 juillet 2004 - art. 34 (V)
+	  - Arrêté du 11 juin 2008 - art. 1 (V)
+	  - Décret n°2008-554 du 11 juin 2008 - art. 1 (V)
+	  - Décret n°2008-554 du 11 juin 2008 - art. 2 (V)
+	  - Décret n°2008-554 du 11 juin 2008 - art. 3 (V)
+	  - Arrêté du 15 mai 2008 - art. (V)
+	  - Loi n°2010-1658 du 29 décembre 2010 - art. 55 (V)
+	  - Décret n°2011-1217 du 29 septembre 2011 - art. 7 (V)
+	  - Arrêté du 26 octobre 2011 - art. 5 (VD)
+	  - Décret n°2011-2036 du 29 décembre 2011 - art. 3 (V)
+	  - Décret n°2012-1436 du 20 décembre 2012 (V)
+	  - Décret n°2015-243 du 2 mars 2015 - art. 1 (V)
+	  - Ordonnance n°2016-1255 du 28 septembre 2016 - art. 8
+	  - Code de l'action sociale et des familles - art. L312-7 (V)
+	  - Code de l'action sociale et des familles - art. L522-10 (V)
+	  - Code de l'action sociale et des familles - art. R245-72 (V)
+	  - Code de l'environnement - art. R213-76-11 (V)
+	  - Code de l'urbanisme - art. L324-9 (V)
+	  - Code de l'urbanisme - art. L326-7 (V)
+	  - Code de la construction et de l'habitation. - art. L541-1 (V)
+	  - Code de la construction et de l'habitation. - art. R*423-21 (V)
+	  - Code de la mutualité - art. L223-15 (VD)
+	  - Code de la santé publique - art. L6145-9 (V)
+	  - Code de la santé publique - art. L714-15-1 (Ab)
+	  - Code de la sécurité sociale. - art. R174-2-2 (V)
+	  - Code des assurances - art. L132-14 (VD)
+	  - Code des procédures civiles d'exécution - art. R221-7 (V)
+	  - Code du travail - art. R3252-38 (V)
+	  - Code général de la propriété des personnes publ... - art. L2321-3 (VD)
+	  - Code général de la propriété des personnes publ... - art. L2321-3-1 (VD)
+	  - Code général de la propriété des personnes publ... - art. L2323-10 (VD)
+	  - Code général de la propriété des personnes publ... - art. L2323-14 (VD)
+	  - Code général de la propriété des personnes publ... - art. L2323-3 (VD)
+	  - Code général de la propriété des personnes publ... - art. L2323-5 (VD)
+	  - Code général des collectivités territoriales - art. D1617-25 (V)
+	  - Code général des collectivités territoriales - art. L1774-1 (V)
+	  - Code général des collectivités territoriales - art. L1774-2 (V)
+	  - Code général des collectivités territoriales - art. L1781-1 (T)
+	  - Code général des collectivités territoriales - art. L1791-1 (Ab)
+	  - Code général des collectivités territoriales - art. L1874-1 (V)
+	  - Code général des collectivités territoriales - art. L1874-3 (V)
+	  - Code général des collectivités territoriales - art. L3333-3-2 (VD)
+	  - Code général des collectivités territoriales - art. L6265-2 (V)
+	  - Code général des collectivités territoriales - art. L6365-2 (V)
+	  - Code général des collectivités territoriales - art. R1617-22 (V)
+	  - Livre des procédures fiscales - art. L135 Q (VT)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°96-314 du 12 avril 1996 - art. 70 ()
+
+	**Cite**:
+
+	  - Code de l'organisation judiciaire L311-12
 
 
 ## DEUXIÈME PARTIE : LA COMMUNE
@@ -17377,8 +17487,8 @@ communes, doivent être équilibrés en recettes et en dépenses.
 
 ###### Article L2224-2
 
-- Il est interdit aux communes de prendre en charge dans leur budget propre des dépenses au titre des services publics visés
-à l'article L. 2224-1.
+Il est interdit aux communes de prendre en charge dans leur budget propre des dépenses au titre des services publics visés à
+l'article L. 2224-1.
 
 Toutefois, le conseil municipal peut décider une telle prise en charge lorsque celle-ci est justifiée par l'une des raisons
 suivantes :
@@ -17397,15 +17507,19 @@ règles de calcul et les modalités de versement des dépenses du service prises
 exercices auxquels elles se rapportent. En aucun cas, cette prise en charge ne peut se traduire par la compensation pure et
 simple d'un déficit de fonctionnement.
 
+L'interdiction prévue au premier alinéa n'est pas applicable aux services de distribution d'eau potable et d'assainissement
+dans les communes de moins de 3 000 habitants et les groupements composés de communes dont la population ne dépasse pas 3 000
+habitants.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 75 ()
 
 	**Cité par**:
 
@@ -19592,33 +19706,30 @@ Ces aides sont attribuées conformément aux stipulations d'une convention concl
 
 ###### Article L2252-1
 
-- Une commune ne peut accorder à une personne de droit privé une garantie d'emprunt ou son cautionnement que dans les
-conditions fixées au présent chapitre.
+Une commune ne peut accorder à une personne de droit privé une garantie d'emprunt ou son cautionnement que dans les
+conditions fixées au présent chapitre. 
 
-Le montant total des annuités d'emprunts déjà garanties ou cautionnées à échoir au cours de l'exercice, majoré du montant de
-la première annuité entière du nouveau concours garanti, et du montant des annuités de la dette communale, ne peut excéder un
-pourcentage, défini par décret, des recettes réelles de la section de fonctionnement du budget communal ; le montant des
-provisions spécifiques constituées par la commune pour couvrir les garanties et cautions accordées, affecté d'un coefficient
-multiplicateur fixé par décret, vient en déduction du montant total défini au présent alinéa.
+Le montant total des annuités, déjà garanties ou cautionnées à échoir au cours de l'exercice, d'emprunts contractés par toute
+personne de droit privé ou de droit public, majoré du montant de la première annuité entière du nouveau concours garanti, et
+du montant des annuités de la dette communale, ne peut excéder un pourcentage, défini par décret, des recettes réelles de la
+section de fonctionnement du budget communal ; le montant des provisions spécifiques constituées par la commune pour couvrir
+les garanties et cautions accordées, affecté d'un coefficient multiplicateur fixé par décret, vient en déduction du montant
+total défini au présent alinéa. 
 
 Le montant des annuités garanties ou cautionnées au profit d'un même débiteur, exigible au titre d'un exercice, ne doit pas
 dépasser un pourcentage, défini par décret, du montant total des annuités susceptibles d'être garanties ou cautionnées en
-application de l'alinéa précédent.
+application de l'alinéa précédent. 
 
 La quotité garantie par une ou plusieurs collectivités territoriales sur un même emprunt ne peut excéder un pourcentage fixé
-par décret.
+par décret. 
 
 Les dispositions de l'alinéa précédent ne sont pas applicables aux garanties d'emprunts ou cautionnements accordés par une
-commune aux organismes d'intérêt général visés aux articles 200 et 238 bis du code général des impôts.
+commune aux organismes d'intérêt général visés aux articles 200 et 238 bis du code général des impôts. 
 
 Aucune stipulation ne peut faire obstacle à ce que la mise en jeu des garanties ou cautions accordées par une commune porte,
 au choix de celle-ci, soit sur la totalité du concours, soit sur les annuités déterminées par l'échéancier contractuel.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 200, 238 bis
 
 	**Anciens textes**:
 
@@ -19629,9 +19740,14 @@ au choix de celle-ci, soit sur la totalité du concours, soit sur les annuités 
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 20 ()
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 200 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis (V)
 
 	**Cité par**:
 
@@ -19653,14 +19769,14 @@ au choix de celle-ci, soit sur la totalité du concours, soit sur les annuités 
 
 ###### Article L2252-2
 
-- Les dispositions de l'article L. 2252-1 ne sont pas applicables aux garanties d'emprunts ou aux cautionnements accordés par
-une commune :
+Les dispositions des deuxième, troisième et quatrième alinéas de l'article L. 2252-1 ne sont pas applicables aux garanties
+d'emprunts ou aux cautionnements accordés par une commune : 
 
 1° Pour les opérations de construction, d'acquisition ou d'amélioration de logements réalisées par les organismes
-d'habitations à loyer modéré ou les sociétés d'économie mixte ;
+d'habitations à loyer modéré ou les sociétés d'économie mixte ; 
 
 2° Pour les opérations de construction, d'acquisition ou d'amélioration de logements bénéficiant d'une subvention de l'Etat
-ou réalisées avec le bénéfice de prêts aidés par l'Etat ou adossés en tout ou partie à des ressources défiscalisées ;
+ou réalisées avec le bénéfice de prêts aidés par l'Etat ou adossés en tout ou partie à des ressources défiscalisées ; 
 
 3° En application du plan départemental prévu à l'article 2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du
 droit au logement.
@@ -19675,16 +19791,16 @@ droit au logement.
 
 	**Cite**:
 
-	  - Loi n°90-449 1990-05-31 art. 2
-	  - Code général des collectivités territoriales - art. L2252-1 (M)
+	  - Loi n°90-449 du 31 mai 1990 (V)
+	  - Code général des collectivités territoriales - art. L2252-1 (V)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 20 ()
 
 	**Cité par**:
 
@@ -38857,47 +38973,31 @@ satisfaction des besoins de la population en milieu rural et que l'initiative pr
 
 ###### Article L3231-4
 
-- Un département ne peut accorder à une personne de droit privé une garantie d'emprunt ou son cautionnement que dans les
-conditions fixées au présent article.
+Un département ne peut accorder à une personne de droit privé une garantie d'emprunt ou son cautionnement que dans les
+conditions fixées au présent article. 
 
-Le montant total des annuités d'emprunts déjà garanties ou cautionnées à échoir au cours de l'exercice, majoré du montant de
-la première annuité entière du nouveau concours garanti, et du montant des annuités de la dette départementale ne peut
-excéder un pourcentage, défini par décret, des recettes réelles de la section de fonctionnement du budget départemental ; le
-montant des provisions spécifiques constituées par le département pour couvrir les garanties et cautions accordées, affecté
-d'un coefficient multiplicateur fixé par décret, vient en déduction du montant total défini au présent alinéa.
+Le montant total des annuités, déjà garanties ou cautionnées à échoir au cours de l'exercice, d'emprunts contractés par toute
+personne de droit privé ou de droit public, majoré du montant de la première annuité entière du nouveau concours garanti, et
+du montant des annuités de la dette départementale ne peut excéder un pourcentage, défini par décret, des recettes réelles de
+la section de fonctionnement du budget départemental ; le montant des provisions spécifiques constituées par le département
+pour couvrir les garanties et cautions accordées, affecté d'un coefficient multiplicateur fixé par décret, vient en déduction
+du montant total défini au présent alinéa. 
 
 Le montant des annuités garanties ou cautionnées au profit d'un même débiteur, exigibles au titre d'un exercice, ne doit pas
 dépasser un pourcentage, défini par décret, du montant total des annuités susceptibles d'être garanties ou cautionnées en
-application de l'alinéa précédent.
+application de l'alinéa précédent. 
 
 La quotité garantie par une ou plusieurs collectivités territoriales sur un même emprunt ne peut excéder un pourcentage fixé
-par décret.
+par décret. 
 
 Les dispositions de l'alinéa précédent ne sont pas applicables aux garanties d'emprunts ou cautionnements accordés par un
-département aux organismes d'intérêt général visés aux articles 200 et 238 bis du code général des impôts.
+département aux organismes d'intérêt général visés aux articles 200 et 238 bis du code général des impôts. 
 
 Aucune stipulation ne peut faire obstacle à ce que la mise en jeu des garanties ou cautions accordées par un département
 porte, au choix de celui-ci, soit sur la totalité du concours, soit sur les annuités déterminées par l'échéancier
 contractuel.
 
-Les dispositions des alinéas précédents ne sont pas applicables aux garanties d'emprunts ou aux cautionnements accordés par
-un département :
-
-1° Pour les opérations de construction, d'acquisition ou d'amélioration de logements réalisés par les organismes
-d'habitations à loyer modéré ou les sociétés d'économie mixte ;
-
-2° Pour les opérations de construction, d'acquisition ou d'amélioration de logements bénéficiant d'une subvention de l'Etat
-ou réalisées avec le bénéfice de prêts aidés par l'Etat ou adossés en tout ou partie à des ressources défiscalisées ;
-
-3° En application du plan départemental prévu à l'article 2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du
-droit au logement.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 200, 238 bis
-	  - Loi n°90-449 1990-05-31 art. 2
 
 	**Anciens textes**:
 
@@ -38908,9 +39008,14 @@ droit au logement.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 20 ()
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 200 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis (V)
 
 	**Cité par**:
 
@@ -38924,6 +39029,41 @@ droit au logement.
 	  - Code général des collectivités territoriales - art. L3211-1-1 (Ab)
 	  - Code général des collectivités territoriales - art. L3212-4 (VD)
 	  - Code général des collectivités territoriales - art. L3231-4-1 (V)
+
+
+###### Article L3231-4-1
+
+Les dispositions des deuxième, troisième et quatrième alinéas de l'article L. 3231-4 ne sont pas applicables aux garanties
+d'emprunts ou aux cautionnements accordés par un département : 
+
+1° Pour les opérations de construction, d'acquisition ou d'amélioration de logements réalisés par les organismes
+d'habitations à loyer modéré ou les sociétés d'économie mixte ; 
+
+2° Pour les opérations de construction, d'acquisition ou d'amélioration de logements bénéficiant d'une subvention de l'Etat
+ou réalisées avec le bénéfice de prêts aidés par l'Etat ou adossés en tout ou partie à des ressources défiscalisées ; 
+
+3° En application du plan départemental prévu à l'article 2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du
+droit au logement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°90-449 du 31 mai 1990 (V)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°96-314 du 12 avril 1996 - art. 20 ()
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L3231-4 (VD)
+	  - Code général des collectivités territoriales - art. R1511-29 (V)
+	  - Code général des collectivités territoriales - art. R1511-38 (V)
 
 
 ###### Article L3231-5
@@ -45242,24 +45382,25 @@ publics de recherche ; il est informé de leur emploi.
 
 ###### Article L4253-1
 
-- Une région ne peut accorder à une personne de droit privé une garantie d'emprunt ou son cautionnement que dans les
-conditions fixées au présent article.
+Une région ne peut accorder à une personne de droit privé une garantie d'emprunt ou son cautionnement que dans les conditions
+fixées au présent article. 
 
-Le montant total des annuités d'emprunts déjà garanties ou cautionnées à échoir au cours de l'exercice, majoré du montant de
-la première annuité entière du nouveau concours garanti, et du montant des annuités de la dette régionale, ne peut excéder un
-pourcentage, défini par décret, des recettes réelles de la section de fonctionnement du budget régional ; le montant des
-provisions spécifiques constituées par la région pour couvrir les garanties et cautions accordées, affecté d'un coefficient
-multiplicateur fixé par décret, vient en déduction du montant total défini au présent alinéa.
+Le montant total des annuités, déjà garanties ou cautionnées à échoir au cours de l'exercice, d'emprunts contractés par toute
+personne de droit privé ou de droit public, majoré du montant de la première annuité entière du nouveau concours garanti, et
+du montant des annuités de la dette régionale, ne peut excéder un pourcentage, défini par décret, des recettes réelles de la
+section de fonctionnement du budget régional ; le montant des provisions spécifiques constituées par la région pour couvrir
+les garanties et cautions accordées, affecté d'un coefficient multiplicateur fixé par décret, vient en déduction du montant
+total défini au présent alinéa. 
 
 Le montant des annuités garanties ou cautionnées au profit d'un même débiteur, exigibles au titre d'un exercice, ne doit pas
 dépasser un pourcentage, défini par décret, du montant total des annuités susceptibles d'être garanties ou cautionnées en
-application de l'alinéa précédent.
+application de l'alinéa précédent. 
 
 La quotité garantie par une ou plusieurs collectivités territoriales sur un même emprunt ne peut excéder un pourcentage fixé
-par décret.
+par décret. 
 
 Les dispositions de l'alinéa précédent ne sont pas applicables aux garanties d'emprunts ou cautionnements accordés par une
-région aux organismes d'intérêt général visés aux articles 200 et 238 bis du code général des impôts.
+région aux organismes d'intérêt général visés aux articles 200 et 238 bis du code général des impôts. 
 
 Aucune stipulation ne peut faire obstacle à ce que la mise en jeu des garanties ou cautions accordées par une région porte,
 au choix de celle-ci, soit sur la totalité du concours, soit sur les annuités déterminées par l'échéancier contractuel.
@@ -45268,23 +45409,21 @@ au choix de celle-ci, soit sur la totalité du concours, soit sur les annuités 
 
 	**Anciens textes**:
 
-	  - Loi n°72-619 1972-07-05 art. 4-1 par. I al. 1, 2, 3, 4, 5 et 6
-	  - Loi n°72-619 du 5 juillet 1972 - art. 2 (M)
-	  - Loi n°72-619 du 5 juillet 1972 - art. 3 (M)
-	  - Loi n°72-619 du 5 juillet 1972 - art. 4 (M)
+	  - Loi n°72-619 1972-07-05 art. 4-1 par. I al. 1 à 6
 	  - Loi n°72-619 du 5 juillet 1972 - art. 4-1 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 20 ()
 
 	**Cite**:
 
-	  - CGI 200, 238 bis
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 200 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 238 bis (V)
 
 	**Cité par**:
 
@@ -45301,14 +45440,14 @@ au choix de celle-ci, soit sur la totalité du concours, soit sur les annuités 
 
 ###### Article L4253-2
 
-- Les dispositions de l'article L. 4253-1 ne sont pas applicables aux garanties d'emprunts ou aux cautionnements accordés par
-une région :
+Les dispositions des deuxième, troisième et quatrième alinéas de l'article L. 4253-1 ne sont pas applicables aux garanties
+d'emprunts ou aux cautionnements accordés par une région : 
 
 1° Pour les opérations de construction, d'acquisition ou d'amélioration de logements réalisées par les organismes
-d'habitations à loyer modéré ou les sociétés d'économie mixte ;
+d'habitations à loyer modéré ou les sociétés d'économie mixte ; 
 
 2° Pour les opérations de construction, d'acquisition ou d'amélioration de logements bénéficiant d'une subvention de l'Etat
-ou réalisées avec le bénéfice de prêts aidés par l'Etat ou adossés en tout ou partie à des ressources défiscalisées ;
+ou réalisées avec le bénéfice de prêts aidés par l'Etat ou adossés en tout ou partie à des ressources défiscalisées ; 
 
 3° En application du plan départemental prévu à l'article 2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du
 droit au logement.
@@ -45323,16 +45462,16 @@ droit au logement.
 
 	**Cite**:
 
-	  - Loi n°90-449 1990-05-31 art. 2
-	  - Code général des collectivités territoriales - art. L4253-1 (M)
+	  - Loi n°90-449 du 31 mai 1990 (V)
+	  - Code général des collectivités territoriales - art. L4253-1 (V)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 20 ()
 
 	**Cité par**:
 
@@ -45516,7 +45655,7 @@ président du conseil régional.
 
 ###### Article L4311-3
 
-- Si le conseil régional le décide, les dotations affectées aux dépenses d'investissement comprennent des autorisations de
+Si le conseil régional le décide, les dotations affectées aux dépenses d'investissement comprennent des autorisations de
 programme et des crédits de paiement.
 
 Les autorisations de programme constituent la limite supérieure des dépenses qui peuvent être engagées pour le financement
@@ -45533,7 +45672,7 @@ président du conseil régional peut, jusqu'à l'adoption du budget ou jusqu'à 
 liquider et mandater les dépenses d'investissement correspondant aux autorisations de programme ouvertes au cours des
 exercices antérieurs, dans la limite d'un montant de crédits de paiement par chapitre égal au tiers des autorisations de
 programme ouvertes au cours de l'exercice précédent. Les crédits correspondants sont inscrits au budget lors de son adoption
-ou de son règlement.
+ou de son règlement. Le comptable est en droit de payer les mandats émis dans ces conditions.
 
 **Liens relatifs à cet article**
 
@@ -45546,9 +45685,9 @@ ou de son règlement.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-314 du 12 avril 1996 - art. 69 ()
 
 	**Cité par**:
 
