@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1999-04-16
+Version Consolidée au 1999-06-29
 
 # Partie législative
 
@@ -373,13 +373,11 @@ politiques concertées de développement social urbain.
 
 ###### Article L1112-4
 
-- Dans le cadre de la coopération transfrontalière, les collectivités territoriales et leurs groupements peuvent, dans les
+Dans le cadre de la coopération transfrontalière, les collectivités territoriales et leurs groupements peuvent, dans les
 limites de leurs compétences et dans le respect des engagements internationaux de la France, adhérer à un organisme public de
 droit étranger ou participer au capital d'une personne morale de droit étranger auquel adhère ou participe au moins une
-collectivité territoriale ou un groupement de collectivités territoriales d'un Etat européen frontalier. L'objet exclusif de
-cet organisme ou de cette personne morale doit être d'exploiter un service public ou de réaliser un équipement local
-intéressant toutes les personnes publiques participantes. Cette adhésion ou cette participation est autorisée par décret en
-Conseil d'Etat.
+collectivité territoriale ou un groupement de collectivités territoriales d'un Etat européen frontalier ou d'un Etat membre
+de l'union européenne. Cette adhésion ou cette participation est autorisée par décret en Conseil d'Etat.
 
 Cette adhésion ou cette participation fait l'objet d'une convention avec l'ensemble des collectivités territoriales
 étrangères ou de leurs groupements adhérant à l'organisme public en cause ou participant au capital de la personne morale en
@@ -400,18 +398,22 @@ participation de chacune de ces personnes publiques.
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code des collectivités territoriales L1114-4
+
 	**Anciens textes**:
 
+	  - Loi n°92-125 1992-02-06 art. 133-1
 	  - Loi n°92-125 du 6 février 1992 - art. 133-1 (Ab)
-	  - Loi n°1992-125 1992-02-06 art. 133-1
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Transféré par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2003-705 du 1 août 2003 - art. 1 () JORF 2 août 2003
 
 	**Cite**:
 
@@ -5239,6 +5241,60 @@ consentir.
 	  - Décret n°99-928 du 8 novembre 1999 - art. 2 (VT)
 	  - Code général des collectivités territoriales - art. L1511-2 (V)
 	  - Code général des collectivités territoriales - art. L1761-4 (V)
+
+
+###### Article L1511-6
+
+Les collectivités territoriales ou les établissements publics de coopération locale ayant bénéficié d'un transfert de
+compétences à cet effet peuvent, dès lors que l'offre de services ou de réseaux de télécommunications à haut débit qu'ils
+demandent n'est pas fournie par les acteurs du marché à un prix abordable ou ne répond pas aux exigences techniques et de
+qualité qu'ils attendent, créer des infrastructures destinées à supporter des réseaux de télécommunications au sens de
+l'article L. 32 du code des postes et télécommunications, pour les mettre à disposition d'exploitants de réseaux de
+télécommunications titulaires d'une autorisation délivrée en application de l'article L. 33-1 du code des postes et
+télécommunications qui en feraient la demande.
+
+Ces collectivités et établissements ne peuvent pas exercer les activités d'opérateur au sens du 15° de l'article L. 32 du
+code des postes et télécommunications.
+
+La mise à disposition s'effectue par voie conventionnelle dans des conditions objectives, transparentes et non
+discriminatoires et à des tarifs assurant la couverture des coûts correspondant à cette mise à disposition. Elle ne doit pas
+porter atteinte aux droits de passage que sont en droit d'obtenir les opérateurs autorisés.
+
+La décision de création ou d'extension d'une infrastructure de télécommunications ne peut intervenir qu'à l'issue de la mise
+en oeuvre d'une procédure de publicité permettant de constater la carence définie au premier alinéa et d'évaluer les besoins
+des opérateurs susceptibles d'utiliser les infrastructures projetées.
+
+Les dépenses et les recettes relatives à la construction, à l'entretien et à la location des infrastructures mentionnées au
+premier alinéa sont examinées, de façon prévisionnelle lors de la décision de création ou d'extension, par les organes
+délibérants qui doivent avoir connaissance notamment des besoins des opérateurs qui ont été identifiés dans le cadre de la
+procédure de publicité visée au précédent alinéa. Elles sont ensuite retracées au sein d'une comptabilité distincte. Le tarif
+de la location est calculé sur une durée d'amortissement des investissements liés à la création ou l'extension de ces
+infrastructures qui n'excède pas huit ans.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des postes et télécommunications L32, L33-1
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-533 du 25 juin 1999 - art. 17 ()
+
+	**Modifié par**:
+
+	  - Loi n°2001-624 du 17 juillet 2001 - art. 19 (V)
+
+	**Cité par**:
+
+	  - Loi n°2004-575 du 21 juin 2004 - art. 50 (V)
+	  - Code des marchés publics - art. 82 (Ab)
+	  - Code général des collectivités territoriales - art. L4424-6-1 (Ab)
+	  - Code général des collectivités territoriales - art. R1511-44 (Ab)
 
 
 #### TITRE II : SOCIÉTÉS D'ÉCONOMIE MIXTE LOCALES
@@ -47567,11 +47623,13 @@ commission compétente du conseil régional. Celle-ci est tenue de l'entendre.
 
 ###### Article L4251-1
 
-- Le plan de la région détermine les objectifs à moyen terme du développement économique, social et culturel de la région
-pour la période d'application du plan de la nation.
+Le plan de la région est constitué par le schéma régional d'aménagement et de développement du territoire prévu à l'article
+34 de la loi n° 83-8 du 7 janvier 1983 portant répartition de compétences entre les communes, les départements, les régions
+et l'Etat. 
 
-Il prévoit les programmes d'exécution mis en oeuvre par la région soit directement, soit par voie contractuelle avec l'Etat,
-d'autres régions, les départements ou les communes, les entreprises publiques ou privées ou toute autre personne morale.
+Il fixe les orientations mises en oeuvre par la région soit directement, soit par voie contractuelle avec l'Etat, d'autres
+régions, les départements, les communes ou leurs groupements, les entreprises publiques ou privées, les établissements
+publics ou toute autre personne morale.
 
 **Liens relatifs à cet article**
 
@@ -47579,6 +47637,10 @@ d'autres régions, les départements ou les communes, les entreprises publiques 
 
 	  - Loi n°82-653 1982-07-29 art. 14
 	  - Loi n°82-653 du 29 juillet 1982 - art. 14 (Ab)
+
+	**Cite**:
+
+	  - Loi n°83-8 du 7 janvier 1983 - art. 34 (VT)
 
 	**Cité par**:
 
@@ -47620,9 +47682,9 @@ d'autres régions, les départements ou les communes, les entreprises publiques 
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-533 du 25 juin 1999 - art. 8 (V)
 
 
 ###### Article L4251-2
@@ -47710,44 +47772,6 @@ représentatives du personnel avant leur conclusion et chaque année en cours d'
 	  - Code de l'urbanisme - art. L131-1 (VD)
 	  - Code de l'urbanisme - art. L131-2 (V)
 	  - Code des transports - art. L1214-7 (V)
-
-
-###### Article L4251-4
-
-- Dès leur adoption, les plans des régions sont adressés au ministre chargé du plan et de l'aménagement du territoire, qui en
-informe la commission nationale de planification.
-
-Sur rapport du ministre chargé du plan et de l'aménagement du territoire, le Gouvernement apprécie la compatibilité des plans
-des régions entre eux ainsi qu'avec le plan de la nation.
-
-Peuvent seules être prévues par le contrat de plan conclu entre l'Etat et la région et par les contrats particuliers pris
-pour son exécution des actions compatibles avec les objectifs du plan de la nation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-653 1982-03-02 art. 17
-	  - Loi n°82-653 du 29 juillet 1982 - art. 17 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-533 du 25 juin 1999 - art. 8 (V)
-
-	**Cité par**:
-
-	  - Ordonnance n°2016-1028 du 27 juillet 2016 - art. 11 (V)
-	  - Ordonnance n°2016-1028 du 27 juillet 2016 - art. 19 (V)
-	  - Code général des collectivités territoriales - art. L4251-1 (V)
-	  - Code général des collectivités territoriales - art. L4251-9 (VD)
 
 
 ##### CHAPITRE II : Recherche et développement technologique
@@ -48778,7 +48802,8 @@ fiscal moyen, le prélèvement est égal à 1,5 p. 100 des dépenses totales ;
 
 Le prélèvement cesse d'être opéré lorsque, dans une région, le taux de chômage de la pénultième année, tel qu'il est calculé
 par l'Institut national de la statistique et des études économiques, est supérieur au taux de chômage annuel moyen de
-l'ensemble des régions métropolitaines.
+l'ensemble des régions métropolitaines. Ces dispositions continuent à s'appliquer au-delà du 31 décembre 1999 pendant la
+période transitoire prévue au quatrième alinéa de l'article 67 de la loi n° 95-115 du 4 février 1995 précitée.
 
 Les dépenses réalisées en application de l'expérimentation prévue au troisième alinéa de l'article 67 de la loi n° 95-115 du
 4 février 1995 d'orientation pour l'aménagement et le développement du territoire n'entrent pas dans l'assiette du
@@ -48800,10 +48825,6 @@ prélèvement, à due concurrence, de la compensation forfaitaire des charges tr
 
 	  - Loi n°96-142 1996-02-21
 
-	**Modifié par**:
-
-	  - Loi n°97-135 du 13 février 1997 - art. 15 ()
-
 	**Cité par**:
 
 	  - Arrêté du 15 janvier 1997 - art. 1 (V)
@@ -48813,6 +48834,10 @@ prélèvement, à due concurrence, de la compensation forfaitaire des charges tr
 	  - Code général des collectivités territoriales - art. L1612-12 (M)
 	  - Code général des collectivités territoriales - art. L4332-6 (Ab)
 	  - Code général des collectivités territoriales - art. L4332-7 (M)
+
+	**Modifié par**:
+
+	  - Loi n°99-533 du 25 juin 1999 - art. 21 ()
 
 
 ###### Article L4332-6
