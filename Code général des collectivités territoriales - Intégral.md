@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1998-05-26
+Version Consolidée au 1998-07-03
 
 # Partie législative
 
@@ -7624,15 +7624,23 @@ suivant l'exercice.
 
 Le compte administratif est arrêté si une majorité des voix ne s'est pas dégagée contre son adoption.
 
+Lorsque le compte administratif fait l'objet d'un rejet par l'assemblée délibérante, le projet de compte administratif joint
+à la délibération de rejet tel que présenté selon le cas par le maire, le président du conseil général ou le président du
+conseil régional, s'il est conforme au compte de gestion établi par le comptable, après avis rendu sous un mois par la
+chambre régionale des comptes, saisie sans délai par le représentant de l'Etat, est substitué au compte administratif pour la
+mise en oeuvre des dispositions prévues aux articles L. 1424-35, L. 2531-13, L. 3334-8, L. 4332-5 et L. 4434-9 et pour la
+liquidation des attributions au titre du Fonds de compensation pour la taxe sur la valeur ajoutée prévue à l'article L.
+1615-6.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°98-546 du 2 juillet 1998 - art. 109 ()
 
 	**Cité par**:
 
@@ -7658,6 +7666,15 @@ Le compte administratif est arrêté si une majorité des voix ne s'est pas dég
 	  - Code général des collectivités territoriales - art. L5218-8-7 (V)
 	  - Code général des collectivités territoriales - art. R2221-60 (V)
 	  - Code général des collectivités territoriales - art. R2221-98 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1424-35 (M)
+	  - Code général des collectivités territoriales - art. L1615-6 (M)
+	  - Code général des collectivités territoriales - art. L2531-13 (M)
+	  - Code général des collectivités territoriales - art. L3334-8 (M)
+	  - Code général des collectivités territoriales - art. L4332-5 (M)
+	  - Code général des collectivités territoriales - art. L4434-9 (M)
 
 
 ###### Article L1612-17
@@ -8171,6 +8188,11 @@ Les établissements publics de coopération intercommunale bénéficient, en lie
 des attributions du Fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement exposées
 dans l'exercice de leurs compétences.
 
+Les services départementaux d'incendie et de secours bénéficient, en lieu et place des communes, des établissements publics
+intercommunaux ou des départements propriétaires, des attributions du Fonds de compensation pour la taxe sur la valeur
+ajoutée au titre des dépenses exposées, à compter du 1er janvier 1998, dans l'exercice de leurs compétences sur les biens
+visés à l'article L. 1424-17.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8179,7 +8201,7 @@ dans l'exercice de leurs compétences.
 
 	**Modifié par**:
 
-	  - Loi - art. 30 ()
+	  - Loi n°98-546 du 2 juillet 1998 - art. 83 ()
 
 	**Anciens textes**:
 
@@ -8187,6 +8209,7 @@ dans l'exercice de leurs compétences.
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L1424-17 (V)
 	  - Code général des collectivités territoriales - art. L1615-1 (M)
 
 	**Cité par**:
@@ -17531,13 +17554,26 @@ administratif.
 
 ###### Article L2221-11
 
-- Les produits des régies dotées de la seule autonomie financière, y compris les taxes ainsi que les charges, font l'objet
-d'un budget spécial annexé au budget de la commune voté par le conseil municipal.
+Les produits des régies dotées de la seule autonomie financière, y compris les taxes ainsi que les charges, font l'objet d'un
+budget spécial annexé au budget de la commune voté par le conseil municipal.
 
 Dans les budgets et les comptes de la commune, ces produits et ces charges sont repris dans deux articles, l'un pour les
 recettes, l'autre pour les dépenses.
 
+Toutefois, l'établissement d'un budget annexe, pour les services de distribution d'eau potable et d'assainissement gérés sous
+la forme d'une régie simple ou directe, est facultatif pour les communes de moins de 500 habitants, dès lors qu'elles
+produisent, en annexe au budget et au compte administratif, un état sommaire présentant, article par article, les montants de
+recettes et de dépenses affectés à ces services.
+
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°98-546 du 2 juillet 1998 - art. 84 ()
 
 	**Cité par**:
 
@@ -17548,14 +17584,6 @@ recettes, l'autre pour les dépenses.
 	**Anciens textes**:
 
 	  - Décret n°1926-12-28 art. 4 al. 3
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
 ###### Article L2221-12
@@ -22970,15 +22998,17 @@ la taxe sur les entreprises spécialement intéressées à la prospérité de la
 
 8° Le produit de la taxe sur les passagers prévue à l'article L. 211-2 du code des ports maritimes.
 
+9° Le produit des taxes sur les convois, les inhumations et les crémations prévus à l'article L. 2223-22.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°98-546 du 2 juillet 1998 - art. 85 ()
 
 	**Cité par**:
 
@@ -23003,6 +23033,7 @@ la taxe sur les entreprises spécialement intéressées à la prospérité de la
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L2223-22 (V)
 	  - Code général des collectivités territoriales - art. L2333-26 (M)
 	  - Code des ports maritimes - art. L211-2 (Ab)
 
@@ -23167,34 +23198,6 @@ l'urbanisme ;
 	  - Code de l'urbanisme - art. L332-9 (M)
 
 
-###### Article L2331-7
-
-- Les recettes fiscales de la section d'investissement peuvent comprendre le produit du versement destiné aux transports en
-commun.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1884-04-05 art. 133 ecqc les recettes fiscales
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°98-546 du 2 juillet 1998 - art. 53 ()
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L2331-10 (M)
-
-
 ###### Article L2331-8
 
 Les recettes non fiscales de la section d'investissement peuvent comprendre notamment :
@@ -23296,9 +23299,9 @@ dispositions budgétaires et comptables relatives aux collectivités locales.
 
 ###### Article L2331-10
 
-- Les recettes d'investissement prévues aux 1° et 2° de l'article L. 2331-5, aux 1° et 6° de l'article L. 2331-6, à l'article
-L. 2331-7 et au 9° de l'article L. 2331-8 peuvent être utilisées au financement des dotations aux amortissements et
-provisions prévus aux 27°, 28° et 29° de l'article L. 2321-2.
+- Les recettes d'investissement prévues aux 1° et 2° de l'article L. 2331-5, aux 1° et 6° de l'article L. 2331-6 et au 9° de
+l'article L. 2331-8 peuvent être utilisées au financement des dotations aux amortissements et provisions prévus aux 27°, 28°
+et 29° de l'article L. 2321-2.
 
 Toutefois, pour les dotations aux provisions, cette faculté est limitée aux provisions constituées pour faire face à des
 dépenses d'investissement.
@@ -23319,10 +23322,6 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
 	**Cité par**:
 
 	  - Décret n°96-525 du 13 juin 1996 - art. 1 (Ab)
@@ -23334,12 +23333,15 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - Code général des collectivités territoriales - art. R2331-6 (Ab)
 	  - Code général des collectivités territoriales - art. R2331-7 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°98-546 du 2 juillet 1998 - art. 53 ()
+
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2321-2 (M)
 	  - Code général des collectivités territoriales - art. L2331-5 (V)
 	  - Code général des collectivités territoriales - art. L2331-6 (M)
-	  - Code général des collectivités territoriales - art. L2331-7 (Ab)
 	  - Code général des collectivités territoriales - art. L2331-8 (M)
 
 
@@ -34218,15 +34220,8 @@ limites :
 
 ###### Article L2531-5
 
-- Sous réserve des dispositions de l'article L. 2531-7, le versement est affecté au financement :
-
-1° De la compensation intégrale des réductions de tarifs consenties aux salariés par les entreprises de transports en commun
-de la région des transports parisiens admises au bénéfice de cette compensation par le Syndicat des transports parisiens ;
-
-2° Des investissements spécifiques aux transports collectifs ;
-
-3° Des contributions prévues par les conventions éventuellement passées entre le Syndicat des transports parisiens et les
-entreprises de transport pour les améliorations, réorganisations, extensions ou créations de services.
+Sous réserve des dispositions de l'article L. 2531-7, le versement est affecté au financement des dépenses d'investissement
+et de fonctionnement des transports publics réguliers de personnes effectués dans la région des transports parisiens.
 
 **Liens relatifs à cet article**
 
@@ -34245,9 +34240,9 @@ entreprises de transport pour les améliorations, réorganisations, extensions o
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°98-546 du 2 juillet 1998 - art. 53 ()
 
 
 ###### Article L2531-6
