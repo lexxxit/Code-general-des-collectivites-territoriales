@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 2000-02-11
+Version Consolidée au 2000-04-06
 
 # Partie législative
 
@@ -8826,6 +8826,37 @@ des frais.
 	  - Code de l'organisation judiciaire L311-12
 
 
+#### TITRE II : INDEMNITES DE FONCTION DES ELUS LOCAUX
+
+##### CHAPITRE UNIQUE 
+
+###### Article L1621-1
+
+Les indemnités de fonction perçues par les élus locaux en application des articles du présent code ne sont saisissables que
+pour la partie qui excède la fraction représentative des frais d'emploi, telle que définie à l'article 204-0 bis du code
+général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 204-0 bis
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°2000-295 du 5 avril 2000 - art. 8 ()
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. D2573-8 (V)
+	  - Code général des collectivités territoriales - art. L1781-1 (V)
+	  - Code général des collectivités territoriales - art. L1881-1 (M)
+
+
 ## DEUXIÈME PARTIE : LA COMMUNE
 
 ### LIVRE Ier : ORGANISATION DE LA COMMUNE
@@ -11941,9 +11972,21 @@ Un ou plusieurs postes d'adjoint spécial peuvent également être institués en
 
 ###### Article L2122-4
 
-- Le maire et les adjoints sont élus par le conseil municipal parmi ses membres.
+Le conseil municipal élit le maire et les adjoints parmi ses membres, au scrutin secret et à la majorité absolue. Nul ne peut
+être élu maire s'il n'est âgé de dix-huit ans révolus.
 
-Nul ne peut être élu maire s'il n'est âgé de vingt et un ans révolus.
+Les fonctions de maire sont incompatibles avec l'exercice d'un mandat de représentant au Parlement européen ou d'une des
+fonctions électives suivantes : président d'un conseil régional, président d'un conseil général.
+
+Les fonctions de maire sont également incompatibles avec celles de membre de la Commission européenne, membre du directoire
+de la Banque centrale européenne ou membre du conseil de la politique monétaire de la Banque de France.
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-426 DC du 30 mars
+2000.]
+
+Tout maire élu à un mandat ou exerçant une fonction le plaçant dans une situation d'incompatibilité prévue par les deuxième à
+quatrième alinéas cesse de ce fait même d'exercer ses fonctions de maire. En cas de contestation, l'incompatibilité prend
+effet à compter de la date à laquelle la décision juridictionnelle confirmant l'élection devient définitive.
 
 **Liens relatifs à cet article**
 
@@ -11951,9 +11994,9 @@ Nul ne peut être élu maire s'il n'est âgé de vingt et un ans révolus.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-295 du 5 avril 2000 - art. 7 ()
 
 	**Anciens textes**:
 
@@ -12457,18 +12500,27 @@ désigné par le conseil ou, à défaut, pris dans l'ordre du tableau.
 une partie de ses fonctions à un ou plusieurs de ses adjoints et, en l'absence ou en cas d'empêchement des adjoints, à des
 membres du conseil municipal.
 
+Le membre du conseil municipal ayant démissionné de la fonction de maire en application des articles LO 141 du code
+électoral, L. 3122-3, L. 4133-3 du présent code ou de l'article 6-2 de la loi n° 77-729 du 7 juillet 1977 relative à
+l'élection des représentants au Parlement européen ne peut recevoir de délégation jusqu'au terme de son mandat de conseiller
+municipal ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
+
 Lorsque le maire a retiré les délégations qu'il avait données à un adjoint, et si celui-ci ne démissionne pas, ces
 délégations peuvent être attribuées à un conseiller municipal, nonobstant les dispositions de l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°77-729 du 7 juillet 1977 - art. 6-2 (Ab)
+
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-295 du 5 avril 2000 - art. 9 ()
 
 	**Cité par**:
 
@@ -13222,7 +13274,7 @@ supérieur à une fois et demie la valeur horaire du salaire minimum de croissan
 ###### Article L2123-3
 
 - I. - Indépendamment des autorisations d'absence dont ils bénéficient dans les conditions prévues à l'article L. 2123-1, les
-maires, les adjoints et, dans les communes de 100 000 habitants au moins, les conseillers municipaux ont droit à un crédit
+maires, les adjoints et, dans les communes de 3 500 habitants au moins, les conseillers municipaux ont droit à un crédit
 d'heures leur permettant de disposer du temps nécessaire à l'administration de la commune ou de l'organisme auprès duquel ils
 la représentent et à la préparation des réunions des instances où ils siègent.
 
@@ -13236,6 +13288,10 @@ habitants et les adjoints au maire des communes de 10 000 à 29 999 habitants ;
 
 3° A l'équivalent de 60 p. 100 de la durée hebdomadaire légale du travail pour les conseillers municipaux des communes de 100
 000 habitants au moins et les adjoints au maire des communes de moins de 10 000 habitants.
+
+4° A l'équivalent de 40 % de la durée légale du travail pour les conseillers municipaux des communes de 30 000 à 99 999
+habitants, de 30 % pour les conseillers municipaux des communes de 10 000 à 29 999 habitants et de 15 % pour les conseillers
+municipaux des communes de 3 500 à 9 999 habitants.
 
 Les heures non utilisées pendant un trimestre ne sont pas reportables.
 
@@ -13251,9 +13307,14 @@ prévu au présent article. Ce temps d'absence n'est pas payé par l'employeur.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-295 2000-04-05 art. 10, 11 jorf 6 avril 2000
+	  - Loi n°2000-295 du 5 avril 2000 - art. 10 ()
+
+	**Transféré par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 66 ()
 
 	**Anciens textes**:
 
@@ -13468,10 +13529,15 @@ La réintégration ou le reclassement dans l'emploi est de droit.
 
 ###### Article L2123-9
 
-- Les maires des communes de 10 000 habitants au moins et les adjoints au maire des communes de 30 000 habitants au moins
-qui, pour l'exercice de leur mandat, ont cessé d'exercer leur activité professionnelle bénéficient, s'ils sont salariés, des
-dispositions des articles L. 122-24-2 et L. 122-24-3 du code du travail relatives aux droits des salariés élus membres de
+Les maires, d'une part, ainsi que les adjoints au maire des communes de 20 000 habitants au moins, d'autre part, qui, pour
+l'exercice de leur mandat, ont cessé d'exercer leur activité professionnelle, bénéficient, s'ils sont salariés, des
+dispositions des articles L. 122-24-2 et L. 122-24-3 du code du travail (1) relatives aux droits des salariés élus membres de
 l'Assemblée nationale et du Sénat.
+
+**Nota:**
+
+(1) : Les articles L122-24-2 et L122-24-3 de l'ancien code du travail ont été renumérotés dans les articles L3142-60 à
+L3142-64 du nouveau code du travail.
 
 **Liens relatifs à cet article**
 
@@ -13479,9 +13545,9 @@ l'Assemblée nationale et du Sénat.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-295 du 5 avril 2000 - art. 12 ()
 
 	**Anciens textes**:
 
@@ -13504,8 +13570,8 @@ l'Assemblée nationale et du Sénat.
 
 	**Cite**:
 
-	  - Code du travail - art. L122-24-2 (M)
-	  - Code du travail - art. L122-24-3 (M)
+	  - Code du travail - art. L122-24-2 (Ab)
+	  - Code du travail - art. L122-24-3 (Ab)
 
 
 ###### Article L2123-10
@@ -13996,51 +14062,11 @@ solidarité urbaine prévue aux articles L. 2334-15 et suivants.
 
 ###### Article L2123-23
 
-- Les indemnités maximales votées par les conseils municipaux pour l'exercice effectif des fonctions de maire des communes et
-de président de délégations spéciales sont déterminées en appliquant au terme de référence mentionné à l'article L. 2123-20
-le barème suivant :
+Les indemnités maximales pour les fonctions de maire des communes et de président de délégations spéciales prises en compte
+pour l'application des articles L. 2121-28, L. 2123-13, L. 2123-24, L. 5211-12 et L. 5215-16 sont déterminées en appliquant
+au terme de référence mentionné à l'article L. 2123-20 le barème suivant :
 
-POPULATION (habitants)
-
-TAUX MAXIMAL
-
-(en %)
-
-Moins de 500
-
-12 
-
-De     500 à     999
-
-17 
-
-De   1 000 à   3 499
-
-31 
-
-De   3 500 à   9 999
-
-43 
-
-De  10 000 à  19 999
-
-55 
-
-De  20 000 à  49 999
-
-65 
-
-De  50 000 à  99 999
-
-75 
-
-De 100 000 à 200 000
-
-90 
-
-Plus de 200 000
-
-95 
+tableau non reproduit
 
 La population à prendre en compte est la population totale municipale résultant du dernier recensement.
 
@@ -14049,10 +14075,6 @@ La population à prendre en compte est la population totale municipale résultan
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 	**Cité par**:
 
@@ -14072,6 +14094,14 @@ La population à prendre en compte est la population totale municipale résultan
 	  - Code général des collectivités territoriales - art. R2123-23 (VD)
 	  - Code général des collectivités territoriales - art. R5211-4 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2000-295 du 5 avril 2000 - art. 13 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 80 ()
+
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L123-5-1 (Ab)
@@ -14079,7 +14109,43 @@ La population à prendre en compte est la population totale municipale résultan
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L2121-28 (M)
+	  - Code général des collectivités territoriales - art. L2123-13 (M)
 	  - Code général des collectivités territoriales - art. L2123-20 (M)
+	  - Code général des collectivités territoriales - art. L5211-12 (M)
+	  - Code général des collectivités territoriales - art. L5215-16 (M)
+
+
+###### Article L2123-23-1
+
+Les indemnités maximales votées par les conseillers municipaux pour l'exercice effectif des fonctions de maire des communes
+et de président de délégations spéciales sont déterminées en appliquant au terme de référence mentionné à l'article L.
+2123-20 le barème suivant :tableau non reproduit
+
+La population à prendre en compte est la population totale municipale du dernier recensement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°2000-295 du 5 avril 2000 - art. 13 ()
+
+	**Transféré par**:
+
+	  - Loi n°2002-276 du 27 février 2002 - art. 80 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2123-20 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L2123-23 (M)
+	  - Code général des collectivités territoriales - art. L2123-23 (V)
 
 
 ###### Article L2123-24
@@ -33747,9 +33813,9 @@ Pour l'application du II de l'article L. 2123-3, les fonctions de maire d'arrond
 
 ###### Article L2511-34
 
-- Les indemnités maximales votées par le conseil de Paris et les conseils municipaux de Marseille et de Lyon pour l'exercice
-effectif des fonctions de maire de Paris, Marseille et Lyon sont égales au terme de référence, mentionné au I de l'article L.
-2123-20, majoré de 15 p. 100.
+Les indemnités maximales pour l'exercice des fonctions de maire de Paris, Marseille et Lyon sont, pour l'application des
+deuxième et troisième alinéas du présent article ainsi que pour celle des articles L. 2121-28 et L. 2123-13, égales au terme
+de référence, mentionné au I de l'article L. 2123-20, majoré de 15 %.
 
 Les indemnités votées par le conseil de Paris et les conseils municipaux de Marseille et de Lyon pour l'exercice effectif des
 fonctions d'adjoint au maire et de membre de délégation spéciale faisant fonction d'adjoint sont au maximum égales à 40 p.
@@ -33764,23 +33830,25 @@ fonctions de conseiller municipal sont au maximum égales à 30 p. 100 de l'inde
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-295 du 5 avril 2000 - art. 13 ()
 
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L123-8 (M)
 	  - CODE DES COMMUNES. - art. L123-8 (Ab)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2121-28 (M)
+	  - Code général des collectivités territoriales - art. L2123-13 (M)
+	  - Code général des collectivités territoriales - art. L2123-20 (M)
+
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L2123-11-2 (VD)
 	  - Code général des collectivités territoriales - art. L3123-16 (VD)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2123-20 (M)
 
 
 ###### Article L2511-35
@@ -39489,9 +39557,19 @@ commission permanente.
 
 ###### Article L3122-3
 
-- Les fonctions de président de conseil général et de président de conseil régional sont incompatibles.
+Les fonctions de président de conseil général sont incompatibles avec l'exercice d'un mandat de représentant au Parlement
+européen ou d'une des fonctions électives suivantes : président d'un conseil régional, maire.
 
-Tout président d'un conseil général élu président d'un conseil régional cesse de ce fait même d'exercer sa première fonction.
+Les fonctions de président de conseil général sont également incompatibles avec celles de membre de la Commission européenne,
+membre du directoire de la Banque centrale européenne ou membre du Conseil de la politique monétaire de la Banque de France.
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-426 DC du 30 mars
+2000.]
+
+Tout président de conseil général élu à un mandat ou exerçant une fonction le plaçant dans une situation d'incompatibilité
+prévue par les trois alinéas précédents cesse de ce fait même d'exercer ses fonctions de président de conseil général. En cas
+de contestation, l'incompatibilité prend effet à compter de la date à laquelle la décision juridictionnelle confirmant
+l'élection devient définitive.
 
 **Liens relatifs à cet article**
 
@@ -39504,9 +39582,9 @@ Tout président d'un conseil général élu président d'un conseil régional ce
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-295 du 5 avril 2000 - art. 14 ()
 
 	**Cité par**:
 
@@ -41854,8 +41932,13 @@ délibérations expresses de l'assemblée.
 sa responsabilité, l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de
 ces derniers, à d'autres membres du conseil général. Ces délégations subsistent tant qu'elles ne sont pas rapportées.
 
-Il est le chef des services du département. Il peut, sous sa surveillance et sa responsabilité, donner délégation de
-signature en toute matière aux responsables desdits services.
+Le membre du conseil général ayant démissionné de la fonction de président de conseil général en application des articles LO
+141 du code électoral, L. 2122-4, L. 4133-3 du présent code ou de l'article 6-2 de la loi n° 77-729 du 7 juillet 1977
+relative à l'élection des représentants au Parlement européen ne peut recevoir de délégation jusqu'au terme de son mandat de
+conseiller général ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
+
+Le président du conseil général est le chef des services du département. Il peut, sous sa surveillance et sa responsabilité,
+donner délégation de signature en toute matière aux responsables desdits services.
 
 **Liens relatifs à cet article**
 
@@ -41869,9 +41952,9 @@ signature en toute matière aux responsables desdits services.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-295 du 5 avril 2000 - art. 15 ()
 
 	**Cité par**:
 
@@ -46228,9 +46311,20 @@ commission permanente.
 
 ###### Article L4133-3
 
-- Les fonctions de président de conseil régional et de président de conseil général sont incompatibles.
+Les fonctions de président de conseil régional sont incompatibles avec l'exercice d'un mandat de représentant au Parlement
+européen ou d'une des fonctions électives suivantes : président d'un conseil général, maire.
 
-Tout président d'un conseil régional élu président d'un conseil général cesse de ce fait même d'exercer sa première fonction.
+Les fonctions de président de conseil régional sont également incompatibles avec celles de membre de la Commission
+européenne, membre du directoire de la Banque centrale européenne ou membre du conseil de la politique monétaire de la Banque
+de France.
+
+[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-426 DC du 30 mars
+2000.]
+
+Tout président de conseil régional élu à un mandat ou exerçant une fonction le plaçant dans une situation d'incompatibilité
+prévue par les trois alinéas précédents cesse de ce fait même d'exercer ses fonctions de président de conseil régional. En
+cas de contestation, l'incompatibilité prend effet à compter de la date à laquelle la décision juridictionnelle confirmant
+l'élection devient définitive.
 
 **Liens relatifs à cet article**
 
@@ -46243,9 +46337,9 @@ Tout président d'un conseil régional élu président d'un conseil général ce
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-295 du 5 avril 2000 - art. 16 ()
 
 	**Cité par**:
 
@@ -48347,8 +48441,13 @@ délibérations expresses de l'assemblée.
 sa responsabilité, l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de
 ces derniers, à d'autres membres du conseil régional. Ces délégations subsistent tant qu'elles ne sont pas rapportées.
 
-Il est le chef des services de la région. Il peut, sous sa surveillance et sa responsabilité, donner délégation de signature
-en toute matière aux responsables desdits services.
+Le membre du conseil régional ayant démissionné de la fonction de président de conseil régional en application des articles
+LO 141 du code électoral, L. 2122-4, L. 3122-3 du présent code ou de l'article 6-2 de la loi n° 77-729 du 7 juillet 1977
+relative à l'élection des représentants au Parlement européen ne peut recevoir de délégation jusqu'au terme de son mandat de
+conseiller régional ou jusqu'à la cessation du mandat ou de la fonction l'ayant placé en situation d'incompatibilité.
+
+Le président du conseil régional est le chef des services de la région. Il peut, sous sa surveillance et sa responsabilité,
+donner délégation de signature en toute matière aux responsables desdits services.
 
 **Liens relatifs à cet article**
 
@@ -48360,9 +48459,9 @@ en toute matière aux responsables desdits services.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-295 du 5 avril 2000 - art. 17 ()
 
 	**Cité par**:
 
@@ -51044,6 +51143,10 @@ reste applicable. Il est remplacé au sein de l'Assemblée dans les conditions p
 
 - Le conseil exécutif est composé d'un président assisté de six conseillers exécutifs.
 
+Pour l'application de l'ensemble des dispositions instituant les incompatibilités entre certains mandats électoraux ou
+fonctions électives, les fonctions de président du conseil exécutif de Corse sont assimilées à celles de président d'un
+conseil régional.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -51055,12 +51158,17 @@ reste applicable. Il est remplacé au sein de l'Assemblée dans les conditions p
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-295 du 5 avril 2000 - art. 18 ()
+
+	**Transféré par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 3 ()
 
 	**Nouveaux textes**:
 
+	  - Code général des collectivités territoriales - art. L4422-19 (T)
 	  - Code général des collectivités territoriales - art. L4422-19 (V)
 
 
@@ -51190,6 +51298,30 @@ mandats de conseiller régional et de président du conseil régional telles qu'
 	**Cite**:
 
 	  - Code général des collectivités territoriales L4135-1 à L4135-28
+
+
+###### Article L4422-18-1
+
+Pour l'application de l'ensemble des dispositions instituant les incompatibilités entre certains mandats électoraux ou
+fonctions électives, les fonctions de membre du conseil exécutif de Corse sont assimilées au mandat de conseiller régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°2000-295 du 5 avril 2000 - art. 19 ()
+
+	**Transféré par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 3 ()
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L4422-23 (V)
 
 
 ##### Section 3 : Rapports entre l'Assemblée et le conseil exécutif
@@ -55602,9 +55734,12 @@ cas contraire.
 
 ###### Article L5211-2
 
-- Les dispositions du chapitre II du titre II du livre premier de la deuxième partie relatives au maire et aux adjoints sont
+Les dispositions du chapitre II du titre II du livre premier de la deuxième partie relatives au maire et aux adjoints sont
 applicables au président et aux membres de l'organe délibérant des établissements publics de coopération intercommunale, en
-tant qu'elles ne sont pas contraires aux dispositions du présent titre.
+tant qu'elles ne sont pas contraires aux dispositions du présent titre. 
+
+Les dispositions des deuxième à quatrième alinéas de l'article L. 2122-4 ne sont pas applicables au président et aux membres
+de l'organe délibérant des établissements publics de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
@@ -55614,7 +55749,7 @@ tant qu'elles ne sont pas contraires aux dispositions du présent titre.
 
 	**Modifié par**:
 
-	  - Loi n°99-586 du 12 juillet 1999 - art. 34 ()
+	  - Loi n°2000-295 du 5 avril 2000 - art. 7 ()
 
 	**Anciens textes**:
 
@@ -55624,6 +55759,10 @@ tant qu'elles ne sont pas contraires aux dispositions du présent titre.
 	  - CODE DES COMMUNES. - art. L165-33 (Ab)
 	  - CODE DES COMMUNES. - art. L167-5 (Ab)
 	  - CODE DES COMMUNES. - art. L168-6 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2122-4 (V)
 
 
 ###### Article L5211-3
