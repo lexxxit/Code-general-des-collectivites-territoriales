@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 2000-04-09
+Version Consolidée au 2000-04-13
 
 # Partie législative
 
@@ -12552,9 +12552,9 @@ délégations peuvent être attribuées à un conseiller municipal, nonobstant l
 
 ###### Article L2122-19
 
-- Le maire peut donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature :
+Le maire peut donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature :
 
-1° Au secrétaire général et au secrétaire général adjoint de mairie ;
+1° Au directeur général des services et au directeur général adjoint des services de mairie ;
 
 2° Au directeur général et au directeur des services techniques.
 
@@ -12564,9 +12564,9 @@ délégations peuvent être attribuées à un conseiller municipal, nonobstant l
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-321 du 12 avril 2000 - art. 31 (V)
 
 	**Anciens textes**:
 
@@ -33589,11 +33589,11 @@ demande.
 
 ###### Article L2511-27
 
-- Le maire de la commune peut donner sous sa surveillance et sa responsabilité, par arrêté, délégation de signature au
-secrétaire général de la mairie et aux responsables de services communaux.
+Le maire de la commune peut donner sous sa surveillance et sa responsabilité, par arrêté, délégation de signature au
+directeur général des services de la mairie et aux responsables de services communaux.
 
-Le maire d'arrondissement peut, dans les mêmes conditions, donner délégation de signature au secrétaire général de la mairie
-d'arrondissement.
+Le maire d'arrondissement peut, dans les mêmes conditions, donner délégation de signature au directeur général des services
+de la mairie d'arrondissement.
 
 **Liens relatifs à cet article**
 
@@ -33606,9 +33606,9 @@ d'arrondissement.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-321 du 12 avril 2000 - art. 31 (V)
 
 
 ###### Article L2511-28
@@ -41152,6 +41152,44 @@ ou morale qu'ils rémunèrent sous quelque forme que ce soit.
 	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
+##### CHAPITRE III : Exercice par un contribuable des actions appartenant au département
+
+###### Article L3133-1
+
+Tout contribuable inscrit au rôle du département a le droit d'exercer, tant en demande qu'en défense, à ses frais et risques,
+avec l'autorisation du tribunal administratif, les actions qu'il croit appartenir au département et que celui-ci,
+préalablement appelé à en délibérer, a refusé ou négligé d'exercer.
+
+Le contribuable adresse au tribunal administratif un mémoire.
+
+Le président du conseil général soumet ce mémoire au conseil général réuni dans les conditions prévues aux articles L. 3121-9
+et L. 3121-10.
+
+Lorsqu'un jugement est intervenu, le contribuable ne peut se pourvoir en appel ou en cassation qu'en vertu d'une nouvelle
+autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 14 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3121-10 (V)
+	  - Code général des collectivités territoriales - art. L3121-9 (M)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L3511-1 (V)
+	  - Code général des collectivités territoriales - art. L3543-1 (V)
+	  - Code général des collectivités territoriales - art. R3133-1 (VD)
+
+
 #### TITRE IV : RELATIONS ENTRE LE DÉPARTEMENT ET LES SERVICES DE L'ÉTAT
 
 ##### CHAPITRE Ier : Services de l'Etat mis à disposition
@@ -48041,6 +48079,37 @@ sous quelque forme que ce soit.
 	**Créé par**:
 
 	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+
+
+##### CHAPITRE III : Exercice par un contribuable des actions appartenant à la région
+
+###### Article L4143-1
+
+Tout contribuable inscrit au rôle de la région a le droit d'exercer, tant en demande qu'en défense, à ses frais et risques,
+avec l'autorisation du tribunal administratif, les actions qu'il croit appartenir à la région et que celle-ci, prélablement
+appelée à en délibérer, a refusé ou négligé d'exercer.
+
+Le contribuable adresse au tribunal administratif un mémoire.
+
+Le président du conseil régional soumet ce mémoire au conseil régional spécialement convoqué à cet effet. Le délai de
+convocation peut être abrégé.
+
+Lorsqu'un jugement est intervenu, le contribuable ne peut se pourvoir en appel ou en cassation qu'en vertu d'une nouvelle
+autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 15 ()
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. R4143-1 (V)
 
 
 #### TITRE V : RELATIONS ENTRE LA RÉGION ET LES SERVICES DE L'ÉTAT
