@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1998-03-08
+Version Consolidée au 1998-05-26
 
 # Partie législative
 
@@ -11672,6 +11672,22 @@ généraux chargés de régions et aux chefs de services régionaux des administ
 	  - Code général des collectivités territoriales - art. L2564-6 (V)
 	  - Code général des collectivités territoriales - art. L2572-5 (V)
 	  - Code général des collectivités territoriales - art. L2573-6 (V)
+
+
+###### Article LO2122-4-1
+
+Le conseiller municipal qui n'a pas la nationalité française ne peut être élu maire ou adjoint, ni en exercer même
+temporairement les fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 9 ()
 
 
 ##### Section 2 : Désignation
@@ -30245,6 +30261,27 @@ Des décrets en Conseil d'Etat fixent, en tant que de besoin, les modalités d'a
 
 	  - Code des communes L151-19 section de commune ecqc les dispositions générales
 	  - CODE DES COMMUNES. - art. L151-19 (Ab)
+
+
+###### Article LO2411-3-1
+
+Lorsqu'ils sont inscrits sur la liste électorale complémentaire de la commune établie en application de l'article LO 227-2 du
+code électoral, les ressortissants d'un Etat membre de l'Union européenne autre que la France participent à l'élection de
+l'organe délibérant d'une section de commune dans les mêmes conditions que les électeurs français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°98-404 du 25 mai 1998 - art. 12 ()
+
+	**Cite**:
+
+	  - Code électoral - art. LO227-2 (V)
 
 
 ##### CHAPITRE II : Dispositions financières
