@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 2000-07-06
+Version Consolidée au 2000-07-08
 
 # Partie législative
 
@@ -3890,7 +3890,7 @@ l'établissement public de coopération intercommunale ou le département est si
 
 Le service départemental d'incendie et de secours est administré par un conseil d'administration composé de représentants du
 département, des communes et des établissements publics de coopération intercommunale compétents en matière de secours et de
-lutte contre l'incendie, élus pour trois ans dans les conditions suivantes :
+lutte contre l'incendie, élus dans les conditions suivantes :
 
 1° Huit sièges répartis par moitié entre, d'une part, le département et, d'autre part, les communes et les établissements
 publics de coopération intercommunale.
@@ -3912,9 +3912,9 @@ Ces contributions sont constatées conformément aux dispositions des articles L
 
 Les représentants du département sont élus par le conseil général en son sein. Les représentants des établissements publics
 de coopération intercommunale sont élus par les présidents de ces établissements publics au scrutin proportionnel au plus
-fort reste parmi les présidents, les membres des conseils et les maires des communes membres de ces établissements publics.
-Les maires des communes qui ne sont pas membres de ces établissements publics élisent en leur sein leurs représentants au
-scrutin proportionnel au plus fort reste.
+fort reste parmi les membres des organes délibérants et les maires des communes membres. Les maires des communes qui ne sont
+pas membres de ces établissements publics élisent en leur sein leurs représentants au scrutin proportionnel au plus fort
+reste.
 
 Le nombre de suffrages dont dispose chaque maire, d'une part, chaque président d'établissement public, d'autre part, au sein
 de leur collège électoral respectif est déterminé par le montant de la contribution de la commune ou de l'établissement
@@ -3923,6 +3923,9 @@ intercommunale, d'autre part.
 
 En cas d'absence ou d'empêchement, les membres du conseil d'administration sont remplacés par des suppléants élus selon les
 mêmes modalités et pour la même durée qu'eux.
+
+3° Les élections ont lieu dans les quatre mois suivant le renouvellement général des conseils municipaux et dans les quatre
+mois suivant le renouvellement par moitié ou le renouvellement intégral du conseil général.
 
 Assistent, en outre, aux réunions du conseil d'administration, avec voix consultative :
 
@@ -3945,10 +3948,6 @@ technique des services d'incendie et de secours, prévue à l'article L1424-31, 
 	  - Loi n°96-369 du 3 mai 1996 - art. 24 (V)
 	  - Loi n°96-369 du 3 mai 1996 - art. 55 (V)
 
-	**Modifié par**:
-
-	  - Loi n°96-369 du 3 mai 1996 - art. 55 (V) JORF 4 mai 1996
-
 	**Cité par**:
 
 	  - Décret n°96-1005 du 22 novembre 1996 - art. 12 (VD)
@@ -3968,6 +3967,10 @@ technique des services d'incendie et de secours, prévue à l'article L1424-31, 
 	  - Code général des collectivités territoriales - art. R1424-11 (M)
 	  - Code général des collectivités territoriales - art. R1424-2 (M)
 	  - Code général des collectivités territoriales - art. R1424-7 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 59
 
 	**Cite**:
 
@@ -4028,8 +4031,8 @@ Le préfet fixe, par arrêté, la répartition des sièges, au vu de la délibé
 
 ###### Article L1424-27
 
-Le président du conseil d'administration est élu par les membres du conseil d'administration ayant voix délibérative, en son
-sein, à la majorité absolue, pour une durée de trois ans.
+Le président du conseil d'administration est élu parmi les membres ayant voix délibérative à la majorité absolue de ces
+derniers. Cette élection a lieu lors de la première réunion du conseil d'administration suivant son renouvellement général.
 
 Si cette élection n'est pas acquise après les deux premiers tours de scrutin, il est procédé à un troisième tour de scrutin
 et l'élection a lieu à la majorité relative des suffrages exprimés.
@@ -4056,7 +4059,7 @@ président et de 25 % pour le vice-président.
 
 	**Modifié par**:
 
-	  - Loi n°99-1126 du 28 décembre 1999 - art. 6 ()
+	  - Loi n°2000-628 du 7 juillet 2000 - art. 1 () JORF 8 juillet 2000
 
 	**Cité par**:
 
@@ -15413,9 +15416,10 @@ préalablement appelée à en délibérer, a refusé ou négligé d'exercer.
 
 ###### Article L2132-6
 
-- Le contribuable adresse au tribunal administratif un mémoire détaillé.
+Le contribuable adresse au tribunal administratif un mémoire détaillé. 
 
-Le maire soumet ce mémoire au conseil municipal spécialement convoqué à cet effet. Le délai de convocation peut être abrégé.
+Le maire soumet ce mémoire au conseil municipal lors de la plus proche réunion tenue en application des articles L. 2121-7 et
+L. 2121-9.
 
 **Liens relatifs à cet article**
 
@@ -15427,9 +15431,18 @@ Le maire soumet ce mémoire au conseil municipal spécialement convoqué à cet 
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - SPEC_APPLI: Loi n°2000-629 du 7 juillet 2000 - art. 3 ()
+
+	**Modifié par**:
+
+	  - Loi n°2000-629 du 7 juillet 2000 - art. 4 () JORF 8 juillet 2000
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2121-7 (V)
+	  - Code général des collectivités territoriales - art. L2121-9 (V)
 
 	**Cité par**:
 
@@ -41174,15 +41187,19 @@ ou morale qu'ils rémunèrent sous quelque forme que ce soit.
 
 Tout contribuable inscrit au rôle du département a le droit d'exercer, tant en demande qu'en défense, à ses frais et risques,
 avec l'autorisation du tribunal administratif, les actions qu'il croit appartenir au département et que celui-ci,
-préalablement appelé à en délibérer, a refusé ou négligé d'exercer.
+préalablement appelé à en délibérer, a refusé ou négligé d'exercer. 
 
-Le contribuable adresse au tribunal administratif un mémoire.
+Le contribuable adresse au tribunal administratif un mémoire. 
 
-Le président du conseil général soumet ce mémoire au conseil général réuni dans les conditions prévues aux articles L. 3121-9
-et L. 3121-10.
+Le président du conseil général soumet ce mémoire au conseil général lors de la plus proche réunion tenue en application des
+articles L. 3121-9 et L. 3121-10. 
 
 Lorsqu'un jugement est intervenu, le contribuable ne peut se pourvoir en appel ou en cassation qu'en vertu d'une nouvelle
 autorisation.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -41190,14 +41207,18 @@ autorisation.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 14 ()
+	  - SPEC_APPLI: Loi n°2000-629 du 7 juillet 2000 - art. 3 ()
+
+	**Modifié par**:
+
+	  - Loi n°2000-629 du 7 juillet 2000 - art. 4 () JORF 8 juillet 2000
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L3121-10 (V)
-	  - Code général des collectivités territoriales - art. L3121-9 (M)
+	  - Code général des collectivités territoriales - art. L3121-9 (V)
 
 	**Cité par**:
 
@@ -48103,12 +48124,12 @@ sous quelque forme que ce soit.
 
 Tout contribuable inscrit au rôle de la région a le droit d'exercer, tant en demande qu'en défense, à ses frais et risques,
 avec l'autorisation du tribunal administratif, les actions qu'il croit appartenir à la région et que celle-ci, prélablement
-appelée à en délibérer, a refusé ou négligé d'exercer.
+appelée à en délibérer, a refusé ou négligé d'exercer. 
 
-Le contribuable adresse au tribunal administratif un mémoire.
+Le contribuable adresse au tribunal administratif un mémoire. 
 
-Le président du conseil régional soumet ce mémoire au conseil régional spécialement convoqué à cet effet. Le délai de
-convocation peut être abrégé.
+Le président du conseil régional soumet ce mémoire au conseil régional lors de la plus proche réunion en application des
+articles L. 4132-8 et L. 4132-9. 
 
 Lorsqu'un jugement est intervenu, le contribuable ne peut se pourvoir en appel ou en cassation qu'en vertu d'une nouvelle
 autorisation.
@@ -48119,9 +48140,18 @@ autorisation.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 15 ()
+	  - SPEC_APPLI: Loi n°2000-629 du 7 juillet 2000 - art. 3 ()
+
+	**Modifié par**:
+
+	  - Loi n°2000-629 du 7 juillet 2000 - art. 4 () JORF 8 juillet 2000
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4132-8 (V)
+	  - Code général des collectivités territoriales - art. L4132-9 (V)
 
 	**Cité par**:
 
@@ -58661,12 +58691,12 @@ l'établissement public de coopération intercommunale.
 Tout contribuable inscrit au rôle de la commune a le droit d'exercer, tant en demande qu'en défense, à ses frais et risques,
 avec l'autorisation du tribunal administratif, les actions qu'il croit appartenir aux établissements publics de coopération
 intercommunale auxquels a adhéré la commune et que ceux-ci, préalablement appelés à en délibérer, ont refusé ou négligé
-d'exercer.
+d'exercer. 
 
-Le contribuable adresse au tribunal administratif un mémoire détaillé.
+Le contribuable adresse au tribunal administratif un mémoire détaillé. 
 
-Ce mémoire est soumis à l'organe délibérant de l'établissement par son président. L'organe délibérant est spécialement
-convoqué à cet effet. Le délai de convocation peut être abrégé.
+Le président de l'établissement public de coopération intercommunale soumet ce mémoire à l'organe délibérant de
+l'établissement lors de la plus proche réunion tenue en application de l'article L. 5211-11. 
 
 Lorsqu'un jugement est intervenu, le contribuable ne peut se pourvoir en appel ou en cassation qu'en vertu d'une nouvelle
 autorisation.
@@ -58686,10 +58716,6 @@ autorisation.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 73 ()
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2000-167 du 28 février 2000
@@ -58697,6 +58723,15 @@ autorisation.
 	  - TXT_SOURCE: Décret n°2000-167 du 28 février 2000 - art. 2 (Ab)
 	  - TXT_SOURCE: Décret n°2000-167 du 28 février 2000 - art. 3 (Ab)
 	  - TXT_SOURCE: Décret n°2000-167 du 28 février 2000 - art. 4 (V)
+	  - SPEC_APPLI: Loi n°2000-629 du 7 juillet 2000 - art. 3 ()
+
+	**Modifié par**:
+
+	  - Loi n°2000-629 du 7 juillet 2000 - art. 4 () JORF 8 juillet 2000
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-11 (V)
 
 
 ##### CHAPITRE II : Syndicat de communes
