@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1997-12-31
+Version Consolidée au 1998-03-08
 
 # Partie législative
 
@@ -6051,6 +6051,65 @@ comptes de l'exercice écoulé, ainsi que tous documents faisant connaître les 
 
 ##### CHAPITRE II : Adoption et exécution des budgets
 
+###### Article L1612-2
+
+Si le budget n'est pas adopté avant le 31 mars de l'exercice auquel il s'applique, ou avant le 15 avril de l'année du
+renouvellement des organes délibérants, le représentant de l'Etat dans le département saisit sans délai la chambre régionale
+des comptes qui, dans le mois, et par un avis public, formule des propositions pour le règlement du budget. Le représentant
+de l'Etat règle le budget et le rend exécutoire. Si le représentant de l'Etat dans le département s'écarte des propositions
+de la chambre régionale des comptes, il assortit sa décision d'une motivation explicite.
+
+A compter de la saisine de la chambre régionale des comptes et jusqu'au règlement du budget par le représentant de l'Etat,
+l'organe délibérant ne peut adopter de délibération sur le budget de l'exercice en cours. 
+
+Ces dispositions ne sont pas applicables quand le défaut d'adoption résulte de l'absence de communication avant le 15 mars à
+l'organe délibérant d'informations indispensables à l'établissement du budget. La liste de ces informations est fixée par
+décret. Dans ce cas, l'organe délibérant dispose de quinze jours à compter de cette communication pour arrêter le budget. 
+
+Le présent article est applicable aux régions, sous réserve des dispositions de l'article L. 4311-1-1..
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Cité par**:
+
+	  - Arrêté du 26 avril 1996 - art. 5 (V)
+	  - Ordonnance n°96-782 du 5 septembre 1996 - art. 41-2 (Ab)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
+	  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 40 (V)
+	  - Loi n°2012-354 du 14 mars 2012 - art. 31 (V)
+	  - Ordonnance n°2012-1397 du 13 décembre 2012 - art. 4 (VD)
+	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 41 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 133 (V)
+	  - Code de la construction et de l'habitation. - art. L421-19 (V)
+	  - Code des juridictions financières - art. L232-1 (VD)
+	  - Code des juridictions financières - art. L232-7 (M)
+	  - Code du tourisme. - art. R133-15 (V)
+	  - Code général des collectivités territoriales - art. D5211-16 (V)
+	  - Code général des collectivités territoriales - art. D5219-1 (V)
+	  - Code général des collectivités territoriales - art. L1612-19 (V)
+	  - Code général des collectivités territoriales - art. L1612-3 (V)
+	  - Code général des collectivités territoriales - art. L1612-8 (V)
+	  - Code général des collectivités territoriales - art. L1612-9 (V)
+	  - Code général des collectivités territoriales - art. L1772-1 (V)
+	  - Code général des collectivités territoriales - art. L1781-2 (T)
+	  - Code général des collectivités territoriales - art. L1791-2 (Ab)
+	  - Code général des collectivités territoriales - art. L1872-1 (VD)
+	  - Code général des collectivités territoriales - art. L4311-1-1 (V)
+	  - Code général des collectivités territoriales - art. R1612-16 (V)
+	  - Code général des collectivités territoriales - art. R5111-1 (V)
+	  - Code général des impôts, CGI. - art. 1639 A (V)
+	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 octodecies (P)
+
+	**Modifié par**:
+
+	  - Loi n°98-135 du 7 mars 1998 - art. 5 ()
+
+
 ###### Article L1612-3
 
 En cas de création d'une nouvelle collectivité territoriale, l'organe délibérant adopte le budget dans un délai de trois mois
@@ -7479,12 +7538,13 @@ limite de celles inscrites au budget de l'année précédente.
 Il est en droit de mandater les dépenses afférentes au remboursement en capital des annuités de la dette venant à échéance
 avant le vote du budget.
 
-En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars, en l'absence d'adoption du budget avant cette date, l'exécutif de
-la collectivité territoriale peut, sur autorisation de l'organe délibérant, engager, liquider et mandater les dépenses
-d'investissement, dans la limite du quart des crédits ouverts au budget de l'exercice précédent, non compris les crédits
-afférents au remboursement de la dette, et, pour les dépenses à caractère pluriannuel incluses dans une autorisation de
-programme, les liquider et les mandater dans la limite des crédits de paiement prévus au titre de l'exercice par la
-délibération d'ouverture d'autorisation de programme.
+En outre, jusqu'à l'adoption du budget ou jusqu'au 31 mars ou jusqu'à la date mentionnée au premier alinéa de l'article L.
+4311-1-1 pour les régions, en l'absence d'adoption du budget avant cette date, ou jusqu'au terme de la procédure par
+l'article L. 4311-1-1 pour les régions l'exécutif de la collectivité territoriale peut, sur autorisation de l'organe
+délibérant, engager, liquider et mandater les dépenses d'investissement, dans la limite du quart des crédits ouverts au
+budget de l'exercice précédent, non compris les crédits afférents au remboursement de la dette, et, pour les dépenses à
+caractère pluriannuel incluses dans une autorisation de programme, les liquider et les mandater dans la limite des crédits de
+paiement prévus au titre de l'exercice par la délibération d'ouverture d'autorisation de programme.
 
 L'autorisation mentionnée à l'alinéa ci-dessus précise le montant et l'affectation des crédits.
 
@@ -7498,10 +7558,6 @@ Le présent article s'applique aux régions, sous réserve des dispositions du d
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
-
-	**Modifié par**:
-
-	  - Loi n°96-314 du 12 avril 1996 - art. 69 ()
 
 	**Cité par**:
 
@@ -7549,66 +7605,13 @@ Le présent article s'applique aux régions, sous réserve des dispositions du d
 	  - Code général des collectivités territoriales - art. R3312-6 (Ab)
 	  - Code rural - art. R811-54 (V)
 
+	**Modifié par**:
+
+	  - Loi n°98-135 du 7 mars 1998 - art. 5 ()
+
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L4311-3 (M)
-
-
-###### Article L1612-2
-
-- Si le budget n'est pas adopté avant le 31 mars de l'exercice auquel il s'applique, ou avant le 15 avril de l'année du
-renouvellement des organes délibérants, le représentant de l'Etat dans le département saisit sans délai la chambre régionale
-des comptes qui, dans le mois, et par un avis public, formule des propositions pour le règlement du budget. Le représentant
-de l'Etat règle le budget et le rend exécutoire. Si le représentant de l'Etat dans le département s'écarte des propositions
-de la chambre régionale des comptes, il assortit sa décision d'une motivation explicite.
-
-A compter de la saisine de la chambre régionale des comptes et jusqu'au règlement du budget par le représentant de l'Etat,
-l'organe délibérant ne peut adopter de délibération sur le budget de l'exercice en cours.
-
-Ces dispositions ne sont pas applicables quand le défaut d'adoption résulte de l'absence de communication avant le 15 mars à
-l'organe délibérant d'informations indispensables à l'établissement du budget. La liste de ces informations est fixée par
-décret. Dans ce cas, l'organe délibérant dispose de quinze jours à compter de cette communication pour arrêter le budget.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cité par**:
-
-	  - Arrêté du 26 avril 1996 - art. 5 (V)
-	  - Ordonnance n°96-782 du 5 septembre 1996 - art. 41-2 (Ab)
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 85 (V)
-	  - Loi n°2009-1673 du 30 décembre 2009 - art. 77 (V)
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 40 (V)
-	  - Loi n°2012-354 du 14 mars 2012 - art. 31 (V)
-	  - Ordonnance n°2012-1397 du 13 décembre 2012 - art. 4 (VD)
-	  - ORDONNANCE n°2014-1335 du 6 novembre 2014 - art. 41 (V)
-	  - Loi n°2015-991 du 7 août 2015 - art. 133 (V)
-	  - Code de la construction et de l'habitation. - art. L421-19 (V)
-	  - Code des juridictions financières - art. L232-1 (VD)
-	  - Code des juridictions financières - art. L232-7 (M)
-	  - Code du tourisme. - art. R133-15 (V)
-	  - Code général des collectivités territoriales - art. D5211-16 (V)
-	  - Code général des collectivités territoriales - art. D5219-1 (V)
-	  - Code général des collectivités territoriales - art. L1612-19 (V)
-	  - Code général des collectivités territoriales - art. L1612-3 (V)
-	  - Code général des collectivités territoriales - art. L1612-8 (V)
-	  - Code général des collectivités territoriales - art. L1612-9 (V)
-	  - Code général des collectivités territoriales - art. L1772-1 (V)
-	  - Code général des collectivités territoriales - art. L1781-2 (T)
-	  - Code général des collectivités territoriales - art. L1791-2 (Ab)
-	  - Code général des collectivités territoriales - art. L1872-1 (VD)
-	  - Code général des collectivités territoriales - art. L4311-1-1 (V)
-	  - Code général des collectivités territoriales - art. R1612-16 (V)
-	  - Code général des collectivités territoriales - art. R5111-1 (V)
-	  - Code général des impôts, CGI. - art. 1639 A (V)
-	  - Code général des impôts, annexe 3, CGIAN3. - art. 344 octodecies (P)
 
 
 ###### Article L1612-12
@@ -44112,6 +44115,26 @@ avis au représentant de l'Etat dans la région.
 	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
+###### Article L4132-2-1
+
+Tout membre d'un conseil régional qui, sans excuse valable, a refusé de remplir une des fonctions qui lui sont dévolues par
+les lois est déclaré démissionnaire par le Conseil d'Etat. Le refus résulte soit d'une déclaration expresse adressée à qui de
+droit ou rendue publique par son auteur, soit de l'abstention persistante après avertissement de l'autorité chargée de la
+convocation.
+
+Le membre ainsi démissionnaire ne peut être réélu avant le délai d'un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°98-135 du 7 mars 1998 - art. 4 ()
+
+
 ###### Article L4132-3
 
 Lorsque le fonctionnement d'un conseil régional se révèle impossible, le gouvernement peut en prononcer la dissolution par
@@ -44377,14 +44400,14 @@ Il contient les rapports, les noms des membres qui ont pris part à la discussio
 
 ###### Article L4132-13
 
-- Le conseil régional ne peut délibérer si la majorité absolue de ses membres en exercice n'est présente.
+Le conseil régional ne peut délibérer si la majorité absolue de ses membres en exercice n'est présente. 
 
 Toutefois, si le conseil régional ne se réunit pas, au jour fixé par la convocation, en nombre suffisant pour délibérer, la
 réunion se tient de plein droit trois jours plus tard et les délibérations sont alors valables quel que soit le nombre des
-présents.
+présents. 
 
-Sous réserve des dispositions des articles L. 4133-1, L. 4133-5, L. 4133-6, les délibérations du conseil régional sont prises
-à la majorité des suffrages exprimés.
+Sous réserve des dispositions des articles L. 4133-1, L. 4133-5, L. 4133-6, L. 4311-1-1, les délibérations du conseil
+régional sont prises à la majorité des suffrages exprimés.
 
 **Liens relatifs à cet article**
 
@@ -44396,9 +44419,9 @@ Sous réserve des dispositions des articles L. 4133-1, L. 4133-5, L. 4133-6, les
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°98-135 du 7 mars 1998 - art. 5 ()
 
 	**Cité par**:
 
@@ -44407,9 +44430,7 @@ Sous réserve des dispositions des articles L. 4133-1, L. 4133-5, L. 4133-6, les
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4133-1 (M)
-	  - Code général des collectivités territoriales - art. L4133-5 (V)
-	  - Code général des collectivités territoriales - art. L4133-6 (V)
+	  - Code général des collectivités territoriales - art. L4133-1 (V)
 
 
 ###### Article L4132-14
@@ -44819,9 +44840,10 @@ Ce rapport spécial donne lieu éventuellement à un débat en présence du repr
 
 ###### Article L4133-1
 
-- Le conseil régional élit son président lors de la réunion de droit qui suit chaque renouvellement.
+Le conseil régional élit son président lors de la réunion de droit qui suit chaque renouvellement.
 
-Pour cette élection, il est présidé par son doyen d'âge, le plus jeune membre faisant fonction de secrétaire.
+Pour cette élection, il est présidé par son doyen d'âge, le plus jeune membre faisant fonction de secrétaire. Cette élection
+ne donne lieu à aucun débat.
 
 Le conseil régional ne peut dans ce cas délibérer que si les deux tiers de ses membres sont présents. Si cette condition
 n'est pas remplie, la réunion se tient de plein droit trois jours plus tard. La réunion peut alors avoir lieu sans condition
@@ -44830,6 +44852,10 @@ de quorum.
 Le président est élu à la majorité absolue des membres du conseil régional pour une durée de six ans. Si cette élection n'est
 pas acquise après les deux premiers tours de scrutin, il est procédé à un troisième tour de scrutin et l'élection a lieu à la
 majorité relative des membres du conseil régional. En cas d'égalité des voix, l'élection est acquise au bénéfice de l'âge.
+
+Nul ne peut être élu président s'il n'a, préalablement à chaque tour de scrutin, remis aux membres du conseil régional, par
+l'intermédiaire du doyen d'âge, une déclaration écrite présentant les grandes orientations politiques, économiques et
+sociales de son action pour la durée de son mandat.
 
 **Liens relatifs à cet article**
 
@@ -44841,9 +44867,9 @@ majorité relative des membres du conseil régional. En cas d'égalité des voix
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°98-135 du 7 mars 1998 - art. 1 ()
 
 	**Cité par**:
 
@@ -46327,6 +46353,8 @@ soumises à l'avis du conseil de discipline et au licenciement d'agents de la r�
 6° Les décisions relevant de l'exercice de prérogatives de puissance publique, prises par des sociétés d'économie mixte
 locales pour le compte d'une région ou d'un établissement public de coopération interrégionale.
 
+7° Le budget adopté selon la procédure prévue par l'article L. 4311-1-1..
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -46338,9 +46366,9 @@ locales pour le compte d'une région ou d'un établissement public de coopérati
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°98-135 du 7 mars 1998 - art. 5 ()
 
 	**Cité par**:
 
@@ -46360,6 +46388,7 @@ locales pour le compte d'une région ou d'un établissement public de coopérati
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L4141-1 (M)
+	  - Code général des collectivités territoriales - art. L4311-1-1 (M)
 
 
 ###### Article L4141-3
@@ -47124,22 +47153,25 @@ Le président du conseil régional peut faire tous actes conservatoires et inter
 
 ###### Article L4241-1
 
-- Préalablement à leur examen par le conseil régional, le conseil économique et social régional est obligatoirement saisi
-pour avis des documents relatifs :
+Préalablement à leur examen par le conseil régional, le conseil économique et social régional est obligatoirement saisi pour
+avis des documents relatifs : 
 
-1° A la préparation et à l'exécution dans la région du plan de la nation ;
+1° A la préparation et à l'exécution dans la région du plan de la nation ; 
 
 2° Au projet de plan de la région et à son bilan annuel d'exécution ainsi qu'à tout document de planification et aux schémas
-directeurs qui intéressent la région ;
+directeurs qui intéressent la région ; 
 
-3° Aux différents documents budgétaires de la région, pour se prononcer sur leurs orientations générales ;
+3° Aux différents documents budgétaires de la région, pour se prononcer sur leurs orientations générales ; 
 
 4° Aux orientations générales dans les domaines sur lesquels le conseil régional est appelé à délibérer en application des
 lois reconnaissant une compétence aux régions, ainsi qu'aux schémas et aux programmes prévus par ces lois et au bilan des
-actions menées dans ces domaines.
+actions menées dans ces domaines ;
+
+5° Le projet de budget annexé à la motion mentionnée à l'article L. 4311-1-1, pour se prononcer sur ses orientations
+générales.
 
 A l'initiative du président du conseil régional, il peut être saisi de demandes d'avis et d'études sur tout projet à
-caractère économique, social ou culturel.
+caractère économique, social ou culturel. 
 
 Il peut, en outre, émettre des avis sur toute question entrant dans les compétences de la région.
 
@@ -47158,9 +47190,9 @@ Il peut, en outre, émettre des avis sur toute question entrant dans les compét
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°98-135 du 7 mars 1998 - art. 5 ()
 
 	**Cité par**:
 
@@ -47168,6 +47200,10 @@ Il peut, en outre, émettre des avis sur toute question entrant dans les compét
 	  - Code général des collectivités territoriales - art. R4134-10 (V)
 	  - Code général des collectivités territoriales - art. R4134-11 (V)
 	  - Code général des collectivités territoriales - art. R4241-1 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4311-1-1 (V)
 
 
 ###### Article L4241-2
@@ -47701,7 +47737,7 @@ leur sont rattachés.
 
 ###### Article L4311-1
 
-- Dans un délai de deux mois précédant l'examen du budget, un débat a lieu au conseil régional sur les orientations
+Dans un délai de dix semaines précédant l'examen du budget, un débat a lieu au conseil régional sur les orientations
 budgétaires.
 
 Le projet de budget de la région est préparé et présenté par le président du conseil régional qui est tenu de le communiquer
@@ -47730,15 +47766,64 @@ de la dotation de ce chapitre.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°98-135 du 7 mars 1998 - art. 2 ()
 
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L4221-2 (V)
 	  - Code général des collectivités territoriales - art. L4311-1-1 (V)
 	  - Code général des collectivités territoriales - art. L5622-3 (V)
+
+
+###### Article L4311-1-1
+
+Sous réserve des dispositions du dernier alinéa de l'article L. 1612-2, si le budget n'est pas adopté au 20 mars de
+l'exercice auquel il s'applique ou au 30 avril de l'année de renouvellement des conseils régionaux, le président du conseil
+régional présente, dans un délai de dix jours à compter de cette date ou du vote de rejet, si celui-ci est antérieur, un
+nouveau projet sur la base du projet initial, modifié le cas échéant par un ou plusieurs des amendements présentés lors de la
+discussion. Le nouveau projet ne peut être présenté au conseil régional que s'il a été approuvé par son bureau, s'il existe,
+au cours du délai de dix jours susmentionné.
+
+Ce projet de budget est considéré comme adopté, à moins qu'une motion de renvoi, présentée par la majorité absolue des
+membres du conseil régional, ne soit adoptée à la même majorité. La liste des signataires figure sur la motion de renvoi.
+
+La motion peut être présentée dans un délai de cinq jours à compter de la communication de son nouveau projet par le
+président aux membres du conseil régional et comporte un projet de budget qui lui est annexé.
+
+Le projet de budget annexé à la motion est établi conformément aux dispositions des articles L. 4311-1 à L. 4311-3. Il est
+soumis au conseil économique et social régional qui émet un avis sur ses orientations générales dans un délai de sept jours à
+compter de sa saisine.
+
+Le vote sur la motion ne peut avoir lieu avant l'expiration d'un délai de quarante-huit heures à compter de l'avis du conseil
+économique et social régional ni au-delà d'un délai de sept jours à compter de cet avis.
+
+Si la motion est adoptée, le projet de budget qui lui est annexé est considéré comme adopté.
+
+Les dispositions du présent article ne sont pas applicables à la collectivité territoriale de Corse, ni en l'absence de
+présentation d'un budget par le président du conseil régional dans les conditions prévues à l'article L. 4311-1 ou au premier
+alinéa ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°98-135 du 7 mars 1998 - art. 3 ()
+
+	**Cité par**:
+
+	  - Loi n°99-36 du 19 janvier 1999 - art. 27 (V)
+	  - Code général des collectivités territoriales - art. D4311-7 (V)
+	  - Code général des collectivités territoriales - art. L1612-1 (V)
+	  - Code général des collectivités territoriales - art. L1612-2 (V)
+	  - Code général des collectivités territoriales - art. L4141-2 (V)
+	  - Code général des collectivités territoriales - art. L4241-1 (V)
+	  - Code général des impôts, CGI. - art. 1639 A (V)
 
 
 ###### Article L4311-2
