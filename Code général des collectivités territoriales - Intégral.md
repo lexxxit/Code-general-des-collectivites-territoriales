@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 2000-07-11
+Version Consolidée au 2000-07-14
 
 # Partie législative
 
@@ -7464,6 +7464,101 @@ intérêts afférents aux emprunts souscrits par la collectivité, l'établissem
 	  - CODE DES COMMUNES. - art. L235-16 (Ab)
 
 
+###### Article L1615-6
+
+I. - Jusqu'au 31 décembre 2001, les attributions du Fonds de compensation pour la taxe sur la valeur ajoutée sont déterminées
+en appliquant aux dépenses réelles d'investissement, définies par décret en Conseil d'Etat, un taux de compensation
+forfaitaire de 16,176 %. En 2002, le taux de compensation forfaitaire est fixé à 15,656 %. A compter de 2003, ce taux est
+fixé à 15,482 %.
+
+Le taux de compensation forfaitaire de 15,482 % est applicable aux dépenses d'investissement éligibles réalisées à compter du
+1er avril 2000 par les communautés de communes, les communautés de villes et les communautés d'agglomération.
+
+II. - Pour les bénéficiaires du fonds de compensation pour la taxe sur la valeur ajoutée, visés à l'article L. 1615-2, autres
+que les communautés de communes et les communautés d'agglomération instituées respectivement aux articles L. 5214-1 et L.
+5216-1, les dépenses réelles d'investissement à prendre en considération au titre du fonds de compensation pour la taxe sur
+la valeur ajoutée au titre d'une année déterminée sont celles afférentes à la pénultième année.
+
+Pour ce qui concerne les communautés de villes jusqu'au 1er janvier suivant le premier renouvellement des conseils municipaux
+à compter de la publication de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la
+coopération intercommunale, les communautés de communes et les communautés d'agglomération, les dépenses réelles
+d'investissement à prendre en considération au titre du fonds de compensation pour la taxe sur la valeur ajoutée sont celles
+afférentes à l'exercice en cours.
+
+III. - Les attributions du fonds de compensation pour la taxe sur la valeur ajoutée, dues en vertu des dispositions du
+présent chapitre, dont pourraient bénéficier les districts se transformant en communautés de communes ou en communautés
+d'agglomération à compter de la date de publication de la loi n° 99-586 du 12 juillet 1999 précitée, seront versées selon les
+modalités suivantes :
+
+- l'année où ces établissements publics peuvent bénéficier pour la première fois d'une attribution du fonds conformément aux
+dispositions du deuxième alinéa du présent article, sera versée la totalité de l'attribution du fonds due au titre des
+dépenses éligibles réalisées la pénultième année, majorée des deux tiers de l'attribution du fonds due au titre des dépenses
+éligibles réalisées l'année même ;
+
+- la première année suivante, sera versée la totalité de l'attribution du fonds due au titre des dépenses éligibles réalisées
+la pénultième année, majorée d'un tiers de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année
+précédente et d'un tiers de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année même ;
+
+- la deuxième année, sera versée la totalité de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année
+même, majorée des deux tiers de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année précédente.
+
+A compter de la troisième année, les dépenses réelles d'investissement à prendre en considération pour les attributions du
+fonds de compensation pour la taxe sur la valeur ajoutée à ces établissements au titre d'une année déterminée sont celles
+afférentes à l'exercice en cours.
+
+**Nota:**
+
+NOTA : Loi 2000-656 2000-07-13 art. 13 II :
+
+Par dérogation au premier alinéa du II de l'article L. 1615-6 du code général des collectivités territoriales, les dépenses
+réelles d'investissement réalisées par les bénéficiaires du Fonds de compensation pour la taxe sur la valeur ajoutée en 1999
+ou en 2000 ouvrent droit à des attributions du fonds en 2000, dès lors qu'elles interviennent en réparation des dommages
+directement causés par les intempéries survenues les 12 et 13 novembre 1999 et du 25 au 29 décembre 1999.
+
+Un taux de compensation forfaitaire de 15,482 % est applicable à ces dépenses à compter du 1er avril 2000.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°88-1193 1988-12-29 art. 42 par. I
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Cite**:
+
+	  - Loi n°99-586 1999-07-12
+	  - Code général des collectivités territoriales - art. L1615-2 (M)
+	  - Code général des collectivités territoriales - art. L5214-1 (M)
+	  - Code général des collectivités territoriales - art. L5216-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2000-656 2000-07-13 art. 13 jorf 14 juillet 2000
+
+	**Cité par**:
+
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 13 (V)
+	  - Loi - art. 74 (Ab)
+	  - Décret n°2012-378  du 19 mars 2012 (V)
+	  - Décret n°2012-378  du 19 mars 2012 - art. 1 (V)
+	  - Décret n°2013-833 du 17 septembre 2013 (V)
+	  - Décret n°2013-833 du 17 septembre 2013 - art. 1 (V)
+	  - Décret n°2015-497 du 29 avril 2015 (V)
+	  - Décret n°2015-497 du 29 avril 2015 - art. 1 (V)
+	  - Décret n°2015-1565 du 30 novembre 2015 (V)
+	  - Décret n°2015-1565 du 30 novembre 2015 - art. 1 (V)
+	  - Décret n°2016-1960 du 29 décembre 2016 (V)
+	  - Décret n°2016-1960 du 29 décembre 2016 - art. 1 (V)
+	  - Code général des collectivités territoriales - art. L1612-12 (VD)
+	  - Code général des collectivités territoriales - art. L1615-12 (V)
+	  - Code général des collectivités territoriales - art. L1615-13 (VT)
+	  - Code général des collectivités territoriales - art. L1615-6 (M)
+	  - Code général des collectivités territoriales - art. LO6471-13 (V)
+
+
 ###### Article L1615-8
 
 La population à prendre en compte pour l'application du b et du c de l'article L. 1615-7 est celle qui résulte des
@@ -8570,86 +8665,6 @@ déduction.
 	**Créé par**:
 
 	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-
-###### Article L1615-6
-
-I. - A compter du 1er janvier 1998, les attributions du fonds de compensation pour la taxe sur la valeur ajoutée sont
-déterminées en appliquant aux dépenses réelles d'investissement définies par décret en Conseil d'Etat un taux de compensation
-forfaitaire de 16,176 %.
-
-II. - Pour les bénéficiaires du fonds de compensation pour la taxe sur la valeur ajoutée, visés à l'article L. 1615-2, autres
-que les communautés de communes et les communautés d'agglomération instituées respectivement aux articles L. 5214-1 et L.
-5216-1, les dépenses réelles d'investissement à prendre en considération au titre du fonds de compensation pour la taxe sur
-la valeur ajoutée au titre d'une année déterminée sont celles afférentes à la pénultième année.
-
-Pour ce qui concerne les communautés de villes jusqu'au 1er janvier suivant le premier renouvellement des conseils municipaux
-à compter de la publication de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la
-coopération intercommunale, les communautés de communes et les communautés d'agglomération, les dépenses réelles
-d'investissement à prendre en considération au titre du fonds de compensation pour la taxe sur la valeur ajoutée sont celles
-afférentes à l'exercice en cours.
-
-III. - Les attributions du fonds de compensation pour la taxe sur la valeur ajoutée, dues en vertu des dispositions du
-présent chapitre, dont pourraient bénéficier les districts se transformant en communautés de communes ou en communautés
-d'agglomération à compter de la date de publication de la loi n° 99-586 du 12 juillet 1999 précitée, seront versées selon les
-modalités suivantes :
-
-- l'année où ces établissements publics peuvent bénéficier pour la première fois d'une attribution du fonds conformément aux
-dispositions du deuxième alinéa du présent article, sera versée la totalité de l'attribution du fonds due au titre des
-dépenses éligibles réalisées la pénultième année, majorée des deux tiers de l'attribution du fonds due au titre des dépenses
-éligibles réalisées l'année même ;
-
-- la première année suivante, sera versée la totalité de l'attribution du fonds due au titre des dépenses éligibles réalisées
-la pénultième année, majorée d'un tiers de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année
-précédente et d'un tiers de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année même ;
-
-- la deuxième année, sera versée la totalité de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année
-même, majorée des deux tiers de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année précédente.
-
-A compter de la troisième année, les dépenses réelles d'investissement à prendre en considération pour les attributions du
-fonds de compensation pour la taxe sur la valeur ajoutée à ces établissements au titre d'une année déterminée sont celles
-afférentes à l'exercice en cours.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-1193 1988-12-29 art. 42 par. I
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Cite**:
-
-	  - Loi n°99-586 1999-07-12
-	  - Code général des collectivités territoriales - art. L1615-2 (M)
-	  - Code général des collectivités territoriales - art. L5214-1 (M)
-	  - Code général des collectivités territoriales - art. L5216-1 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 102 ()
-
-	**Cité par**:
-
-	  - Loi n°2000-656 du 13 juillet 2000 - art. 13 (V)
-	  - Loi - art. 74 (Ab)
-	  - Décret n°2012-378  du 19 mars 2012 (V)
-	  - Décret n°2012-378  du 19 mars 2012 - art. 1 (V)
-	  - Décret n°2013-833 du 17 septembre 2013 (V)
-	  - Décret n°2013-833 du 17 septembre 2013 - art. 1 (V)
-	  - Décret n°2015-497 du 29 avril 2015 (V)
-	  - Décret n°2015-497 du 29 avril 2015 - art. 1 (V)
-	  - Décret n°2015-1565 du 30 novembre 2015 (V)
-	  - Décret n°2015-1565 du 30 novembre 2015 - art. 1 (V)
-	  - Décret n°2016-1960 du 29 décembre 2016 (V)
-	  - Décret n°2016-1960 du 29 décembre 2016 - art. 1 (V)
-	  - Code général des collectivités territoriales - art. L1612-12 (VD)
-	  - Code général des collectivités territoriales - art. L1615-12 (V)
-	  - Code général des collectivités territoriales - art. L1615-13 (VT)
-	  - Code général des collectivités territoriales - art. L1615-6 (M)
-	  - Code général des collectivités territoriales - art. LO6471-13 (V)
 
 
 ###### Article L1615-7
@@ -50100,19 +50115,22 @@ Celui-ci est imputé sur les attributions mensuelles versées aux régions.
 ###### Article L4332-8
 
 - Le potentiel fiscal d'une région est déterminé par application aux bases brutes servant à l'assiette des impositions
-régionales des quatre taxes de la pénultième année du taux moyen national d'imposition de la même année à chacune de ces
+régionales des trois taxes de la pénultième année du taux moyen national d'imposition de la même année à chacune de ces
 taxes. Il est majoré d'un produit potentiel déterminé en fonction des compensations servies par l'Etat aux régions à raison
-des exonérations ou réductions de bases de fiscalité directe.
+des exonérations ou réductions de bases de fiscalité directe et de la suppression de la part régionale de la taxe
+d'habitation.
 
 Ce produit potentiel est calculé dans les conditions suivantes :
 
-- les bases de fiscalité de chacune des taxes concernées sont établies par le rapport du montant de la compensation de la
-pénultième année, ou de la fraction de compensation lorsque la taxe en question a fait l'objet de mesures différentes
-d'exonérations ou de réductions de bases, sur le dernier taux voté ou constaté l'année précédant la mise en oeuvre de la
-mesure d'exonération ou de réduction de bases ;
+- les bases de fiscalité de chacune des taxes concernées et de la taxe d'habitation sont établies par le rapport du montant
+de la compensation de la pénultième année, ou de la fraction de compensation lorsque la taxe en question a fait l'objet de
+mesures différentes d'exonérations ou de réductions de bases, sur le dernier taux voté ou constaté l'année précédant la mise
+en oeuvre de la mesure d'exonération ou de réduction de bases et de la suppression de la part régionale de la taxe
+d'habitation.
 
-- ainsi déterminées, ces bases sont pondérées par le taux moyen national d'imposition à chacune de ces taxes de l'année
-précédant la mise en oeuvre de la mesure d'exonération ou de réduction de bases.
+- ainsi déterminées, ces bases sont pondérées par le taux moyen national d'imposition à chacune de ces taxes et celui de la
+taxe d'habitation de l'année précédant la mise en oeuvre de la mesure d'exonération ou de réduction de bases et de la
+suppression de la part régionale de la taxe d'habitation.
 
 **Liens relatifs à cet article**
 
@@ -50125,9 +50143,9 @@ précédant la mise en oeuvre de la mesure d'exonération ou de réduction de ba
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-656 2000-07-13 art. 11 8 jorf 14 juillet 2000
 
 	**Cité par**:
 
@@ -57741,9 +57759,13 @@ Les communautés de communes ne faisant pas application des dispositions de l'ar
 ne peuvent percevoir, à compter de la troisième année d'attribution de la dotation dans la même catégorie, une attribution
 par habitant supérieure à 120 % de la dotation par habitant perçue l'année précédente.
 
-Les disponibilités dégagées par la mise en oeuvre des dispositions de l'alinéa précédent sont réparties à l'ensemble des
-établissements de la catégorie visée à ce même alinéa, selon les dispositions de l'article L. 5211-30 sans que la dotation de
-base et la dotation de péréquation ne soient pondérées par le coefficient d'intégration fiscale.
+Toutefois, les dispositions de l'alinéa précédent ne s'appliquent pas aux communautés de communes créées depuis le 1er
+janvier 1992 tant que leur attribution par habitant reste inférieure à 120 % de l'attribution par habitant perçue en
+application des dispositions du premier et du deuxième alinéa de l'article L. 5211-32.
+
+Les disponibilités dégagées par la mise en oeuvre des dispositions du cinquième alinéa du présent article sont réparties à
+l'ensemble des établissements de la catégorie visée à ce même alinéa, selon les dispositions de l'article L. 5211-30 sans que
+la dotation de base et la dotation de péréquation ne soient pondérées par le coefficient d'intégration fiscale.
 
 Les communautés urbaines faisant application des dispositions de l'article 1609 nonies C du code général des impôts et qui
 sont issues de la transformation de communautés urbaines existantes l'année de promulgation de la loi n° 99-586 du 12 juillet
@@ -57792,7 +57814,7 @@ forfaitaire prévue à l'article L. 2334-7.
 
 	**Modifié par**:
 
-	  - Loi n°99-1126 du 28 décembre 1999 - art. 25 ()
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 35 ()
 
 	**Anciens textes**:
 
@@ -63633,23 +63655,17 @@ communauté ou le syndicat d'agglomération nouvelle vote son taux de taxe profe
 
 ###### Article L5334-5
 
-- Lorsqu'une zone d'activités économiques se situe à la fois sur le territoire d'une agglomération nouvelle et sur celui
-d'une commune limitrophe de cette agglomération nouvelle et comprise dans le périmètre d'intervention d'un établissement
-public d'aménagement de villes nouvelles, l'organe délibérant de l'agglomération nouvelle et le conseil municipal de la
-commune concernée peuvent, par délibérations concordantes, décider que le taux de la taxe professionnelle acquittée dans
-cette zone sera celui s'appliquant chaque année sur le territoire de l'agglomération nouvelle, convenir de la répartition du
-produit de cette taxe afférent à ladite zone et fixer, en tant que de besoin, leurs obligations réciproques. Ces
-délibérations déterminent également le périmètre de la zone d'activité concernée.
-
-L'agglomération nouvelle se substitue à la commune pour la perception de la taxe professionnelle acquittée dans la zone.
-
-Toutefois, l'organisme délibérant de l'agglomération nouvelle et le conseil municipal de la commune peuvent décider, par
-délibérations concordantes, de réduire progressivement, dans la partie de la zone d'activités située hors de l'agglomération
-nouvelle, l'écart entre le taux de la taxe professionnelle de la commune limitrophe et celui de l'agglomération nouvelle.
-
-Cette réduction de l'écart de taux s'effectue à raison du cinquième par année pendant cinq ans.
+Lorsqu'une zone d'activités économiques se situe à la fois sur le territoire d'une agglomération nouvelle et sur celui d'une
+commune limitrophe de cette agglomération nouvelle et comprise dans le périmètre d'intervention d'un établissement public
+d'aménagement de villes nouvelles, et qu'il est fait application des dispositions de l'article 1609 nonies BA du code général
+des impôts, le potentiel fiscal de l'agglomération nouvelle et de la commune concernée est corrigé pour tenir compte de la
+répartition du produit de taxe professionnelle perçu dans la zone d'activités économiques. ;
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies BA
 
 	**Anciens textes**:
 
@@ -63660,9 +63676,9 @@ Cette réduction de l'écart de taux s'effectue à raison du cinquième par ann�
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 36 ()
 
 
 ###### Article L5334-6
@@ -63731,6 +63747,11 @@ pourcentage égal à 70 p. 100 de la variation du produit de la taxe professionn
 d'agglomération nouvelle, augmenté des compensations prévues aux articles 1469 A bis, 1472, 1472 A et 1472 A bis du code
 général des impôts.
 
+Lorsqu'il est fait application des dispositions de l'article 1609 nonies BA du code général des impôts, le produit de la taxe
+professionnelle perçu par la communauté ou le syndicat d'agglomération nouvelle sur son territoire, augmenté des
+compensations, mentionné aux alinéas précédents, s'entend après répartition du produit de la taxe professionnelle et des
+compensations y afférentes perçus dans la zone d'activités économiques. ;
+
 2° Une contribution de chaque commune dont le potentiel fiscal par habitant excède trois fois le potentiel fiscal moyen par
 habitant des communes membres de la communauté ou du syndicat d'agglomération nouvelle. Le montant de la contribution est
 égal aux trois quarts du montant du potentiel fiscal excédant le triple du potentiel fiscal moyen par habitant, multiplié par
@@ -63741,7 +63762,7 @@ les règles fixées à l'article L. 5334-8.
 
 	**Cite**:
 
-	  - CGI 1469 A bis, 1472, 1472 A, 1472 A bis
+	  - CGI 1469 A bis, 1472, 1472 A, 1472 A bis, 1609 nonies BA
 	  - Code général des collectivités territoriales - art. L5334-8 (M)
 
 	**Anciens textes**:
@@ -63754,9 +63775,9 @@ les règles fixées à l'article L. 5334-8.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 36 ()
 
 	**Cité par**:
 
@@ -63877,11 +63898,16 @@ Le présent article n'est pas applicable lorsque la communauté ou le syndicat d
 bénéficié, depuis moins de cinq années, d'avances remboursables accordées par l'Etat afin d'équilibrer son budget de
 fonctionnement.
 
+Lorsqu'il est fait application des dispositions de l'article 1609 nonies BA du code général des impôts, le produit de la taxe
+professionnelle perçu par la communauté ou le syndicat d'agglomération nouvelle, augmenté des compensations, mentionné au
+deuxième alinéa, s'entend après répartition du produit de la taxe professionnelle et des compensations y afférentes perçus
+dans la zone d'activités économiques. ;
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1469 A bis, 1472, 1472 A, 1472 A bis
+	  - CGI 1469 A bis, 1472, 1472 A, 1472 A bis, 1609 nonies BA
 	  - Code général des collectivités territoriales - art. L5334-7 (M)
 
 	**Anciens textes**:
@@ -63893,9 +63919,9 @@ fonctionnement.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 36 ()
 
 	**Cité par**:
 
@@ -64098,7 +64124,17 @@ la somme des dotations de coopération visées à l'article L. 5334-8 et des com
 et, pour le produit de taxe professionnelle non reversé par la communauté ou le syndicat, une quote-part, proportionnelle à
 la population de la commune, dans les bases d'imposition correspondant à ce produit.
 
+Lorsqu'il est fait application des dispositions de l'article 1609 nonies BA du code général des impôts, le produit de taxe
+professionnelle non reversé par la communauté ou le syndicat, mentionné à l'alinéa précédent, s'entend après répartition du
+produit de la taxe professionnelle perçu dans la zone d'activités économiques.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies BA
+	  - Code général des collectivités territoriales - art. L5334-8 (M)
+	  - Code général des collectivités territoriales - art. L5334-9 (M)
 
 	**Anciens textes**:
 
@@ -64109,20 +64145,15 @@ la population de la commune, dans les bases d'imposition correspondant à ce pro
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-656 du 13 juillet 2000 - art. 36 ()
 
 	**Cité par**:
 
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 1648 A (V)
 	  - Code général des collectivités territoriales - art. L2334-4 (V)
 	  - Code général des collectivités territoriales - art. L5334-13 (VT)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5334-8 (M)
-	  - Code général des collectivités territoriales - art. L5334-9 (M)
 
 
 ###### Article L5334-17
