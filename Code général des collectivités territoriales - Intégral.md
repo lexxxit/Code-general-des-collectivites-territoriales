@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 2000-07-08
+Version Consolidée au 2000-07-11
 
 # Partie législative
 
@@ -14531,24 +14531,38 @@ sont membres, soit au cours de l'exécution d'un mandat spécial.
 
 ###### Article L2123-34
 
-Le maire ou un élu municipal le suppléant ou ayant reçu une délégation ne peut être condamné sur le fondement du troisième
-alinéa de l'article 121-3 du code pénal pour des faits non intentionnels commis dans l'exercice de ses fonctions que s'il est
-établi qu'il n'a pas accompli les diligences normales compte tenu de ses compétences, du pouvoir et des moyens dont il
-disposait ainsi que des difficultés propres aux missions que la loi lui confie.
+Sous réserve des dispositions du quatrième alinéa de l'article 121-3 du code pénal, le maire ou un élu municipal le suppléant
+ou ayant reçu une délégation ne peut être condamné sur le fondement du troisième alinéa de ce même article pour des faits non
+intentionnels commis dans l'exercice de ses fonctions que s'il est établi qu'il n'a pas accompli les diligences normales
+compte tenu de ses compétences, du pouvoir et des moyens dont il disposait ainsi que des difficultés propres aux missions que
+la loi lui confie.
+
+La commune est tenue d'accorder sa protection au maire, à l'élu municipal le suppléant ou ayant reçu une délégation ou à l'un
+de ces élus ayant cessé ses fonctions lorsque celui-ci fait l'objet de poursuites pénales à l'occasion de faits qui n'ont pas
+le caractère de faute détachable de l'exercice de ses fonctions.
+
+Lorsque le maire ou un élu municipal le suppléant ou ayant reçu une délégation agit en qualité d'agent de l'Etat, il
+bénéficie, de la part de l'Etat, de la protection prévue par l'article 11 de la loi n° 83-634 du 13 juillet 1983 portant
+droits et obligations des fonctionnaires.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 1983-07-13 art. 11
+	  - Code pénal - art. 121-3 (M)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
-
-	  - Loi n°96-393 du 13 mai 1996 - art. 2 ()
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
+	  - SPEC_APPLI: Loi n°96-393 1996-05-13 art. 5 Loi 2000-647 2000-07-10 art. 14
+
+	**Modifié par**:
+
+	  - Loi n°2000-647 du 10 juillet 2000 - art. 10 () JORF 11 juillet 2000
 
 	**Cité par**:
 
@@ -14560,10 +14574,6 @@ disposait ainsi que des difficultés propres aux missions que la loi lui confie.
 	  - Code général des collectivités territoriales - art. L2573-10 (V)
 	  - Code général des collectivités territoriales - art. L5211-15 (V)
 	  - Code général des collectivités territoriales - art. L5211-8 (T)
-
-	**Cite**:
-
-	  - Code pénal - art. 121-3 (M)
 
 
 ##### CHAPITRE IV : Dispositions applicables en période de mobilisation générale et en temps de guerre
@@ -16434,13 +16444,15 @@ considéré comme gênant et constitue une infraction au sens de l'article R. 37
 
 ###### Article L2213-3
 
-- Le maire peut, par arrêté motivé :
+Le maire peut, par arrêté motivé :
 
 1° Instituer, à titre permanent ou provisoire, pour les véhicules affectés à un service public et pour les besoins exclusifs
-de ce service, des stationnements réservés sur les voies publiques de l'agglomération ;
+de ce service et, dans le cadre de leurs missions, pour les véhicules de transport de fonds, de bijoux ou de métaux précieux,
+des stationnements réservés sur les voies publiques de l'agglomération ;
 
 2° Réserver des emplacements sur ces mêmes voies pour faciliter la circulation et le stationnement des transports publics de
-voyageurs et des taxis.
+voyageurs et des taxis ainsi que des véhicules de transport de fonds, de bijoux ou de métaux précieux, dans le cadre de leurs
+missions.
 
 **Liens relatifs à cet article**
 
@@ -16448,9 +16460,9 @@ voyageurs et des taxis.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°2000-646 du 10 juillet 2000 - art. 1 () JORF 11 juillet 2000
 
 	**Cité par**:
 
@@ -40796,10 +40808,15 @@ appliqués en matière d'assurance maladie.
 
 ###### Article L3123-28
 
-Le président du conseil général ou un vice-président ayant reçu une délégation ne peut être condamné sur le fondement du
-troisième alinéa de l'article 121-3 du code pénal pour des faits non intentionnels commis dans l'exercice de ses fonctions
-que s'il est établi qu'il n'a pas accompli les diligences normales compte tenu de ses compétences, du pouvoir et des moyens
-dont il disposait ainsi que des difficultés propres aux missions que la loi lui confie.
+Sous réserve des dispositions du quatrième alinéa de l'article 121-3 du code pénal, le président du conseil général ou un
+conseiller général le suppléant ou ayant reçu une délégation ne peut être condamné sur le fondement du troisième alinéa de ce
+même article pour des faits non intentionnels commis dans l'exercice de ses fonctions que s'il est établi qu'il n'a pas
+accompli les diligences normales compte tenu de ses compétences, du pouvoir et des moyens dont il disposait ainsi que des
+difficultés propres aux missions que la loi lui confie.
+
+Le département est tenu d'accorder sa protection au président du conseil général, au conseiller général le suppléant ou ayant
+reçu une délégation ou à l'un de ces élus ayant cessé ses fonctions lorsque celui-ci fait l'objet de poursuites pénales à
+l'occasion de faits qui n'ont pas le caractère de faute détachable de l'exercice de ses fonctions.
 
 **Liens relatifs à cet article**
 
@@ -40807,21 +40824,21 @@ dont il disposait ainsi que des difficultés propres aux missions que la loi lui
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
-
-	  - Loi n°96-393 du 13 mai 1996 - art. 2 ()
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
+	  - SPEC_APPLI: Loi n°96-393 1996-05-13 art. 5 Loi 2000-647 2000-07-10 art. 14
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code général des collectivités territoriales - art. L3123-26 (M)
+	  - Loi n°2000-647 du 10 juillet 2000 - art. 11 () JORF 11 juillet 2000
 
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L3534-1 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-3 (M)
 
 
 #### TITRE III : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DÉPARTEMENTALES
@@ -47748,10 +47765,15 @@ appliqués en matière d'assurance maladie.
 
 ###### Article L4135-28
 
-Le président du conseil régional ou un vice-président ayant reçu une délégation ne peut être condamné sur le fondement du
-troisième alinéa de l'article 121-3 du code pénal pour des faits non intentionnels commis dans l'exercice de ses fonctions
-que s'il est établi qu'il n'a pas accompli les diligences normales compte tenu de ses compétences, du pouvoir et des moyens
-dont il disposait ainsi que des difficultés propres aux missions que la loi lui confie.
+Sous réserve des dispositions du quatrième alinéa de l'article 121-3 du code pénal, le président du conseil régional ou un
+conseiller régional le suppléant ou ayant reçu une délégation ne peut être condamné sur le fondement du troisième alinéa de
+ce même article pour des faits non intentionnels commis dans l'exercice de ses fonctions que s'il est établi qu'il n'a pas
+accompli les diligences normales compte tenu de ses compétences, du pouvoir et des moyens dont il disposait ainsi que des
+difficultés propres aux missions que la loi lui confie.
+
+La région est tenue d'accorder sa protection au président du conseil régional, au conseiller régional le suppléant ou ayant
+reçu une délégation ou à l'un de ces élus ayant cessé ses fonctions lorsque celui-ci fait l'objet de poursuites pénales à
+l'occasion de faits qui n'ont pas le caractère de faute détachable de l'exercice de ses fonctions.
 
 **Liens relatifs à cet article**
 
@@ -47759,13 +47781,13 @@ dont il disposait ainsi que des difficultés propres aux missions que la loi lui
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
-
-	  - Loi n°96-393 du 13 mai 1996 - art. 2 ()
-
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
+	  - SPEC_APPLI: Loi n°96-393 1996-05-13 art. 5 Loi 2000-647 2000-07-10 art. 14
+
+	**Modifié par**:
+
+	  - Loi n°2000-647 du 10 juillet 2000 - art. 12 () JORF 11 juillet 2000
 
 	**Cité par**:
 
