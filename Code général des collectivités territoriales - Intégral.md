@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1997-03-01
+Version Consolidée au 1997-04-05
 
 # Partie législative
 
@@ -57631,6 +57631,28 @@ district ;
 	**Cite**:
 
 	  - Code de la construction et de l'habitation. - art. L621-1 (V)
+
+
+###### Article L5213-15-1
+
+Pour l'exercice de ses compétences, le district est également substitué aux communes qui en font partie lorsque celles-ci
+sont groupées avec des communes extérieures au district au sein de syndicats de communes.
+
+Cette disposition ne modifie ni les attributions ni le périmètre des syndicats préexistants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°97-303 1997-04-04 article unique jorf 5 avril 1997
+
+	**Abrogé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
 
 
 ##### Section 4 : Dispositions financières.
