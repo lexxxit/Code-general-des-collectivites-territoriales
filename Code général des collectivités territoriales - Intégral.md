@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1996-05-04
+Version Consolidée au 1996-05-14
 
 # Partie législative
 
@@ -14052,6 +14052,45 @@ sont membres, soit au cours de l'exécution d'un mandat spécial.
 	  - Code général des collectivités territoriales - art. L2511-9 (M)
 	  - Code général des collectivités territoriales - art. L5211-15 (M)
 	  - Code général des collectivités territoriales - art. L5211-8 (T)
+
+
+##### Section 6 : Responsabilité des élus.
+
+###### Article L2123-34
+
+Le maire ou un élu municipal le suppléant ou ayant reçu une délégation ne peut être condamné sur le fondement du troisième
+alinéa de l'article 121-3 du code pénal pour des faits non intentionnels commis dans l'exercice de ses fonctions que s'il est
+établi qu'il n'a pas accompli les diligences normales compte tenu de ses compétences, du pouvoir et des moyens dont il
+disposait ainsi que des difficultés propres aux missions que la loi lui confie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°96-393 du 13 mai 1996 - art. 2 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. L133-9 (VD)
+	  - Code général des collectivités territoriales - art. L2511-33 (M)
+	  - Code général des collectivités territoriales - art. L2564-13 (V)
+	  - Code général des collectivités territoriales - art. L2572-10 (T)
+	  - Code général des collectivités territoriales - art. L2572-12 (V)
+	  - Code général des collectivités territoriales - art. L2573-10 (V)
+	  - Code général des collectivités territoriales - art. L5211-15 (V)
+	  - Code général des collectivités territoriales - art. L5211-8 (T)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-3 (M)
 
 
 ##### CHAPITRE IV : Dispositions applicables en période de mobilisation générale et en temps de guerre
@@ -32498,9 +32537,9 @@ applicables.
 ###### Article L2511-33
 
 - Les articles L. 2123-1 à L. 2123-3, L. 2123-5, L. 2123-7, L. 2123-8, L. 2123-12 à L. 2123-15, le II de l'article L.
-2123-20, le deuxième alinéa de l'article L. 2123-24, les articles L. 2123-26 à L. 2123-29 et le 3° de l'article L. 2321-2
-sont applicables aux maires, adjoints au maire et membres d'un conseil d'arrondissement des communes de Paris, Marseille et
-Lyon.
+2123-20, le deuxième alinéa de l'article L. 2123-24, les articles L. 2123-26 à L. 2123-29, L. 2123-34 et le 3° de l'article
+L. 2321-2 sont applicables aux maires, adjoints au maire et membres d'un conseil d'arrondissement des communes de Paris,
+Marseille et Lyon.
 
 Pour l'application du II de l'article L. 2123-3, les fonctions de maire d'arrondissement sont assimilées à celles visées au
 2° et les fonctions d'adjoint au maire d'arrondissement à celles visées au 3° du paragraphe précité.
@@ -32516,9 +32555,13 @@ Pour l'application du II de l'article L. 2123-3, les fonctions de maire d'arrond
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-393 du 13 mai 1996 - art. 2 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
 
 	**Cité par**:
 
@@ -32530,11 +32573,12 @@ Pour l'application du II de l'article L. 2123-3, les fonctions de maire d'arrond
 
 	  - Code général des collectivités territoriales - art. L2123-20 (M)
 	  - Code général des collectivités territoriales - art. L2123-24 (M)
+	  - Code général des collectivités territoriales - art. L2123-34 (M)
 	  - Code général des collectivités territoriales - art. L2123-5 (M)
 	  - Code général des collectivités territoriales - art. L2123-7 (M)
 	  - Code général des collectivités territoriales - art. L2123-8 (M)
 	  - Code général des collectivités territoriales - art. L2321-2 (M)
-	  - Code général des collectivités territoriales L2123-1 à L2123-3, L2123-5, L2123-7, L2123-8, L2123-12 à L2123-15, L2123-20, L2123-24, L2123-26 à L2123-29, L2321-2
+	  - Code général des collectivités territoriales L2123-1 à L2123-3, L2123-5, L2123-7, L2123-8, L2123-12 à L2123-15, L2123-20, L2123-24, L2123-26 à L2123-29, L2123-34, L2321-2
 
 
 ###### Article L2511-34
@@ -39425,6 +39469,38 @@ appliqués en matière d'assurance maladie.
 	  - Code général des collectivités territoriales - art. L3123-26 (V)
 
 
+##### Section 6 : Responsabilité des élus.
+
+###### Article L3123-28
+
+Le président du conseil général ou un vice-président ayant reçu une délégation ne peut être condamné sur le fondement du
+troisième alinéa de l'article 121-3 du code pénal pour des faits non intentionnels commis dans l'exercice de ses fonctions
+que s'il est établi qu'il n'a pas accompli les diligences normales compte tenu de ses compétences, du pouvoir et des moyens
+dont il disposait ainsi que des difficultés propres aux missions que la loi lui confie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°96-393 du 13 mai 1996 - art. 2 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L3123-26 (M)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L3534-1 (M)
+
+
 #### TITRE III : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS DÉPARTEMENTALES
 
 ##### CHAPITRE Ier : Publicité et entrée en vigueur
@@ -46126,6 +46202,39 @@ appliqués en matière d'assurance maladie.
 	  - Code général des collectivités territoriales - art. L4135-26 (V)
 
 
+##### Section 6 : Responsabilité des élus.
+
+###### Article L4135-28
+
+Le président du conseil régional ou un vice-président ayant reçu une délégation ne peut être condamné sur le fondement du
+troisième alinéa de l'article 121-3 du code pénal pour des faits non intentionnels commis dans l'exercice de ses fonctions
+que s'il est établi qu'il n'a pas accompli les diligences normales compte tenu de ses compétences, du pouvoir et des moyens
+dont il disposait ainsi que des difficultés propres aux missions que la loi lui confie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°96-393 du 13 mai 1996 - art. 2 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L4422-10-1 (Ab)
+	  - Code général des collectivités territoriales - art. L4422-11 (VT)
+
+	**Cite**:
+
+	  - Code pénal - art. 121-3 (M)
+
+
 #### TITRE IV : RÉGIME JURIDIQUE DES ACTES PRIS PAR LES AUTORITÉS RÉGIONALES
 
 ##### CHAPITRE Ier : Publicité et entrée en vigueur
@@ -49250,6 +49359,39 @@ Les procès-verbaux des séances sont signés par le président.
 	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
+###### Article L4422-10-1
+
+Les dispositions de l'article L. 4135-28 relatives à la responsabilité des élus sont applicables au président de l'Assemblée
+de Corse.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales l4422-11
+	  - Code général des collectivités territoriales - art. L4422-11 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°96-393 du 13 mai 1996 - art. 2 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 3 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4135-28 (M)
+
+
 ###### Article L4422-11
 
 - Les dispositions de l'article L. 4135-1 sont applicables aux salariés conseillers à l'Assemblée.
@@ -49521,7 +49663,7 @@ conseil exécutif dans les conditions prévues à l'article L. 4422-4.
 
 - Sont applicables respectivement aux fonctions de membre et de président du conseil exécutif les dispositions relatives aux
 mandats de conseiller régional et de président du conseil régional telles qu'elles sont prévues aux articles L. 4135-1 à L.
-4135-27. Toutefois, les fonctions de membre du conseil exécutif sont, en ce qui concerne leur régime indemnitaire, assimilées
+4135-28. Toutefois, les fonctions de membre du conseil exécutif sont, en ce qui concerne leur régime indemnitaire, assimilées
 à celles de membre de la commission permanente d'un conseil régional.
 
 **Liens relatifs à cet article**
@@ -49536,9 +49678,17 @@ mandats de conseiller régional et de président du conseil régional telles qu'
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-393 du 13 mai 1996 - art. 2 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
+
+	**Transféré par**:
+
+	  - Loi n°2002-92 du 22 janvier 2002 - art. 3 ()
 
 	**Cité par**:
 
@@ -49547,11 +49697,12 @@ mandats de conseiller régional et de président du conseil régional telles qu'
 
 	**Nouveaux textes**:
 
+	  - Code général des collectivités territoriales - art. L4422-22 (T)
 	  - Code général des collectivités territoriales - art. L4422-22 (VT)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales L4135-1 à L4135-27
+	  - Code général des collectivités territoriales L4135-1 à L4135-28
 
 
 ##### Section 3 : Rapports entre l'Assemblée et le conseil exécutif
@@ -54168,9 +54319,12 @@ traitement correspondant à l'indice brut terminal de l'échelle indiciaire de l
 
 ###### Article L5211-8
 
-- Les établissements publics de coopération intercommunale sont responsables, dans les conditions prévues par les articles L.
+Les établissements publics de coopération intercommunale sont responsables, dans les conditions prévues par les articles L.
 2123-31 et L. 2123-33 pour les conseillers municipaux et les maires, des accidents survenus aux membres de leurs organes
 délibérants et à leurs présidents dans l'exercice de leurs fonctions.
+
+Les dispositions de l'article L. 2123-34 relatives à la responsabilité des élus sont applicables au président et aux vice-
+présidents ayant reçu délégation.
 
 **Liens relatifs à cet article**
 
@@ -54178,21 +54332,32 @@ délibérants et à leurs présidents dans l'exercice de leurs fonctions.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-393 du 13 mai 1996 - art. 2 ()
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
+
+	**Transféré par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 37 ()
 
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L167-5 (Ab)
+	  - Loi n°1884-04-05 art. 171 Ordonnance 59-29 1959-01-05 art. 2 Code des communes L167-5 ecqc 163-9 ecqc la responsabilité
 
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2123-31 (V)
 	  - Code général des collectivités territoriales - art. L2123-33 (M)
+	  - Code général des collectivités territoriales - art. L2123-34 (M)
 
 	**Nouveaux textes**:
 
+	  - Code général des collectivités territoriales - art. L5211-15 (T)
 	  - Code général des collectivités territoriales - art. L5211-15 (V)
 
 	**Cité par**:
