@@ -53,11 +53,12 @@ personnes signalées disparues et sur les véhicules volés, susceptibles d'êtr
 cas d'identification par ses agents d'une personne signalée disparue ou d'un véhicule volé, la police municipale en informe
 les forces de sécurité de l'État. 
 
-Art. 4.-Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale et par l'article
-L. 1 
-  <sup>er </sup>du code de la route, les agents de police municipale doivent pouvoir joindre à tout moment un officier de
-police judiciaire territorialement compétent.A cette fin, le responsable des forces de sécurité de l'État et le responsable
-de la police municipale précisent les moyens par lesquels ils doivent pouvoir communiquer entre eux en toutes circonstances. 
+Art. 4.-Pour pouvoir exercer les missions prévues par les articles 21-2 et 78-6 du code de procédure pénale et par les
+articles L234-1, L234-3, L234-4, L234-5, L234-8, L234-6, 
+L234-11, L234-7, L234-2, L234-8, L221-2, L223-5, L224-5, L224-16, L224-17, L224-18, L231-2, L233-1, L233-2 du code de la
+route, les agents de police municipale doivent pouvoir joindre à tout moment un officier de police judiciaire
+territorialement compétent.A cette fin, le responsable des forces de sécurité de l'État et le responsable de la police
+municipale précisent les moyens par lesquels ils doivent pouvoir communiquer entre eux en toutes circonstances. 
 
 Art. 5.-Les communications entre la police municipale et les forces de sécurité de l'État pour l'accomplissement de leurs
 missions respectives se font par une ligne téléphonique réservée ou par une liaison radiophonique, dans des conditions
@@ -117,9 +118,9 @@ reconduction. Elle peut être dénoncée après un préavis de six mois par l'un
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2000-1329 du 26 décembre 2000 - art. 2 (V)
+	  - Ordonnance n°2000-930 du 22 septembre 2000 - art.1, v. init.
 
 	**Cite**:
 
@@ -127,3 +128,10 @@ reconduction. Elle peut être dénoncée après un préavis de six mois par l'un
 	  - Code général des collectivités territoriales - art. R2212-1 (V)
 	  - CODE DE PROCEDURE PENALE - art. 21-2 (V)
 	  - CODE DE PROCEDURE PENALE - art. 78-6 (V)
+	  - Code de la route. - art. L221-2 (V)
+	  - Code de la route. - art. L223-5 (V)
+	  - Code de la route. - art. L224-16 (V)
+	  - Code de la route. - art. L231-2 (V)
+	  - Code de la route. - art. L233-1 (V)
+	  - Code de la route. - art. L234-1 (V)
+	  - Code de la route. - art. L234-11 (Ab)
