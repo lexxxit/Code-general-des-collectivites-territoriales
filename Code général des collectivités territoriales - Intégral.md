@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1996-12-31
+Version Consolidée au 1997-01-01
 
 # Partie législative
 
@@ -15762,7 +15762,7 @@ certaines sections des routes à grande circulation.
 
 ###### Article L2213-2
 
-- Le maire peut, par arrêté motivé, eu égard aux nécessités de la circulation :
+Le maire peut, par arrêté motivé, eu égard aux nécessités de la circulation et de la protection de l'environnement :
 
 1° Interdire à certaines heures l'accès de certaines voies de l'agglomération ou de certaines portions de voie ou réserver
 cet accès, à certaines heures, à diverses catégories d'usagers ou de véhicules ;
@@ -15800,9 +15800,9 @@ considéré comme gênant et constitue une infraction au sens de l'article R. 37
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 42 ()
 
 	**Anciens textes**:
 
@@ -15863,10 +15863,11 @@ voyageurs et des taxis.
 
 ###### Article L2213-4
 
-- Le maire peut, par arrêté motivé, interdire l'accès de certaines voies ou de certaines portions de voies ou de certains
+Le maire peut, par arrêté motivé, interdire l'accès de certaines voies ou de certaines portions de voies ou de certains
 secteurs de la commune aux véhicules dont la circulation sur ces voies ou dans ces secteurs est de nature à compromettre soit
-la tranquillité publique, soit la protection des espèces animales ou végétales, soit la protection des espaces naturels, des
-paysages ou des sites ou leur mise en valeur à des fins esthétiques, écologiques, agricoles, forestières ou touristiques.
+la tranquillité publique, soit la qualité de l'air, soit la protection des espèces animales ou végétales, soit la protection
+des espaces naturels, des paysages ou des sites ou leur mise en valeur à des fins esthétiques, écologiques, agricoles,
+forestières ou touristiques.
 
 Dans ces secteurs, le maire peut, en outre, par arrêté motivé, soumettre à des prescriptions particulières relatives aux
 conditions d'horaires et d'accès à certains lieux et aux niveaux sonores admissibles les activités s'exerçant sur la voie
@@ -15882,9 +15883,9 @@ d'entretien des espaces naturels.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 42 ()
 
 	**Cité par**:
 
@@ -21488,18 +21489,18 @@ notification le concernant est valablement faite à la mairie.
 
 ###### Article L2243-3
 
-- A l'issue d'un délai de deux ans à compter de l'exécution des mesures de publicité et des notifications prévues à l'article
+A l'issue d'un délai de six mois à compter de l'exécution des mesures de publicité et des notifications prévues à l'article
 L. 2243-2, le maire constate par un procès-verbal définitif l'état d'abandon manifeste de la parcelle ; ce procès-verbal est
 tenu à la disposition du public. Le maire saisit le conseil municipal qui décide s'il y a lieu de déclarer la parcelle en
 état d'abandon manifeste et d'en poursuivre l'expropriation au profit de la commune, pour une destination qu'il détermine.
 
-La procédure tendant à la déclaration d'état d'abandon manifeste ne peut être poursuivie si, pendant le délai de deux ans
-mentionné à l'alinéa précédent, les propriétaires ont mis fin à l'état d'abandon ou ont manifesté leur intention d'y mettre
-fin soit en commençant des travaux, soit en s'engageant à les réaliser dans un délai fixé en accord avec le maire.
+La procédure tendant à la déclaration d'état d'abandon manifeste ne peut être poursuivie si, pendant le délai mentionné à
+l'alinéa précédent, les propriétaires ont mis fin à l'état d'abandon ou ont manifesté leur intention d'y mettre fin soit en
+commençant des travaux, soit en s'engageant à les réaliser dans un délai fixé en accord avec le maire.
 
 La procédure tendant à la déclaration d'état d'abandon manifeste peut être reprise si les travaux n'ont pas été réalisés dans
-le délai prévu. Dans ce cas, le procès-verbal définitif d'abandon manifeste intervient soit à l'expiration du délai de deux
-ans mentionné au premier alinéa, soit, si elle est postérieure, dès la date à laquelle les travaux auraient d être réalisés.
+le délai prévu. Dans ce cas, le procès-verbal définitif d'abandon manifeste intervient soit à l'expiration du délai mentionné
+au premier alinéa, soit, si elle est postérieure, dès la date à laquelle les travaux auraient dû être réalisés.
 
 **Liens relatifs à cet article**
 
@@ -21511,9 +21512,9 @@ ans mentionné au premier alinéa, soit, si elle est postérieure, dès la date 
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-1236 du 30 décembre 1996 - art. 45 ()
 
 	**Cité par**:
 
