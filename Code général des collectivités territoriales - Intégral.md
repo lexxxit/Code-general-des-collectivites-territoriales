@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1999-07-10
+Version Consolidée au 1999-07-13
 
 # Partie législative
 
@@ -578,7 +578,7 @@ régions, des départements, des communes et de leurs groupements, ainsi que de 
 
 ###### Article L1211-2
 
-- Le comité des finances locales comprend :
+Le comité des finances locales comprend :
 
 - deux députés élus par l'Assemblée nationale ;
 
@@ -586,15 +586,19 @@ régions, des départements, des communes et de leurs groupements, ainsi que de 
 
 - deux présidents de conseils régionaux élus par le collège des présidents de conseils régionaux ;
 
-- quatre présidents de conseils généraux élus par le collège des présidents de conseils généraux ;
+- quatre présidents de conseils généraux élus par le collège des présidents de conseils généraux dont un au moins pour les
+départements éligibles à la dotation de fonctionnement minimale définie à la sous-section 4 de la section 1 du chapitre IV du
+titre III du livre III de la troisième partie du présent code ;
 
-- six présidents de groupements de communes élus par le collège des présidents de groupements de communes à raison d'un pour
-les communautés urbaines, d'un pour les communautés de villes, d'un pour les communautés de communes, d'un autre pour les
-districts, d'un autre pour les syndicats et d'un autre pour les organismes institués en vue de la création d'une
-agglomération nouvelle ;
+- sept présidents d'établissements publics de coopération intercommunale élus par le collège des présidents d'établissements
+publics de coopération intercommunale à raison d'un pour les communautés urbaines, d'un pour les communautés de communes
+ayant opté pour le régime fiscal de l'article 1609 nonies C du code général des impôts, de deux pour les communautés de
+communes n'ayant pas opté pour les dispositions du même article, d'un pour les communautés d'agglomération, d'un pour les
+syndicats et d'un pour les organismes institués en vue de la création d'une agglomération nouvelle ;
 
 - quinze maires élus par le collège des maires de France, dont un au moins pour les départements d'outre-mer, un pour les
-territoires d'outre-mer, un pour les communes touristiques et trois pour les communes de moins de 2 000 habitants ;
+territoires d'outre-mer, un pour les communes situées en zone de montagne, un pour les communes situées en zone littorale, un
+pour les communes touristiques et trois pour les communes de moins de 2 000 habitants ;
 
 - onze représentants de l'Etat désignés par décret.
 
@@ -608,18 +612,27 @@ deux pour chaque assemblée ;
 
 - pour ce qui concerne les maires, par l'un de leurs adjoints réglementaires ;
 
-- pour ce qui concerne les présidents de conseils généraux et les présidents de groupements de communes, par l'un de leurs
-vice-présidents.
+- pour ce qui concerne les présidents de conseils généraux, les présidents de conseils régionaux et les présidents
+d'établissements publics de coopération intercommunale, par l'un de leurs vice-présidents.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies C
+
+	**Anciens textes**:
+
+	  - Code des communes, art. 234-20 al. 2 et 3 et 4 et 5 et 6 et 7 et 8 et 9 et 10 et 11 et 12 et 13 et 14
+	  - CODE DES COMMUNES. - art. L234-20 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 99 ()
 
 	**Cité par**:
 
@@ -630,11 +643,6 @@ vice-présidents.
 	  - Code général des collectivités territoriales - art. R1211-19 (T)
 	  - Code général des collectivités territoriales - art. R1212-1 (VD)
 	  - Code général des collectivités territoriales - art. R1213-1 (V)
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L234-20 (Ab)
-	  - Code des communes, art. 234-20 al. 2 et 3 et 4 et 5 et 6 et 7 et 8 et 9 et 10 et 11 et 12 et 13 et 14
 
 
 ###### Article L1211-3
@@ -1313,6 +1321,42 @@ immobiliers ainsi que les baux passés, en la forme administrative, par ces coll
 	  - Code général des collectivités territoriales - art. L1311-14 (V)
 
 
+###### Article L1311-7
+
+L'utilisation d'équipements collectifs par une collectivité territoriale, un établissement public de coopération
+intercommunale ou un syndicat mixte fait l'objet d'une participation financière au bénéfice de la collectivité territoriale,
+de l'établissement public de coopération intercommunale ou du syndicat mixte propriétaire de ces équipements. Toutefois,
+lorsque l'équipement concerné est affecté à l'exercice d'une compétence transférée à l'établissement public de coopération
+intercommunale ou au syndicat mixte par la collectivité ou l'établissement utilisateurs de cet équipement, cette disposition
+n'est pas applicable à cette collectivité ou à cet établissement.
+
+Le montant de la participation financière est calculé par référence aux frais de fonctionnement des équipements. Les
+modalités de calcul de cette participation sont définies par convention passée entre le propriétaire et la collectivité,
+l'établissement ou le syndicat utilisateurs. A défaut de signature de cette convention au terme d'un délai d'un an
+d'utilisation de cet équipement, le propriétaire détermine le montant de cette participation financière qui constitue une
+dépense obligatoire pour l'utilisateur.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°84-610 du 16 juillet 1984 - art. 40 (Ab)
+	  - Code de l'éducation - art. L214-4 (M)
+	  - Code général des collectivités territoriales - art. L1741-1 (M)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 1999-07-12 jorf 13 juillet 1999
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L1311-15 (V)
+
+
 #### TITRE II : RÈGLES PARTICULIÈRES EN CAS DE TRANSFERT DE COMPÉTENCE
 
 ##### CHAPITRE UNIQUE
@@ -1639,70 +1683,13 @@ charge des dépenses par la région ou le département, résultant de l'applicat
 
 ### LIVRE IV : SERVICES PUBLICS LOCAUX
 
-#### TITRE Ier : LES DÉLÉGATIONS DE SERVICE PUBLIC
+#### TITRE Ier : PRINCIPES GENERAUX
 
-##### CHAPITRE UNIQUE.
-
-###### Article L1411-1
-
-- Les délégations de service public des personnes morales de droit public relevant du présent code sont soumises par
-l'autorité délégante à une procédure de publicité permettant la présentation de plusieurs offres concurrentes, dans des
-conditions prévues par un décret en Conseil d'Etat.
-
-La collectivité publique dresse la liste des candidats admis à présenter une offre après examen de leurs garanties
-professionnelles et financières et de leur aptitude à assurer la continuité du service public et l'égalité des usagers devant
-le service public.
-
-La collectivité adresse à chacun des candidats un document définissant les caractéristiques quantitatives et qualitatives des
-prestations ainsi que, s'il y a lieu, les conditions de tarification du service rendu à l'usager.
-
-Les offres ainsi présentées sont librement négociées par l'autorité responsable de la personne publique délégante qui, au
-terme de ces négociations, choisit le délégataire.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°85-801 du 30 juillet 1985 - art. 1 (V)
-	  - Loi n°99-209 du 19 mars 1999 - art. 158 (V)
-	  - Loi n°99-209 du 19 mars 1999 - art. 92 (V)
-	  - Loi n°99-210 du 19 mars 1999 - art. 8-1 (V)
-	  - Loi n°2000-321 du 12 avril 2000 - art. 16 (VT)
-	  - Arrêté du 14 mai 2007 - art. 3 (V)
-	  - Décret n°2007-1400 du 28 septembre 2007 - art. 5 (VT)
-	  - Décret n°2008-1464 du 22 décembre 2008 (V)
-	  - Décret n°2016-86 du 1er février 2016 - art. 50
-	  - Code de commerce - art. L761-2 (V)
-	  - Code de commerce. - art. L730-2 (Ab)
-	  - Code de l'environnement - art. L211-3 (VD)
-	  - Code de l'éducation - art. D213-30 (VD)
-	  - Code de la sécurité intérieure - art. R732-6 (VD)
-	  - Code général de la propriété des personnes publ... - art. R2124-31 (V)
-	  - Code général des collectivités territoriales - art. L1411-10 (V)
-	  - Code général des collectivités territoriales - art. L1411-11 (VT)
-	  - Code général des collectivités territoriales - art. L1411-12 (VT)
-	  - Code général des collectivités territoriales - art. L1411-5 (V)
-	  - Code général des collectivités territoriales - art. L1524-5 (V)
-	  - Code général des collectivités territoriales - art. L1751-1 (Ab)
-	  - Code général des collectivités territoriales - art. R1311-2 (VT)
-	  - Code général des collectivités territoriales - art. R1411-1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°93-122 1993-01-29 art. 38
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
+##### CHAPITRE Ier : LES DELEGATIONS DE SERVICE PUBLIC
 
 ###### Article L1411-2
 
-- Les conventions de délégation de service public doivent être limitées dans leur durée. Celle-ci est déterminée par la
+Les conventions de délégation de service public doivent être limitées dans leur durée. Celle-ci est déterminée par la
 collectivité en fonction des prestations demandées au délégataire. Lorsque les installations sont à la charge du délégataire,
 la convention de délégation tient compte, pour la détermination de sa durée, de la nature et du montant de l'investissement à
 réaliser et ne peut dans ce cas dépasser la durée normale d'amortissement des installations mises en oeuvre. Dans le domaine
@@ -1745,9 +1732,9 @@ Les modalités d'application du présent article sont fixées, en tant que de be
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
 
 	**Cité par**:
 
@@ -1756,131 +1743,11 @@ Les modalités d'application du présent article sont fixées, en tant que de be
 	  - Code général des collectivités territoriales - art. L1411-12 (V)
 
 
-###### Article L1411-3
-
-- Le délégataire produit chaque année avant le 1er juin à l'autorité délégante un rapport comportant notamment les comptes
-retraçant la totalité des opérations afférentes à l'exécution de la délégation de service public et une analyse de la qualité
-de service. Ce rapport est assorti d'une annexe permettant à l'autorité délégante d'apprécier les conditions d'exécution du
-service public.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-122 1993-01-29 art. 40-1
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cité par**:
-
-	  - Décret n°2005-236 du 14 mars 2005 - art. 4 (VT)
-	  - Décret n°2005-1595 du 19 décembre 2005 - art. 3 (Ab)
-	  - Décret n°2006-608 du 26 mai 2006 - art. 13 (Ab)
-	  - Arrêté du 14 mai 2007 - art. 6 (V)
-	  - Arrêté du 14 mai 2007 - art. 7 (V)
-	  - Arrêté du 14 mai 2007 - art. 8 (V)
-	  - Arrêté du 14 mai 2007 - art. 9 (V)
-	  - Code de commerce - art. R761-5 (V)
-	  - Code général de la propriété des personnes publ... - art. R2124-31 (V)
-	  - Code général des collectivités territoriales - art. L1413-1 (VD)
-	  - Code général des collectivités territoriales - art. L2224-11-3 (V)
-	  - Code général des collectivités territoriales - art. R1411-7 (VT)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales annexe
-
-
-###### Article L1411-4
-
-- Les assemblées délibérantes des collectivités territoriales, de leurs groupements et de leurs établissements publics se
-prononcent sur le principe de toute délégation de service public local. Elles statuent au vu d'un rapport présentant le
-document contenant les caractéristiques des prestations que doit assurer le délégataire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-122 1993-01-29 art. 42
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cité par**:
-
-	  - Arrêté du 14 mai 2007 - art. 3 (V)
-	  - Arrêté du 14 mai 2007 - art. 6 (V)
-	  - Code général des collectivités territoriales - art. L1411-11 (VT)
-	  - Code général des collectivités territoriales - art. L1413-1 (VD)
-
-
-###### Article L1411-5
-
-- Après décision sur le principe de la délégation, il est procédé à une publicité et à un recueil d'offres dans les
-conditions prévues aux deuxième et troisième alinéas de l'article L. 1411-1.
-
-Les plis contenant les offres sont ouverts par une commission composée :
-
-a) Lorsqu'il s'agit d'une région, de la collectivité territoriale de Corse, d'un département, d'une commune de 3 500
-habitants et plus et d'un établissement public, par l'autorité habilitée à signer la convention de délégation de service
-public ou son représentant, président, et par cinq membres de l'assemblée délibérante élus en son sein à la représentation
-proportionnelle au plus fort reste ;
-
-b) Lorsqu'il s'agit d'une commune de moins de 3 500 habitants, par le maire ou son représentant, président, et par trois
-membres du conseil municipal élus par le conseil à la représentation proportionnelle au plus fort reste.
-
-Il est procédé, selon les mêmes modalités, à l'élection de suppléants en nombre égal à celui de membres titulaires.
-
-Le comptable de la collectivité et un représentant du ministre chargé de la concurrence siègent également à la commission
-avec voix consultative.
-
-Au vu de l'avis de la commission, l'autorité habilitée à signer la convention engage librement toute discussion utile avec
-une ou des entreprises ayant présenté une offre. Elle saisit l'assemblée délibérante du choix de l'entreprise auquel elle a
-procédé. Elle lui transmet le rapport de la commission présentant notamment la liste des entreprises admises à présenter une
-offre et l'analyse des propositions de celles-ci, ainsi que les motifs du choix de la candidate et l'économie générale du
-contrat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-122 1993-01-29 art. 43
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cité par**:
-
-	  - Arrêté du 14 mai 2007 - art. 3 (V)
-	  - Code général des collectivités territoriales - art. D1411-3 (V)
-	  - Code général des collectivités territoriales - art. L1411-1 (V)
-	  - Code général des collectivités territoriales - art. L1411-6 (VD)
-	  - Code général des collectivités territoriales - art. L1411-7 (V)
-	  - Code général des collectivités territoriales - art. L1414-2 (V)
-	  - Code général des collectivités territoriales - art. L1414-6 (VT)
-
-
 ###### Article L1411-6
 
-- Tout projet d'avenant à une convention de délégation de service public entraînant une augmentation du montant global
-supérieure à 5 p. 100 est soumis pour avis à la commission visée à l'article L. 1411-5. L'assemblée délibérante qui statue
-sur le projet d'avenant est préalablement informée de cet avis.
+Tout projet d'avenant à une convention de délégation de service public entraînant une augmentation du montant global
+supérieure à 5% est soumis pour avis à la commission visée à l'article L. 1411-5. L'assemblée délibérante qui statue sur le
+projet d'avenant est préalablement informée de cet avis.
 
 **Liens relatifs à cet article**
 
@@ -1892,45 +1759,18 @@ sur le projet d'avenant est préalablement informée de cet avis.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1411-5 (M)
-
-
-###### Article L1411-7
-
-- Deux mois au moins après la saisine de la commission mentionnée à l'article L. 1411-5, l'assemblée délibérante se prononce
-sur le choix du délégataire et le contrat de délégation.
-
-Les documents sur lesquels se prononce l'assemblée délibérante doivent lui être transmis quinze jours au moins avant sa
-délibération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-122 1993-01-29 art. 44
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1411-5 (M)
+	  - Code général des collectivités territoriales - art. L1411-5 (V)
 
 
 ###### Article L1411-8
 
-- Le recours à une procédure de négociation directe avec une entreprise déterminée n'est possible que dans le cas où, après
+Le recours à une procédure de négociation directe avec une entreprise déterminée n'est possible que dans le cas où, après
 mise en concurrence, aucune offre n'a été proposée ou n'est acceptée par la collectivité publique.
 
 **Liens relatifs à cet article**
@@ -1943,20 +1783,24 @@ mise en concurrence, aucune offre n'a été proposée ou n'est acceptée par la 
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 77 (VD)
 
 
 ###### Article L1411-9
 
-- Aux conventions de délégation de service public des communes et des établissements publics communaux ou intercommunaux
+Aux conventions de délégation de service public des communes et des établissements publics communaux ou intercommunaux
 transmises par application de l'article L. 2131-2 au représentant de l'Etat dans le département ou à son délégué dans
 l'arrondissement, dans un délai de quinze jours à compter de leur signature, l'autorité territoriale joint l'ensemble des
-pièces dont la liste est fixée par décret en Conseil d'Etat.
+pièces dont la liste est fixée par décret en Conseil d'Etat. 
 
 Elle certifie, par une mention apposée sur la convention notifiée au titulaire de la délégation, que celle-ci a bien été
-transmise, en précisant la date de cette transmission.
+transmise, en précisant la date de cette transmission. 
 
 Elle informe, dans un délai de quinze jours, le représentant de l'Etat dans le département ou son délégué dans
 l'arrondissement de la date de notification de cette convention.
@@ -1967,9 +1811,9 @@ l'arrondissement de la date de notification de cette convention.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
 
 	**Anciens textes**:
 
@@ -1985,12 +1829,12 @@ l'arrondissement de la date de notification de cette convention.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2131-2 (M)
+	  - Code général des collectivités territoriales - art. L2131-2 (V)
 
 
 ###### Article L1411-10
 
-- Les dispositions des articles L. 1411-1 à L. 1411-9 et L. 1411-11 s'appliquent aux groupements des collectivités
+Les dispositions des articles L. 1411-1 à L. 1411-9 et L. 1411-11 s'appliquent aux groupements des collectivités
 territoriales et aux autres établissements publics de ces collectivités.
 
 **Liens relatifs à cet article**
@@ -2003,20 +1847,20 @@ territoriales et aux autres établissements publics de ces collectivités.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1411-11 (M)
-	  - Code général des collectivités territoriales L1411-1 à L1411-9, L1411-11
+	  - Code général des collectivités territoriales - art. L1411-1 (V)
+	  - Code général des collectivités territoriales - art. L1411-11 (V)
 
 
 ###### Article L1411-11
 
-- Les dispositions des articles L. 1411-1 et L. 1411-4 à L. 1411-10 sont applicables aux conventions dont la signature
-intervient à compter du 31 mars 1993.
+Les dispositions des articles L. 1411-1 et L. 1411-4 à L. 1411-10 sont applicables aux conventions dont la signature
+intervient à compter du 31 mars 1993. 
 
 Elles ne sont pas applicables lorsque, avant le 30 janvier 1993, date de publication de la loi n° 93-122 du 29 janvier 1993
 relative à la prévention de la corruption et à la transparence de la vie économique et des procédures publiques, l'autorité
@@ -2025,70 +1869,36 @@ préliminaires.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°93-122 1993-01-29
-	  - Code général des collectivités territoriales - art. L1411-1 (M)
-	  - Code général des collectivités territoriales L1411-1, L1411-4 à L1411-10
-
 	**Anciens textes**:
 
 	  - Loi n°93-122 1993-01-29 art. 47
+
+	**Cite**:
+
+	  - Loi n°93-122 du 29 janvier 1993
+	  - Code général des collectivités territoriales - art. L1411-1
+	  - Code général des collectivités territoriales - art. L1411-4
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2016-65 du 29 janvier 2016 - art. 77 (VD)
 
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L1411-10 (V)
 
 
-###### Article L1411-12
-
-- Les dispositions des articles L. 1411-1 à L. 1411-11 ne s'appliquent pas aux délégations de service public :
-
-a) Lorsque la loi institue un monopole au profit d'une entreprise ;
-
-b) Lorsque ce service est confié à un établissement public et à condition que l'activité déléguée figure expressément dans
-les statuts de l'établissement ;
-
-c) Lorsque le montant des sommes dues au délégataire pour toute la durée de la convention n'excède pas 700 000 F ou que la
-convention couvre une durée non supérieure à trois ans et porte sur un montant n'excédant pas 450 000 F par an. Toutefois,
-dans ce cas, le projet de délégation est soumis à une publicité préalable ainsi qu'aux dispositions de l'article L. 1411-2.
-Les modalités de cette publicité sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-122 1993-01-29 art. 41
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1411-2 (M)
-	  - Code général des collectivités territoriales L1411-1 à L1411-11, L1411-2
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. R1411-2 (VT)
-
-
 ###### Article L1411-13
 
-- Dans les communes de 3 500 habitants et plus, les documents relatifs à l'exploitation des services publics délégués, qui
+Dans les communes de 3 500 habitants et plus, les documents relatifs à l'exploitation des services publics délégués, qui
 doivent être remis à la commune en application de conventions de délégation de service public, à l'exception de ceux
 mentionnés à l'article 6 de la loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre
 l'administration et le public et diverses dispositions d'ordre administratif, social et fiscal, sont mis à la disposition du
@@ -2100,16 +1910,15 @@ habituels d'affichage pendant au moins un mois.
 
 	**Cite**:
 
-	  - Loi n°78-753 du 17 juillet 1978 - art. 6 (M)
-	  - Code général des collectivités territoriales annexe
+	  - Loi n°78-753 du 17 juillet 1978 (V)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
 
 	**Anciens textes**:
 
@@ -2127,9 +1936,9 @@ habituels d'affichage pendant au moins un mois.
 
 ###### Article L1411-14
 
-- Les dispositions de l'article L. 1411-13 s'appliquent aux établissements publics administratifs des communes de 3 500
+Les dispositions de l'article L. 1411-13 s'appliquent aux établissements publics administratifs des communes de 3 500
 habitants et plus, aux établissements publics de coopération intercommunale et aux syndicats mixtes mentionnés à l'article L.
-5711-1, qui comprennent au moins une commune de 3 500 habitants et plus.
+5711-1, qui comprennent au moins une commune de 3 500 habitants et plus. 
 
 Le lieu de mise à la disposition du public est le siège de l'établissement et les mairies des communes membres de
 l'établissement public de coopération intercommunale ou du syndicat mixte.
@@ -2145,51 +1954,50 @@ l'établissement public de coopération intercommunale ou du syndicat mixte.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1411-13 (M)
-	  - Code général des collectivités territoriales - art. L5711-1 (M)
+	  - Code général des collectivités territoriales - art. L1411-13 (V)
+	  - Code général des collectivités territoriales - art. L5711-1 (V)
 
 
 ###### Article L1411-15
 
-- Les dispositions de l'article L. 1411-13 sont applicables aux départements. Le lieu de mise à disposition du public est
+Les dispositions de l'article L. 1411-13 sont applicables aux départements. Le lieu de mise à disposition du public est
 l'hôtel du département. Ces documents peuvent également être mis à la disposition du public dans chaque canton, dans un lieu
 public.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1411-13 (V)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L1411-17 (V)
 
 	**Anciens textes**:
 
 	  - Loi n°1871-08-10 art. 67 al. 2 / Code des communes
 	  - Loi n°1871-08-10. du 10 août 1871 - art. 67 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1411-13 (M)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L1411-17 (V)
-
 
 ###### Article L1411-16
 
-- Les dispositions de l'article L. 1411-13 sont applicables aux régions. Le lieu de mise à disposition du public est l'hôtel
-de la région. Ces documents peuvent également être mis à la disposition du public dans chaque département, dans un lieu
-public.
+Les dispositions de l'article L. 1411-13 sont applicables aux régions. Le lieu de mise à disposition du public est l'hôtel de
+la région. Ces documents peuvent également être mis à la disposition du public dans chaque département, dans un lieu public.
 
 **Liens relatifs à cet article**
 
@@ -2202,13 +2010,13 @@ public.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1411-13 (M)
+	  - Code général des collectivités territoriales - art. L1411-13 (V)
 
 	**Cité par**:
 
@@ -2217,7 +2025,7 @@ public.
 
 ###### Article L1411-17
 
-- Les dispositions prévues aux articles L. 1411-15 et L. 1411-16 s'appliquent également aux établissements publics de
+Les dispositions prévues aux articles L. 1411-15 et L. 1411-16 s'appliquent également aux établissements publics de
 coopération interdépartementale, aux établissements publics de coopération interrégionale et aux syndicats mixtes mentionnés
 à l'article L. 5721-2 qui comprennent au moins un département ou une région. Le lieu de mise à disposition est le siège de
 l'établissement et les hôtels des départements et des régions membres.
@@ -2232,15 +2040,15 @@ l'établissement et les hôtels des départements et des régions membres.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1411-15 (M)
-	  - Code général des collectivités territoriales - art. L1411-16 (M)
-	  - Code général des collectivités territoriales - art. L5721-2 (M)
+	  - Code général des collectivités territoriales - art. L1411-15 (V)
+	  - Code général des collectivités territoriales - art. L1411-16 (V)
+	  - Code général des collectivités territoriales - art. L5721-2 (V)
 
 	**Cité par**:
 
@@ -2249,12 +2057,12 @@ l'établissement et les hôtels des départements et des régions membres.
 
 ###### Article L1411-18
 
-- Les conventions relatives à des délégations de service public peuvent être transmises par le représentant de l'Etat dans le
+Les conventions relatives à des délégations de service public peuvent être transmises par le représentant de l'Etat dans le
 département à la chambre régionale des comptes. Il en informe l'autorité territoriale concernée. La chambre régionale des
-comptes examine cette convention. Elle formule ses observations dans un délai d'un mois à compter de sa saisine. L'avis de la
+comptes examine cette convention. Elle formule ses observations dans un délai d'un mois à compter de sa saisine.L'avis de la
 chambre régionale des comptes est transmis à la collectivité territoriale ou à l'établissement public intéressé et au
-représentant de l'Etat. Les dispositions de l'article L. 242-2 du code des juridictions financières sont applicables.
-L'assemblée délibérante est informée de l'avis de la chambre régionale des comptes dès sa plus proche réunion.
+représentant de l'Etat. Les dispositions de l'article L. 242-2 du code des juridictions financières sont
+applicables.L'assemblée délibérante est informée de l'avis de la chambre régionale des comptes dès sa plus proche réunion.
 
 **Liens relatifs à cet article**
 
@@ -2266,9 +2074,9 @@ L'assemblée délibérante est informée de l'avis de la chambre régionale des 
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
 
 	**Cite**:
 
@@ -5050,6 +4858,310 @@ Un décret en Conseil d'Etat fixe les modalités d'organisation et de fonctionne
 	  - Code général des collectivités territoriales - art. L1424-3 (MMN)
 	  - Code général des collectivités territoriales - art. L1424-4 (MMN)
 	  - Code général des collectivités territoriales - art. L1424-7 (M)
+
+
+### LIVRE IV : LES DELEGATIONS DE SERVICE PUBLIC
+
+#### TITRE Ier : PRINCIPES GENERAUX
+
+##### CHAPITRE Ier : LES DELEGATIONS DE SERVICE PUBLIC
+
+###### Article L1411-1
+
+- Les délégations de service public des personnes morales de droit public relevant du présent code sont soumises par
+l'autorité délégante à une procédure de publicité permettant la présentation de plusieurs offres concurrentes, dans des
+conditions prévues par un décret en Conseil d'Etat.
+
+La collectivité publique dresse la liste des candidats admis à présenter une offre après examen de leurs garanties
+professionnelles et financières et de leur aptitude à assurer la continuité du service public et l'égalité des usagers devant
+le service public.
+
+La collectivité adresse à chacun des candidats un document définissant les caractéristiques quantitatives et qualitatives des
+prestations ainsi que, s'il y a lieu, les conditions de tarification du service rendu à l'usager.
+
+Les offres ainsi présentées sont librement négociées par l'autorité responsable de la personne publique délégante qui, au
+terme de ces négociations, choisit le délégataire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°85-801 du 30 juillet 1985 - art. 1 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 158 (V)
+	  - Loi n°99-209 du 19 mars 1999 - art. 92 (V)
+	  - Loi n°99-210 du 19 mars 1999 - art. 8-1 (V)
+	  - Loi n°2000-321 du 12 avril 2000 - art. 16 (VT)
+	  - Arrêté du 14 mai 2007 - art. 3 (V)
+	  - Décret n°2007-1400 du 28 septembre 2007 - art. 5 (VT)
+	  - Décret n°2008-1464 du 22 décembre 2008 (V)
+	  - Décret n°2016-86 du 1er février 2016 - art. 50
+	  - Code de commerce - art. L761-2 (V)
+	  - Code de commerce. - art. L730-2 (Ab)
+	  - Code de l'environnement - art. L211-3 (VD)
+	  - Code de l'éducation - art. D213-30 (VD)
+	  - Code de la sécurité intérieure - art. R732-6 (VD)
+	  - Code général de la propriété des personnes publ... - art. R2124-31 (V)
+	  - Code général des collectivités territoriales - art. L1411-10 (V)
+	  - Code général des collectivités territoriales - art. L1411-11 (VT)
+	  - Code général des collectivités territoriales - art. L1411-12 (VT)
+	  - Code général des collectivités territoriales - art. L1411-5 (V)
+	  - Code général des collectivités territoriales - art. L1524-5 (V)
+	  - Code général des collectivités territoriales - art. L1751-1 (Ab)
+	  - Code général des collectivités territoriales - art. R1311-2 (VT)
+	  - Code général des collectivités territoriales - art. R1411-1 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°93-122 1993-01-29 art. 38
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
+
+
+###### Article L1411-3
+
+- Le délégataire produit chaque année avant le 1er juin à l'autorité délégante un rapport comportant notamment les comptes
+retraçant la totalité des opérations afférentes à l'exécution de la délégation de service public et une analyse de la qualité
+de service. Ce rapport est assorti d'une annexe permettant à l'autorité délégante d'apprécier les conditions d'exécution du
+service public.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°93-122 1993-01-29 art. 40-1
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
+
+	**Cité par**:
+
+	  - Décret n°2005-236 du 14 mars 2005 - art. 4 (VT)
+	  - Décret n°2005-1595 du 19 décembre 2005 - art. 3 (Ab)
+	  - Décret n°2006-608 du 26 mai 2006 - art. 13 (Ab)
+	  - Arrêté du 14 mai 2007 - art. 6 (V)
+	  - Arrêté du 14 mai 2007 - art. 7 (V)
+	  - Arrêté du 14 mai 2007 - art. 8 (V)
+	  - Arrêté du 14 mai 2007 - art. 9 (V)
+	  - Code de commerce - art. R761-5 (V)
+	  - Code général de la propriété des personnes publ... - art. R2124-31 (V)
+	  - Code général des collectivités territoriales - art. L1413-1 (VD)
+	  - Code général des collectivités territoriales - art. L2224-11-3 (V)
+	  - Code général des collectivités territoriales - art. R1411-7 (VT)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales annexe
+
+
+###### Article L1411-4
+
+- Les assemblées délibérantes des collectivités territoriales, de leurs groupements et de leurs établissements publics se
+prononcent sur le principe de toute délégation de service public local. Elles statuent au vu d'un rapport présentant le
+document contenant les caractéristiques des prestations que doit assurer le délégataire.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°93-122 1993-01-29 art. 42
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
+
+	**Cité par**:
+
+	  - Arrêté du 14 mai 2007 - art. 3 (V)
+	  - Arrêté du 14 mai 2007 - art. 6 (V)
+	  - Code général des collectivités territoriales - art. L1411-11 (VT)
+	  - Code général des collectivités territoriales - art. L1413-1 (VD)
+
+
+###### Article L1411-5
+
+- Après décision sur le principe de la délégation, il est procédé à une publicité et à un recueil d'offres dans les
+conditions prévues aux deuxième et troisième alinéas de l'article L. 1411-1.
+
+Les plis contenant les offres sont ouverts par une commission composée :
+
+a) Lorsqu'il s'agit d'une région, de la collectivité territoriale de Corse, d'un département, d'une commune de 3 500
+habitants et plus et d'un établissement public, par l'autorité habilitée à signer la convention de délégation de service
+public ou son représentant, président, et par cinq membres de l'assemblée délibérante élus en son sein à la représentation
+proportionnelle au plus fort reste ;
+
+b) Lorsqu'il s'agit d'une commune de moins de 3 500 habitants, par le maire ou son représentant, président, et par trois
+membres du conseil municipal élus par le conseil à la représentation proportionnelle au plus fort reste.
+
+Il est procédé, selon les mêmes modalités, à l'élection de suppléants en nombre égal à celui de membres titulaires.
+
+Le comptable de la collectivité et un représentant du ministre chargé de la concurrence siègent également à la commission
+avec voix consultative.
+
+Au vu de l'avis de la commission, l'autorité habilitée à signer la convention engage librement toute discussion utile avec
+une ou des entreprises ayant présenté une offre. Elle saisit l'assemblée délibérante du choix de l'entreprise auquel elle a
+procédé. Elle lui transmet le rapport de la commission présentant notamment la liste des entreprises admises à présenter une
+offre et l'analyse des propositions de celles-ci, ainsi que les motifs du choix de la candidate et l'économie générale du
+contrat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°93-122 1993-01-29 art. 43
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
+
+	**Cité par**:
+
+	  - Arrêté du 14 mai 2007 - art. 3 (V)
+	  - Code général des collectivités territoriales - art. D1411-3 (V)
+	  - Code général des collectivités territoriales - art. L1411-1 (V)
+	  - Code général des collectivités territoriales - art. L1411-6 (VD)
+	  - Code général des collectivités territoriales - art. L1411-7 (V)
+	  - Code général des collectivités territoriales - art. L1414-2 (V)
+	  - Code général des collectivités territoriales - art. L1414-6 (VT)
+
+
+###### Article L1411-7
+
+- Deux mois au moins après la saisine de la commission mentionnée à l'article L. 1411-5, l'assemblée délibérante se prononce
+sur le choix du délégataire et le contrat de délégation.
+
+Les documents sur lesquels se prononce l'assemblée délibérante doivent lui être transmis quinze jours au moins avant sa
+délibération.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°93-122 1993-01-29 art. 44
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1411-5 (M)
+
+
+###### Article L1411-12
+
+- Les dispositions des articles L. 1411-1 à L. 1411-11 ne s'appliquent pas aux délégations de service public :
+
+a) Lorsque la loi institue un monopole au profit d'une entreprise ;
+
+b) Lorsque ce service est confié à un établissement public et à condition que l'activité déléguée figure expressément dans
+les statuts de l'établissement ;
+
+c) Lorsque le montant des sommes dues au délégataire pour toute la durée de la convention n'excède pas 700 000 F ou que la
+convention couvre une durée non supérieure à trois ans et porte sur un montant n'excédant pas 450 000 F par an. Toutefois,
+dans ce cas, le projet de délégation est soumis à une publicité préalable ainsi qu'aux dispositions de l'article L. 1411-2.
+Les modalités de cette publicité sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°93-122 1993-01-29 art. 41
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1411-2 (M)
+	  - Code général des collectivités territoriales L1411-1 à L1411-11, L1411-2
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. R1411-2 (VT)
+
+
+##### CHAPITRE II : GESTION DIRECTE DES SERVICES PUBLICS
+
+###### Article L1412-1
+
+Les collectivités territoriales, leurs établissements publics, les établissements publics de coopération intercommunale ou
+les syndicats mixtes, pour l'exploitation directe d'un service public industriel et commercial relevant de leur compétence,
+constituent une régie soumise aux dispositions du chapitre Ier du titre II du livre II de la deuxième partie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
+
+	**Cité par**:
+
+	  - Décret n°2007-1400 du 28 septembre 2007 - art. 5 (VT)
+	  - Code de l'environnement - art. L211-3 (VD)
+	  - Code de la sécurité intérieure - art. R732-6 (VD)
+	  - Code du tourisme. - art. L151-2 (V)
+	  - Code général des collectivités territoriales - art. L1751-1 (Ab)
+	  - Code général des collectivités territoriales - art. L1851-1 (V)
+	  - Code général des collectivités territoriales - art. L4424-40 (V)
+	  - Code général des collectivités territoriales - art. R1412-1 (V)
+
+
+###### Article L1412-2
+
+Les collectivités territoriales, leurs établissements publics, les établissements publics de coopération intercommunale ou
+les syndicats mixtes peuvent individualiser la gestion d'un service public administratif relevant de leur compétence par la
+création d'une régie soumise aux dispositions du chapitre Ier du titre II du livre II de la deuxième partie. Sont toutefois
+exclus les services qui, par leur nature ou par la loi, ne peuvent être assurés que par la collectivité locale elle-même.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 62 ()
+
+	**Cité par**:
+
+	  - Code du tourisme. - art. L151-2 (V)
+	  - Code général des collectivités territoriales - art. L1751-1 (Ab)
+	  - Code général des collectivités territoriales - art. L1851-1 (V)
+	  - Code général des collectivités territoriales - art. L4424-40 (V)
+	  - Code général des impôts, CGI. - art. 231 (V)
 
 
 ### LIVRE V : DISPOSITIONS ÉCONOMIQUES
@@ -8446,13 +8558,41 @@ déduction.
 
 ###### Article L1615-6
 
-- Jusqu'en 1996, les attributions du Fonds de compensation pour la taxe sur la valeur ajoutée sont déterminées en appliquant
-aux dépenses réelles d'investissement, définies par décret en Conseil d'Etat, un taux de compensation forfaitaire de 15,682
-p. 100. Le taux est fixé à 15,360 p. 100 en 1997 et à 16,176 p. 100 à compter de 1998.
+I. - A compter du 1er janvier 1998, les attributions du fonds de compensation pour la taxe sur la valeur ajoutée sont
+déterminées en appliquant aux dépenses réelles d'investissement définies par décret en Conseil d'Etat un taux de compensation
+forfaitaire de 16,176 %.
 
-Un taux de compensation forfaitaire de 17,081 p. 100 est applicable aux dépenses d'investissement éligibles réalisées par les
-communautés de communes et les communautés de villes pendant les mois d'août 1995 à décembre 1996. A compter de 1997, le taux
-applicable est de 16,176 p. 100.
+II. - Pour les bénéficiaires du fonds de compensation pour la taxe sur la valeur ajoutée, visés à l'article L. 1615-2, autres
+que les communautés de communes et les communautés d'agglomération instituées respectivement aux articles L. 5214-1 et L.
+5216-1, les dépenses réelles d'investissement à prendre en considération au titre du fonds de compensation pour la taxe sur
+la valeur ajoutée au titre d'une année déterminée sont celles afférentes à la pénultième année.
+
+Pour ce qui concerne les communautés de villes jusqu'au 1er janvier suivant le premier renouvellement des conseils municipaux
+à compter de la publication de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la
+coopération intercommunale, les communautés de communes et les communautés d'agglomération, les dépenses réelles
+d'investissement à prendre en considération au titre du fonds de compensation pour la taxe sur la valeur ajoutée sont celles
+afférentes à l'exercice en cours.
+
+III. - Les attributions du fonds de compensation pour la taxe sur la valeur ajoutée, dues en vertu des dispositions du
+présent chapitre, dont pourraient bénéficier les districts se transformant en communautés de communes ou en communautés
+d'agglomération à compter de la date de publication de la loi n° 99-586 du 12 juillet 1999 précitée, seront versées selon les
+modalités suivantes :
+
+- l'année où ces établissements publics peuvent bénéficier pour la première fois d'une attribution du fonds conformément aux
+dispositions du deuxième alinéa du présent article, sera versée la totalité de l'attribution du fonds due au titre des
+dépenses éligibles réalisées la pénultième année, majorée des deux tiers de l'attribution du fonds due au titre des dépenses
+éligibles réalisées l'année même ;
+
+- la première année suivante, sera versée la totalité de l'attribution du fonds due au titre des dépenses éligibles réalisées
+la pénultième année, majorée d'un tiers de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année
+précédente et d'un tiers de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année même ;
+
+- la deuxième année, sera versée la totalité de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année
+même, majorée des deux tiers de l'attribution du fonds due au titre des dépenses éligibles réalisées l'année précédente.
+
+A compter de la troisième année, les dépenses réelles d'investissement à prendre en considération pour les attributions du
+fonds de compensation pour la taxe sur la valeur ajoutée à ces établissements au titre d'une année déterminée sont celles
+afférentes à l'exercice en cours.
 
 **Liens relatifs à cet article**
 
@@ -8464,9 +8604,16 @@ applicable est de 16,176 p. 100.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 1999-07-12
+	  - Code général des collectivités territoriales - art. L1615-2 (M)
+	  - Code général des collectivités territoriales - art. L5214-1 (M)
+	  - Code général des collectivités territoriales - art. L5216-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 102 ()
 
 	**Cité par**:
 
@@ -8550,7 +8697,7 @@ tourisme social.
 
 ###### Article L1617-4
 
-- Les dispositions de l'article L. 1617-3 sont applicables aux établissements publics communaux et intercommunaux, aux
+- Les dispositions du présent chapitre sont applicables aux établissements publics communaux et intercommunaux, aux
 établissements publics départementaux, aux établissements publics interdépartementaux, aux établissements publics communs aux
 communes et aux départements ainsi qu'aux établissements publics communs à des collectivités locales ou groupements de ces
 collectivités, à l'exception des établissements publics de santé.
@@ -8561,17 +8708,13 @@ collectivités, à l'exception des établissements publics de santé.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 66 ()
 
 	**Cité par**:
 
 	  - Code général de la propriété des personnes publ... - art. L2321-3 (VD)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1617-3 (V)
 
 
 ###### Article L1617-5
@@ -9161,8 +9304,10 @@ rurales sont opérées dans les conditions prévues à l'article L. 123-5 du cod
 
 ###### Article L2113-1
 
-- Les conseils municipaux des communes désirant fusionner peuvent décider de procéder soit à une fusion simple, soit à une
+Les conseils municipaux des communes désirant fusionner peuvent décider de procéder soit à une fusion simple, soit à une
 fusion comportant la création d'une ou plusieurs communes associées.
+
+Seules les communes limitrophes peuvent fusionner.
 
 **Liens relatifs à cet article**
 
@@ -9174,9 +9319,9 @@ fusion comportant la création d'une ou plusieurs communes associées.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 70 ()
 
 	**Cité par**:
 
@@ -9342,12 +9487,12 @@ de besoin, les modalités.
 
 ###### Article L2113-6
 
-- L'acte qui prononce la fusion de deux ou plusieurs communes peut prévoir que la nouvelle commune est, sous réserve de
+L'acte qui prononce la fusion de deux ou plusieurs communes peut prévoir que la nouvelle commune est, sous réserve de
 l'accord préalable des conseils municipaux et jusqu'au prochain renouvellement, administrée par un conseil où entrent tout ou
 partie des membres en exercice des anciennes assemblées et, dans tous les cas, le maire et les adjoints de chacune d'entre
 elles.
 
-L'effectif total du conseil ne peut dépasser cinquante-cinq membres, sauf dans le cas où l'intégration des maires et adjoints
+L'effectif total du conseil ne peut dépasser soixante-neuf membres, sauf dans les cas où l'intégration des maires et adjoints
 des anciennes communes rend nécessaire l'attribution de sièges complémentaires.
 
 **Liens relatifs à cet article**
@@ -9360,9 +9505,9 @@ des anciennes communes rend nécessaire l'attribution de sièges complémentaire
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 68 ()
 
 	**Cité par**:
 
@@ -9373,10 +9518,10 @@ des anciennes communes rend nécessaire l'attribution de sièges complémentaire
 
 ###### Article L2113-7
 
-- Le nombre de conseillers provenant de chacun des anciens conseils municipaux est proportionnel, suivant la règle du plus
-fort reste, au nombre des électeurs inscrits.
+Le nombre de conseillers provenant de chacun des anciens conseils municipaux est proportionnel, suivant la règle du plus fort
+reste, au nombre des électeurs inscrits.
 
-Cette répartition s'opère en prenant pour base de calcul un effectif de cinquante-cinq sièges au total mais elle ne peut
+Cette répartition s'opère en prenant pour base de calcul un effectif de soixante-neuf sièges au total mais elle ne peut
 conduire à attribuer à l'une des anciennes communes un nombre de sièges supérieur à celui de ses conseillers en exercice.
 
 Si, par application des deux alinéas précédents, une ancienne commune n'obtient pas un nombre de sièges permettant
@@ -9396,9 +9541,9 @@ tableau.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 69 ()
 
 	**Cité par**:
 
@@ -11301,6 +11446,9 @@ total des indemnités versées chaque année aux membres du conseil municipal.
 
 Le maire est l'ordonnateur des dépenses susmentionnées.
 
+L'élu responsable de chaque groupe d'élus décide des conditions et des modalités d'exécution du service confié que ces
+collaborateurs accomplissent auprès de ces groupes au sein de l'organe délibérant.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -11318,9 +11466,9 @@ Le maire est l'ordonnateur des dépenses susmentionnées.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 76 ()
 
 
 ##### Section 5 : Attributions
@@ -13462,8 +13610,8 @@ position de détachement pour exercer l'un des mandats mentionnés à l'article 
 Les pertes de revenu de l'élu sont également supportées par la commune dans la limite de six jours par élu pour la durée d'un
 mandat et d'une fois et demie la valeur horaire du salaire minimum de croissance.
 
-Le montant des dépenses de formation ne peut excéder 20 p. 100 du montant total des crédits ouverts au titre des indemnités
-de fonction susceptibles d'être allouées aux élus de la commune.
+Le montant des dépenses de formation ne peut excéder 20 p. 100 du montant total des indemnités de fonction susceptibles
+d'être allouées aux élus de la commune.
 
 **Liens relatifs à cet article**
 
@@ -13471,9 +13619,9 @@ de fonction susceptibles d'être allouées aux élus de la commune.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 65 ()
 
 	**Cité par**:
 
@@ -20327,15 +20475,22 @@ santé publique.
 - Les communes ou les établissements publics de coopération intercommunale assurent, éventuellement en liaison avec les
 départements et les régions, l'élimination des déchets des ménages.
 
+Les communes peuvent transférer à un établissement public de coopération intercommunale ou à un syndicat mixte soit
+l'ensemble de la compétence d'élimination et de valorisation des déchets des ménages, soit la partie de cette compétence
+comprenant le traitement, la mise en décharge des déchets ultimes ainsi que les opérations de transport, de tri ou de
+stockage qui s'y rapportent.
+
+A la demande des communes et des établissements publics de coopération intercommunale qui le souhaitent, le département peut
+se voir confier la responsabilité du traitement, de la mise en décharge des déchets ultimes et des opérations de transport,
+de tri ou de stockage qui s'y rapportent. Le département et la commune ou l'établissement public de coopération
+intercommunale déterminent par convention les modalités, notamment financières, de transfert des biens nécessaires à
+l'exercice de la partie du service confiée au département.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 	**Cité par**:
 
@@ -20380,6 +20535,10 @@ départements et les régions, l'élimination des déchets des ménages.
 	  - Code général des impôts, CGI. - art. 1609 quater (VT)
 	  - Code général des impôts, CGI. - art. 1639 A bis (V)
 	  - Code général des impôts, CGI. - art. 279 (V)
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 71 ()
 
 	**Anciens textes**:
 
@@ -26356,21 +26515,21 @@ Le versement est institué par délibération du conseil municipal ou de l'organ
 Le taux de versement est fixé ou modifié par délibération du conseil municipal ou de l'organisme compétent de l'établissement
 public dans la limite de :
 
-0,55 p. 100 des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public est
+0,55 % des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public est
 comprise entre 20 000 et 100 000 habitants ;
 
-1 p. 100 des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public est
+1 % des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public est
 supérieure à 100 000 habitants ;
 
-1,75 p. 100 des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public est
+1,75 % des salaires définis à l'article L. 2333-65 lorsque la population de la commune ou de l'établissement public est
 supérieure à 100 000 habitants et que l'autorité organisatrice a décidé de réaliser une infrastructure de transport collectif
 et que l'Etat a notifié un engagement de principe sur le subventionnement de l'investissement correspondant.
 
-Toutefois, les communautés de communes et communautés de villes ont la faculté de majorer de 0,05 p. 100 les taux maxima
+Toutefois, les communautés de communes et communautés d'agglomération ont la faculté de majorer de 0,05 % les taux maxima
 mentionnés aux alinéas précédents.
 
 Cette faculté est également ouverte aux communautés urbaines et aux autorités organisatrices de transports urbains auxquelles
-ont adhéré une communauté urbaine, une communauté de villes ou une communauté de communes.
+ont adhéré une communauté urbaine, une communauté d'agglomération ou une communauté de communes.
 
 **Liens relatifs à cet article**
 
@@ -26380,7 +26539,7 @@ ont adhéré une communauté urbaine, une communauté de villes ou une communaut
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 133 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 3 ()
 
 	**Cité par**:
 
@@ -26392,10 +26551,6 @@ ont adhéré une communauté urbaine, une communauté de villes ou une communaut
 
 	  - CODE DES COMMUNES. - art. L233-61 (M)
 	  - CODE DES COMMUNES. - art. L233-61 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2333-65 (V)
 
 
 ###### Article L2333-68
@@ -26625,9 +26780,12 @@ aux règles propres des divers régimes de sécurité sociale.
 
 ###### Article L2333-76
 
-- Les communes, les établissements publics de coopération intercommunale ou les établissements publics locaux qui assurent
-l'enlèvement des ordures, déchets et résidus peuvent instituer une redevance calculée en fonction de l'importance du service
-rendu.
+Les communes, les établissements publics de coopération intercommunale et les syndicats mixtes qui bénéficient de la
+compétence prévue à l'article L. 2224-13 peuvent instituer une redevance d'enlèvement des ordures ménagères calculée en
+fonction du service rendu dès lors qu'ils assurent au moins la collecte des déchets des ménages. Lorsque les communes
+assurent au moins la collecte et ont transféré le reste de la compétence d'élimination à un établissement public de
+coopération intercommunale à fiscalité propre, elles pourront, par délibérations concordantes avec ce dernier, établir un
+reversement partiel du produit de la redevance d'enlèvement des ordures ménagères au profit de ce dernier.
 
 La redevance est instituée par l'assemblée délibérante de la collectivité locale ou de l'établissement public qui en fixe le
 tarif.
@@ -26635,19 +26793,15 @@ tarif.
 Elle est recouvrée par cette collectivité, cet établissement ou, par délégation de l'assemblée délibérante, par le
 concessionnaire du service.
 
-Les établissements publics de coopération intercommunale peuvent cependant renoncer à percevoir directement la redevance ou
-la taxe d'enlèvement des ordures ménagères et laisser ce soin et la liberté de choix entre ces deux ressources à chacune des
-communes qui les composent.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 85 ()
 
 	**Cité par**:
 
@@ -26670,6 +26824,10 @@ communes qui les composent.
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L233-78 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2224-13 (M)
 
 
 ###### Article L2333-77
@@ -27216,8 +27374,8 @@ départemental de péréquation de la taxe professionnelle prévu par l'article 
 Le potentiel fiscal par habitant est égal au potentiel fiscal de la commune divisé par le nombre d'habitants constituant la
 population de cette commune, tel que défini à l'article L. 2334-2.
 
-Pour la détermination du potentiel fiscal des communes membres de communautés de villes ainsi que des communes membres des
-groupements de communes ayant opté pour le régime fiscal prévu à l'article 1609 nonies C du code général des impôts, un
+Pour la détermination du potentiel fiscal des communes membres des communautés d'agglomération, des communautés de communes
+et des communautés urbaines ayant opté pour le régime fiscal prévu à l'article 1609 nonies C du code général des impôts, un
 calcul de bases de taxe professionnelle résultant de la ventilation entre les communes des bases du groupement est opéré. Les
 modalités de ce calcul sont définies par décret en Conseil d'Etat. Elles prennent notamment en compte la répartition des
 bases de taxe professionnelle entre les communes l'année précédant l'application des dispositions de l'article 1609 nonies C
@@ -27233,10 +27391,6 @@ précité.
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 	**Cité par**:
 
@@ -27281,6 +27435,10 @@ précité.
 	  - Code général des collectivités territoriales - art. R2335-1 (V)
 	  - Code général des collectivités territoriales - art. R2531-32 (V)
 
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 100 ()
+
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L234-4 (M)
@@ -27289,25 +27447,24 @@ précité.
 
 ###### Article L2334-5
 
-- L'effort fiscal de chaque commune est égal au rapport entre :
+L'effort fiscal de chaque commune est égal au rapport entre :
 
-- d'une part, le produit des impôts, taxes et redevances perçus l'année précédente, tels que définis à l'article L. 2334-6 ;
+- d'une part, le produit des impôts, taxes et redevances, tels que définis à l'article L. 2334-6, perçus l'année précédente
+par la commune et par les établissements publics de coopération intercommunale sur le territoire de celle-ci ;
 
 - d'autre part, son potentiel fiscal, tel qu'il est défini à l'article L. 2334-4, à l'exception de la part de ce potentiel
-correspondant à la taxe professionnelle.
+correspondant à la taxe professionnelle. 
 
-Pour les communes dont l'augmentation du taux moyen pondéré des trois taxes directes locales visées aux a, b et c de
-l'article L. 2334-6 est supérieure à l'augmentation du taux moyen pondéré de ces trois taxes pour l'ensemble des communes
-appartenant au même groupe démographique, cette dernière augmentation est prise en compte pour le calcul du produit des
-impôts, taxes et redevances mentionné au deuxième alinéa.
+Le taux moyen pondéré d'une commune est égal au rapport entre la somme des produits des trois taxes directes locales visées
+aux a, b et c de l'article L. 2334-6 et calculées conformément au premier alinéa du présent article et la somme des bases
+nettes d'imposition communale de taxe foncière et de taxe d'habitation. 
 
-Pour les communes dont le taux moyen pondéré des trois taxes directes locales est inférieur à celui de l'année précédente,
-c'est ce dernier taux qui est pris en compte pour la détermination du produit des impôts, taxes et redevances mentionné au
-deuxième alinéa.
+Pour les communes dont l'augmentation du taux moyen pondéré est supérieure à l'augmentation du taux moyen pondéré taxes pour
+l'ensemble des communes appartenant au même groupe démographique, cette dernière augmentation est prise en compte pour le
+calcul du produit des impôts, taxes et redevances mentionné au deuxième alinéa. 
 
-Pour les communes membres d'un groupement de communes à fiscalité propre, l'effort fiscal est calculé, après application, le
-cas échéant, des dispositions qui précèdent, en ajoutant au taux de chacune de leurs propres taxes communales ceux votés pour
-les mêmes taxes par le groupement de communes.
+Pour les communes dont le taux moyen pondéré est inférieur à celui de l'année précédente, c'est ce dernier taux qui est pris
+en compte pour la détermination du produit des impôts, taxes et redevances mentionné au deuxième alinéa.
 
 **Liens relatifs à cet article**
 
@@ -27315,9 +27472,9 @@ les mêmes taxes par le groupement de communes.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 101 ()
 
 	**Anciens textes**:
 
@@ -27333,8 +27490,7 @@ les mêmes taxes par le groupement de communes.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2334-4 (M)
-	  - Code général des collectivités territoriales - art. L2334-6 (M)
+	  - Code général des collectivités territoriales - art. L2334-6 (V)
 
 
 ###### Article L2334-6
@@ -27694,9 +27850,9 @@ globale de fonctionnement des communes et la dotation forfaitaire prévue à l'a
 Avant la répartition de la dotation, il est procédé au prélèvement des sommes dues en application des dispositions de
 l'article L. 2334-9.
 
-Après prélèvement de la dotation des groupements de communes, dont le montant est fixé dans les conditions déterminées à
-l'article L. 5211-32, et de la quote-part destinée aux communes d'outre-mer, le solde de la dotation d'aménagement est
-réparti entre la dotation de solidarité urbaine et la dotation de solidarité rurale.
+Après prélèvement de la part de la dotation d'intercommunalité prélevée sur la dotation d'aménagement dans les conditions
+fixées à l'article L. 5211-28, et de la quote-part destinée aux communes d'outre-mer, le solde de la dotation d'aménagement
+est réparti entre la dotation de solidarité urbaine et la dotation de solidarité rurale.
 
 La quote-part destinée aux communes d'outre-mer évolue de façon telle que le total des attributions leur revenant au titre de
 la dotation globale de fonctionnement progresse au moins comme l'ensemble des ressources affectées à cette dotation.
@@ -27750,6 +27906,7 @@ au plus.
 	  - Code général des collectivités territoriales - art. L2573-52 (V)
 	  - Code général des collectivités territoriales - art. L2574-12 (T)
 	  - Code général des collectivités territoriales - art. L5211-28 (V)
+	  - Code général des collectivités territoriales - art. L5211-32 (M)
 	  - Code général des collectivités territoriales - art. L5842-8 (VD)
 	  - Code général des collectivités territoriales - art. L6264-3 (V)
 	  - Code général des collectivités territoriales - art. L6364-3 (V)
@@ -27763,7 +27920,7 @@ au plus.
 
 	**Modifié par**:
 
-	  - Loi n°96-241 du 26 mars 1996 - art. 3 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 106 ()
 
 	**Anciens textes**:
 
@@ -27777,7 +27934,6 @@ au plus.
 
 	  - Code général des collectivités territoriales - art. L2334-7 (M)
 	  - Code général des collectivités territoriales - art. L2334-9 (M)
-	  - Code général des collectivités territoriales - art. L5211-32 (M)
 
 
 ###### Article L2334-14
@@ -28631,10 +28787,14 @@ départements d'outre-mer ;
 les communes dont la population est supérieure à 2 000 habitants et n'excède pas 20 000 habitants dans les départements de
 métropole ou est supérieure à 7 500 habitants et n'excède pas 35 000 habitants dans les départements d'outre-mer et dont le
 potentiel fiscal par habitant est inférieur à 1,3 fois le potentiel fiscal moyen par habitant de l'ensemble des communes de
-métropole dont la population est supérieure à 2 000 habitants et n'excède pas 20 000 habitants ; "
+métropole dont la population est supérieure à 2 000 habitants et n'excède pas 20 000 habitants ;
 
 les établissements publics de coopération intercommunale dont la population n'excède pas 20 000 habitants dans les
 départements de métropole et 35 000 habitants dans les départements d'outre-mer.
+
+- les établissements publics de coopération intercommunale de plus de 20 000 habitants dans les départements de métropole et
+de plus de 35 000 habitants dans les départements d'outre-mer, dont les communes membres répondent aux critères indiqués ci-
+dessus.
 
 Les communes de la collectivité territoriale de Saint-Pierre-et-Miquelon bénéficient de la dotation.
 
@@ -28665,7 +28825,7 @@ communes.
 
 	**Modifié par**:
 
-	  - Loi n°96-241 du 26 mars 1996 - art. 12 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 104 ()
 
 	**Cité par**:
 
@@ -30557,19 +30717,19 @@ Le total des indemnités ne peut être supérieur au produit de la vente.
 
 ###### Article L2411-18
 
-- Une union est créée entre les sections d'une même commune, sous réserve que leur commission syndicale ait été constituée, à
+Une union est créée entre les sections d'une même commune, sous réserve que leur commission syndicale ait été constituée, à
 la demande du conseil municipal ou d'une ou plusieurs sections, par délibérations concordantes des commissions syndicales,
-qui fixent les modalités de gestion des biens et d'attribution des revenus.
+qui fixent les modalités de gestion des biens et d'attribution des revenus. 
 
 L'union de sections, personne morale de droit public, est administrée par un comité regroupant le maire de la commune ainsi
-que deux représentants élus de chaque commission syndicale. Le comité élit son président en son sein.
+que deux représentants élus de chaque commission syndicale. Le comité élit son président en son sein. 
 
 Le comité se substitue aux commissions syndicales dans les domaines prévus aux articles L. 2411-6 et L. 2411-7, à l'exception
-des ventes, échanges, acceptations de libéralités et signatures de contrats entre sections de la commune.
+des ventes, échanges, acceptations de libéralités et signatures de contrats entre sections de la commune. 
 
-La suppression d'une union de sections est réalisée dans les mêmes formes que sa création.
+La suppression d'une union de sections est réalisée dans les mêmes formes que sa création. 
 
-Une section de commune peut se retirer d'une union de sections dans les conditions prévues à l'article L. 5212-28 pour le
+Une section de commune peut se retirer d'une union de sections dans les conditions prévues à l'article L. 5211-19 pour le
 retrait d'une commune d'un syndicat de communes.
 
 **Liens relatifs à cet article**
@@ -30578,9 +30738,9 @@ retrait d'une commune d'un syndicat de communes.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
 
 	**Anciens textes**:
 
@@ -30592,9 +30752,9 @@ retrait d'une commune d'un syndicat de communes.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2411-6 (M)
-	  - Code général des collectivités territoriales - art. L2411-7 (M)
-	  - Code général des collectivités territoriales - art. L5212-28 (Ab)
+	  - Code général des collectivités territoriales - art. L2411-6 (V)
+	  - Code général des collectivités territoriales - art. L2411-7 (V)
+	  - Code général des collectivités territoriales - art. L5211-19 (V)
 
 
 ###### Article L2411-19
@@ -34823,13 +34983,13 @@ Un décret en Conseil d'Etat définit les conditions d'application du présent a
 
 ###### Article L2531-13
 
-Le fonds de solidarité des communes de la région d'Ile-de-France est alimenté par un prélèvement sur les ressources fiscales
-des communes de la région d'Ile-de-France.
+Le fonds de solidarité des communes de la région par des prélèvements sur les ressources fiscales des communes et des
+établissements publics de coopération intercommunale de la région d'Ile-de-France.
 
-Sont soumises au prélèvement les communes de la région d'Ile-de-France dont le potentiel fiscal par habitant est supérieur
-d'au moins 40 p. 100 au potentiel fiscal moyen par habitant des communes de la région d'Ile-de-France. Ce dernier est égal à
-la somme des potentiels fiscaux des communes de la région d'Ile-de-France rapportée à la population de l'ensemble de ces
-communes.
+I Sont soumises à un premier prélèvement les communes de la région d'Ile-de-France dont le potentiel fiscal par habitant est
+supérieur d'au moins 40 p. 100 au potentiel fiscal moyen par habitant des communes de la région d'Ile-de-France. Ce dernier
+est égal à la somme des potentiels fiscaux des communes de la région d'Ile-de-France rapportée à la population de l'ensemble
+de ces communes.
 
 Le prélèvement est réalisé dans les conditions suivantes :
 
@@ -34852,26 +35012,69 @@ contribution au fonds.
 
 En 1996, la contribution des communes dont le potentiel fiscal est compris entre 1,4 et 1,5 fois le potentiel fiscal moyen
 par habitant des communes de la région d'Ile-de-France, et qui contribuent au fonds pour la première fois, fait l'objet d'un
-abattement de 50 p. 100.
-
-Le prélèvement opéré en application du présent article ne peut excéder 5 p. 100 du montant des dépenses réelles de
-fonctionnement de la commune constatées dans le compte administratif afférent au pénultième exercice.
+abattement de 50 p. 100.    Le prélèvement opéré en application du présent paragraphe ne peut excéder 5 p. 100 du montant des
+dépenses réelles de fonctionnement de la commune constatées dans le compte administratif afférent au pénultième exercice.
 
 Le produit de la taxe foncière sur les propriétés bâties, de la taxe foncière sur les propriétés non bâties, de la taxe
 d'habitation et de la taxe professionnelle inscrit à la section de fonctionnement du budget des communes soumises au
 prélèvement institué au présent article est diminué du montant de ce prélèvement. Celui-ci est imputé sur les attributions
 mentionnées au premier alinéa de l'article L. 2332-2.
 
-La population à prendre en compte pour l'application du présent article est arrêtée dans les conditions prévues à l'article
-L. 2334-2.
+La population à prendre en compte pour l'application du présent paragraphe est arrêtée dans les conditions prévues à
+l'article L. 2334-2.
 
-Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+II. - 1° Sont soumises à un deuxième prélèvement les communes de la région d'Ile-de-France dont les bases totales
+d'imposition à la taxe professionnelle divisées par le nombre d'habitants excèdent 3,5 fois la moyenne des bases de taxe
+professionnelle par habitant constatée au niveau national.
+
+Pour les communes dont le revenu moyen par habitant est supérieur ou égal à 90 % du revenu moyen par habitant des communes de
+la région d'Ile-de-France, ce prélèvement est égal au produit du taux en vigueur dans la commune par 75 % des bases dépassant
+le seuil précité.
+
+Pour les communes dont le revenu moyen par habitant est inférieur à 90 % du revenu moyen par habitant des communes de la
+région d'Ile-de-France, ce prélèvement est égal au produit du taux en vigueur dans la commune par 75 % des bases dépassant le
+seuil précité, sans toutefois que son montant puisse excéder celui du prélèvement prévu au I.
+
+Pour les communes dont les bases totales d'imposition à la taxe professionnelle divisées par le nombre d'habitants sont
+inférieures à 3,5 fois la moyenne des bases de taxe professionnelle par habitant de la région d'Ile-de-France, le montant du
+prélèvement visé au premier alinéa du II ne peut excéder 1,1 fois celui du prélèvement prévu au I.
+
+2° Sont soumis à un prélèvement les établissements publics de coopération intercommunale de la région d'Ile-de-France ayant
+opté pour les dispositions du II de l'article l609 quinquies C du code général des impôts, dont les bases totales
+d'imposition à la taxe professionnelle divisées par le nombre d'habitants excèdent 3,5 fois la moyenne des bases de taxe
+professionnelle par habitant constatée au niveau national. Ce prélèvement est égal au produit du taux de taxe professionnelle
+de zone en vigueur dans l'établissement public de coopération intercommunale par 75 % des bases dépassant le seuil précité.
+
+3° Lorsque la commune ou l'établissement public de coopération intercommunale concernés font également l'objet d'un
+prélèvement au titre du I de l'article 1648 A du code général des impôts, le prélèvement visé aux 1° et 2° est minoré du
+montant du prélèvement de l'année précédente au profit du fonds départemental de péréquation de la taxe professionnelle.
+
+Le prélèvement opéré en application des 1° et 2° ne peut excéder 10 % du montant des dépenses réelles de fonctionnement de la
+commune ou de l'établissement public de coopération intercommunale constatées dans le compte administratif afférent au
+pénultième exercice.
+
+Le prélèvement fait l'objet d'un plafonnement, à 20 % la première année, à 40 % la deuxième année, à 60 % la troisième année
+et à 80 % la quatrième année d'application de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à la
+simplification de la coopération intercommunale.
+
+III. - Pour l'application du II :
+
+- la population à prendre en compte est arrêtée dans les conditions prévues à l'article R. 114-1 du code des communes ;
+
+- les bases totales d'imposition retenues sont les bases nettes de taxe professionnelle après exonérations, mais avant
+écrêtement au profit du fonds départemental de péréquation de la taxe professionnelle ;
+
+- le revenu à prendre en compte est le dernier revenu imposable connu.
+
+IV. - Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1648 B
+	  - CGI 1648 A
+	  - Loi n°99-586 1999-07-12
+	  - CODE DES COMMUNES. - art. R114-1 (Ab)
 	  - Code général des collectivités territoriales - art. L2332-2 (V)
 	  - Code général des collectivités territoriales - art. L2334-2 (M)
 
@@ -34881,7 +35084,7 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Modifié par**:
 
-	  - Loi n°96-241 du 26 mars 1996 - art. 6 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 95 ()
 
 	**Cité par**:
 
@@ -34902,14 +35105,15 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 ###### Article L2531-14
 
-I. - Sous réserve des dispositions du VI, bénéficient, à compter de 1996, d'une attribution du fonds destinée à tenir compte
-de l'insuffisance de leurs ressources fiscales au regard des charges particulièrement élevées qu'elles supportent :
+I. - Sous réserve des dispositions du VI, bénéficient, à compter du 1er janvier 2000, d'une attribution du fonds destinée à
+tenir compte de l'insuffisance de leurs ressources fiscales au regard des charges particulièrement élevées qu'elles
+supportent :
 
-1° Les deux premiers cinquièmes des communes de 10 000 habitants et plus classées en fonction d'un indice synthétique de
-ressources et de charges défini au II ci-après ;
+1° La première moitié des communes de 10 000 habitants et plus classées en fonction d'un indice synthétique de ressources et
+de charges défini au II ci-après ;
 
-2° Le premier dixième des communes dont la population est comprise entre 5 000 et 9 999 habitants classées en fonction d'un
-indice synthétique de ressources et de charges défini au III ci-après.
+2° Les premiers dix-huit pour cent des communes dont la population est compris entre 5 000 et 9 999 habitants classées en
+fonction d'un indice synthétique de ressources et de charges défini au III ci-après.
 
 II. - L'indice synthétique de ressources et de charges mentionné au I pour les communes de 10 000 habitants et plus est
 constitué :
@@ -34954,15 +35158,16 @@ population par le montant moyen par habitant revenant à l'ensemble des communes
 L'attribution revenant à chaque commune éligible est égale au produit de sa population par la valeur de l'indice qui lui est
 attribué et par celle de son effort fiscal, dans la limite de 1,3.
 
-V. - A compter de 1997, les communes qui cessent d'être éligibles au fonds perçoivent, à titre de garantie non renouvelable,
+V. - A compter de 2000, les communes qui cessent d'être éligibles au fonds perçoivent, à titre de garantie non renouvelable,
 une attribution égale à la moitié de celle qu'elles avaient perçue l'année précédente.
 
 Les sommes nécessaires sont prélevées sur les ressources du fonds avant application des dispositions du IV.
 
-VI. - Chaque commune bénéficiaire d'une attribution du fonds au titre de 1995 perçoit 90 p. 100 du montant correspondant en
-1996, 60 p. 100 en 1997 et 30 p. 100 en 1998.
+VI. - Les communes qui n'étaient pas éligibles au fonds de solidarité des communes de la région d'Ile-de-France en 1999 au
+titre de l'indice synthétique défini au II et qui le deviennent en 2000, 2001, 2002 et 2003 en application du 1° ou du 2° du
+I perçoivent 20 % de leur attribution du fonds en 2000, 40 % en 2001, 60 % en 2002 et 80 % en 2003.
 
-Les sommes nécessaires sont prélevées sur les ressources du
+A compter de 2004, ces communes perçoivent l'intégralité de leur attribution du fonds.
 
 **Liens relatifs à cet article**
 
@@ -34972,7 +35177,7 @@ Les sommes nécessaires sont prélevées sur les ressources du
 
 	**Modifié par**:
 
-	  - Loi n°96-241 du 26 mars 1996 - art. 7 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 96 ()
 
 	**Anciens textes**:
 
@@ -38517,6 +38722,9 @@ du montant total des indemnités versées chaque année aux membres du conseil g
 
 Le président du conseil général est l'ordonnateur des dépenses susmentionnées.
 
+L'élu responsable de chaque groupe d'élus décide des conditions et des modalités d'exécution du service confié que ces
+collaborateurs accomplissent auprès de ces groupes au sein de l'organe délibérant.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -38529,9 +38737,9 @@ Le président du conseil général est l'ordonnateur des dépenses susmentionné
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 76 ()
 
 	**Anciens textes**:
 
@@ -42555,14 +42763,21 @@ versées.
 
 ###### Article L3333-1
 
-- Le conseil général peut instituer une taxe additionnelle de 10 p. 100 à la taxe de séjour ou à la taxe de séjour
-forfaitaire perçue dans le département par les communes visées à l'article L. 2333-26 ainsi que par les établissements
-publics de coopération intercommunale visés aux deux premiers alinéas de l'article L. 5211-27.
+Le conseil général peut instituer une taxe additionnelle de 10 % à la taxe de séjour ou à la taxe de séjour forfaitaire
+perçue dans le département par les communes visées à l'article L. 2333-26 ainsi que par les établissements publics de
+coopération intercommunale visés aux deux premiers alinéas de l'article L. 5211-21. 
 
 Cette taxe additionnelle est établie et recouvrée selon les mêmes modalités que la taxe à laquelle elle s'ajoute. Son produit
-est reversé par la commune au département à la fin de la période de perception.
+est reversé par la commune au département à la fin de la période de perception. 
 
 Le produit de cette taxe est affecté aux dépenses destinées à promouvoir le développement touristique du département.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées en mars 2015 à l’occasion du prochain renouvellement général des conseils
+départementaux, y compris aux opérations préparatoires à ce scrutin (date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -42570,9 +42785,9 @@ Le produit de cette taxe est affecté aux dépenses destinées à promouvoir le 
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 90 ()
 
 	**Liens**:
 
@@ -42593,8 +42808,8 @@ Le produit de cette taxe est affecté aux dépenses destinées à promouvoir le 
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2333-26 (M)
-	  - Code général des collectivités territoriales - art. L5211-27 (T)
+	  - Code général des collectivités territoriales - art. L2333-26 (V)
+	  - Code général des collectivités territoriales - art. L5211-21 (V)
 
 	**Anciens textes**:
 
@@ -45106,6 +45321,9 @@ excéder 25 p. 100 du montant total des indemnités versées chaque année aux m
 
 Le président du conseil régional est l'ordonnateur des dépenses susmentionnées.
 
+L'élu responsable de chaque groupe d'élus décide des conditions et des modalités d'exécution du service confié que ces
+collaborateurs accomplissent auprès de ces groupes au sein de l'organe délibérant.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -45121,9 +45339,9 @@ Le président du conseil régional est l'ordonnateur des dépenses susmentionné
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 76 ()
 
 
 ##### Sous-section 8 : Relations avec le représentant de l'Etat.
@@ -54524,9 +54742,13 @@ compétences, celui-ci s'opère au profit de cet organisme sur décision de l'or
 
 ###### Article L5111-3
 
-- Lorsqu'un établissement public de coopération entre collectivités territoriales sans fiscalité propre se transforme en une
+Lorsqu'un établissement public de coopération entre collectivités territoriales sans fiscalité propre se transforme en une
 autre catégorie d'établissement public de coopération entre collectivités territoriales, les règles de transformation
 applicables sont celles de la création d'un nouvel établissement public de coopération.
+
+Lorsqu'un établissement public de coopération intercommunale à fiscalité propre se transforme en un autre établissement
+public de coopération à fiscalité propre, cette transformation n'entraîne pas l'application des règles relatives à la
+création d'une nouvelle personne morale.
 
 **Liens relatifs à cet article**
 
@@ -54539,9 +54761,9 @@ applicables sont celles de la création d'un nouvel établissement public de coo
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 31 ()
 
 
 ### LIVRE II : LA COOPÉRATION INTERCOMMUNALE
@@ -54574,9 +54796,55 @@ développement au sein de périmètres de solidarité.
 	  - Code général des collectivités territoriales - art. L5842-1 (V)
 
 
+###### Article L5210-2
+
+Une commune ne peut appartenir à plus d'un établissement public de coopération intercommunale à fiscalité propre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 32 ()
+
+	**Cité par**:
+
+	  - Loi n°2017-257 du 28 février 2017 - art. 72 (V)
+	  - Code général des collectivités territoriales - art. L2113-5 (V)
+	  - Code général des collectivités territoriales - art. L5842-1 (V)
+
+
+###### Article L5210-3
+
+Le conseil général et le conseil régional intéressés peuvent, à la demande de l'un ou de l'autre, être associés par un
+établissement public de coopération intercommunale à l'élaboration de tout projet de développement et d'aménagement de son
+territoire, en vue de fixer des objectifs généraux de partenariat ou de coopération.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 33 ()
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5832-1 (VD)
+
+
 ##### CHAPITRE Ier : Dispositions communes
 
-##### Section 1 : Organisation et fonctionnement.
+##### Section 1 : Règles générales
 
 ###### Article L5211-1
 
@@ -54605,9 +54873,9 @@ cas contraire.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 34 ()
 
 	**Cité par**:
 
@@ -54642,9 +54910,9 @@ tant qu'elles ne sont pas contraires aux dispositions du présent titre.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 34 ()
 
 	**Anciens textes**:
 
@@ -54658,8 +54926,8 @@ tant qu'elles ne sont pas contraires aux dispositions du présent titre.
 
 ###### Article L5211-3
 
-- Les dispositions du chapitre premier du titre III du livre premier de la deuxième partie relatives au contrôle de légalité
-et au caractère exécutoire des actes des communes sont applicables aux établissements publics de coopération intercommunale.
+Les dispositions du chapitre premier du titre III du livre premier de la deuxième partie relatives au contrôle de légalité et
+au caractère exécutoire des actes des communes sont applicables aux établissements publics de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
@@ -54672,9 +54940,9 @@ et au caractère exécutoire des actes des communes sont applicables aux établi
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 34 ()
 
 	**Cité par**:
 
@@ -54689,7 +54957,7 @@ et au caractère exécutoire des actes des communes sont applicables aux établi
 
 ###### Article L5211-4
 
-- Les lois et règlements concernant le contrôle administratif des communes sont applicables aux établissements publics de
+Les lois et règlements concernant le contrôle administratif de   s communes sont applicables aux établissements publics de
 coopération intercommunale.
 
 **Liens relatifs à cet article**
@@ -54705,9 +54973,9 @@ coopération intercommunale.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 34 ()
 
 	**Cité par**:
 
@@ -54715,10 +54983,63 @@ coopération intercommunale.
 	  - Code général des collectivités territoriales - art. R5211-1 (V)
 
 
+##### Section 2 : Création
+
 ###### Article L5211-5
 
-- Les agents salariés d'un établissement public de coopération intercommunale ne peuvent être désignés par une des communes
-membres pour la représenter au sein de l'organe délibérant de cet établissement.
+I. - Sans préjudice des dispositions de l'article L. 5212-2, le périmètre de l'établissement public de coopération
+intercommunale peut être fixé par arrêté du représentant de l'Etat dans le département lorsque les communes font partie du
+même département ou par arrêté conjoint des représentants de l'Etat dans les départements concernés dans le cas contraire :
+
+1° Soit, dans un délai de deux mois à compter de la première délibération transmise, à l'initiative d'un ou de plusieurs
+conseils municipaux demandant la création d'un établissement public de coopération intercommunale ;
+
+2° Soit à l'initiative du ou des représentants de l'Etat, après avis de la ou des commissions départementales de la
+coopération intercommunale concernées. Cet avis est réputé négatif s'il n'a pas été rendu à l'issue d'un délai de deux mois.
+
+Cet arrêté dresse la liste des communes intéressées.
+
+A compter de la notification de cet arrêté, le conseil municipal de chaque commune concernée dispose d'un délai de trois mois
+pour se prononcer. A défaut de délibération dans ce délai, celle-ci est réputée favorable.
+
+Le périmètre de l'établissement public de coopération intercommunale à fiscalité propre ne peut être identique à celui d'un
+département.
+
+II. - 3a création de l'établissement public de coopération intercommunale peut être décidée par arrêté du ou des
+représentants de l'Etat dans le ou les départements concernés après accord des conseils municipaux des communes intéressées
+sur l'arrêté dressant la liste des communes. Cet accord doit être exprimé par deux tiers au moins des conseils municipaux des
+communes intéressées représentant plus de la moitié de la population totale de celles-ci, ou par la moitié au moins des
+conseils municipaux des communes représentant les deux tiers de la population.
+
+Cette majorité doit nécessairement comprendre :
+
+1° Pour la création d'un syndicat ou d'une communauté de communes, les conseils municipaux des communes dont la population
+est supérieure au quart de la population totale concernée ;
+
+2° Pour la création d'une communauté d'agglomération ou d'une communauté urbaine, le conseil municipal de la commune dont la
+population est supérieure à la moitié de la population totale concernée ou, à défaut, de la commune dont la population est la
+plus importante.
+
+III. - Le transfert des compétences entraîne de plein droit l'application à l'ensemble des biens, équipements et services
+publics nécessaires à leur exercice, ainsi qu'à l'ensemble des droits et obligations qui leur sont attachés à la date du
+transfert, des dispositions des trois premiers alinéas de l'article L. 1321-1, des deux premiers alinéas de l'article L.
+1321-2 et des articles L. 1321-3, L. 1321-4 et L. 1321-5.
+
+Toutefois, lorsque l'établissement public de coopération intercommunale est compétent en matière de zones d'activité
+économique, les conditions financières et patrimoniales du transfert des biens immobiliers nécessaires à l'exercice de cette
+compétence sont décidées dans les conditions de majorité qualifiée requise au II. Il en va de même lorsque l'établissement
+public est compétent en matière de zones d'aménagement concerté. L'affectation des personnels est décidée dans les mêmes
+conditions.
+
+L'établissement public de coopération intercommunale est substitué de plein droit, à la date du transfert des compétences,
+aux communes qui le créent dans toutes leurs délibérations et tous leurs actes.
+
+Les contrats sont exécutés dans les conditions antérieures jusqu'à leur échéance, sauf accord contraire des parties. La
+substitution de personne morale aux contrats conclus par les communes n'entraîne aucun droit à résiliation ou à indemnisation
+pour le cocontractant. La commune qui transfère la compétence informe les cocontractants de cette substitution.
+
+IV. - Sans préjudice des dispositions de l'article L. 5212-4, l'arrêté de création détermine le siège de l'établissement
+public de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
@@ -54726,9 +55047,9 @@ membres pour la représenter au sein de l'organe délibérant de cet établissem
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 35 ()
 
 	**Cité par**:
 
@@ -54764,14 +55085,27 @@ membres pour la représenter au sein de l'organe délibérant de cet établissem
 
 	  - CODE DES COMMUNES. - art. L169-2 (Ab)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1321-1 (M)
+	  - Code général des collectivités territoriales - art. L1321-2 (M)
+	  - Code général des collectivités territoriales - art. L1321-3 (M)
+	  - Code général des collectivités territoriales - art. L1321-4 (M)
+	  - Code général des collectivités territoriales - art. L1321-5 (M)
+	  - Code général des collectivités territoriales - art. L5212-2 (M)
+	  - Code général des collectivités territoriales - art. L5212-4 (M)
+
+
+##### Section 3 : Organes et fonctionnement
+
+##### Sous-section 1 : Organes
+
+##### Paragraphe 1 : Organe délibérant.
 
 ###### Article L5211-6
 
-- Il est créé une commission consultative compétente pour un ou plusieurs services publics locaux exploités en régie ou dans
-le cadre d'une convention de gestion déléguée. Elle doit comprendre parmi ses membres des représentants d'associations
-d'usagers du ou des services concernés. Elle est présidée par le président de l'établissement public de coopération
-intercommunale compétent. Cette obligation ne s'applique qu'aux établissements publics de coopération intercommunale
-comprenant au moins une commune de 3 500 habitants et plus.
+L'établissement public de coopération intercommunale est administré par un organe délibérant composé de délégués élus par les
+conseils municipaux des communes membres.
 
 **Liens relatifs à cet article**
 
@@ -54779,9 +55113,9 @@ comprenant au moins une commune de 3 500 habitants et plus.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
 
 	**Anciens textes**:
 
@@ -54800,43 +55134,26 @@ comprenant au moins une commune de 3 500 habitants et plus.
 
 ###### Article L5211-7
 
-- Les indemnités maximales votées par le conseil d'un syndicat de communes, d'un district, d'une communauté de communes,
-d'une communauté de villes et d'une communauté ou d'un syndicat d'agglomération nouvelle pour l'exercice effectif des
-fonctions de président et de vice-président sont déterminées par un décret en Conseil d'Etat par référence au montant du
-traitement correspondant à l'indice brut terminal de l'échelle indiciaire de la fonction publique.
+I. - Sans préjudice des dispositions du troisième alinéa de l'article L. 5212-7 et de l'article L. 5215-10, ces délégués sont
+élus par les conseils municipaux des communes intéressées parmi leurs membres, au scrutin secret à la majorité absolue. Si,
+après deux tours de scrutin, aucun candidat n'a obtenu la majorité absolue, il est procédé à un troisième tour et l'élection
+a lieu à la majorité relative.
+
+En cas d'égalité des suffrages, le plus âgé est déclaré élu.
+
+II. - Les conditions d'éligibilité, les inéligibilités et les incompatibilités applicables aux membres des organes
+délibérants des établissements publics de coopération intercommunale sont celles prévues pour les élections au conseil
+municipal par les articles L. 44 à L. 46, L. 228 à L. 237 et L. 239 du code électoral.
+
+Les agents employés par un établissement public de coopération intercommunale ne peuvent être désignés par une des communes
+membres pour la représenter au sein de l'organe délibérant de cet établissement.
 
 **Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L5212-6 (V)
-	  - Code général des collectivités territoriales - art. L5212-7 (VT)
-	  - Code général des collectivités territoriales - art. L5711-1 (VT)
 
 	**Anciens textes**:
 
-	  - Loi n°92-108 1992-01-03  art. 19
 	  - Loi n°92-108 du 3 février 1992 - art. 19 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-
-###### Article L5211-8
-
-Les établissements publics de coopération intercommunale sont responsables, dans les conditions prévues par les articles L.
-2123-31 et L. 2123-33 pour les conseillers municipaux et les maires, des accidents survenus aux membres de leurs organes
-délibérants et à leurs présidents dans l'exercice de leurs fonctions.
-
-Les dispositions de l'article L. 2123-34 relatives à la responsabilité des élus sont applicables au président et aux vice-
-présidents ayant reçu délégation.
-
-**Liens relatifs à cet article**
+	  - Loi n°92-108 1992-01-03  art. 19
 
 	**Codifié par**:
 
@@ -54844,15 +55161,55 @@ présidents ayant reçu délégation.
 
 	**Modifié par**:
 
-	  - Loi n°96-393 du 13 mai 1996 - art. 2 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
+
+	**Cite**:
+
+	  - Code électoral - art. L239 (M)
+	  - Code électoral L44 à L46, L228 à L237, L239
+	  - Code général des collectivités territoriales - art. L5215-10 (M)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5212-6 (V)
+	  - Code général des collectivités territoriales - art. L5212-7 (VT)
+	  - Code général des collectivités territoriales - art. L5711-1 (VT)
+
+
+###### Article L5211-8
+
+Sans préjudice des dispositions des articles L. 2121-33 et L. 2122-10, le mandat des délégués est lié à celui du conseil
+municipal qui les a désignés. Ce mandat expire lors de l'installation de l'organe délibérant de l'établissement public de
+coopération intercommunale suivant le renouvellement général des conseils municipaux. 
+
+Après le renouvellement général des conseils municipaux, l'organe délibérant de l'établissement public de coopération
+intercommunale se réunit au plus tard le vendredi de la quatrième semaine qui suit l'élection des maires. 
+
+En cas de suspension ou de dissolution d'un conseil municipal ou de démission de tous les membres en exercice, le mandat des
+délégués du conseil municipal est prorogé jusqu'à la désignation des délégués par le nouveau conseil. 
+
+En cas de vacance parmi les délégués d'un conseil municipal pour quelque cause que ce soit, ce conseil pourvoit au
+remplacement dans le délai d'un mois.
+
+A défaut pour une commune d'avoir désigné ses délégués, cette commune est représentée au sein de l'organe délibérant de
+l'établissement public de coopération intercommunale par le maire si elle ne compte qu'un délégué, par le maire et le premier
+adjoint dans le cas contraire.L'organe délibérant est alors réputé complet. 
+
+Les délégués sortants sont rééligibles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
 
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°96-393 du 13 mai 1996 - art. 5 (M)
 
-	**Transféré par**:
+	**Modifié par**:
 
-	  - Loi n°99-586 du 12 juillet 1999 - art. 37 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
 
 	**Anciens textes**:
 
@@ -54861,13 +55218,11 @@ présidents ayant reçu délégation.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2123-31 (V)
-	  - Code général des collectivités territoriales - art. L2123-33 (M)
-	  - Code général des collectivités territoriales - art. L2123-34 (M)
+	  - Code général des collectivités territoriales - art. L2121-33 (V)
+	  - Code général des collectivités territoriales - art. L2122-10 (V)
 
 	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. L5211-15 (T)
 	  - Code général des collectivités territoriales - art. L5211-15 (V)
 
 	**Cité par**:
@@ -54877,22 +55232,40 @@ présidents ayant reçu délégation.
 	  - Code général des collectivités territoriales - art. L5842-4 (V)
 
 
+##### Paragraphe 2 : Le président.
+
 ###### Article L5211-9
 
-- Les établissements publics de coopération intercommunale ayant compétence en matière d'urbanisme sont, sur proposition des
-vendeurs, autorisés à acquérir, moyennant le paiement d'une rente viagère, les immeubles qui leur sont nécessaires pour des
-opérations de restauration immobilière, d'aménagement ou d'équipement.
+Le président est l'organe exécutif de l'établissement public de coopération intercommunale.
 
-Lorsqu'un immeuble ainsi aliéné est occupé en tout ou partie par le vendeur, le contrat de vente viagère doit comporter à son
-profit et à celui de son conjoint habitant avec lui, à la date de l'acte de vente, la réserve d'un droit d'habiter totalement
-ou partiellement ledit immeuble leur vie durant.
+Il prépare et exécute les délibérations de l'organe délibérant de l'établissement public de coopération intercommunale. Il
+est l'ordonnateur des dépenses et il prescrit l'exécution des recettes de l'établissement public de coopération
+intercommunale.
+
+Il est seul chargé de l'administration, mais il peut déléguer par arrêté, sous sa surveillance et sa responsabilité,
+l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de ces derniers, à
+d'autres membres du bureau. Il peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de
+signature au directeur et au directeur adjoint dans les établissements publics de coopération intercommunale dont la liste
+est fixée par décret en Conseil d'Etat. Ces délégations subsistent tant qu'elles ne sont pas rapportées.
+
+Il est le chef des services de l'établissement public de coopération intercommunale.
+
+Il représente en justice l'établissement public de coopération intercommunale.
+
+Le président de l'établissement public de coopération intercommunale procède à la nomination des gardes champêtres dans le
+cas et les conditions prévus à l'article L. 2213-17.
+
+A partir de l'installation de l'organe délibérant et jusqu'à l'élection du président, les fonctions de président sont
+assurées par le doyen d'âge.
+
+**Nota:**
+
+NOTA : Loi 99-586 1999-07-12 art. 111 :
+
+I. - Les dispositions de la deuxième phrase du troisième alinéa de l'article L. 5211-9 du code général des collectivités
+territoriales sont applicables à compter du 1er janvier 2000.
 
 **Liens relatifs à cet article**
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales l5211-16
-	  - Code général des collectivités territoriales - art. L5211-16 (V)
 
 	**Anciens textes**:
 
@@ -54902,13 +55275,9 @@ ou partiellement ledit immeuble leur vie durant.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
 
 	**Cité par**:
 
@@ -54921,17 +55290,46 @@ ou partiellement ledit immeuble leur vie durant.
 	  - Code général des collectivités territoriales - art. L5211-9-1 (V)
 	  - Code général des collectivités territoriales - art. R5211-2 (Ab)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2213-17 (M)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-16 (V)
+
+
+##### Paragraphe 10 : Le bureau.
 
 ###### Article L5211-10
 
-- Le bilan des acquisitions et cessions opérées par les établissements publics de coopération intercommunale est soumis
-chaque année à délibération de l'organe délibérant. Ce bilan est annexé au compte administratif de l'établissement concerné.
+Le bureau de l'établissement public de coopération intercommunale est composé du président, d'un ou de plusieurs vice-
+présidents et, éventuellement, d'un ou de plusieurs autres membres. Le nombre de vice-présidents est librement déterminé par
+l'organe délibérant, sans que ce nombre puisse excéder 30 % de l'effectif de celui-ci.
 
-Toute cession d'immeubles ou de droits réels immobiliers envisagée par un établissement public de coopération intercommunale
-donne lieu à délibération motivée de l'organe délibérant portant sur les conditions de la vente et ses caractéristiques
-essentielles. La délibération est prise au vu de l'avis du service des domaines. Cet avis est réputé donné à l'issue d'un
-délai d'un mois à compter de la saisine de ce service. Lorsque cette opération est envisagée dans le cadre d'une convention
-avec une commune, copie de cette délibération est transmise à la commune concernée dans les deux mois suivant son adoption.
+Le mandat des membres du bureau prend fin en même temps que celui des membres de l'organe délibérant.
+
+Le président et le bureau peuvent recevoir délégation d'une partie des attributions de l'organe délibérant à l'exception :
+
+1° Du vote du budget, de l'institution et de la fixation des taux ou tarifs des taxes ou redevances ;
+
+2° De l'approbation du compte administratif ;
+
+3° Des dispositions à caractère budgétaire prises par un établissement public de coopération intercommunale à la suite d'une
+mise en demeure intervenue en application de l'article L. 1612-15 ;
+
+4° Des décisions relatives aux modifications des conditions initiales de composition, de fonctionnement et de durée de
+l'établissement public de coopération intercommunale ;
+
+5° De l'adhésion de l'établissement à un établissement public ;
+
+6° De la délégation de la gestion d'un service public ;
+
+7° Des dispositions portant orientation en matière d'aménagement de l'espace communautaire, d'équilibre social de l'habitat
+sur le territoire communautaire et de politique de la ville.
+
+Lors de chaque réunion de l'organe délibérant, le président rend compte des travaux du bureau et des attributions exercées
+par délégation de l'organe délibérant.
 
 **Liens relatifs à cet article**
 
@@ -54939,19 +55337,19 @@ avec une commune, copie de cette délibération est transmise à la commune conc
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
 
 	**Anciens textes**:
 
 	  - Code des communes L311-8 par. I ecqc les EPCI
 	  - CODE DES COMMUNES. - art. L*311-8 (Ab)
 	  - CODE DES COMMUNES. - art. L311-1 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1612-15 (V)
 
 	**Cité par**:
 
@@ -54963,16 +55361,38 @@ avec une commune, copie de cette délibération est transmise à la commune conc
 
 	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. L5211-37 (M)
 	  - Code général des collectivités territoriales - art. L5211-37 (V)
 
 
+##### Sous-section 2 : Fonctionnement.
+
 ###### Article L5211-11
 
-- Les cessions d'immeubles ou de droits réels immobiliers des établissements publics de coopération intercommunale font
-l'objet d'une inscription sur un tableau récapitulatif annexé au compte administratif de l'établissement. Cette inscription
-précise la nature du bien, sa localisation, l'origine de propriété, l'identité du cédant et du cessionnaire ainsi que les
-conditions de la cession.
+L'organe délibérant de l'établissement public de coopération intercommunale se réunit au moins une fois par trimestre ou,
+pour les syndicats formés en vue d'une seule oeuvre ou d'un seul service d'intérêt intercommunal, une fois par semestre. A
+cette fin, le président convoque les membres de l'organe délibérant. L'organe délibérant se réunit au siège de
+l'établissement public de coopération intercommunale ou dans un lieu choisi par l'organe délibérant dans l'une des communes
+membres.
+
+Sur la demande de cinq membres ou du président, l'organe délibérant peut décider, sans débat, à la majorité absolue de ses
+membres présents ou représentés, qu'il se réunit à huis clos.
+
+**Nota:**
+
+Loi 99-586 1999-07-12 art. 111 : 
+
+II.-Jusqu'à l'expiration du délai prévu au I, sont maintenues en vigueur, dans leur rédaction en vigueur à la date de
+publication de la présente loi, les dispositions suivantes du code général des collectivités territoriales :
+
+- la dernière phrase du quatrième alinéa de l'article L. 5212-11 ;
+
+- le dernier alinéa de l'article L. 5213-10 ;
+
+- la dernière phrase du quatrième alinéa de l'article L. 5214-11 ;
+
+- le dernier alinéa de l'article L. 5215-14 ;
+
+- le dernier alinéa de l'article L. 5216-10.
 
 **Liens relatifs à cet article**
 
@@ -54980,13 +55400,9 @@ conditions de la cession.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
 
 	**Anciens textes**:
 
@@ -54995,7 +55411,6 @@ conditions de la cession.
 
 	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. L5211-38 (M)
 	  - Code général des collectivités territoriales - art. L5211-38 (MMN)
 
 	**Cité par**:
@@ -55004,20 +55419,38 @@ conditions de la cession.
 	  - Code général des collectivités territoriales - art. L5842-4 (V)
 
 
+##### Section 4 : Conditions d'exercice des mandats des membres des conseils ou comités.
+
 ###### Article L5211-12
 
-- Le président de l'établissement public de coopération intercommunale procède à la nomination des gardes champêtres dans le
-cas et les conditions prévus à l'article L. 2213-17.
+Les indemnités maximales votées par le conseil ou comité d'un syndicat de communes, d'un syndicat mixte composé exclusivement
+de communes et de leurs groupements, d'une communauté de communes, d'une communauté d'agglomération et d'une communauté ou
+d'un syndicat d'agglomération nouvelle pour l'exercice effectif des fonctions de président et de vice-président sont
+déterminées par un décret en Conseil d'Etat par référence au montant du traitement correspondant à l'indice brut terminal de
+l'échelle indiciaire de la fonction publique.
+
+Le membre d'un organe délibérant d'établissement public de coopération intercommunale titulaire d'autres mandats électoraux,
+ou qui siège à ce titre au conseil d'administration d'un établissement public local, du Centre national de la fonction
+publique territoriale, au conseil d'administration ou au conseil de surveillance d'une société d'économie mixte locale ou qui
+préside une telle société ne peut recevoir, pour l'ensemble de ses fonctions, un montant total de rémunérations et
+d'indemnités de fonction supérieur à une fois et demie le montant de l'indemnité parlementaire telle qu'elle est définie à
+l'article 1er de l'ordonnance n° 58-1210 du 13 décembre 1958 portant loi organique relative à l'indemnité des membres du
+Parlement. Ce plafond s'entend déduction faite des cotisations sociales obligatoires.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance n°58-1210 du 13 décembre 1958 - art. 1 (V)
+	  - Code général des collectivités territoriales - art. L2213-17 (M)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 37 ()
 
 	**Liens**:
 
@@ -55060,20 +55493,19 @@ cas et les conditions prévus à l'article L. 2213-17.
 	  - Code des communes L132-1 ecqc la nomination dans les EPIC
 	  - CODE DES COMMUNES. - art. L132-1 (Ab)
 
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2213-17 (M)
-
-
-##### Section 2 : Commission départementale de la coopération intercommunale
-
-##### Sous-section 1 : Composition.
 
 ###### Article L5211-13
 
-- Il est institué dans chaque département une commission départementale de la coopération intercommunale. Elle est présidée
-par le représentant de l'Etat dans le département. Celui-ci est assisté d'un rapporteur général et de deux assesseurs élus
-parmi les maires.
+Lorsque les membres des conseils ou comités des établissements publics de coopération intercommunale mentionnés aux articles
+L. 5211-12 et L. 5215-1 ne bénéficient pas d'indemnité au titre des fonctions qu'ils exercent au sein de ces établissements,
+les frais de déplacement qu'ils engagent à l'occasion des réunions de ces conseils ou comités, du bureau, des commissions
+instituées par délibération dont ils sont membres, des comités consultatifs prévus par l'article L. 5211-49-1 et des organes
+délibérants ou des bureaux des organismes où ils représentent leur établissement peuvent être remboursés lorsque la réunion a
+lieu dans une commune autre que la leur.
+
+" La dépense est à la charge de l'organisme qui organise la réunion.
+
+" Un décret fixe les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -55081,13 +55513,9 @@ parmi les maires.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 37 ()
 
 	**Cité par**:
 
@@ -55104,6 +55532,12 @@ parmi les maires.
 	  - Code des communes L160-1 al. 1
 	  - CODE DES COMMUNES. - art. L160-1 (Ab)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-12 (M)
+	  - Code général des collectivités territoriales - art. L5211-49-1 (M)
+	  - Code général des collectivités territoriales - art. L5215-1 (M)
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5211-42 (V)
@@ -55111,45 +55545,19 @@ parmi les maires.
 
 ###### Article L5211-14
 
-- La commission départementale de la coopération intercommunale est composée à raison de :
-
-1° 60 p. 100 par des maires, des adjoints au maire ou des conseillers municipaux élus à la représentation proportionnelle à
-la plus forte moyenne par les maires regroupés au sein des collèges électoraux déterminés en fonction de l'importance
-démographique des communes ;
-
-2° 20 p. 100 par des représentants d'établissements publics de coopération intercommunale ayant leur siège dans le
-département, élus à la représentation proportionnelle à la plus forte moyenne par le collège des présidents des organes
-délibérants de ces établissements et par des représentants de communes associées à la date du 8 février 1992, date de
-publication de la loi d'orientation n° 92-125 du 6 février 1992 relative à l'administration territoriale de la République,
-dans le cadre de chartes intercommunales de développement et d'aménagement, élus à la représentation proportionnelle à la
-plus forte moyenne par le collège des maires de ces communes ;
-
-3° 15 p. 100 par des représentants du conseil général, élus par celui-ci à la représentation proportionnelle à la plus forte
-moyenne ;
-
-4° 5 p. 100 par des représentants du conseil régional dans la circonscription départementale, élus par celui-ci à la
-représentation proportionnelle à la plus forte moyenne.
-
-Le mandat des membres de la commission cesse à l'occasion du renouvellement des fonctions au titre desquelles ils ont été
-désignés. Il est pourvu à leur remplacement dans les conditions prévues au présent article.
+Les articles L. 2123-18, L. 2123-25 à L. 2123-27, les premier et deuxième alinéas de l'article L. 2123-28 et l'article L.
+2123-29 s'appliquent aux membres des organes délibérants des établissements publics de coopération intercommunale mentionnés
+aux articles L. 5211-12 et L. 5215-1.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°92-125 1992-02-06
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 42 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 37 ()
 
 	**Anciens textes**:
 
@@ -55164,6 +55572,15 @@ désignés. Il est pourvu à leur remplacement dans les conditions prévues au p
 	  - Code général des collectivités territoriales - art. L5211-15 (T)
 	  - Code général des collectivités territoriales - art. L5842-5 (V)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2123-18 (M)
+	  - Code général des collectivités territoriales - art. L2123-28 (V)
+	  - Code général des collectivités territoriales - art. L2123-29 (V)
+	  - Code général des collectivités territoriales - art. L5211-12 (M)
+	  - Code général des collectivités territoriales - art. L5215-1 (M)
+	  - Code général des collectivités territoriales L2123-18, L2123-25 à L2123-27, L2123-28, L2123-29, L5211-12, L5215-1
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5211-43 (V)
@@ -55171,11 +55588,12 @@ désignés. Il est pourvu à leur remplacement dans les conditions prévues au p
 
 ###### Article L5211-15
 
-- Les conditions d'application des articles L. 5211-13 et L. 5211-14 sont fixées par décret en Conseil d'Etat. Ce décret fixe
-notamment le nombre total des membres de la commission départementale, déterminé compte tenu de la population, du nombre des
-communes du département et de leur importance démographique, les critères démographiques utilisés pour la constitution des
-collèges de maires mentionnés au 1° de l'article L. 5211-14 ainsi que les modalités de désignation des membres de la
-commission départementale et les règles de fonctionnement de celle-ci.
+Les établissements publics de coopération intercommunale sont responsables, dans les conditions prévues par les articles L.
+2123-31 et L. 2123-33 pour les conseillers municipaux et les maires, des accidents survenus aux membres de leurs organes
+délibérants et à leurs présidents dans l'exercice de leurs fonctions.
+
+Les dispositions de l'article L. 2123-34 relatives à la responsabilité des élus sont applicables au président et aux vice-
+présidents ayant reçu délégation.
 
 **Liens relatifs à cet article**
 
@@ -55183,41 +55601,41 @@ commission départementale et les règles de fonctionnement de celle-ci.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 42 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 37 ()
 
 	**Anciens textes**:
 
-	  - Code des communes L160-1 al. 7
 	  - CODE DES COMMUNES. - art. L125-7 (Ab)
 	  - CODE DES COMMUNES. - art. L160-1 (Ab)
+	  - Code général des collectivités territoriales - art. L5211-8 (M)
 	  - Code général des collectivités territoriales - art. L5211-8 (T)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5211-13 (T)
-	  - Code général des collectivités territoriales - art. L5211-14 (T)
+	  - Code général des collectivités territoriales - art. L2123-31 (V)
+	  - Code général des collectivités territoriales - art. L2123-33 (M)
+	  - Code général des collectivités territoriales - art. L2123-34 (M)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5211-44 (V)
 
 
-##### Sous-section 2 : Attributions.
+##### Section 5 : Modifications statutaires
+
+##### Sous-section 1 : Modifications relatives aux compétences.
 
 ###### Article L5211-16
 
-- La commission départementale de la coopération intercommunale établit et tient à jour un état de la coopération
-intercommunale dans le département. Elle entend, à leur demande, des représentants des collectivités territoriales
-concernées. Elle peut formuler toute proposition tendant à renforcer la coopération intercommunale. Elle est informée de tout
-projet de création d'établissement public de coopération intercommunale ou d'association de communes en vue de l'élaboration
-d'une charte intercommunale de développement et d'aménagement et peut formuler ses observations. Ses propositions et
-observations sont rendues publiques.
+Les établissements publics de coopération intercommunale ayant compétence en matière d'urbanisme sont, sur proposition des
+vendeurs, autorisés à acquérir, moyennant le paiement d'une rente viagère, les immeubles qui leur sont nécessaires pour des
+opérations de restauration immobilière, d'aménagement ou d'équipement.
+
+Lorsqu'un immeuble ainsi aliéné est occupé en tout ou partie par le vendeur, le contrat de vente viagère doit comporter à son
+profit et à celui de son conjoint habitant avec lui, à la date de l'acte de vente, la réserve d'un droit d'habiter totalement
+ou partiellement ledit immeuble leur vie durant.
 
 **Liens relatifs à cet article**
 
@@ -55225,17 +55643,14 @@ observations sont rendues publiques.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 42 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 37 ()
 
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L160-2 (Ab)
+	  - Code général des collectivités territoriales - art. L5211-9 (T)
 
 	**Nouveaux textes**:
 
@@ -55247,14 +55662,37 @@ observations sont rendues publiques.
 	  - Code général des collectivités territoriales - art. L5842-6 (VD)
 
 
-##### Section 3 : Information et participation des habitants.
-
 ###### Article L5211-17
 
-- Dans les établissements publics de coopération intercommunale comprenant au moins une commune de 3 500 habitants et plus,
-le dispositif des actes réglementaires pris par l'assemblée délibérante ou l'organe exécutif est transmis dans le mois, pour
-affichage, aux communes membres ou est publié dans un recueil des actes administratifs dans des conditions fixées par décret
-en Conseil d'Etat.
+Les communes membres d'un établissement public de coopération intercommunale peuvent à tout moment transférer, en tout ou
+partie, à ce dernier, certaines de leurs compétences dont le transfert n'est pas prévu par la loi ou par la décision
+institutive ainsi que les biens, équipements ou services publics nécessaires à leur exercice.
+
+Ces transferts sont décidés par délibérations concordantes de l'organe délibérant et des conseils municipaux se prononçant
+dans les conditions de majorité requise pour la création de l'établissement public de coopération intercommunale. Le conseil
+municipal de chaque commune membre dispose d'un délai de trois mois, à compter de la notification au maire de la commune de
+la délibération de l'organe délibérant de l'établissement public de coopération intercommunale, pour se prononcer sur les
+transferts proposés. A défaut de délibération dans ce délai, sa décision est réputée favorable.
+
+Le transfert de compétences est prononcé par arrêté du ou des représentants de l'Etat dans le ou les départements intéressés.
+
+Il entraîne de plein droit l'application à l'ensemble des biens, équipements et services publics nécessaires à leur exercice,
+ainsi qu'à l'ensemble des droits et obligations qui leur sont attachés à la date du transfert, des dispositions des trois
+premiers alinéas de l'article L. 1321-1, des deux premiers alinéas de l'article L. 1321-2 et des articles L. 1321-3, L.
+1321-4 et L. 1321-5.
+
+Toutefois, lorsque l'établissement public est compétent en matière de zones d'activité économique, les conditions financières
+et patrimoniales du transfert des biens immobiliers nécessaires à l'exercice de cette compétence sont décidées par
+délibérations concordantes de l'organe délibérant et des conseils municipaux des communes membres se prononçant dans les
+conditions de majorité qualifiée requise pour la création de l'établissement. Il en va de même lorsque l'établissement public
+est compétent en matière de zones d'aménagement concerté. L'affectation des personnels est décidée dans les mêmes conditions.
+
+L'établissement public de coopération intercommunale est substitué de plein droit, à la date du transfert de compétences, aux
+communes qui le composent dans toutes leurs délibérations et tous leurs actes.
+
+Les contrats sont exécutés dans les conditions antérieures jusqu'à leur échéance, sauf accord contraire des parties. La
+substitution de personne morale aux contrats conclus par les communes n'entraîne aucun droit à résiliation ou à indemnisation
+pour le cocontractant. La commune qui transfère la compétence informe les cocontractants de cette substitution.
 
 **Liens relatifs à cet article**
 
@@ -55262,13 +55700,9 @@ en Conseil d'Etat.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
 
 	**Cité par**:
 
@@ -55300,40 +55734,71 @@ en Conseil d'Etat.
 
 	  - CODE DES COMMUNES. - art. L169-1 (Ab)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1321-1 (M)
+	  - Code général des collectivités territoriales - art. L1321-2 (M)
+	  - Code général des collectivités territoriales - art. L1321-3 (M)
+	  - Code général des collectivités territoriales - art. L1321-4 (M)
+	  - Code général des collectivités territoriales - art. L1321-5 (M)
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5211-47 (V)
 
 
+##### Sous-section 2 : Modifications relatives au périmètre et à l'organisation.
+
 ###### Article L5211-18
 
-- Toute personne physique ou morale a le droit de demander communication sans déplacement et de prendre copie totale ou
-partielle des procès-verbaux des assemblées délibérantes des établissements publics de coopération intercommunale, des
-budgets et des comptes de ces établissements ainsi que des arrêtés de leur président.
+I. - Sans préjudice des dispositions de l'article L. 5215-40, le périmètre de l'établissement public de coopération
+intercommunale peut être ultérieurement étendu, par arrêté du ou des représentants de l'Etat dans le ou les départements
+concernés, par adjonction de communes nouvelles, sous réserve de l'absence d'opposition de plus du tiers des conseils
+municipaux des communes membres :
 
-Chacun peut les publier sous sa responsabilité.
+1° Soit à la demande des conseils municipaux des communes nouvelles. La modification est alors subordonnée à l'accord de
+l'organe délibérant de l'établissement public de coopération intercommunale ;
 
-La personne visée au premier alinéa désireuse de se faire communiquer la copie des budgets ou des comptes de l'établissement
-public de coopération intercommunale peut l'obtenir, à ses frais, aussi bien du président de cet établissement que des
-services déconcentrés de l'Etat.
+2° Soit sur l'initiative de l'organe délibérant de l'établissement public de coopération intercommunale. La modification est
+alors subordonnée à l'accord du ou des conseils municipaux dont l'admission est envisagée ;
+
+3° Soit sur l'initiative du représentant de l'Etat. La modification est alors subordonnée à l'accord de l'organe délibérant
+et des conseils municipaux dont l'admission est envisagée.
+
+Dans les trois cas, à compter de la notification de la délibération de l'organe délibérant de l'établissement public de
+coopération intercommunale au maire de chacune des communes membres, le conseil municipal de chaque commune membre dispose
+d'un délai de trois mois pour se prononcer sur l'admission de la nouvelle commune. A défaut de délibération dans ce délai, sa
+décision est réputée favorable. Les mêmes règles s'appliquent pour les conseils municipaux des communes dont l'admission est
+envisagée. Dans les cas visés aux 1° et 3°, l'organe délibérant dispose d'un délai de trois mois à compter de la réception de
+la demande.
+
+II. - Le transfert des compétences entraîne de plein droit l'application à l'ensemble des biens, équipements et services
+publics nécessaires à leur exercice, ainsi qu'à l'ensemble des droits et obligations qui leur sont attachés à la date du
+transfert, des dispositions des trois premiers alinéas de l'article L. 1321-1, des deux premiers alinéas de l'article L.
+1321-2 et des articles L. 1321-3, L. 1321-4 et L. 1321-5.
+
+Toutefois, lorsque l'établissement public est compétent en matière de zones d'activité économique, les conditions financières
+et patrimoniales du transfert des biens immobiliers nécessaires à l'exercice de cette compétence sont décidées par
+délibérations concordantes de l'organe délibérant et des conseils municipaux des communes membres se prononçant dans les
+conditions de majorité qualifiée requise pour la création de l'établissement. Il en va de même lorsque l'établissement public
+est compétent en matière de zones d'aménagement concerté. L'affectation des personnels est décidée dans les mêmes conditions.
+
+L'établissement public de coopération intercommunale est substitué de plein droit, à la date du transfert de compétences, aux
+communes qui le composent dans toutes leurs délibérations et tous leurs actes.
+
+Les contrats sont exécutés dans les conditions antérieures jusqu'à leur échéance, sauf accord contraire des parties. La
+substitution de personne morale aux contrats conclus par les communes n'entraîne aucun droit à résiliation ou à indemnisation
+pour le cocontractant. La commune qui transfère la compétence informe les cocontractants de cette substitution.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°92-125 1992-02-06 art. 17 par. V ecqc les EPCI
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
 
 	**Cité par**:
 
@@ -55350,36 +55815,57 @@ services déconcentrés de l'Etat.
 	  - Code général des collectivités territoriales - art. L5711-4 (VT)
 	  - Code général des collectivités territoriales - art. L5842-6 (VD)
 
+	**Anciens textes**:
+
+	  - CODE DES COMMUNES. - art. L169-1 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1321-1 (M)
+	  - Code général des collectivités territoriales - art. L1321-2 (M)
+	  - Code général des collectivités territoriales - art. L1321-3 (M)
+	  - Code général des collectivités territoriales - art. L1321-4 (M)
+	  - Code général des collectivités territoriales - art. L1321-5 (M)
+	  - Code général des collectivités territoriales - art. L5215-40 (V)
+
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5211-46 (M)
-	  - Code général des collectivités territoriales - art. L5211-47 (V)
 
 
 ###### Article L5211-19
 
-- Le dispositif des délibérations des assemblées délibérantes des établissements publics de coopération intercommunale prises
-en matière d'interventions économiques en application des dispositions du titre premier du livre V de la première partie et
-des articles L. 2251-1 à L. 2251-4, ainsi que le dispositif des délibérations approuvant une convention de délégation de
-service public, font l'objet d'une insertion dans une publication locale diffusée dans l'ensemble des communes concernées.
+Une commune peut se retirer de l'établissement public de coopération intercommunale, sauf s'il s'agit d'une communauté
+urbaine, dans les conditions prévues à l'article L. 5211-25-1, avec le consentement de l'organe délibérant de
+l'établissement. A défaut d'accord entre l'organe délibérant de l'établissement public de coopération intercommunale et le
+conseil municipal concerné sur la répartition des biens ou du produit de leur réalisation et du solde de l'encours de la
+dette visés au 2° de l'article L. 5211-25-1, cette répartition est fixée par arrêté du ou des représentants de l'Etat dans le
+ou les départements concernés.
+
+Le retrait ne peut intervenir si plus du tiers des conseils municipaux des communes membres s'y opposent. Le conseil
+municipal de chaque commune membre dispose d'un délai de trois mois à compter de la notification de la délibération de
+l'organe délibérant au maire de la commune pour se prononcer sur le retrait envisagé. A défaut de délibération dans ce délai,
+sa décision est réputée défavorable.
+
+Pour les établissements publics de coopération intercommunale soumis au régime fiscal prévu à l'article 1609 nonies C du code
+général des impôts, le retrait n'est possible qu'à l'issue de la période d'unification des taux de taxe professionnelle.
+
+La décision de retrait est prise par le ou les représentants de l'Etat dans le ou les départements concernés.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Loi n°92-125 1992-02-06 art. 19 par. I ecqc les EPCI
+	  - CGI 1609 nonies C
+	  - Code général des collectivités territoriales - art. L5211-25-1 (M)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
 
 	**Cité par**:
 
@@ -55401,37 +55887,32 @@ service public, font l'objet d'une insertion dans une publication locale diffus�
 	  - Code général des collectivités territoriales - art. L5332-5 (VT)
 	  - Code général des collectivités territoriales - art. L5842-6 (VD)
 
+	**Anciens textes**:
+
+	  - CODE DES COMMUNES. - art. L169-1 (Ab)
+
 	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. L5211-47 (V)
 	  - Code général des collectivités territoriales - art. L5211-48 (V)
 	  - Code général des collectivités territoriales - art. L5211-49 (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales L2251-1 à L2251-4
 
 
 ###### Article L5211-20
 
-- Les électeurs des communes membres d'un établissement public de coopération intercommunale peuvent être consultés sur les
-décisions que l'assemblée ou le président de cet établissement sont appelés à prendre pour régler les affaires de la
-compétence de l'établissement en matière d'aménagement.
+L'organe délibérant de l'établissement public de coopération intercommunale délibère sur les modifications statutaires autres
+que celles visées par les articles L. 5211-17 à L. 5211-19 et autres que celles relatives à la répartition des sièges au sein
+de l'organe délibérant et à la dissolution de l'établissement.
 
-Sur proposition de l'ensemble des maires des communes membres, ou sur demande écrite de la moitié des membres de l'assemblée
-délibérante, l'assemblée délibérante de l'établissement délibère sur le principe et les modalités d'organisation de la
-consultation. Dans ce cas, l'urgence ne peut être invoquée.
+A compter de la notification de la délibération de l'organe délibérant de l'établissement public de coopération
+intercommunale au maire de chacune des communes membres, le conseil municipal de chaque commune dispose d'un délai de trois
+mois pour se prononcer sur la modification envisagée. A défaut de délibération dans ce délai, sa décision est réputée
+favorable.
 
-Un cinquième des électeurs inscrits sur les listes électorales des communes membres de l'établissement public de coopération
-intercommunale peuvent saisir celui-ci en vue de l'organisation d'une consultation sur une opération d'aménagement relevant
-de sa décision. Dans l'année, tout électeur ne peut signer qu'une seule saisine tendant à l'organisation d'une consultation.
-L'assemblée délibérante de l'établissement délibère dans les conditions prévues à l'alinéa ci-dessus sur le principe et les
-modalités d'organisation de cette consultation.
+La décision de modification est subordonnée à l'accord des conseils municipaux dans les conditions de majorité qualifiée
+requise pour la création de l'établissement.
 
-La délibération qui décide la consultation indique expressément que cette consultation n'est qu'une demande d'avis.
-
-Les dépenses afférentes à la consultation sont à la charge de l'établissement public de coopération intercommunale qui
-l'organise.
+La décision de modification est prise par arrêté du représentant ou des représentants de l'Etat dans le ou les départements
+intéressés.
 
 **Liens relatifs à cet article**
 
@@ -55439,13 +55920,9 @@ l'organise.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
 
 	**Cité par**:
 
@@ -55459,38 +55936,47 @@ l'organise.
 
 	**Anciens textes**:
 
+	  - CODE DES COMMUNES. - art. L169-1 (Ab)
 	  - CODE DES COMMUNES. - art. L125-2-2 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5211-47 (V)
-
-
-###### Article L5211-21
-
-Un dossier d'information sur l'objet de la consultation est mis à la disposition du public sur place au siège de
-l'établissement public de coopération intercommunale, dans chaque mairie et, le cas échéant, mairie annexe des communes
-membres de l'établissement public. L'accès du public au dossier est assuré dans les conditions fixées par l'article 4 de la
-loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
-diverses dispositions d'ordre administratif, social et fiscal.
-
-**Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-753 du 17 juillet 1978 - art. 4 (M)
+	  - Code général des collectivités territoriales L5211-17 à L5211-19
+
+
+##### Section 6 : Dispositions financières
+
+##### Sous-section 1 : Dispositions communes.
+
+###### Article L5211-21
+
+- Dans les établissements publics de coopération intercommunale érigés en stations classées, dans ceux bénéficiant de l'une
+des dotations prévues à l'article L. 5211-24, dans ceux qui réalisent des actions de promotion en faveur du tourisme ainsi
+que dans ceux qui réalisent, dans la limite de leurs compétences, des actions de protection et de gestion de leurs espaces
+naturels, la taxe de séjour ou la taxe de séjour forfaitaire peut être instituée par décision de l'organe délibérant dans les
+conditions prévues à l'article L. 2333-26.
+
+Les communes membres d'un établissement public de coopération intercommunale ayant institué la taxe de séjour ou la taxe de
+séjour forfaitaire ne peuvent percevoir celles-ci.
+
+Dans les établissements publics de coopération intercommunale qui ont institué la taxe de séjour au titre des actions de
+protection et de gestion de leurs espaces naturels, le produit de la taxe de séjour ou de la taxe de séjour forfaitaire peut
+être affecté, sous réserve des dispositions de l'article L. 2231-14, aux dépenses destinées à favoriser la protection et la
+gestion de leurs espaces naturels à des fins touristiques. Lorsque ces établissements publics de coopération intercommunale
+sont situés dans leur intégralité ou en partie sur le territoire d'un parc national ou d'un parc naturel régional géré par un
+établissement public administratif, le produit de la taxe peut être reversé par les établissements publics de coopération
+intercommunale à l'organisme gestionnaire du parc dans le cadre d'une convention.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+	  - Loi n°99-586 1999-07-12 art. 39, 90 jorf 13 juillet 1999
+	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
 
 	**Cité par**:
 
@@ -55523,7 +56009,6 @@ diverses dispositions d'ordre administratif, social et fiscal.
 
 	**Anciens textes**:
 
-	  - Code des communes L125-3 ecqc les EPCI
 	  - CODE DES COMMUNES. - art. L125-3 (Ab)
 	  - Code général des collectivités territoriales - art. L5211-27 (T)
 
@@ -55531,16 +56016,20 @@ diverses dispositions d'ordre administratif, social et fiscal.
 
 	  - PILOTE_SUIVEUR: Code du tourisme. - art. L422-4 (V)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2231-14 (M)
+	  - Code général des collectivités territoriales - art. L5211-24 (M)
+
 	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. L5211-47 (V)
 	  - Code général des collectivités territoriales - art. L5211-50 (M)
 
 
 ###### Article L5211-22
 
-- Après avoir pris connaissance du résultat de la consultation, l'assemblée délibérante de l'établissement public de
-coopération intercommunale délibère dans les conditions prévues aux articles L. 2121-20 et L. 2121-21.
+Lorsque des remontées mécaniques sont exploitées par un établissement public de coopération intercommunale, la taxe communale
+peut être instituée et perçue directement par cet établissement avec l'accord des communes concernées.
 
 **Liens relatifs à cet article**
 
@@ -55548,17 +56037,12 @@ coopération intercommunale délibère dans les conditions prévues aux articles
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
 
 	**Anciens textes**:
 
-	  - Code des communes L125-4 ecqc les EPCI
 	  - CODE DES COMMUNES. - art. L125-4 (Ab)
 	  - Code général des collectivités territoriales - art. L5211-28 (T)
 
@@ -55566,25 +56050,15 @@ coopération intercommunale délibère dans les conditions prévues aux articles
 
 	  - PILOTE_SUIVEUR: Code du tourisme. - art. L422-7 (V)
 
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2121-20 (V)
-	  - Code général des collectivités territoriales - art. L2121-21 (M)
-
 	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. L5211-47 (V)
 	  - Code général des collectivités territoriales - art. L5211-51 (V)
 
 
 ###### Article L5211-23
 
-- Aucune consultation des électeurs des communes membres d'un établissement public de coopération intercommunale ne peut
-avoir lieu à partir du 1er janvier de l'année civile qui précède l'année du renouvellement général des conseils municipaux ni
-durant les campagnes électorales précédant les élections au suffrage universel direct ou indirect. Deux consultations portant
-sur un même objet ne peuvent intervenir dans un délai inférieur à deux ans.
-
-Un délai d'un an doit s'écouler entre deux consultations.
+La dotation globale d'équipement perçue par les établissements publics de coopération intercommunale est inscrite à la
+section d'investissement de leur budget.
 
 **Liens relatifs à cet article**
 
@@ -55592,23 +56066,17 @@ Un délai d'un an doit s'écouler entre deux consultations.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
 
 	**Anciens textes**:
 
-	  - Code des communes L125-5 ecqc les EPCI
 	  - CODE DES COMMUNES. - art. L125-5 (Ab)
 	  - Code général des collectivités territoriales - art. L5211-29 (T)
 
 	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. L5211-47 (V)
 	  - Code général des collectivités territoriales - art. L5211-52 (V)
 
 	**Cité par**:
@@ -55619,30 +56087,38 @@ Un délai d'un an doit s'écouler entre deux consultations.
 
 ###### Article L5211-24
 
-- Lorsque la désignation des délégués à l'assemblée délibérante de l'établissement public de coopération intercommunale, ou
-du président de celle-ci, fait l'objet d'un recours contentieux devant le tribunal administratif et, s'il y a lieu, devant le
-Conseil d'Etat, aucune consultation ne peut avoir lieu tant que cette désignation n'a fait l'objet d'une décision devenue
-définitive.
+Les établissements publics de coopération intercommunale qui percevaient au lieu et place des communes constituant
+l'établissement public les dotations prévues à l'article L. 234-13 du code des communes, dans sa rédaction antérieure à la
+loi n° 93-1436 du 31 décembre 1993 portant réforme de la dotation globale de fonctionnement et modifiant le code des communes
+et le code général des impôts, continuent à les percevoir. Pour 1994, le montant de ces dotations est égal à la somme reçue
+en 1993. A compter de 1995, le montant progresse chaque année de la moitié du taux d'évolution de l'ensemble des ressources
+affectées à la dotation globale de fonctionnement. 
+
+Lorsqu'un établissement public de coopération intercommunale visé à la première phrase du premier alinéa se transforme en un
+autre établissement public de coopération intercommunale, cette transformation ne modifie pas les modalités de versement des
+dotations visées au premier alinéa, lesquelles demeurent versées directement au nouvel établissement public de coopération
+intercommunale sous réserve que ce dernier exerce des compétences en matière de tourisme.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°93-1436 du 31 décembre 1993 (V)
+	  - CODE DES COMMUNES. - art. L234-13 (Ab)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
 
 	**Anciens textes**:
 
-	  - Code des communes L125-6 ecqc les EPCI
 	  - CODE DES COMMUNES. - art. L125-6 (Ab)
 	  - Code général des collectivités territoriales - art. L5211-30 (T)
+	  - Code général des collectivités territoriales l5211-30
 
 	**Cité par**:
 
@@ -55652,13 +56128,61 @@ définitive.
 
 	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. L5211-47 (V)
 	  - Code général des collectivités territoriales - art. L5211-53 (V)
 
 
 ###### Article L5211-25
 
-- Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
+Par dérogation aux dispositions du second alinéa de l'article L. 2333-81 et si aucune commune territorialement concernée ne
+s'y oppose, lorsqu'un établissement public de coopération intercommunale, existant ou créé à cette fin, a reçu compétence
+pour la création et la gestion de pistes de ski de fond, l'assemblée délibérante décide la création de la redevance visée à
+l'article L. 2333-81 et en fixe le taux. La redevance est perçue à son profit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2333-81 (V)
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-31 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-54 (V)
+	  - Code général des collectivités territoriales - art. L5211-57 (V)
+
+
+###### Article L5211-25-1
+
+En cas de retrait de la compétence transférée à un établissement public de coopération intercommunale :
+
+1° Les biens meubles et immeubles mis à la disposition de l'établissement bénéficiaire du transfert de compétences sont
+restitués aux communes antérieurement compétentes et réintégrés dans leur patrimoine pour leur valeur nette comptable, avec
+les adjonctions effectuées sur ces biens liquidées sur les mêmes bases. Le solde de l'encours de la dette transférée
+afférente à ces biens est également restituée à la commune propriétaire ;
+
+2° Les biens meubles et immeubles acquis ou réalisés postérieurement au transfert de compétences sont répartis entre les
+communes qui reprennent la compétence ou entre la commune qui se retire de l'établissement public de coopération
+intercommunale et l'établissement ou, dans le cas particulier d'un syndicat dont les statuts le permettent, entre la commune
+qui reprend la compétence et le syndicat de communes. Il en va de même pour le produit de la réalisation de tels biens,
+intervenant à cette occasion. Le solde de l'encours de la dette contractée postérieurement au transfert de compétences est
+réparti dans les mêmes conditions entre les communes qui reprennent la compétence ou entre la commune qui se retire et
+l'établissement public de coopération intercommunale ou, le cas échéant, entre la commune et le syndicat de communes.
+
+Les contrats sont exécutés dans les conditions antérieures jusqu'à leur échéance, sauf accord contraire des parties. La
+substitution de personne morale aux contrats conclus par les communes n'entraîne aucun droit à résiliation ou à indemnisation
+pour le cocontractant. L'établissement public de coopération intercommunale qui restitue la compétence informe les
+cocontractants de cette substitution.
 
 **Liens relatifs à cet article**
 
@@ -55668,47 +56192,70 @@ définitive.
 
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 61 ()
 
-	**Transféré par**:
+	**Cité par**:
 
-	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+	  - Ordonnance n°2002-327 du 7 mars 2002 - art. 15 (P)
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 64 (V)
+	  - Loi n°2006-872 du 13 juillet 2006 - art. 107 (V)
+	  - Loi n°2015-991 du 7 août 2015 - art. 40
+	  - Loi n°2017-257 du 28 février 2017 - art. 72 (V)
+	  - CODE DES COMMUNES. - art. R*163-6 (Ab)
+	  - CODE DES COMMUNES. - art. R166-4 (Ab)
+	  - Code général des collectivités territoriales - art. L2112-5-1 (V)
+	  - Code général des collectivités territoriales - art. L2113-5 (V)
+	  - Code général des collectivités territoriales - art. L5211-19 (V)
+	  - Code général des collectivités territoriales - art. L5211-26 (V)
+	  - Code général des collectivités territoriales - art. L5212-33 (VD)
+	  - Code général des collectivités territoriales - art. L5214-21 (V)
+	  - Code général des collectivités territoriales - art. L5214-26 (V)
+	  - Code général des collectivités territoriales - art. L5214-28 (VD)
+	  - Code général des collectivités territoriales - art. L5215-22 (VD)
+	  - Code général des collectivités territoriales - art. L5215-42 (V)
+	  - Code général des collectivités territoriales - art. L5216-7 (VD)
+	  - Code général des collectivités territoriales - art. L5216-7-2 (V)
+	  - Code général des collectivités territoriales - art. L5216-9 (V)
+	  - Code général des collectivités territoriales - art. L5217-7 (VD)
+	  - Code général des collectivités territoriales - art. L5218-2 (V)
+	  - Code général des collectivités territoriales - art. L5721-6-2 (V)
+	  - Code général des collectivités territoriales - art. L5721-7 (V)
+	  - Code général des collectivités territoriales - art. L5721-7-1 (V)
+	  - Code général des collectivités territoriales - art. L5832-7 (VT)
+	  - Code général des collectivités territoriales - art. L5842-7 (V)
+	  - Code général des collectivités territoriales - art. R5212-17 (Ab)
 
-	**Anciens textes**:
-
-	  - Code des communes L125-7 ecqc les EPCI
-
-	**Nouveaux textes**:
-
-	  - Code général des collectivités territoriales - art. L5211-47 (V)
-	  - Code général des collectivités territoriales - art. L5211-54 (V)
-	  - Code général des collectivités territoriales - art. L5211-57 (V)
-
-
-##### Section 4 : Dispositions financières
-
-##### Sous-section 1 : Dispositions communes.
 
 ###### Article L5211-26
 
-- Sous réserve des dispositions qui leur sont propres, les dispositions du livre III de la deuxième partie sont applicables
-aux établissements publics de coopération intercommunale
+En cas de dissolution d'un établissement public de coopération intercommunale, ses communes membres corrigent leurs résultats
+de la reprise des résultats de l'établissement dissous, par délibération budgétaire, dans les conditions définies par la
+répartition consécutive au vote du compte administratif. Le détail des opérations non budgétaires justifiant cette reprise
+est joint en annexe au budget de reprise des résultats.
 
-Toutefois, les articles L. 2312-1 et L. 2313-1 ne s'appliquent qu'aux établissements publics de coopération intercommunale
-qui comprennent au moins une commune de 3 500 habitants et plus.
+Lorsque l'organe délibérant d'un établissement public de coopération intercommunale ne s'est pas prononcé sur l'adoption du
+compte administratif et sur les conditions de transfert de l'actif et du passif à ses communes membres avant la dissolution
+dudit établissement, l'arrêté ou le décret de dissolution prévoit la nomination d'un liquidateur, dans des conditions fixées
+par décret en Conseil d'Etat, et détermine, sous la réserve des droits des tiers, les conditions dans lesquelles il est
+chargé d'apurer les dettes et les créances et de céder les actifs. En ce qui concerne l'exercice en cours, les pouvoirs du
+liquidateur sont limités aux seuls actes de pure administration conservatoire et urgente. A cette fin, le liquidateur a la
+qualité d'ordonnateur accrédité auprès du comptable de l'établissement public de coopération intercommunale.
 
-Les lieux de mise à la disposition du public sont le siège de l'établissement et les mairies des communes membres de
-l'établissement public de coopération intercommunale.
+Le liquidateur est placé sous la responsabilité du représentant de l'Etat dans le département du siège de l'établissement
+dissous.
+
+Il prépare le compte administratif de l'exercice qu'il adresse au représentant de l'Etat dans le département, du siège de
+l'établissement, appuyé du compte de gestion. Le représentant de l'Etat arrête les comptes. Les collectivités membres de
+l'établissement public de coopération intercommunale dissous corrigent leurs résultats de la reprise des résultats de
+l'établissement dissous, par délibération budgétaire, dans les conditions définies par la répartition consécutive à l'arrêté
+du compte administratif. Le détail des opérations non budgétaires justifiant cette reprise est joint en annexe au budget de
+reprise des résultats.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 59-29 1959-01-05 art. 1, 59-30, art. 6 al. 3 phr 1, art. 8
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 42 (Ab)
-	  - Loi n°92-125 1992-02-06 art. 15 ecqc les EPCI
 	  - Loi n°92-125 du 6 février 1992 - art. 15 (Ab)
-	  - Code des communes L258-1 et L259-1
 	  - CODE DES COMMUNES. - art. L258-1 (Ab)
 	  - CODE DES COMMUNES. - art. L259-1 (Ab)
 
@@ -55716,11 +56263,7 @@ l'établissement public de coopération intercommunale.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
 
@@ -55745,11 +56288,6 @@ l'établissement public de coopération intercommunale.
 	  - Code général des collectivités territoriales - art. R5211-9 (V)
 	  - Code général des collectivités territoriales - art. R5212-17 (Ab)
 
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2312-1 (M)
-	  - Code général des collectivités territoriales - art. L2313-1 (M)
-
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5211-36 (M)
@@ -55757,28 +56295,9 @@ l'établissement public de coopération intercommunale.
 
 ###### Article L5211-27
 
-- Dans les établissements publics de coopération intercommunale érigés en stations classées, dans ceux bénéficiant de l'une
-des dotations prévues à l'article L. 5211-30, dans ceux qui réalisent des actions de promotion en faveur du tourisme ainsi
-que dans ceux qui réalisent, dans la limite de leurs compétences, des actions de protection et de gestion de leurs espaces
-naturels, la taxe de séjour ou la taxe de séjour forfaitaire peut être instituée par décision de l'organe délibérant dans les
-conditions prévues à l'article L. 2333-26, sauf si l'une des communes s'y oppose.
-
-En cas de dénonciation de l'accord par une des communes membres de l'établissement public de coopération intercommunale, la
-perception de la taxe par l'établissement public prend fin sur le territoire de cette commune.
-
-Les communes membres d'un établissement public de coopération intercommunale ayant institué la taxe de séjour ou la taxe de
-séjour forfaitaire ne peuvent percevoir celles-ci.
-
-Tout changement de bénéficiaire de la taxe de séjour résultant de l'application du présent article ne prend effet qu'à
-l'issue d'une période de perception.
-
-Dans les établissements publics de coopération intercommunale qui ont institué la taxe de séjour au titre des actions de
-protection et de gestion de leurs espaces naturels, le produit de la taxe de séjour ou de la taxe de séjour forfaitaire peut
-être affecté, sous réserve des dispositions de l'article L. 2231-14, aux dépenses destinées à favoriser la protection et la
-gestion de leurs espaces naturels à des fins touristiques. Lorsque ces établissements publics de coopération intercommunale
-sont situés dans leur intégralité ou en partie sur le territoire d'un parc national ou d'un parc naturel régional géré par un
-établissement public administratif, le produit de la taxe peut être reversé par les établissements publics de coopération
-intercommunale à l'organisme gestionnaire du parc dans le cadre d'une convention.
+En cas d'annulation de l'arrêté de création d'un établissement public de coopération intercommunale, le représentant de
+l'Etat dans le département du siège de l'établissement nomme, dans un délai de huit jours à compter de la notification du
+jugement, un liquidateur dans les conditions et en vue de l'exercice des missions définies à l'article L. 5211-26.
 
 **Liens relatifs à cet article**
 
@@ -55786,25 +56305,9 @@ intercommunale à l'organisme gestionnaire du parc dans le cadre d'une conventio
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
+	**Modifié par**:
 
 	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. 2 (Ab)
-	  - CODE DES COMMUNES. - art. 3 (Ab)
-	  - Code des communes L233-45 al. 1, 2, 3, 4 et 5
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2231-14 (M)
-	  - Code général des collectivités territoriales - art. L2333-26 (M)
-	  - Code général des collectivités territoriales - art. L5211-30 (T)
 
 	**Cité par**:
 
@@ -55816,30 +56319,54 @@ intercommunale à l'organisme gestionnaire du parc dans le cadre d'une conventio
 
 	  - Code général des collectivités territoriales - art. L5211-21 (M)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-26 (V)
+
+
+##### Sous-section 2 : Etablissements de coopération intercommunale à fiscalité propre.
 
 ###### Article L5211-28
 
-- Lorsque des remontées mécaniques sont exploitées par un établissement public de coopération intercommunale, la taxe
-communale peut être instituée et perçue directement par cet établissement avec l'accord des communes concernées.
+Les établissements publics de coopération intercommunale à fiscalité propre reçoivent, à compter de l'année où ils perçoivent
+pour la première fois le produit de leur fiscalité, une attribution au titre de la dotation d'intercommunalité calculée selon
+les modalités définies aux articles L. 5211-30 et suivants.
+
+Pour les communautés de communes, les communautés urbaines et les syndicats ou communautés d'agglomération nouvelle, les
+ressources de la dotation d'intercommunalité sont prélevées sur la dotation d'aménagement prévue à l'article L. 2334-13 ;
+
+Pour les communautés d'agglomération issues d'une création avant le 1er janvier 2005, les ressources de la dotation
+d'intercommunalité sont prélevées de 2000 à 2004 sur les recettes fiscales nettes de l'Etat dans une limite maximale de 500
+millions de francs par an dans les conditions fixées par la loi de finances.
+
+Pour les communautés d'agglomération, issues de la transformation avant le 1er janvier 2005 d'établissements publics d'une
+des catégories visées au deuxième alinéa du présent article, les ressources de la dotation d'intercommunalité sont prélevées
+sur la dotation d'aménagement prévue par l'article L. 2334-13, à hauteur du montant égal au produit, l'année précédant leur
+transformation, de leur population par la dotation par habitant de ces établissements dans les conditions prévues à l'article
+L. 5211-30 et pour le complément, sur les ressources visées à l'alinéa précédent.
+
+En 2000 et 2001, si les sommes prévues aux deux alinéas précédents se révèlent insuffisantes, les ressources de la dotation
+d'intercommunalité des communautés d'agglomération sont prélevées sur la dotation instituée au premier alinéa du IV de
+l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986).
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-30 1985-01-09 art. 87 al. 2
 	  - Loi n°85-30 du 9 janvier 1985 - art. 87 (Ab)
+
+	**Cite**:
+
+	  - Loi n°86-1317 1986-12-30 art. 6 Finances pour 1987
+	  - Code général des collectivités territoriales - art. L5211-30 (T)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 105 ()
 
 	**Cité par**:
 
@@ -55863,20 +56390,66 @@ communale peut être instituée et perçue directement par cet établissement av
 
 	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. L5211-22 (M)
 	  - Code général des collectivités territoriales - art. L5211-22 (V)
 
 
 ###### Article L5211-29
 
-- La dotation globale d'équipement perçue par les établissements publics de coopération intercommunale est inscrite à la
-section d'investissement de leur budget.
+Le montant total de la dotation d'intercommunalité visé à l'article L. 5211-28 est fixé chaque année par le comité des
+finances locales qui le répartit entre les six catégories de groupements suivants :
+
+1° Les communautés urbaines ne faisant pas application des dispositions de l'article 1609 nonies C du code général des
+impôts ;
+
+2° Les communautés urbaines faisant application des dispositions de l'article 1609 nonies C du code général des impôts ;
+
+3° Les communautés de communes ne faisant pas application des dispositions de l'article 1609 nonies C du code général des
+impôts ;
+
+4° Les communautés de communes faisant application des dispositions de l'article 1609 nonies C du code général des impôts ;
+
+5° Les syndicats ou communautés d'agglomération nouvelle ;
+
+6° Les communautés d'agglomération créées avant le 1er janvier 2005.
+
+La dotation par habitant de la catégorie des communautés d'agglomération créées, ou issues de la transformation d'un
+établissement public de coopération intercommunale, avant le 1er janvier 2005 est fixée à 250 F au 1er janvier 2000.
+L'évolution de ce montant ne peut être inférieure à l'évolution prévisionnelle des prix à la consommation hors tabac associée
+au projet de loi de finances.
+
+La dotation par habitant de la catégorie des communautés de communes qui remplissent les conditions visées à l'article L.
+5214-23-1 est majorée d'une somme lui permettant d'atteindre 175 F au 1er janvier 2000. Pour les années suivantes, ce
+montant, fixé par le comité des finances locales, évolue au moins comme l'évolution prévisionnelle des prix à la consommation
+hors tabac associée au projet de loi de finances.
+
+Les modalités de répartition de la majoration prévue au précédent alinéa sont précisées à l'article L. 5211-30.
+
+La dotation par habitant de la catégorie des communautés de communes faisant application des dispositions de l'article 1609
+nonies C du code général des impôts ne peut être inférieure à celle fixée pour la catégorie des communautés de communes ne
+faisant pas application de ces dispositions.
+
+La dotation par habitant de la catégorie des communautés urbaines ayant opté pour les dispositions de l'article 1609 nonies C
+du code général des impôts ne peut être inférieure à celle fixée pour la catégorie des communautés urbaines ne faisant pas
+application de ces dispositions.
+
+La dotation par habitant des communautés d'agglomération, issues d'une transformation de syndicats ou communautés
+d'agglomération nouvelle en application des dispositions des articles L. 5341-1 et L. 5341-2, ne peut être inférieure à celle
+fixée pour les syndicats ou communautés d'agglomération nouvelle.
+
+La majoration de la dotation des communautés d'agglomération, constituée en application de l'alinéa précédent, est répartie
+selon les modalités de l'article L. 5211-30.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - CGI 1609 nonies C
+	  - Code général des collectivités territoriales - art. L5211-28 (T)
+	  - Code général des collectivités territoriales - art. L5341-1 (M)
+	  - Code général des collectivités territoriales - art. L5341-2 (M)
+
 	**Anciens textes**:
 
-	  - Loi n°83-8 1983-01-07 art. 104 ecqc les EPCI
 	  - Loi n°83-8 du 7 janvier 1983 - art. 104 (Ab)
 
 	**Cité par**:
@@ -55897,47 +56470,100 @@ section d'investissement de leur budget.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 105 ()
 
 	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. L5211-23 (M)
 	  - Code général des collectivités territoriales - art. L5211-23 (V)
 
 
 ###### Article L5211-30
 
-- Les établissements publics de coopération intercommunale qui percevaient au lieu et place des communes constituant
-l'établissement public les dotations prévues à l'article L. 234-13 du code des communes, dans sa rédaction antérieure à la
-loi n° 93-1436 du 31 décembre 1993 portant réforme de la dotation globale de fonctionnement et modifiant le code des communes
-et le code général des impôts, continuent à les percevoir. Pour 1994, le montant de ces dotations est égal à la somme reçue
-en 1993. A compter de 1995, le montant progresse chaque année de la moitié du taux d'évolution de l'ensemble des ressources
-affectées à la dotation globale de fonctionnement.
+I. - Les sommes affectées à chacune des six catégories d'établissements publics de coopération intercommunale sont réparties
+entre les établissements après prélèvement des sommes nécessaires à l'application des dispositions de l'article L. 5211-33, à
+raison de 15 % pour la dotation de base et de 85 % pour la dotation de péréquation.
+
+Chaque établissement public de coopération intercommunale doté d'une fiscalité propre perçoit, par prélèvement sur le montant
+total des sommes affectées à la catégorie d'établissement à laquelle il appartient :
+
+a) Une dotation de base, calculée en fonction de la population totale des communes regroupées et pondérée, le cas échéant,
+par le coefficient d'intégration fiscale de l'établissement public de coopération intercommunale ;
+
+b) Une dotation de péréquation calculée en fonction de la population totale des communes regroupées, du potentiel fiscal de
+l'établissement public de coopération intercommunale et pondérée, le cas échéant, par le coefficient d'intégration fiscale de
+l'établissement public de coopération intercommunale.
+
+La majoration prévue au neuvième alinéa de l'article L. 5211-29 est affectée aux communautés de communes visées à l'article
+L. 5214-23-1. Elle s'ajoute à leur dotation de base et est répartie comme cette dernière entre les communautés de communes
+concernées.
+
+II. - Le potentiel fiscal des communautés urbaines, des communautés de communes ou des communautés d'agglomération est
+déterminé par application à leurs bases brutes d'imposition aux quatre taxes directes locales du taux moyen national à ces
+taxes constaté pour la catégorie d'établissement à laquelle elles appartiennent.
+
+Toutefois, le potentiel fiscal des communautés d'agglomération issues de la transformation de syndicats ou de communautés
+d'agglomération nouvelle est pondéré par le rapport entre les bases brutes par habitant de taxe professionnelle des
+communautés d'agglomération et la somme des bases brutes par habitant des syndicats ou communautés d'agglomération nouvelle
+et de ceux d'entre eux qui se sont transformés en communautés d'agglomération, sous réserve que ce rapport soit inférieur à
+un.
+
+Le potentiel fiscal des syndicats ou communautés d'agglomération nouvelle est déterminé par application à leurs bases brutes
+de taxe professionnelle du taux moyen national d'imposition à cette taxe constaté pour la catégorie d'établissement à
+laquelle ils appartiennent.
+
+III. - 1° Le coefficient d'intégration fiscale, qui est défini pour les communautés urbaines, les communautés de communes et
+les communautés d'agglomération, est égal, pour chacun de ces établissements publics, au rapport entre :
+
+a) Les recettes provenant des quatre taxes directes locales, de la taxe ou de la redevance d'enlèvement des ordures ménagères
+et de la redevance d'assainissement perçues par l'établissement public minorées des dépenses de transfert ;
+
+b) Les recettes provenant des quatre taxes directes locales, de la taxe ou de la redevance d'enlèvement des ordures ménagères
+et de la redevance d'assainissement perçues par les communes regroupées et l'ensemble des établissements publics de
+coopération intercommunale sur le territoire de celles-ci ;
+
+2° Pour déterminer le coefficient d'intégration fiscale moyen d'une catégorie d'établissement public de coopération
+intercommunale, sont prises en compte les sommes des recettes et des dépenses de transfert de l'ensemble des établissements
+publics percevant depuis plus de deux ans la dotation d'intercommunalité dans cette catégorie et la somme des recettes des
+communes regroupées dans ces établissements publics.
+
+IV. - Les dépenses de transfert retenues pour déterminer le coefficient d'intégration fiscale sont les subventions,
+participations, contingents et reversements constatés dans le dernier compte administratif disponible, versés par
+l'établissement public de coopération intercommunale aux collectivités territoriales, à leurs établissements publics, aux
+établissements publics locaux non rattachés et aux associations syndicales autorisées. Elles ne prennent pas en compte les
+dépenses effectuées par l'établissement public de coopération intercommunale au titre des participations aux organismes de
+regroupement, au titre des contingents obligatoires pour service d'incendie s'il était compétent pour la gestion des moyens
+affectés au service départemental d'incendie et de secours à la date de la promulgation de la loi n° 96-369 du 3 mai 1996
+relative aux services d'incendie et de secours, au titre des subventions versées aux associations et autres organismes de
+droit privé et au titre des subventions versées aux régies intercommunales, sauf pour la fraction de leur montant cumulé qui
+excède les recettes perçues par l'établissement public de coopération intercommunale au titre des quatre taxes directes
+locales, de la taxe ou de la redevance d'enlèvement des ordures ménagères et de la redevance d'assainissement. Elles ne
+prennent pas en compte les dépenses effectuées par l'établissement public en tant qu'employeur direct de personnel.
+
+Les dépenses de transfert retenues pour déterminer le coefficient d'intégration fiscale des communautés urbaines, communautés
+de communes et communautés d'agglomération sont prises en compte à hauteur d'un seuil fixé à 10 % en 2000. Ce seuil augmente
+de 10 points par an pour atteindre 100 % en 2009.
+
+V. - Le coefficient d'intégration fiscale des communautés de communes ayant opté pour l'application des dispositions de
+l'article 1609 nonies C du code général des impôts est pris en compte, pour le calcul des dotations de base et de
+péréquation, à hauteur de 10 % en 2000. Ce seuil augmente de 10 points par an pour atteindre 100 % en 2009.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°93-1436 1993-12-31
-	  - CODE DES COMMUNES. - art. L234-13 (M)
+	  - CGI 1609 nonies C
+	  - Loi n°96-369 1996-05-03
+	  - Code général des collectivités territoriales - art. L5214-23-1 (M)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Transféré par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 105 ()
 
 	**Cité par**:
 
@@ -55973,92 +56599,64 @@ affectées à la dotation globale de fonctionnement.
 
 	**Anciens textes**:
 
-	  - Code des communes L234-7 al. 3
 	  - CODE DES COMMUNES. - art. L234-7 (Ab)
 
-	**Nouveaux textes**:
 
-	  - Code général des collectivités territoriales - art. L5211-24 (M)
-
+##### Sous-section 2 : Etablissements publics de coopération intercommunale dotés d'une fiscalité propre.
 
 ###### Article L5211-31
 
-- Par dérogation aux dispositions du second alinéa de l'article L. 2333-81 et si aucune commune territorialement concernée ne
-s'y oppose, lorsqu'un établissement public de coopération intercommunale, existant ou créé à cette fin, a reçu compétence
-pour la création et la gestion de pistes de ski de fond, l'assemblée délibérante décide la création de la redevance visée à
-l'article L. 2333-81 et en fixe le taux. La redevance est perçue à son profit.
+Les attributions perçues par les établissements publics de coopération intercommunale à fiscalité propre au titre de la
+dotation d'aménagement font l'objet de versements mensuels.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°85-30 1985-01-09  art. 83 ecqc les EPCI
 	  - Loi n°85-30 du 9 janvier 1985 - art. 83 (Ab)
+	  - Code général des collectivités territoriales - art. L5211-34 (M)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2333-81 (M)
+	  - Loi n°99-586 du 12 juillet 1999 - art. 105 ()
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. L5211-25 (M)
 
 
-##### Sous-section 2 : Etablissements publics de coopération intercommunale dotés d'une fiscalité propre.
-
 ###### Article L5211-32
 
-- Les établissements publics de coopération intercommunale dotés d'une fiscalité propre reçoivent une attribution de la
-dotation d'aménagement prévue à l'article L. 2334-13.
+Au titre de la première année où il perçoit le produit de sa fiscalité propre, un établissement public de coopération
+intercommunale reçoit une attribution calculée dans les conditions prévues à l'article L. 5211-30. Les attributions des
+communautés de communes et des syndicats ou communautés d'agglomération nouvelle ainsi déterminées font l'objet d'un
+abattement de 50 %.
 
-Le montant total des sommes affectées à cette dotation est fixé, chaque année, par le comité des finances locales.
+" Au titre de la première année d'attribution de la dotation dans une catégorie, le coefficient d'intégration fiscale à
+prendre en compte est égal, pour les communautés urbaines, les communautés de communes et les communautés d'agglomération, au
+coefficient d'intégration fiscale moyen de la catégorie d'établissement à laquelle elles appartiennent.
 
-Le montant total défini à l'alinéa précédent est réparti par le comité des finances locales entre les quatre catégories de
-groupements de communes suivantes :
-
-1° Les communautés urbaines ;
-
-2° Les communautés de villes et les groupements de communes faisant application des dispositions de l'article 1609 nonies C
-du code général des impôts ;
-
-3° Les districts à fiscalité propre et les communautés de communes, s'ils ne font pas application des dispositions de
-l'article 1609 nonies C du code général des impôts ;
-
-4° Les syndicats ou communautés d'agglomérations nouvelles.
-
-Les sommes affectées à chacune de ces catégories d'établissements publics de coopération intercommunale sont réparties entre
-leurs membres, dans les conditions fixées à l'article L. 5211-33, à raison de 15 p. 100 pour la dotation de base et de 85 p.
-100 pour la dotation de péréquation.
+" Au titre de la deuxième année d'attribution de la dotation dans la même catégorie, le coefficient d'intégration fiscale non
+corrigé des dépenses de transfert des communautés urbaines, des communautés de communes et des communautés d'agglomération
+est pondéré par le rapport entre le coefficient d'intégration fiscale moyen de leur catégorie tel que défini au 2° du III de
+l'article L. 5211-30 et ce coefficient d'intégration fiscale moyen, non corrigé des dépenses de transfert.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1609 nonies C
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 107 ()
 
 	**Anciens textes**:
 
-	  - CODE DES COMMUNES. - art. L234-10 (M)
 	  - CODE DES COMMUNES. - art. L234-10 (Ab)
 
 	**Cité par**:
@@ -56068,47 +56666,67 @@ leurs membres, dans les conditions fixées à l'article L. 5211-33, à raison de
 	  - Code général des collectivités territoriales - art. L5211-33 (V)
 	  - Code général des collectivités territoriales - art. L5211-39 (M)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-30 (T)
+
 
 ###### Article L5211-33
 
-- Chaque établissement public de coopération intercommunale doté d'une fiscalité propre perçoit, par prélèvement sur le
-montant total des sommes affectées à la catégorie d'établissements à laquelle il appartient :
+Les communautés urbaines, les communautés de communes et les communautés d'agglomération ne peuvent percevoir, à compter de
+la troisième année d'attribution de la dotation dans la même catégorie, une attribution par habitant inférieure à 80 % de la
+dotation par habitant perçue l'année précédente.
 
-a) Une dotation de base, calculée en fonction de la population totale des communes regroupées et pondérée, le cas échéant,
-par le coefficient d'intégration fiscale de l'établissement public de coopération intercommunale ;
+Les communautés de communes ne faisant pas application des dispositions de l'article 1609 nonies C du code général des impôts
+ne peuvent percevoir, à compter de la troisième année d'attribution de la dotation dans la même catégorie, une attribution
+par habitant supérieure à 120 % de la dotation par habitant perçue l'année précédente.
 
-b) Une dotation de péréquation calculée en fonction du potentiel fiscal de l'établissement public de coopération
-intercommunale et pondérée, le cas échéant, par le coefficient d'intégration fiscale de l'établissement public de coopération
-intercommunale.
+Les disponibilités dégagées par la mise en oeuvre des dispositions de l'alinéa précédent sont réparties à l'ensemble des
+établissements de la catégorie visée à ce même alinéa, selon les dispositions de l'article L. 5211-30 sans que la dotation de
+base et la dotation de péréquation ne soient pondérées par le coefficient d'intégration fiscale.
 
-Le potentiel fiscal d'un établissement public de coopération intercommunale ne faisant pas application des dispositions des
-articles 1609 nonies B ou 1609 nonies C du code général des impôts est déterminé par application aux bases brutes des quatre
-taxes directes locales du taux moyen national d'imposition à ces taxes constaté pour la catégorie d'établissements à laquelle
-il appartient.
+Toutefois :
 
-Le potentiel fiscal des autres établissements publics de coopération intercommunale est déterminé par application aux bases
-brutes de taxe professionnelle du taux moyen national d'imposition à cette taxe constaté pour la catégorie d'établissements à
-laquelle il appartient.
+1° Les communautés de communes, les communautés urbaines et les communautés d'agglomération dont le coefficient d'intégration
+fiscale est supérieur au double du coefficient d'intégration fiscale moyen de la catégorie à laquelle elles appartiennent
+perçoivent une dotation par habitant progressant comme la dotation forfaitaire prévue à l'article L. 2334-7 ;
 
-Le coefficient d'intégration fiscale, qui est défini uniquement pour les établissements publics de coopération intercommunale
-ne faisant pas application des dispositions des articles 1609 nonies B ou 1609 nonies C du code général des impôts, est égal
-au rapport entre les recettes provenant des quatre taxes directes locales et de la taxe ou de la redevance d'enlèvement des
-ordures ménagères perçues par l'établissement public et le total de ces mêmes recettes perçu par l'établissement public et
-l'ensemble des communes regroupées.
+2° Les établissements publics de coopération intercommunale dont la dotation par habitant perçue au titre des dotations de
+base et de péréquation est supérieure à celle perçue l'année précédente ne peuvent percevoir une dotation d'intercommunalité
+par habitant inférieure à celle de l'année précédente ;
+
+3° Pour les établissements publics de coopération intercommunale dont la dotation par habitant perçue au titre des dotations
+de base et de péréquation est en diminution par rapport à l'année précédente, le pourcentage de diminution de leur
+attribution totale par habitant par rapport à l'année précédente ne peut excéder celui constaté pour la somme des dotations
+de base et de péréquation.
+
+La garantie calculée au titre des 2° et 3° ne peut représenter plus de 40 % de la dotation totale attribuée.
+
+Un établissement public de coopération intercommunale à fiscalité propre qui change de catégorie perçoit, les deux premières
+années d'attribution de la dotation dans la nouvelle catégorie, une attribution par habitant au moins égale à celle qu'il a
+perçue l'année précédente, augmentée comme la dotation forfaitaire prévue à l'article L. 2334-7. En outre, s'il fait
+application des dispositions de l'article 1609 nonies C du code général des impôts, il ne peut, au titre des troisième,
+quatrième et cinquième années d'attribution dans la même catégorie et sous réserve de l'application des 2° et 3° du présent
+article, percevoir une attribution par habitant inférieure, respectivement, à 95 %, 90 % et 85 % de la dotation par habitant
+perçue l'année précédente.
+
+Les syndicats ou communautés d'agglomération nouvelle perçoivent une attribution qui progresse chaque année comme la dotation
+forfaitaire prévue à l'article L. 2334-7.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1609 nonies B, 1609 nonies C
+	  - CGI 1609 nonies C
+	  - Code général des collectivités territoriales - art. L2334-7 (M)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 107 ()
 
 	**Anciens textes**:
 
@@ -56127,8 +56745,14 @@ l'ensemble des communes regroupées.
 
 ###### Article L5211-34
 
-- Les attributions perçues par les établissements publics de coopération intercommunale à fiscalité propre au titre de la
-dotation d'aménagement font l'objet de versements mensuels.
+- En cas de dissolution d'un établissement public de coopération intercommunale doté d'une fiscalité propre, le montant de la
+dotation de péréquation qui aurait dû lui revenir l'année suivante augmenté, le cas échéant, de la garantie au titre de cette
+dotation, dont il aurait été bénéficiaire, est partagé entre les communes qui le composaient d'après le montant du produit
+des impôts, taxes et redevances mentionné à l'article L. 2334-6 constaté la dernière année de fonctionnement sur le
+territoire de chacune d'elles pour le compte de l'établissement public.
+
+Aucune attribution n'est versée à ce titre aux communes qui adhèrent, l'année de la dissolution, à un autre établissement
+public de coopération intercommunale à fiscalité propre.
 
 **Liens relatifs à cet article**
 
@@ -56136,14 +56760,14 @@ dotation d'aménagement font l'objet de versements mensuels.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
 
 	**Anciens textes**:
 
-	  - Code des communes L234-16 al. 1 ecqc les EPCI ecqc la dotation d'aménagement
 	  - CODE DES COMMUNES. - art. L234-16 (Ab)
+	  - Code général des collectivités territoriales l5211-38
 
 	**Nouveaux textes**:
 
@@ -56152,97 +56776,77 @@ dotation d'aménagement font l'objet de versements mensuels.
 
 ###### Article L5211-35
 
-- Au titre de l'année où il lève pour la première fois sa fiscalité propre, l'établissement public de coopération
-intercommunale perçoit une attribution au titre de la dotation d'aménagement calculée dans les conditions prévues à l'article
-L. 5211-33. Un abattement de 50 p. 100 est opéré sur chacune des attributions ainsi calculées. Cet abattement est porté à 75
-p. 100 pour l'établissement public de coopération intercommunale dont le potentiel fiscal par habitant est supérieur ou égal
-au double du potentiel fiscal moyen de la catégorie d'établissements dont il relève. Toutefois, aucun abattement n'est
-appliqué à la dotation perçue par un établissement public de coopération intercommunale à fiscalité propre l'année où il
-change de catégorie d'établissements.
+- En cas de fusion volontaire de toutes les communes précédemment regroupées au sein d'un établissement public de coopération
+intercommunale à fiscalité propre ayant au moins deux années d'existence, et qui entraîne la dissolution dudit établissement,
+la dotation forfaitaire de la commune issue de la fusion est égale à la somme des dotations forfaitaires attribuées l'année
+précédente aux anciennes communes et de la dotation de l'ancien établissement public de coopération intercommunale à
+fiscalité propre attribuée l'année précédant la fusion.
 
-Pour les établissements publics de coopération intercommunale ne faisant pas application des dispositions des articles 1609
-nonies B ou 1609 nonies C du code général des impôts, le coefficient d'intégration fiscale à prendre en compte est égal au
-coefficient d'intégration fiscale moyen de l'année précédente de la catégorie d'établissements à laquelle ils appartiennent.
+La dotation forfaitaire de la commune issue de la fusion évolue conformément aux dispositions des articles L. 2334-7 et L.
+2334-9.
+
+En cas de constitution d'un nouvel établissement public de coopération intercommunale à fiscalité propre comprenant la
+commune fusionnée, la part de la dotation forfaitaire issue de la dotation versée à l'ancien établissement n'est plus
+attribuée à la commune fusionnée, et la dotation globale de fonctionnement du nouvel établissement public de coopération
+intercommunale est calculée conformément à l'article L. 5211-29.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1609 nonies B, 1609 nonies C
-	  - Code général des collectivités territoriales - art. L5211-33 (M)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 105 ()
 
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L234-10-2 (Ab)
+	  - Code général des collectivités territoriales l5211-39
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-7 (M)
+	  - Code général des collectivités territoriales - art. L2334-9 (M)
 
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L5211-36 (M)
 
 
+##### Sous-section 3 : Démocratisation et transparence.
+
 ###### Article L5211-36
 
-- Les communautés de communes et les districts, qui n'ont pas opté pour les dispositions de l'article 1609 nonies C du code
-général des impôts, ne peuvent percevoir une attribution inférieure à 80 p. 100 de la dotation d'aménagement perçue l'année
-précédente ni supérieure à 120 p. 100 de cette même dotation.
+Sous réserve des dispositions qui leur sont propres, les dispositions du livre III de la deuxième partie sont applicables aux
+établissements publics de coopération intercommunale 
 
-Toutefois :
+Toutefois, les articles L. 2312-1 et L. 2313-1 ne s'appliquent qu'aux établissements publics de coopération intercommunale
+qui comprennent au moins une commune de 3 500 habitants et plus. 
 
-1° Les communautés de communes et les districts dont le coefficient d'intégration fiscale est supérieur à 0,9 fois le
-coefficient d'intégration fiscale moyen des communautés urbaines constaté l'année de répartition bénéficient, à condition que
-leur coefficient d'intégration fiscale n'ait pas diminué entre les deux derniers exercices connus, du taux de progression
-minimale prévu au quatrième alinéa du présent article, sans que leur dotation d'aménagement puisse augmenter de plus de 20 p.
-100 d'une année sur l'autre ;
-
-2° Les communautés de communes et les districts créés depuis le 1er janvier 1992 peuvent percevoir une attribution supérieure
-à 120 p. 100 de la dotation d'aménagement perçue l'année précédente, tant que leur attribution par habitant reste inférieure
-à l'attribution par habitant perçue en application des dispositions de l'article L. 5211-35 ;
-
-3° Les autres établissements publics de coopération intercommunale perçoivent au titre de la dotation de base et, le cas
-échéant, de la dotation de péréquation une attribution qui progresse au moins comme la dotation forfaitaire prévue à
-l'article L. 2334-7.
-
-Les dispositions des alinéas précédents ne s'appliquent aux établissements publics de coopération intercommunale qu'à compter
-de la troisième année d'attribution de la dotation d'aménagement.
-
-Lorsqu'un établissement public de coopération intercommunale à fiscalité propre change de catégorie d'établissements à
-fiscalité propre, il est assuré de percevoir, l'année où il lève la première fois sa fiscalité propre dans la nouvelle
-catégorie, une attribution au moins égale à celle qu'il a perçue l'année précédente, augmentée comme la dotation forfaitaire
-prévue à l'article L. 2334-7.
-
-Les sommes nécessaires à l'application des mécanismes de garantie définis ci-dessus sont prélevées sur la dotation
-d'aménagement après utilisation, à cet effet, des disponibilités éventuellement dégagées par la mise en oeuvre des
-dispositions des quatre premiers alinéas du présent article.
+Les lieux de mise à la disposition du public sont le siège de l'établissement et les mairies des communes membres de
+l'établissement public de coopération intercommunale.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1609 nonies C
-	  - Code général des collectivités territoriales - art. L2334-7 (M)
-	  - Code général des collectivités territoriales - art. L5211-35 (M)
-
-	**Anciens textes**:
-
-	  - Code des communes art. 234-10-3
-	  - CODE DES COMMUNES. - art. L234-10-3 (Ab)
-	  - Code général des collectivités territoriales - art. L5211-26 (T)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
+
+	**Anciens textes**:
+
+	  - CODE DES COMMUNES. - art. L234-10-3 (Ab)
+	  - Code général des collectivités territoriales - art. L5211-26 (T)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2312-1 (V)
+	  - Code général des collectivités territoriales - art. L2313-1 (V)
 
 	**Cité par**:
 
@@ -56254,19 +56858,14 @@ dispositions des quatre premiers alinéas du présent article.
 
 ###### Article L5211-37
 
-- En cas de modification du périmètre d'un établissement public de coopération intercommunale à fiscalité propre entraînant
-une diminution du nombre des habitants, les attributions lui revenant, l'année suivant la baisse de population, sont
-calculées sur la base de sa nouvelle population. Les dispositions de l'article L. 5211-36 ne sont pas applicables.
+- Le bilan des acquisitions et cessions opérées par les établissements publics de coopération intercommunale est soumis
+chaque année à délibération de l'organe délibérant. Ce bilan est annexé au compte administratif de l'établissement concerné.
 
-En cas de modification du périmètre d'un établissement public de coopération intercommunale à fiscalité propre entraînant une
-augmentation du nombre d'habitants supérieure à 20 p. 100, l'établissement public bénéficie, la première année où il est tenu
-compte de cette modification, des dispositions du septième alinéa de l'article L. 5211-36.
-
-Les périmètres à prendre en compte sont appréciés au 1er janvier de l'année au titre de laquelle la répartition est
-effectuée.
-
-Si une commune est membre de plusieurs établissements publics de coopération intercommunale à fiscalité propre, la commune
-est rattachée à l'établissement public au profit duquel une fiscalité propre est levée sur son territoire.
+Toute cession d'immeubles ou de droits réels immobiliers envisagée par un établissement public de coopération intercommunale
+donne lieu à délibération motivée de l'organe délibérant portant sur les conditions de la vente et ses caractéristiques
+essentielles. La délibération est prise au vu de l'avis du service des domaines. Cet avis est réputé donné à l'issue d'un
+délai d'un mois à compter de la saisine de ce service. Lorsque cette opération est envisagée dans le cadre d'une convention
+avec une commune, copie de cette délibération est transmise à la commune concernée dans les deux mois suivant son adoption.
 
 **Liens relatifs à cet article**
 
@@ -56274,9 +56873,9 @@ est rattachée à l'établissement public au profit duquel une fiscalité propre
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 39 ()
 
 	**Cité par**:
 
@@ -56297,57 +56896,18 @@ est rattachée à l'établissement public au profit duquel une fiscalité propre
 
 	  - Code général de la propriété des personnes publiqu - art. L3222-2 (V)
 
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5211-36 (M)
-
-
-###### Article L5211-38
-
-- En cas de dissolution d'un établissement public de coopération intercommunale doté d'une fiscalité propre, le montant de la
-dotation de péréquation qui aurait dû lui revenir l'année suivante est partagé entre les communes qui le composaient d'après
-le montant du produit des impôts, taxes et redevances mentionné à l'article L. 2334-6 constaté la dernière année de
-fonctionnement sur le territoire de chacune d'elles pour le compte de l'établissement public.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°93-1436 1993-12-31 art. 11 par. II
-	  - Code général des collectivités territoriales - art. L5211-11 (T)
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L1523-5 (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2334-6 (M)
-
 
 ###### Article L5211-39
 
-- En cas de fusion volontaire de toutes les communes précédemment regroupées au sein d'un établissement public de coopération
-intercommunale à fiscalité propre ayant au moins deux années d'existence, et qui entraîne la dissolution dudit établissement,
-la dotation forfaitaire de la commune issue de la fusion est égale à la somme des dotations forfaitaires attribuées l'année
-précédente aux anciennes communes et de la dotation de l'ancien établissement public de coopération intercommunale à
-fiscalité propre attribuée l'année précédant la fusion.
+Le président de l'établissement public de coopération intercommunale adresse chaque année, avant le 30 septembre, au maire de
+chaque commune membre un rapport retraçant l'activité de l'établissement, accompagné du compte administratif arrêté par
+l'organe délibérant de l'établissement. Ce rapport fait l'objet d'une communication par le maire au conseil municipal en
+séance publique au cours de laquelle les délégués de la commune à l'organe délibérant de l'établissement public de
+coopération intercommunale sont entendus. Le président de l'établissement public de coopération intercommunale peut être
+entendu, à sa demande, par le conseil municipal de chaque commune membre ou à la demande de ce dernier.
 
-La dotation forfaitaire de la commune issue de la fusion évolue conformément aux dispositions des articles L. 2334-7 et L.
-2334-9.
-
-En cas de constitution d'un nouvel établissement public de coopération intercommunale à fiscalité propre comprenant la
-commune fusionnée, la part de la dotation forfaitaire issue de la dotation versée à l'ancien établissement n'est plus
-attribuée à la commune fusionnée, et la dotation globale de fonctionnement du nouvel établissement public de coopération
-intercommunale est calculée conformément à l'article L. 5211-32.
+Les délégués de la commune rendent compte au moins deux fois par an au conseil municipal de l'activité de l'établissement
+public de coopération intercommunale.
 
 **Liens relatifs à cet article**
 
@@ -56360,9 +56920,9 @@ intercommunale est calculée conformément à l'article L. 5211-32.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 40 ()
 
 	**Liens**:
 
@@ -56378,11 +56938,738 @@ intercommunale est calculée conformément à l'article L. 5211-32.
 
 	  - Décret n°2000-404 du 11 mai 2000 - art. 2 (VT)
 
+
+###### Article L5211-40
+
+Le président d'un établissement public de coopération intercommunale à fiscalité propre  consulte les maires de toutes les
+communes membres, à la demande de l'organe délibérant de l'établissement ou du tiers des maires des communes membres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 40 ()
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5832-2 (V)
+	  - Code général des collectivités territoriales - art. L5832-9 (VT)
+
+
+##### Section 7 : Transformation.
+
+###### Article L5211-41
+
+Lorsqu'un établissement public de coopération intercommunale à fiscalité propre exerce déjà, au lieu et place des communes
+qui le composent, les compétences fixées par le présent code pour une autre catégorie d'établissements publics de coopération
+intercommunale à fiscalité propre, cet établissement peut se transformer, sous réserve qu'il remplisse les conditions de
+création, en établissement public de cette catégorie par délibérations concordantes de l'organe délibérant et des conseils
+municipaux des communes membres se prononçant dans les conditions requises pour la création de l'établissement public de
+coopération intercommunale. Le conseil municipal de chaque commune membre dispose d'un délai de trois mois à compter de la
+notification au maire de la délibération de l'organe délibérant de l'établissement public de coopération intercommunale pour
+se prononcer sur la transformation proposée. A défaut de délibération dans ce délai, sa décision est réputée favorable. La
+transformation est alors prononcée par arrêté du représentant de l'Etat dans le département lorsque les communes
+appartiennent au même département et par arrêté conjoint des représentants de l'Etat dans les départements concernés dans le
+cas contraire.
+
+L'ensemble des biens, droits et obligations de l'établissement public de coopération intercommunale transformé sont
+transférés au nouvel établissement public qui est substitué de plein droit à l'ancien établissement dans toutes les
+délibérations et tous les actes de ce dernier à la date de l'arrêté de transformation. L'ensemble des personnels de
+l'établissement transformé est réputé relever du nouvel établissement dans les conditions de statut et d'emploi qui sont les
+siennes.
+
+Sans préjudice des dispositions des articles L. 2121-33 et L. 2122-10, les délégués des communes à l'organe délibérant de
+l'ancien établissement conservent leur mandat, pour la durée de celui-ci restant à courir, à l'organe délibérant du nouvel
+établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 41 ()
+
+	**Cité par**:
+
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 83 (V)
+	  - Code général des collectivités territoriales - art. L5211-6-1 (V)
+	  - Code général des collectivités territoriales - art. L5214-21 (V)
+	  - Code général des collectivités territoriales - art. L5215-21 (V)
+	  - Code général des collectivités territoriales - art. L5216-6 (V)
+	  - Code général des collectivités territoriales - art. L5217-13 (VD)
+	  - Code général des collectivités territoriales - art. L5217-2 (V)
+	  - Code général des collectivités territoriales - art. L5217-5 (V)
+	  - Code général des collectivités territoriales - art. L5832-10 (VT)
+	  - Code général des collectivités territoriales - art. L5832-2 (V)
+	  - Code général des collectivités territoriales - art. L5842-10 (V)
+	  - Code général des impôts, CGI. - art. 1043 (VD)
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2334-7 (M)
-	  - Code général des collectivités territoriales - art. L2334-9 (M)
-	  - Code général des collectivités territoriales - art. L5211-32 (M)
+	  - Code général des collectivités territoriales - art. L2121-33 (V)
+	  - Code général des collectivités territoriales - art. L2122-10 (M)
+
+
+###### Article L5211-41-1
+
+Le périmètre de l'établissement public de coopération intercommunale à fiscalité propre qui a décidé de se transformer peut
+être étendu aux communes dont l'inclusion dans le périmètre communautaire est de nature à assurer la cohérence spatiale et
+économique ainsi que la solidarité financière et sociale qui sont nécessaires au développement d'une communauté
+d'agglomération et à son évolution en pôle urbain de développement ou au développement d'une communauté urbaine et à son
+évolution en métropole régionale selon le cas. Il ne peut toutefois inclure, sans leur accord, les communes membres d'une
+communauté de communes dont l'éligibilité à la dotation prévue au neuvième alinéa de l'article L. 5211-29 a été constatée
+dans les conditions fixées à l'article L. 5214-23-1.
+
+Le projet d'extension du périmètre de l'établissement public est arrêté par le représentant de l'Etat dans le département
+lorsque les communes font partie du même département, ou par arrêté conjoint des représentants de l'Etat dans les
+départements concernés lorsque le périmètre projeté s'étend au-delà d'un seul département, après avis de la ou des
+commissions départementales de la coopération intercommunale concernées. Cet avis est réputé négatif s'il n'a pas été rendu à
+l'issue d'un délai de deux mois. Le périmètre peut être étendu après accord du conseil de l'établissement public ainsi que
+des deux tiers au moins des conseils municipaux de toutes les communes incluses dans le futur périmètre et représentant plus
+de la moitié de la population totale de celles-ci ou de la moitié au moins des conseils municipaux de ces communes
+représentant les deux tiers de la population. Cette majorité doit nécessairement comprendre le conseil municipal de la
+commune dont la population est supérieure à la moitié de la population totale concernée ou, à défaut, de la commune dont la
+population est la plus importante. A défaut de délibération dans le délai de trois mois à compter de la notification du
+projet d'extension de périmètre, l'accord est réputé donné.
+
+L'extension du périmètre de l'établissement public et la transformation de cet établissement en un autre établissement public
+de coopération intercommunale sont prononcées par le même arrêté du ou des représentants de l'Etat dans le ou les
+départements. Cet arrêté vaut retrait des communes des établissements publics de coopération intercommunale dont elles sont
+membres. Dans le cas particulier de syndicats de communes ou de syndicats mixtes, le retrait s'effectue dans les conditions
+fixées à l'article L. 5216-7 ou à l'article L. 5215-22 selon le cas.
+
+L'extension du périmètre entraîne une nouvelle répartition entre toutes les communes des sièges au conseil du nouvel
+établissement, dans les conditions qui lui sont applicables. Elle entraîne l'application à l'ensemble des biens, équipements
+et services publics nécessaires à l'exercice des compétences transférées, ainsi que des droits et obligations attachés à ces
+biens, équipements et services publics à la date du transfert, des dispositions du II de l'article L. 5211-18.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°91-1322 du 30 décembre 1991 - art. 21 (V)
+	  - CODE DES COMMUNES. - art. R*163-6 (Ab)
+	  - CODE DES COMMUNES. - art. R166-4 (Ab)
+	  - Code général des collectivités territoriales - art. L5217-2 (V)
+	  - Code général des collectivités territoriales - art. L5341-3 (VT)
+	  - Code général des collectivités territoriales - art. L5842-10 (V)
+	  - Code général des collectivités territoriales - art. R5212-17 (Ab)
+	  - Code général des impôts, CGI. - art. 1411 (VD)
+	  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+	  - Code général des impôts, CGI. - art. 1638 quater (V)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 41 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-18 (M)
+	  - Code général des collectivités territoriales - art. L5214-23-1 (M)
+	  - Code général des collectivités territoriales - art. L5215-22 (M)
+	  - Code général des collectivités territoriales - art. L5216-7 (Ab)
+
+
+##### Section 8 : Commission départementale de la coopération intercommunale
+
+##### Sous-section 1 : Composition.
+
+###### Article L5211-42
+
+Il est institué dans chaque département une commission départementale de la coopération intercommunale. Elle est présidée par
+le représentant de l'Etat dans le département. Celui-ci est assisté d'un rapporteur général et de deux assesseurs élus parmi
+les maires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 42 ()
+
+	**Cité par**:
+
+	  - Code de l'urbanisme - art. L122-5-1 (VT)
+	  - Code de l'urbanisme - art. L143-7 (VD)
+	  - Code général des collectivités territoriales - art. L5211-44 (V)
+	  - Code général des collectivités territoriales - art. L5832-11 (VT)
+	  - Code général des collectivités territoriales - art. L5832-3 (VD)
+	  - Code général des collectivités territoriales - art. L5842-11 (V)
+	  - Code général des collectivités territoriales - art. R5211-19 (V)
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-13 (T)
+
+
+###### Article L5211-43
+
+La commission départementale de la coopération intercommunale est composée à raison de : 
+
+1° 60 % par des maires, des adjoints au maire ou des conseillers municipaux élus à la représentation proportionnelle à la
+plus forte moyenne par les maires regroupés au sein des collèges électoraux déterminés en fonction de l'importance
+démographique des communes ; 
+
+2° 20 % par des représentants d'établissements publics de coopération intercommunale ayant leur siège dans le département,
+élus à la représentation proportionnelle à la plus forte moyenne par le collège des présidents des organes délibérants de ces
+établissements et par des représentants de communes associées à la date du 8 février 1992, date de publication de la loi
+d'orientation n° 92-125 du 6 février 1992 relative à l'administration territoriale de la République, dans le cadre de chartes
+intercommunales de développement et d'aménagement, élus à la représentation proportionnelle à la plus forte moyenne par le
+collège des maires de ces communes ; 
+
+3° 15 % par des représentants du conseil général, élus par celui-ci à la représentation proportionnelle à la plus forte
+moyenne ; 
+
+4° 5 % par des représentants du conseil régional dans la circonscription départementale, élus par celui-ci à la
+représentation proportionnelle à la plus forte moyenne. 
+
+Le mandat des membres de la commission cesse à l'occasion du renouvellement des fonctions au titre desquelles ils ont été
+désignés. Il est pourvu à leur remplacement dans les conditions prévues au présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°92-125 du 6 février 1992 (V)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 42 ()
+
+	**Cité par**:
+
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 55 (V)
+	  - CODE DES COMMUNES. - art. R*166-2 (Ab)
+	  - Code général des collectivités territoriales - art. L5211-44 (V)
+	  - Code général des collectivités territoriales - art. L5211-45 (V)
+	  - Code général des collectivités territoriales - art. L5721-6-3 (V)
+	  - Code général des collectivités territoriales - art. L5832-3 (VD)
+	  - Code général des collectivités territoriales - art. L5842-11 (V)
+	  - Code général des collectivités territoriales - art. R5211-19 (V)
+	  - Code général des collectivités territoriales - art. R5211-21 (V)
+	  - Code général des collectivités territoriales - art. R5211-23 (V)
+	  - Code général des collectivités territoriales - art. R5211-24 (V)
+	  - Code général des collectivités territoriales - art. R5832-1 (V)
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-14 (T)
+
+
+###### Article L5211-44
+
+Les conditions d'application des articles L. 5211-42 et L. 5211-43 sont fixées par décret en Conseil d'Etat. Ce décret fixe
+notamment le nombre total des membres de la commission départementale, déterminé compte tenu de la population, du nombre des
+communes du département et de leur importance démographique, les critères démographiques utilisés pour la constitution des
+collèges de maires mentionnés au 1° de l'article L. 5211-43 ainsi que les modalités de désignation des membres de la
+commission départementale et les règles de fonctionnement de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 42 ()
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-15 (T)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-42 (V)
+
+
+##### Sous-section 2 : Attributions.
+
+###### Article L5211-45
+
+La commission départementale de la coopération intercommunale établit et tient à jour un état de la coopération
+intercommunale dans le département. Elle peut formuler toute proposition tendant à renforcer la coopération intercommunale. A
+cette fin elle entend, à leur demande, des représentants des collectivités territoriales concernées. Le représentant de
+l'Etat dans le département la consulte dans les conditions fixées à l'article L. 5211-5 sur tout projet de création d'un
+établissement public de coopération intercommunale. Tout projet d'association de communes en vue de l'élaboration d'une
+charte intercommunale de développement et d'aménagement lui est communiqué. Ses propositions et observations sont rendues
+publiques. 
+
+La commission départementale de la coopération intercommunale, consultée par le représentant de l'Etat dans le département
+sur toute demande de retrait d'un syndicat de communes en application des articles L. 5212-29, L. 5212-29-1 et L. 5212-30, ou
+d'une communauté de communes en application de l'article L. 5214-26, est composée du quart des membres élus par le collège
+visé au 1° de l'article L. 5211-43, dont deux membres représentant les communes de moins de 2 000 habitants, et du quart des
+membres élus par le collège visé au 2° de l'article L. 5211-43.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 1999-07-12 art. 42, 112 jorf 13 juillet 1999
+	  - Loi n°99-586 du 12 juillet 1999 - art. 42 ()
+
+	**Cité par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 112 (V)
+	  - Loi n°2014-58 du 27 janvier 2014 - art. 11 (V)
+	  - Code général des collectivités territoriales - art. L2224-31 (VT)
+	  - Code général des collectivités territoriales - art. L5212-29 (V)
+	  - Code général des collectivités territoriales - art. L5212-29-1 (V)
+	  - Code général des collectivités territoriales - art. L5212-30 (V)
+	  - Code général des collectivités territoriales - art. L5214-26 (V)
+	  - Code général des collectivités territoriales - art. L5216-7-2 (V)
+	  - Code général des collectivités territoriales - art. L5842-11 (V)
+	  - Code général des collectivités territoriales - art. R5211-30 (V)
+	  - Code général des collectivités territoriales - art. R5832-1 (V)
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-16 (T)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-43 (V)
+	  - Code général des collectivités territoriales - art. L5211-5 (V)
+
+
+##### Section 9 : Information et participation des habitants.
+
+###### Article L5211-46
+
+- Toute personne physique ou morale a le droit de demander communication sans déplacement et de prendre copie totale ou
+partielle des procès-verbaux des organes délibérants des établissements publics de coopération intercommunale, des budgets et
+des comptes de ces établissements ainsi que des arrêtés de leur président.
+
+Chacun peut les publier sous sa responsabilité.
+
+La personne visée au premier alinéa désireuse de se faire communiquer la copie des budgets ou des comptes de l'établissement
+public de coopération intercommunale peut l'obtenir, à ses frais, aussi bien du président de cet établissement que des
+services déconcentrés de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°78-753 du 17 juillet 1978 - art. 21 (VT)
+	  - Code des relations entre le public et l'adminis... - art. L342-2 (VT)
+	  - Code général des collectivités territoriales - art. L5832-12 (VT)
+	  - Code général des collectivités territoriales - art. L5842-12 (V)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-18 (M)
+
+
+###### Article L5211-47
+
+Dans les établissements publics de coopération intercommunale comprenant au moins une commune de 3 500 habitants et plus, le
+dispositif des actes réglementaires pris par l'organe délibérant ou l'organe exécutif est transmis dans le mois, pour
+affichage, aux communes membres ou est publié dans un recueil des actes administratifs dans des conditions fixées par décret
+en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+
+	**Cité par**:
+
+	  - Décret n°2017-626 du 25 avril 2017 - art. 2
+	  - Code de l'environnement - art. R121-9 (V)
+	  - Code des relations entre le public et l'adminis... - art. L222-1 (VD)
+	  - Code général des collectivités territoriales - art. R5211-41 (V)
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-17 (M)
+	  - Code général des collectivités territoriales - art. L5211-18 (M)
+	  - Code général des collectivités territoriales - art. L5211-19 (M)
+	  - Code général des collectivités territoriales - art. L5211-20 (M)
+	  - Code général des collectivités territoriales - art. L5211-21 (M)
+	  - Code général des collectivités territoriales - art. L5211-22 (M)
+	  - Code général des collectivités territoriales - art. L5211-23 (M)
+	  - Code général des collectivités territoriales - art. L5211-24 (M)
+	  - Code général des collectivités territoriales - art. L5211-25 (M)
+
+
+###### Article L5211-48
+
+Le dispositif des délibérations des organes délibérants des établissements publics de coopération intercommunale prises en
+matière d'interventions économiques en application des dispositions du titre premier du livre V de la première partie et des
+articles L. 2251-1 à L. 2251-4, ainsi que le dispositif des délibérations approuvant une convention de délégation de service
+public, font l'objet d'une insertion dans une publication locale diffusée dans l'ensemble des communes concernées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2251-1 (V)
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-19 (M)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5842-12 (V)
+
+
+###### Article L5211-49
+
+- Les électeurs des communes membres d'un établissement public de coopération intercommunale peuvent être consultés sur les
+décisions que l'organe délibérant ou le président de cet établissement sont appelés à prendre pour régler les affaires de la
+compétence de l'établissement en matière d'aménagement.
+
+Sur proposition de l'ensemble des maires des communes membres, ou sur demande écrite de la moitié des membres de l'organe
+délibérant, l'assemblée délibérante de l'établissement délibère sur le principe et les modalités d'organisation de la
+consultation. Dans ce cas, l'urgence ne peut être invoquée.
+
+Un cinquième des électeurs inscrits sur les listes électorales des communes membres de l'établissement public de coopération
+intercommunale peuvent saisir celui-ci en vue de l'organisation d'une consultation sur une opération d'aménagement relevant
+de sa décision. Dans l'année, tout électeur ne peut signer qu'une seule saisine tendant à l'organisation d'une consultation.
+L'assemblée délibérante de l'établissement délibère dans les conditions prévues à l'alinéa ci-dessus sur le principe et les
+modalités d'organisation de cette consultation.
+
+La délibération qui décide la consultation indique expressément que cette consultation n'est qu'une demande d'avis.
+
+Les dépenses afférentes à la consultation sont à la charge de l'établissement public de coopération intercommunale qui
+l'organise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-19 (M)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5832-12 (VT)
+	  - Code général des collectivités territoriales - art. R5211-42 (M)
+	  - Code général des collectivités territoriales - art. R5211-44 (M)
+
+
+###### Article L5211-49-1
+
+L'organe délibérant d'un établissement public de coopération intercommunale peut créer des comités consultatifs sur toutes
+affaires d'intérêt intercommunal relevant de sa compétence sur tout ou partie du territoire communautaire.
+
+Les comités peuvent être consultés par le président sur toute question ou projet intéressant les services publics et
+équipements de proximité en rapport avec l'objet pour lequel ils ont été institués et ils peuvent transmettre au président
+toute proposition concernant tout problème d'intérêt intercommunal en rapport avec le même objet.
+
+Ils comprennent toutes personnes désignées pour une année en raison de leur représentativité ou de leur compétence, par
+l'organe délibérant, sur proposition du président, et notamment des représentants des associations locales. Ils sont présidés
+par un membre de l'organe délibérant désigné par le président.
+
+Dans les établissements publics de coopération intercommunale comprenant au moins une commune de 3 500 habitants et plus, il
+est créé une commission consultative compétente pour un ou plusieurs services publics locaux exploités en régie ou dans le
+cadre d'une convention de gestion déléguée. Elle doit comprendre parmi ses membres des représentants d'associations d'usagers
+du ou des services concernés. Elle est présidée par le président de l'établissement public de coopération intercommunale
+compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L1413-1 (M)
+	  - Code général des collectivités territoriales - art. L5211-13 (V)
+
+
+###### Article L5211-50
+
+Un dossier d'information sur l'objet de la consultation est mis à la disposition du public sur place au siège de
+l'établissement public de coopération intercommunale, dans chaque mairie et, le cas échéant, mairie annexe des communes
+membres de l'établissement public.L'accès du public au dossier est assuré dans les conditions fixées par l'article 4 de la
+loi n° 78-753 du 17 juillet 1978 portant diverses mesures d'amélioration des relations entre l'administration et le public et
+diverses dispositions d'ordre administratif, social et fiscal.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-753 du 17 juillet 1978 (V)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-21 (M)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. R5211-44 (V)
+	  - Code général des collectivités territoriales - art. R5211-45 (M)
+
+
+###### Article L5211-51
+
+Après avoir pris connaissance du résultat de la consultation, l'organe délibérant de l'établissement public de coopération
+intercommunale délibère dans les conditions prévues aux articles L. 2121-20 et L. 2121-21.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2121-20 (V)
+	  - Code général des collectivités territoriales - art. L2121-21 (V)
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-22 (M)
+
+
+###### Article L5211-52
+
+Aucune consultation des électeurs des communes membres d'un établissement public de coopération intercommunale ne peut avoir
+lieu à partir du 1er janvier de l'année civile qui précède l'année du renouvellement général des conseils municipaux ni
+durant les campagnes électorales précédant les élections au suffrage universel direct ou indirect. Deux consultations portant
+sur un même objet ne peuvent intervenir dans un délai inférieur à deux ans.
+
+Un délai d'un an doit s'écouler entre deux consultations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-23 (M)
+
+
+###### Article L5211-53
+
+Lorsque la désignation des délégués à l'organe délibérant de l'établissement public de coopération intercommunale, ou du
+président de celui-ci, fait l'objet d'un recours contentieux devant le tribunal administratif et, s'il y a lieu, devant le
+Conseil d'Etat, aucune consultation ne peut avoir lieu tant que cette désignation n'a fait l'objet d'une décision devenue
+définitive.
+
+**Nota:**
+
+Une nouvelle version de cet article modifié par la loi n° 2013-403 du 17 mai 2013 relative à l'élection des conseillers
+départementaux, des conseillers municipaux et des conseillers communautaires, et modifiant le calendrier électoral
+s’appliquera aux élections organisées les 23 et 30 mars 2014 à l’occasion du prochain renouvellement général des conseils
+municipaux et communautaires, y compris aux opérations préparatoires à ce scrutin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-24 (M)
+
+
+###### Article L5211-54
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-25 (M)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5842-12 (V)
+
+
+##### Section 10 : Dispositions diverses.
+
+###### Article L5211-56
+
+Sans préjudice des dispositions propres aux communautés urbaines, lorsqu'un établissement public de coopération
+intercommunale assure une prestation de services pour le compte d'une collectivité, d'un autre établissement public de
+coopération intercommunale ou d'un syndicat mixte, les dépenses afférentes sont retracées dans un budget annexe au budget
+visé aux articles L. 5212-18 à L. 5212-21, L. 5214-23, ou L. 5216-8 selon le cas. Les recettes du budget annexe comprennent
+le produit des redevances ou taxes correspondant au service assuré et les contributions de la collectivité ou de
+l'établissement au bénéfice duquel la prestation est assurée.
+
+" Ces dispositions ne s'appliquent pas à la réalisation d'un investissement pour le compte d'une collectivité ou d'un autre
+établissement public de coopération intercommunale, qui est retracée budgétairement et comptablement comme opération sous
+mandat. Dans ce cas, l'établissement public de coopération intercommunale qui assure la réalisation simultanée
+d'investissements de même nature pour le compte de plusieurs collectivités ou établissements publics de coopération
+intercommunale peut passer un seul marché public. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 44 ()
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5214-16-1 (V)
+	  - Code général des collectivités territoriales - art. L5832-13 (VT)
+	  - Code général des collectivités territoriales - art. L5842-13 (V)
+
+
+###### Article L5211-57
+
+Les décisions du conseil d'un établissement public de coopération intercommunale à fiscalité propre dont les effets ne
+concernent qu'une seule des communes membres ne peuvent être prises qu'après avis du conseil municipal de cette commune. S'il
+n'a pas été rendu dans le délai de trois mois à compter de la transmission du projet de la communauté, l'avis est réputé
+favorable. Lorsque cet avis est défavorable, la décision est prise à la majorité des deux tiers des membres du conseil de
+l'établissement public de coopération intercommunale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 43 ()
+
+	**Anciens textes**:
+
+	  - Code général des collectivités territoriales - art. L5211-25 (M)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5832-13 (M)
+	  - Code général des collectivités territoriales - art. L5832-2 (V)
+
+
+###### Article L5211-58
+
+Tout contribuable inscrit au rôle de la commune a le droit d'exercer, tant en demande qu'en défense, à ses frais et risques,
+avec l'autorisation du tribunal administratif, les actions qu'il croit appartenir aux établissements publics de coopération
+intercommunale auxquels a adhéré la commune et que ceux-ci, préalablement appelés à en délibérer, ont refusé ou négligé
+d'exercer.
+
+Le contribuable adresse au tribunal administratif un mémoire détaillé.
+
+Ce mémoire est soumis à l'organe délibérant de l'établissement par son président. L'organe délibérant est spécialement
+convoqué à cet effet. Le délai de convocation peut être abrégé.
+
+Lorsqu'un jugement est intervenu, le contribuable ne peut se pourvoir en appel ou en cassation qu'en vertu d'une nouvelle
+autorisation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°53-934 du 30 septembre 1953 - art. 2 (Ab)
+	  - Décret n°53-1169 du 28 novembre 1953 - art. 2 (Ab)
+	  - Décret n°2000-167 du 28 février 2000 - art. 1 (Ab)
+	  - Décret n°2000-318 du 7 avril 2000 - art. 4 (V)
+	  - Code général des collectivités territoriales - art. L5832-13 (VT)
+	  - Code général des collectivités territoriales - art. R5211-49 (V)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 73 ()
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2000-167 du 28 février 2000
+	  - TXT_SOURCE: Décret n°2000-167 du 28 février 2000 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°2000-167 du 28 février 2000 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°2000-167 du 28 février 2000 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°2000-167 du 28 février 2000 - art. 4 (V)
 
 
 ##### CHAPITRE II : Syndicat de communes
@@ -56428,16 +57715,10 @@ de services d'intérêt intercommunal.
 
 ###### Article L5212-2
 
-- A l'exception des cas où elle procède de la volonté unanime des conseils municipaux exprimée par des délibérations
+A l'exception des cas où elle procède de la volonté unanime des conseils municipaux exprimée par des délibérations
 concordantes, la création d'un syndicat de communes donne lieu à l'établissement d'une liste des communes intéressées. Cette
 liste est fixée par le ou les représentants de l'Etat dans le ou les départements concernés, sur l'initiative d'un ou
 plusieurs conseils municipaux, après avis du ou des conseils généraux.
-
-Le syndicat peut être créé lorsque les conseils municipaux des deux tiers au moins des communes intéressées représentant plus
-de la moitié de la population totale de celles-ci, ou de la moitié des communes intéressées représentant plus des deux tiers
-de la population totale, ont fait connaître leur volonté d'associer les communes qu'ils représentent. Cette majorité doit
-nécessairement comprendre les conseils municipaux des communes dont la population totale est supérieure au quart de la
-population totale concernée.
 
 **Liens relatifs à cet article**
 
@@ -56445,9 +57726,9 @@ population totale concernée.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 35 ()
 
 	**Anciens textes**:
 
@@ -56463,39 +57744,9 @@ population totale concernée.
 	  - Code général des collectivités territoriales - art. L5842-14 (V)
 
 
-###### Article L5212-3
-
-- La création du syndicat de communes est autorisée par arrêté du représentant de l'Etat dans le département lorsque les
-communes appartiennent au même département et par arrêté conjoint des représentants de l'Etat dans les départements concernés
-dans le cas contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 35 ()
-
-	**Anciens textes**:
-
-	  - Code des communes R163-1
-	  - CODE DES COMMUNES. - art. R*163-1 (Ab)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L5212-4 (M)
-
-
 ###### Article L5212-4
 
-- L'arrêté d'autorisation visé à l'article L. 5212-3 fixe le siège du syndicat sur proposition des communes syndiquées.
+L'arrêté de création fixe le siège du syndicat sur proposition des communes syndiquées.
 
 Il détermine, le cas échéant, les conditions de la participation au syndicat des communes qui ont refusé leur adhésion.
 
@@ -56503,26 +57754,22 @@ Il détermine, le cas échéant, les conditions de la participation au syndicat 
 
 	**Anciens textes**:
 
+	  - Loi n°1884-04-05 art. 169 al. 3 et 4
 	  - Ordonnance 59-29 1959-01-05 art. 1
 	  - CODE DES COMMUNES. - art. L163-10 (Ab)
-	  - Loi n°1884-04-05 art. 169 al. 3 et 4
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 35 ()
 
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L5211-5 (V)
 	  - Code général des collectivités territoriales - art. L5811-1 (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5212-3 (Ab)
 
 
 ###### Article L5212-5
@@ -56551,10 +57798,8 @@ Le syndicat est formé soit sans fixation de terme, soit pour une durée déterm
 
 ###### Article L5212-6
 
-- Le syndicat est administré par un comité.
-
-Ce comité est institué d'après les règles fixées aux articles L. 5212-7 à L. 5212-10, sauf dispositions contraires prévues
-par la décision institutive.
+Le comité syndical est institué d'après les règles fixées aux articles L. 5211-7, L. 5211-8 et, sauf dispositions contraires
+prévues par la décision institutive, à l'article L. 5212-7.
 
 **Liens relatifs à cet article**
 
@@ -56562,18 +57807,20 @@ par la décision institutive.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-7 (V)
+	  - Code général des collectivités territoriales - art. L5211-8 (VT)
+	  - Code général des collectivités territoriales - art. L5212-7 (V)
 
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L5832-15 (VT)
 	  - Code général des collectivités territoriales - art. L5842-15 (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales L5212-7 à L5212-10
 
 	**Anciens textes**:
 
@@ -56582,13 +57829,13 @@ par la décision institutive.
 
 ###### Article L5212-7
 
-- Chaque commune est représentée dans le comité par deux délégués titulaires.
+Chaque commune est représentée dans le comité par deux délégués titulaires. 
 
 La décision d'institution ou une décision modificative peut prévoir la désignation d'un ou plusieurs délégués suppléants,
-appelés à siéger au comité avec voix délibérative, en cas d'empêchement du ou des délégués titulaires.
+appelés à siéger au comité avec voix délibérative, en cas d'empêchement du ou des délégués titulaires. 
 
 Le choix du conseil municipal peut porter sur tout citoyen réunissant les conditions requises pour faire partie d'un conseil
-municipal, sous réserve des dispositions de l'article L. 5211-5.
+municipal, sous réserve des dispositions du deuxième alinéa du II de l'article L. 5211-7.
 
 **Liens relatifs à cet article**
 
@@ -56596,9 +57843,9 @@ municipal, sous réserve des dispositions de l'article L. 5211-5.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
 
 	**Cité par**:
 
@@ -56613,265 +57860,8 @@ municipal, sous réserve des dispositions de l'article L. 5211-5.
 	  - Code des communes L163-5 al. 2, 3 et 4
 	  - CODE DES COMMUNES. - art. L163-5 (Ab)
 
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5211-5 (M)
-
-
-###### Article L5212-8
-
-- Les membres du comité du syndicat sont élus par les conseils municipaux des communes intéressées au scrutin secret à la
-majorité absolue ; si, après deux tours de scrutin, aucun candidat n'a obtenu la majorité absolue, il est procédé à un
-troisième tour et l'élection a lieu à la majorité relative.
-
-En cas d'égalité des suffrages, le plus âgé est déclaré élu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Cité par**:
-
-	  - Loi n°2015-991 du 7 août 2015 - art. 40 (V)
-
-	**Anciens textes**:
-
-	  - Code des communes L163-6 al. 1 et 2, L163-5 al. 1
-	  - CODE DES COMMUNES. - art. L163-5 (Ab)
-	  - CODE DES COMMUNES. - art. L163-6 (Ab)
-
-
-###### Article L5212-9
-
-- Sous réserve des dispositions des articles L. 2121-33 et L. 2122-10, les délégués du conseil municipal suivent le sort de
-cette assemblée quant à la durée de leur mandat au comité du syndicat. Toutefois, en cas de suspension, de dissolution du
-conseil municipal ou de démission de tous les membres en exercice, ce mandat est continué jusqu'à la désignation des délégués
-par le nouveau conseil.
-
-Les délégués sortants sont rééligibles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°1884-04-05 art. 171
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2121-33 (V)
-	  - Code général des collectivités territoriales - art. L2122-10 (M)
-
-
-###### Article L5212-10
-
-- En cas de vacance parmi les délégués, par suite de décès, démission ou toute autre cause, le conseil municipal pourvoit au
-remplacement dans le délai d'un mois.
-
-Si un conseil néglige ou refuse de désigner les délégués, le maire et le premier adjoint représentent la commune dans le
-comité du syndicat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L163-8 (M)
-	  - CODE DES COMMUNES. - art. L163-8 (Ab)
-
-
-##### Sous-section 2 : Le président.
-
-###### Article L5212-11
-
-- Le président est l'organe exécutif du syndicat.
-
-Il prépare et exécute les délibérations du comité.
-
-Il est l'ordonnateur des dépenses et il prescrit l'exécution des recettes du syndicat.
-
-Il est seul chargé de l'administration, mais il peut déléguer par arrêté, sous sa surveillance et sa responsabilité,
-l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de ces derniers, à
-d'autres membres du bureau. Il peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de
-signature au directeur et au directeur adjoint dans les syndicats dont les compétences, l'importance du budget, le nombre et
-la qualification des agents à encadrer permettent de les assimiler à des communes de plus de 20 000 habitants.
-
-Ces délégations subsistent tant qu'elles ne sont pas rapportées.
-
-Il est le chef des services que le syndicat crée.
-
-Il représente le syndicat en justice.
-
-**Nota:**
-
-NOTA : Loi 99-586 1999-07-12 art. 111 :
-
-I. - Les dispositions de la deuxième phrase du troisième alinéa de l'article L. 5211-9 du code général des collectivités
-territoriales sont applicables à compter du 1er janvier 2000.
-
-II. - Jusqu'à l'expiration du délai prévu au I, sont maintenues en vigueur, dans leur rédaction en vigueur à la date de
-publication de la présente loi, les dispositions suivantes du code général des collectivités territoriales :
-
-- la dernière phrase du quatrième alinéa de l'article L. 5212-11 ;
-
-- le dernier alinéa de l'article L. 5213-10 ;
-
-- la dernière phrase du quatrième alinéa de l'article L. 5214-11 ;
-
-- le dernier alinéa de l'article L. 5215-14 ;
-
-- le dernier alinéa de l'article L. 5216-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L163-13-1 (M)
-	  - CODE DES COMMUNES. - art. L163-13-1 (Ab)
-
-
-##### Sous-section 3 : Le bureau.
-
-###### Article L5212-12
-
-- Le bureau du syndicat est composé du président, d'un ou de plusieurs vice-présidents et, éventuellement, d'un ou de
-plusieurs autres membres.
-
-Le comité du syndicat peut déléguer une partie de ses attributions au bureau à l'exception :
-
-1° Du vote du budget ;
-
-2° De l'approbation du compte administratif ;
-
-3° Des décisions relatives aux modifications des conditions initiales de composition, de fonctionnement et de durée du
-syndicat ;
-
-4° De l'adhésion du syndicat à un établissement public ;
-
-5° Des mesures de même nature que celles visées à l'article L. 1612-15 ;
-
-6° De la délégation de la gestion d'un service public.
-
-Lors de chaque réunion du comité, le président rend compte des travaux du bureau.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L163-13 (M)
-	  - CODE DES COMMUNES. - art. L163-13 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1612-15 (V)
-
 
 ##### Section 3 : Fonctionnement.
-
-###### Article L5212-13
-
-- Le comité du syndicat se réunit au moins une fois par trimestre ou, lorsque le syndicat a été formé en vue d'une seule
-oeuvre ou d'un seul service d'intérêt intercommunal, une fois par semestre. Le comité se réunit au siège du syndicat ou dans
-un lieu choisi par le comité dans l'une des communes membres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L163-12 al. 1
-	  - CODE DES COMMUNES. - art. L163-12 (Ab)
-
-
-###### Article L5212-14
-
-- Si le tiers des membres présents ou le président le demande, le comité du syndicat décide de se former en comité secret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L163-10 al. 2
-
 
 ###### Article L5212-15
 
@@ -57231,17 +58221,17 @@ précédent.
 
 ###### Article L5212-25
 
-- Lorsque l'application d'une disposition à caractère fiscal ou budgétaire a pour conséquence d'augmenter ou de diminuer les
-ressources de fonctionnement d'une commune membre d'un syndicat d'un pourcentage égal ou supérieur à 10 p. 100 des recettes
-de la section de fonctionnement, s'il s'agit d'une commune de moins de 20 000 habitants, et à 5 p. 100 dans les autres cas,
-chaque commune membre peut demander au comité du syndicat une modification des règles fixant les modalités de répartition des
-contributions financières des communes au budget du syndicat à compter de l'année suivante.
+Lorsque l'application d'une disposition à caractère fiscal ou budgétaire a pour conséquence d'augmenter ou de diminuer les
+ressources de fonctionnement d'une commune membre d'un syndicat d'un pourcentage égal ou supérieur à 10 % des recettes de la
+section de fonctionnement, s'il s'agit d'une commune de moins de 20 000 habitants, et à 5 % dans les autres cas, chaque
+commune membre peut demander au comité du syndicat une modification des règles fixant les modalités de répartition des
+contributions financières des communes au budget du syndicat à compter de l'année suivante. 
 
 Si le comité du syndicat n'a pas fait droit à la demande dans un délai de six mois, ou si la délibération du comité du
-syndicat n'a pas été approuvée par les conseils municipaux dans les conditions prévues aux deuxième, troisième et cinquième
-alinéas de l'article L. 5212-27, le représentant de l'Etat dans le département peut modifier, à la demande de la commune
-intéressée et après avis de la chambre régionale des comptes, les règles fixant les modalités de répartition des
-contributions financières des communes au budget du syndicat.
+syndicat n'a pas été approuvée par les conseils municipaux dans les conditions prévues aux deuxième, et troisième alinéas de
+l'article L. 5211-20, le représentant de l'Etat dans le département peut modifier, à la demande de la commune intéressée et
+après avis de la chambre régionale des comptes, les règles fixant les modalités de répartition des contributions financières
+des communes au budget du syndicat.
 
 **Liens relatifs à cet article**
 
@@ -57249,9 +58239,9 @@ contributions financières des communes au budget du syndicat.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
 
 	**Anciens textes**:
 
@@ -57265,7 +58255,7 @@ contributions financières des communes au budget du syndicat.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5212-27 (Ab)
+	  - Code général des collectivités territoriales - art. L5211-20 (V)
 
 
 ##### Section 5 : Modification des conditions initiales de composition et de fonctionnement
@@ -57308,113 +58298,27 @@ La décision est prise par le représentant de l'Etat dans le département.
 	  - Code général des collectivités territoriales - art. L5332-3 (M)
 
 
-##### Sous-section 2 : Modifications.
-
-###### Article L5212-27
-
-- Le comité délibère sur l'extension des attributions et la modification des conditions initiales de fonctionnement ou de
-durée du syndicat.
-
-La délibération du comité est notifiée aux maires de chacune des communes syndiquées.
-
-Les conseils municipaux sont consultés dans les conditions prévues au premier alinéa de l'article L. 5212-26.
-
-La décision d'extension ou de modification est prise par le représentant de l'Etat dans le département.
-
-Elle est toutefois subordonnée à l'accord de la majorité qualifiée des communes concernées, telle qu'elle est définie au
-second alinéa de l'article L. 5212-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
-
-	**Cité par**:
-
-	  - Loi n°2010-1563 du 16 décembre 2010 - art. 61 (Ab)
-	  - Loi n°2015-991 du 7 août 2015 - art. 40 (V)
-	  - Code général des collectivités territoriales - art. L5211-61 (V)
-	  - Code général des collectivités territoriales - art. L5212-24 (VD)
-	  - Code général des collectivités territoriales - art. L5212-25 (M)
-	  - Code général des collectivités territoriales - art. L5212-30 (M)
-	  - Code général des collectivités territoriales - art. L5842-18 (V)
-	  - Code général des impôts, CGI. - art. 1043 (VD)
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L163-17 (M)
-	  - CODE DES COMMUNES. - art. L163-17 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5212-2 (M)
-	  - Code général des collectivités territoriales - art. L5212-26 (Ab)
-
-
 ##### Sous-section 3 : Retrait de communes.
-
-###### Article L5212-28
-
-- Une commune peut se retirer du syndicat avec le consentement du comité. Celui-ci fixe, en accord avec le conseil municipal
-intéressé, les conditions auxquelles s'opère le retrait.
-
-La délibération du comité est notifiée aux maires de chacune des communes syndiquées.
-
-Les conseils municipaux sont consultés dans les conditions prévues au premier alinéa de l'article L. 5212-26.
-
-La décision de retrait est prise par le représentant de l'Etat dans le département.
-
-Elle ne peut, toutefois, intervenir si plus d'un tiers des conseils municipaux s'oppose au retrait.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L163-16 (M)
-	  - CODE DES COMMUNES. - art. L163-16 (Ab)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L2411-18 (M)
-	  - Code général des collectivités territoriales - art. L5212-29 (M)
-	  - Code général des collectivités territoriales - art. L5212-30 (M)
-	  - Code général des collectivités territoriales - art. L5332-5 (M)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5212-26 (Ab)
-
 
 ###### Article L5212-29
 
-- Par dérogation aux dispositions de l'article L. 5212-28, une commune peut être autorisée par le représentant de l'Etat dans
-le département à se retirer du syndicat si, par suite d'une modification de la réglementation ou de la situation de la
-commune au regard de cette réglementation, la participation de cette commune au syndicat est devenue sans objet.
+- Par dérogation aux dispositions de l'article L. 5211-19, une commune peut être autorisée par le représentant de l'Etat dans
+le département après avis de la commission départementale de la coopération intercommunale réunie dans la formation prévue au
+second alinéa de l'article L. 5211-45 à se retirer du syndicat si, par suite d'une modification de la réglementation ou de la
+situation de la commune au regard de cette réglementation, la participation de cette commune au syndicat est devenue sans
+objet. L'avis de la commission départementale de la coopération intercommunale est réputé négatif s'il n'a pas été rendu à
+l'issue d'un délai de deux mois.
 
-A défaut d'accord entre les communes, le représentant de l'Etat dans le département fixe les conditions du retrait, en
-particulier en matière financière et patrimoniale, après avis du comité du syndicat et du conseil municipal de la commune
-intéressée.
+Les biens meubles et immeubles mis à la disposition du syndicat par la commune sont restitués à celle-ci, ainsi que les
+droits et obligations qui s'y rattachent. Le solde de l'encours de la dette afférente à ces biens, éventuellement transféré à
+l'établissement public de coopération intercommunale par la commune et non remboursé à la date du retrait, est simultanément
+repris à sa charge par la commune.
+
+Pour les biens acquis ou réalisés par le syndicat postérieurement à l'adhésion de la commune et les emprunts destinés à les
+financer, à défaut d'accord entre les communes, le ou les représentants de l'Etat dans le ou les départements fixent les
+conditions du retrait, après avis du comité du syndicat et du conseil municipal de la commune intéressée. Le retrait peut
+être subordonné à la prise en charge par la commune d'une quote-part des annuités de dette afférentes aux emprunts contractés
+par le syndicat pendant la période où la commune en était membre.
 
 Lorsqu'un emprunt restant à la charge de la commune admise à se retirer fait l'objet d'une mesure de nature à en diminuer le
 montant, l'annuité due par cette commune est réduite à due concurrence.
@@ -57427,9 +58331,10 @@ Les dispositions du présent article ne s'appliquent pas aux syndicats de distri
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 1999-07-12 art. 21, 38 jorf 13 juillet 1999
+	  - Loi n°99-586 du 12 juillet 1999 - art. 21 ()
 
 	**Cité par**:
 
@@ -57448,7 +58353,42 @@ Les dispositions du présent article ne s'appliquent pas aux syndicats de distri
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5212-28 (Ab)
+	  - Code général des collectivités territoriales - art. L5211-19 (M)
+
+
+###### Article L5212-29-1
+
+Une commune peut être autorisée, par le représentant de l'Etat dans le département après avis de la commission départementale
+de la coopération intercommunale réunie dans la formation prévue au second alinéa de l'article L. 5211-45 et dans le respect
+des dispositions des deuxième à quatrième alinéas de l'article L. 5212-29, à se retirer du syndicat pour adhérer à une
+communauté de communes ou à lui retirer une ou plusieurs des compétences qu'elle lui a transférées en application de
+l'article L. 5212-16 pour les transférer à la communauté de communes dont elle est membre. L'avis de la commission
+départementale de la coopération intercommunale est réputé négatif s'il n'a pas été rendu à l'issue d'un délai de deux mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 23 ()
+
+	**Cité par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 112 (V)
+	  - Code général des collectivités territoriales - art. L5211-45 (V)
+	  - Code général des collectivités territoriales - art. L5832-18 (VT)
+
+	**Anciens textes**:
+
+	  - CODE DES COMMUNES. - art. L163-16-1 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5212-16 (V)
+	  - Code général des collectivités territoriales - art. L5212-29 (M)
 
 
 ###### Article L5212-30
@@ -57456,24 +58396,31 @@ Les dispositions du présent article ne s'appliquent pas aux syndicats de distri
 - Lorsqu'une commune estime que les dispositions statutaires relatives à la représentation des communes au comité du
 syndicat, ou aux compétences exercées par le syndicat, ou à la contribution des communes aux dépenses du syndicat, sont de
 nature à compromettre de manière essentielle son intérêt à participer à l'objet syndical, elle peut demander la modification
-des dispositions statutaires en cause dans les conditions prévues à l'article L. 5212-27.
+des dispositions statutaires en cause dans les conditions prévues dans chaque cas par le présent code.
 
 Lorsqu'une modification des dispositions statutaires relatives à la représentation des communes au comité du syndicat, ou aux
 compétences exercées par le syndicat, ou à la contribution des communes aux dépenses du syndicat, est de nature à
 compromettre de manière essentielle son intérêt à participer à l'objet syndical, la commune peut, dans un délai de six mois à
-compter de la modification, demander son retrait du syndicat dans les conditions prévues à l'article L. 5212-28.
+compter de la modification, demander son retrait du syndicat dans les conditions prévues dans chaque cas par le présent code.
 
 A défaut de décision favorable dans un délai de six mois, la commune peut demander au représentant de l'Etat dans le
-département d'autoriser son retrait du syndicat.
+département après avis de la commission départementale de la coopération intercommunale réunie dans la formation prévue au
+second alinéa de l'article L. 5211-45 d'autoriser son retrait du syndicat. L'avis de la commission départementale de la
+coopération intercommunale est réputé négatif s'il n'a pas été rendu à l'issue d'un délai de deux mois.
 
-La commune qui est admise à se retirer du syndicat continue à supporter, proportionnellement à sa contribution aux dépenses
-de celui-ci, le service de la dette pour tous les emprunts qu'il a contractés pendant la période où elle en était membre.
+Les biens meubles et immeubles mis à la disposition du syndicat par la commune sont restitués à celle-ci ainsi que les droits
+et obligations qui s'y rattachent. Le solde de l'encours de la dette afférente à ces biens, éventuellement transféré à
+l'établissement public de coopération intercommunale, par la commune et non remboursé à la date du retrait, est simultanément
+repris à sa charge par la commune.
+
+Pour les biens acquis ou réalisés par le syndicat postérieurement à l'adhésion de la commune et les emprunts destinés à les
+financer, à défaut d'accord entre les communes, le ou les représentants de l'Etat dans le ou les départements fixent les
+conditions du retrait, après avis du comité du syndicat et du conseil municipal de la commune intéressée. Le retrait peut
+être subordonné à la prise en charge par la commune d'une quote-part des annuités de dette afférentes aux emprunts contractés
+par le syndicat pendant la période où la commune en était membre.
 
 Lorsque ces emprunts font l'objet d'une mesure de nature à en diminuer la charge, l'annuité due par la commune admise à se
 retirer est réduite à due concurrence.
-
-A défaut d'accord entre les communes, le représentant de l'Etat dans le département fixe les autres conditions, en
-particulier financières et patrimoniales, du retrait.
 
 Les dispositions du présent article ne sont applicables qu'aux communes adhérant depuis six ans au moins au syndicat
 concerné.
@@ -57484,9 +58431,11 @@ concerné.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 1999-07-12 art. 21, 22, 38 jorf 13 juillet 1999
+	  - Loi n°99-586 du 12 juillet 1999 - art. 21 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 22 ()
 
 	**Cité par**:
 
@@ -57497,55 +58446,6 @@ concerné.
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L163-16-2 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5212-27 (Ab)
-	  - Code général des collectivités territoriales - art. L5212-28 (Ab)
-
-
-##### Sous-section 4 : Commission de conciliation.
-
-###### Article L5212-31
-
-- Il est institué dans chaque département une commission de conciliation en matière de coopération intercommunale. Elle est
-composée pour moitié d'élus communaux de communes de moins de 2 000 habitants désignés par les maires du département et pour
-moitié d'élus communaux de communes de plus de 2 000 habitants et de présidents de groupements.
-
-Elle élit en son sein son président qui doit être un élu local.
-
-Cette commission est obligatoirement saisie par le représentant de l'Etat dans le département avant qu'il ne se prononce sur
-une demande de retrait d'un syndicat de communes présentée par une commune en application des articles L. 5212-29 et L.
-5212-30.
-
-Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°88-13 du 5 janvier 1988 - art. 31 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 21 ()
-
-	**Cité par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 112 (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5212-29 (M)
-	  - Code général des collectivités territoriales - art. L5212-30 (M)
 
 
 ##### Sous-section 5 : Adhésion d'un syndicat à un établissement public de coopération intercommunale.
@@ -57580,23 +58480,23 @@ les conditions de majorité prévues au second alinéa de l'article L. 5212-2.
 
 ###### Article L5212-33
 
-- Le syndicat est dissous :
+Le syndicat est dissous : 
 
 a) Soit de plein droit à l'expiration de la durée fixée par la décision institutive ou à l'achèvement de l'opération qu'il
-avait pour objet de conduire ou à la date du transfert à un district, à une communauté de communes, à une communauté de
-villes ou à une communauté urbaine des services en vue desquels il avait été institué ;
+avait pour objet de conduire ou à la date du transfert à une communauté de communes, à une communauté d'agglomération ou à
+une communauté urbaine des services en vue desquels il avait été institué ; 
 
-b) Soit par le consentement de tous les conseils municipaux intéressés.
+b) Soit par le consentement de tous les conseils municipaux intéressés. 
 
-Il peut être dissous :
+Il peut être dissous : 
 
 a) Soit sur la demande motivée de la majorité de ces conseils municipaux et l'avis de la commission permanente du conseil
-général par arrêté du ou des représentants de l'Etat dans le ou les départements concernés ;
+général par arrêté du ou des représentants de l'Etat dans le ou les départements concernés ; 
 
 b) Soit d'office par un décret rendu sur l'avis conforme du conseil général et du Conseil d'Etat.
 
-L'arrêté ou le décret de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le
-syndicat est liquidé.
+L'arrêté ou le décret de dissolution détermine, dans le respect des dispositions de l'article L. 5211-25-1 et sous la réserve
+des droits des tiers, les conditions dans lesquelles le syndicat est liquidé. 
 
 La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions administratives
 paritaires compétentes. Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un
@@ -57620,15 +58520,21 @@ financières correspondantes.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 1999-07-12 art. 3, 29, 55 jorf 13 juillet 1999
+	  - Loi n°99-586 du 12 juillet 1999 - art. 29 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 3 ()
 
 	**Cité par**:
 
 	  - Loi n°2010-1563 du 16 décembre 2010 - art. 61 (Ab)
 	  - Code général des collectivités territoriales - art. L5832-19 (VT)
 	  - Code général des collectivités territoriales - art. L5842-19 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-25-1 (V)
 
 
 ###### Article L5212-34
@@ -57656,921 +58562,28 @@ l'Etat dans le ou les départements concernés après avis des conseils municipa
 	  - Code général des collectivités territoriales - art. L5842-19 (V)
 
 
-##### CHAPITRE III : District
-
-##### Section 1 : Création.
-
-###### Article L5213-1
-
-- Le district est un établissement public de coopération intercommunale groupant plusieurs communes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cité par**:
-
-	  - Décret n°96-1008 du 18 novembre 1996 - art. 5 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-1 al. 1
-	  - CODE DES COMMUNES. - art. L164-1 (Ab)
-
-
-###### Article L5213-2
-
-- Sur l'initiative d'un ou de plusieurs conseils municipaux demandant la création d'un district, le ou les représentants de
-l'Etat dans le ou les départements concernés fixent, après avis du ou des conseils généraux, la liste des communes
-intéressées.
-
-Le district peut être créé sur la demande des deux tiers au moins des conseils municipaux des communes intéressées
-représentant plus de la moitié de la population totale de celles-ci, ou de la moitié des conseils municipaux des communes
-comptant les deux tiers de la population. Cette majorité doit nécessairement comprendre les conseils municipaux des communes
-dont la population totale est supérieure au quart de la population totale concernée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-1 al. 2 et 3
-	  - CODE DES COMMUNES. - art. L164-1 (Ab)
-
-
-###### Article L5213-3
-
-- La création du district est autorisée par arrêté du représentant de l'Etat dans le département lorsque les communes
-appartiennent au même département et par arrêté conjoint des représentants de l'Etat dans les départements concernés dans le
-cas contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes R164-1
-	  - CODE DES COMMUNES. - art. R*164-1 (Ab)
-
-
-###### Article L5213-4
-
-- La décision institutive détermine le siège du district.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-1 al. 4
-	  - CODE DES COMMUNES. - art. L164-1 (Ab)
-
-
-###### Article L5213-5
-
-- Le district est constitué soit sans fixation de terme, soit pour une durée déterminée par la décision institutive.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-9 al. 1
-	  - CODE DES COMMUNES. - art. L164-9 (Ab)
-
-
-##### Section 2 : Organes
-
-##### Sous-section 1 : Le conseil du district.
-
-###### Article L5213-6
-
-- Le district est administré par un conseil composé de délégués des communes et par un bureau.
-
-Le nombre des membres du conseil est fixé par la décision institutive.
-
-La décision d'institution ou une décision modificative peut prévoir la désignation d'un ou de plusieurs délégués suppléants,
-appelés à siéger au comité avec voix délibérative en cas d'empêchement du ou des délégués titulaires.
-
-Le choix du conseil municipal peut porter sur tout citoyen réunissant les conditions requises pour faire partie d'un conseil
-municipal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-5 al. 1, 2 et 3 ecqc L163-5 al. 4
-	  - CODE DES COMMUNES. - art. L164-5 (Ab)
-
-
-###### Article L5213-7
-
-- Les délégués du conseil municipal au conseil de district sont élus au scrutin secret à la majorité absolue ; si, après deux
-tours de scrutin, aucun candidat n'a obtenu la majorité absolue, il est procédé à un troisième tour et l'élection a lieu à la
-majorité relative.
-
-En cas d'égalité des suffrages, le plus âgé est déclaré élu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-5 al. 3 (partie) ecqc 163-6 al. 1 et 2
-	  - CODE DES COMMUNES. - art. L164-5 (Ab)
-
-
-###### Article L5213-8
-
-- Sous réserve des dispositions des articles L. 2121-33 et L. 2122-10, les délégués du conseil municipal au conseil de
-district suivent le sort de cette assemblée quant à la durée de leur mandat districal. Toutefois, en cas de suspension, de
-dissolution du conseil municipal ou de démission de tous les membres en exercice, ce mandat est continué jusqu'à la
-désignation des délégués par le nouveau conseil.
-
-Les délégués sortants sont rééligibles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-5 al. 3 (partie) ecqc L163-7
-	  - CODE DES COMMUNES. - art. L164-5 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2121-33 (V)
-	  - Code général des collectivités territoriales - art. L2122-10 (M)
-
-
-###### Article L5213-9
-
-- En cas de vacance parmi les délégués, par suite de décès, démission ou toute autre cause, le conseil municipal pourvoit au
-remplacement dans le délai d'un mois.
-
-Si un conseil néglige ou refuse de désigner les délégués, le maire et le premier adjoint représentent la commune dans le
-conseil de district.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-5 al. 3 (partie) ecqc L163-8
-	  - CODE DES COMMUNES. - art. L164-5 (Ab)
-
-
-##### Sous-section 2 : Le président.
-
-###### Article L5213-10
-
-- Le président assure l'exécution des décisions du conseil et représente le district dans les actes de la vie civile.
-
-Il peut, sous sa surveillance et sa responsabilité, déléguer une partie de ses fonctions à un ou plusieurs des vice-
-présidents ou, en cas d'empêchement de ces derniers, à des membres du conseil du district.
-
-Ces délégations subsistent tant qu'elles ne sont pas rapportées.
-
-Il peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature au directeur et au
-directeur adjoint dans les districts dont les compétences, l'importance du budget, le nombre et la qualification des agents à
-encadrer permettent de les assimiler à des communes de plus de 20 000 habitants.
-
-**Nota:**
-
-NOTA : Loi 99-586 1999-07-12 art. 111 :
-
-I. - Les dispositions de la deuxième phrase du troisième alinéa de l'article L. 5211-9 du code général des collectivités
-territoriales sont applicables à compter du 1er janvier 2000.
-
-II. - Jusqu'à l'expiration du délai prévu au I, sont maintenues en vigueur, dans leur rédaction en vigueur à la date de
-publication de la présente loi, les dispositions suivantes du code général des collectivités territoriales :
-
-- la dernière phrase du quatrième alinéa de l'article L. 5212-11 ;
-
-- le dernier alinéa de l'article L. 5213-10 ;
-
-- la dernière phrase du quatrième alinéa de l'article L. 5214-11 ;
-
-- le dernier alinéa de l'article L. 5215-14 ;
-
-- le dernier alinéa de l'article L. 5216-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 1999-07-12 art. 50, 111 jorf 13 juillet 1999
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L164-8 (M)
-	  - CODE DES COMMUNES. - art. L164-8 (Ab)
-
-
-###### Article L5213-11
-
-- Le président peut être chargé du règlement de certaines affaires et recevoir à cet effet délégation du conseil. Lors de
-chaque réunion obligatoire, le président rend compte au conseil de ses travaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-6 al. 2 ecqc le président
-	  - CODE DES COMMUNES. - art. L164-6 (Ab)
-
-
-##### Sous-section 3 : Le bureau.
-
-###### Article L5213-12
-
-- Le bureau comprend un président et des vice-présidents.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-5 al. 4 ecqc le bureau
-	  - CODE DES COMMUNES. - art. L164-5 (Ab)
-
-
-###### Article L5213-13
-
-- Le bureau peut être chargé du règlement de certaines affaires et recevoir à cet effet délégation du conseil. Lors de chaque
-réunion obligatoire, le bureau rend compte au conseil de ses travaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-6 al. 2 ecqc le bureau
-	  - CODE DES COMMUNES. - art. L164-6 (Ab)
-
-
-##### Section 3 : Compétences.
-
-###### Article L5213-14
-
-- Le conseil du district règle par ses délibérations les affaires qui sont de la compétence du district.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-6 al. 1
-	  - CODE DES COMMUNES. - art. L164-6 (Ab)
-
-
-###### Article L5213-15
-
-- Le district exerce de plein droit et au lieu et place des communes membres la gestion :
-
-1° Des services de logement créés en application des articles L. 621-1 et suivants du code de la construction et de
-l'habitation ;
-
-2° Des centres de secours contre l'incendie sous réserve des dispositions du chapitre IV du titre II du livre IV de la
-première partie ;
-
-3° Des services assurés par les syndicats de communes associant, à l'exclusion de toute autre, les mêmes communes que le
-district ;
-
-4° Des services énumérés dans la décision institutive.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°59-30 du 5 janvier 1959 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Modifié par**:
-
-	  - Loi n°96-369 du 3 mai 1996 - art. 52 ()
-
-	**Cite**:
-
-	  - Code de la construction et de l'habitation. - art. L621-1 (V)
-
-
-###### Article L5213-15-1
-
-Pour l'exercice de ses compétences, le district est également substitué aux communes qui en font partie lorsque celles-ci
-sont groupées avec des communes extérieures au district au sein de syndicats de communes.
-
-Cette disposition ne modifie ni les attributions ni le périmètre des syndicats préexistants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°97-303 1997-04-04 article unique jorf 5 avril 1997
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-
-##### Section 4 : Dispositions financières.
-
-###### Article L5213-16
-
-- Les recettes du budget du district comprennent :
-
-1° Le produit des impôts mentionnés au 1° du a de l'article L. 2331-3 ;
-
-2° Le produit des taxes, redevances et contributions correspondant aux services assurés ;
-
-3° Le revenu des biens, meubles ou immeubles, du district ;
-
-4° Les sommes qu'il reçoit des administrations publiques, des associations, des particuliers, en échange d'un service rendu ;
-
-5° Les subventions de l'Etat, de la région, du département et des communes ;
-
-6° Les produits des dons et legs ;
-
-7° Le produit des emprunts ;
-
-8° La contribution des communes intéressées, pour le fonctionnement de services assurés à la demande de ces dernières.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L252-2 Code des communes L252-3 al. 1
-	  - CODE DES COMMUNES. - art. L252-2 (Ab)
-	  - CODE DES COMMUNES. - art. L252-3 (Ab)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 quinquies (M)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2331-3 (M)
-
-
-###### Article L5213-17
-
-- Les recettes du budget du district peuvent comprendre, le cas échéant, le produit des impôts mentionnés à l'article 1609
-quinquies A ou à l'article 1609 quinquies B du code général des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1609 quinquies B
-	  - Code général des collectivités territoriales
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L252-3-1 (Ab)
-
-
-###### Article L5213-18
-
-- Lorsqu'un district renonce à percevoir les ressources prévues au 1° du a de l'article L. 2331-3, il peut se transformer de
-plein droit en syndicat de communes dans les conditions prévues à l'article L. 5213-27.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L252-3 al. 2 (phr 1)
-	  - CODE DES COMMUNES. - art. L252-3 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2331-3 (M)
-	  - Code général des collectivités territoriales - art. L5213-27 (Ab)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L5213-21 (Ab)
-
-
-###### Article L5213-19
-
-- Les pertes de recettes que le district subit du fait des exemptions temporaires dont bénéficient les constructions
-nouvelles au titre de la taxe foncière des propriétés bâties sont compensées par une subvention de l'Etat, déterminée dans
-les mêmes conditions que l'allocation servie aux communes, conformément aux dispositions de l'article L. 2335-3.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L252-4 (M)
-	  - CODE DES COMMUNES. - art. L252-4 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2335-3 (M)
-
-
-###### Article L5213-20
-
-- Sont applicables au district les dispositions de l'article L. 5212-21.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-1247 1970-12-31 art. 32 (partie)
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 quinquies (M)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5212-21 (V)
-
-
-###### Article L5213-21
-
-- Lorsqu'une ou plusieurs communes membres d'un district sont comprises dans le périmètre d'une communauté urbaine, il ne
-peut être fait application des dispositions prévues à l'article L. 5213-18.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°70-1297 1970-12-31 art. 30 (partie)
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5213-18 (Ab)
-
-
-##### Section 5 : Modifications des conditions de fonctionnement.
-
-###### Article L5213-22
-
-- Le conseil du district délibère, à la majorité des deux tiers au moins de ses membres représentant plus de la moitié de la
-population ou à la majorité de ses membres représentant plus des deux tiers de la population :
-
-1° Sur l'extension des attributions du district ;
-
-2° Sur la modification de ses conditions initiales de fonctionnement ou de durée.
-
-Les conseils municipaux sont obligatoirement consultés.
-
-La décision est prise par le représentant de l'Etat dans le département.
-
-Elle ne peut toutefois intervenir si plus d'un tiers des conseils municipaux s'oppose à la modification ou à l'extension.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L164-7 Code des communes R*164-7
-	  - CODE DES COMMUNES. - art. L164-7 (Ab)
-
-
-###### Article L5213-23
-
-- Des communes autres que celles primitivement groupées peuvent être admises à faire partie du district avec le consentement
-du conseil du district.
-
-La décision d'admission est prise par le représentant de l'Etat dans le département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L164-3 (M)
-	  - CODE DES COMMUNES. - art. L164-3 (Ab)
-
-
-##### Section 6 : Dissolution et transformation.
-
-###### Article L5213-24
-
-- Le district est dissous :
-
-a) Soit de plein droit, à l'expiration de la durée fixée par la décision institutive, ou à la date du transfert de la
-totalité de ses compétences à une communauté urbaine lorsque le district ne comprend pas de communes extérieures à la
-communauté urbaine, ou dans le cas prévu à l'article L. 5215-21 ;
-
-Dans ces deux derniers cas, sauf accord amiable et sous réserves des droits des tiers, des décrets en Conseil d'Etat fixent
-les conditions dans lesquelles les syndicats ou districts cessent leur activité et sont liquidés.
-
-b) Soit à la demande de la moitié au moins des conseils municipaux représentant plus de la moitié de la population totale du
-district.
-
-La dissolution est prononcée par arrêté du représentant de l'Etat dans le département lorsque les communes appartiennent au
-même département et par arrêté conjoint des représentants de l'Etat dans les départements concernés dans le cas contraire.
-
-Cet arrêté détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le district est liquidé.
-
-La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions administratives
-paritaires compétentes. Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un
-emploi de même niveau et en tenant compte de leurs droits acquis. Les communes attributaires supportent les charges
-financières correspondantes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. 3 (Ab)
-	  - Code des communes L164-9 al. 2, 3, 4 et 5
-	  - CODE DES COMMUNES. - art. L164-9 (Ab)
-	  - CODE DES COMMUNES. - art. L165-18 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5215-21 (M)
-
-
-###### Article L5213-25
-
-- Un district existant le 8 février 1992, date de publication de la loi d'orientation n° 92-125 du 6 février 1992 relative à
-l'administration territoriale de la République, peut se transformer en communauté de communes par décision du conseil de
-district prise à la majorité des deux tiers au moins de ses membres.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°92-125 1992-02-06
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-4 al. 2 (phr 1)
-	  - CODE DES COMMUNES. - art. L167-4 (Ab)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L5214-17 (Ab)
-
-
-###### Article L5213-26
-
-- Un district regroupant une population de 20 000 habitants et plus, existant le 8 février 1992, date de publication de la
-loi d'orientation n° 92-125 du 6 février 1992 relative à l'administration territoriale de la République, peut se transformer
-en communauté de villes par décision du conseil de district prise à la majorité des deux tiers au moins de ses membres.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°92-125 1992-02-06
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-7 al. 1 ecqc le district
-	  - CODE DES COMMUNES. - art. L168-7 (Ab)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies C (M)
-	  - Code général des collectivités territoriales - art. L5216-17 (Ab)
-
-
-###### Article L5213-27
-
-- Un district peut se transformer en syndicat de communes dans le cas prévu à l'article L. 5213-18. Cette transformation
-n'entraîne pas création d'une nouvelle personne morale. Le syndicat de communes est subrogé dans l'ensemble des droits et
-obligations du district.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 50 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L252-3 al. 2 (phr 2)
-	  - CODE DES COMMUNES. - art. L252-3 (Ab)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L5213-18 (Ab)
-
-
 ##### CHAPITRE IV : Communauté de communes
 
 ##### Section 1 : Création
 
 ###### Article L5214-1
 
-- La communauté de communes est un établissement public de coopération intercommunale regroupant plusieurs communes.
+La communauté de communes est un établissement public de coopération intercommunale regroupant plusieurs communes d'un seul
+tenant et sans enclave. 
 
 Elle a pour objet d'associer des communes au sein d'un espace de solidarité, en vue de l'élaboration d'un projet commun de
-développement et d'aménagement de l'espace.
+développement et d'aménagement de l'espace. 
+
+Les conditions du premier alinéa ne sont pas exigées pour les communautés de communes existant à la date de publication de la
+loi n° 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale, ou issues
+de la transformation d'un district ou d'une communauté de villes en application des dispositions des articles 51 et 56 de la
+même loi.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 	**Cité par**:
 
@@ -58592,77 +58605,23 @@ développement et d'aménagement de l'espace.
 	  - Code général des collectivités territoriales - art. L5842-20 (V)
 	  - Code général des collectivités territoriales - art. R5211-3 (V)
 
+	**Cite**:
+
+	  - Loi n°99-586 du 12 juillet 1999 (V)
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 14 ()
+
 	**Anciens textes**:
 
-	  - Code des communes L167-3 al. 1 (phr 1) Code des communes L167-1 al. 1
+	  - Code des communes L167-3 al. 1 (phr 1)
 	  - CODE DES COMMUNES. - art. L167-1 (Ab)
 	  - CODE DES COMMUNES. - art. L167-3 (Ab)
 
 	**Nouveaux textes**:
 
 	  - Code général des collectivités territoriales - art. R5214-1-1 (V)
-
-
-###### Article L5214-2
-
-- Sur l'initiative d'un ou de plusieurs conseils municipaux demandant la création d'une communauté de communes, le ou les
-représentants de l'Etat dans le ou les départements concernés fixent par arrêté la liste des communes intéressées.
-
-La communauté de communes est créée par arrêté du représentant de l'Etat dans le département lorsque les communes font partie
-du même département ou par arrêté conjoint des représentants de l'Etat dans les départements concernés dans le cas contraire,
-sur la demande des deux tiers au moins des conseils municipaux des communes intéressées représentant plus de la moitié de la
-population totale de celles-ci ou de la moitié au moins des conseils municipaux des communes comptant les deux tiers de la
-population. Cette majorité doit nécessairement comprendre les conseils municipaux des communes dont la population totale est
-supérieure au quart de la population totale concernée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 35 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-1 al. 2 et 3
-	  - CODE DES COMMUNES. - art. L167-1 (Ab)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L5214-16 (M)
-	  - Code général des collectivités territoriales - art. L5214-18 (Ab)
-	  - Code général des collectivités territoriales - art. L5214-27 (V)
-
-
-###### Article L5214-3
-
-- La décision institutive détermine le siège de la communauté de communes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 35 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-1 al. 4
-	  - CODE DES COMMUNES. - art. L167-1 (Ab)
 
 
 ###### Article L5214-4
@@ -58694,67 +58653,18 @@ La communauté de communes est formée soit sans fixation de terme, soit pour un
 
 ##### Sous-section 1 : Le conseil de la communauté de communes.
 
-###### Article L5214-5
-
-- La communauté de communes est administrée par un conseil composé de délégués des communes adhérentes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-2 al. 1 (phr 1)
-	  - CODE DES COMMUNES. - art. L167-2 (Ab)
-
-
-###### Article L5214-6
-
-- Le conseil de la communauté de communes est institué d'après les règles fixées aux articles L. 5214-7 à L. 5214-13, sauf
-dispositions contraires prévues par la décision institutive.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-5 ecqc L163-4 al. 2
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales L5214-7 à L5214-13
-
-
 ###### Article L5214-7
 
-- La répartition des sièges au sein du conseil de la communauté de communes est assurée en fonction de la population, chaque
-commune disposant au minimum d'un siège, aucune commune ne pouvant disposer de plus de la moitié des sièges.
+Dans un délai de trois mois à compter de la notification de l'arrêté fixant le périmètre de la communauté, le nombre et la
+répartition des sièges au sein du conseil de la communauté de communes sont fixés :
 
-Le nombre et le mode de répartition des sièges sont fixés par décision des deux tiers au moins des conseils municipaux des
-communes intéressées représentant plus des trois quarts de la population totale, cette majorité devant nécessairement
-comprendre les conseils municipaux des communes dont la population totale est supérieure au quart de la population totale
-concernée.
+- soit par accord amiable de l'ensemble des conseils municipaux des communes intéressées ;
+
+- soit en fonction de la population, par décision des conseils municipaux des communes intéressées dans les conditions de
+majorité qualifiée requises pour la création de la communauté de communes.
+
+Dans les deux cas, chaque commune dispose au minimum d'un siège et aucune commune ne peut disposer de plus de la moitié des
+sièges.
 
 La décision institutive ou une décision modificative peut prévoir la désignation d'un ou plusieurs délégués suppléants,
 appelés à siéger au conseil avec voix délibérative en cas d'empêchement du ou des titulaires.
@@ -58763,11 +58673,15 @@ appelés à siéger au conseil avec voix délibérative en cas d'empêchement du
 
 	**Codifié par**:
 
-	  - Loi n°96-142 1996-02-21
+	  - Loi n°96-142 du 21 février 1996
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 15 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 9 (V)
 
 	**Anciens textes**:
 
@@ -58780,15 +58694,10 @@ appelés à siéger au conseil avec voix délibérative en cas d'empêchement du
 	  - Code général des collectivités territoriales - art. L5842-21 (V)
 
 
-###### Article L5214-8
+###### Article L5214-10-1
 
-- Les délégués de chaque commune sont élus au sein du conseil municipal ou parmi les citoyens éligibles au sein du conseil
-d'une des communes de la communauté de communes.
-
-L'élection a lieu au scrutin secret à la majorité absolue ; si, après deux tours de scrutin, aucun candidat n'a obtenu la
-majorité absolue, il est procédé à un troisième tour et l'élection a lieu à la majorité relative.
-
-En cas d'égalité des suffrages, le plus âgé est déclaré élu.
+Les articles L. 2123-3 à L. 2123-5, L. 2123-7 à L. 2123-11 relatifs aux conditions d'exercice du mandat de membre du conseil
+municipal sont applicables aux membres du conseil de la communauté de communes.
 
 **Liens relatifs à cet article**
 
@@ -58798,274 +58707,19 @@ En cas d'égalité des suffrages, le plus âgé est déclaré élu.
 
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 16 ()
 
-	**Abrogé par**:
+	**Transféré par**:
 
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
+	  - Loi n°2002-276 du 27 février 2002 - art. 97 ()
 
-	**Anciens textes**:
+	**Nouveaux textes**:
 
-	  - Code des communes L167-5 ecqc L163-6 al. 1 et 2 et L167-2 al. 1 (phr 2)
-	  - CODE DES COMMUNES. - art. L167-2 (Ab)
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L5832-20 (M)
-	  - Code général des collectivités territoriales - art. L5842-21 (V)
-
-
-###### Article L5214-9
-
-- Sous réserve des dispositions des articles L. 2121-33 et L. 2122-10, les délégués du conseil municipal suivent le sort de
-cette assemblée quant à la durée de leur mandat au conseil de communauté. Toutefois, en cas de suspension, de dissolution du
-conseil municipal ou de démission de tous les membres en exercice, ce mandat est continué jusqu'à la désignation des délégués
-par le nouveau conseil.
-
-Les délégués sortants sont rééligibles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-5 ecqc 163-7
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
+	  - Code général des collectivités territoriales - art. L5214-8 (V)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2121-33 (V)
-	  - Code général des collectivités territoriales - art. L2122-10 (M)
-
-
-###### Article L5214-10
-
-- En cas de vacance parmi les délégués, par suite de décès, démission ou toute autre cause, le conseil municipal pourvoit au
-remplacement dans le délai d'un mois.
-
-Si un conseil néglige ou refuse de désigner les délégués, le maire et le premier adjoint représentent la commune dans le
-conseil de communauté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-5 ecqc L163-8
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
-
-
-##### Sous-section 2 : Le président.
-
-###### Article L5214-11
-
-- Le président est l'organe exécutif de la communauté de communes.
-
-Il prépare et exécute les délibérations du conseil de la communauté.
-
-Il est l'ordonnateur des dépenses et il prescrit l'exécution des recettes de la communauté.
-
-Il est seul chargé de l'administration, mais il peut déléguer par arrêté, sous sa surveillance et sa responsabilité,
-l'exercice d'une partie de ses fonctions aux vice-présidents et, en l'absence ou en cas d'empêchement de ces derniers, à
-d'autres membres du bureau. Il peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de
-signature au directeur et au directeur adjoint dans les communautés de communes dont les compétences, l'importance du budget,
-le nombre et la qualification des agents à encadrer permettent de les assimiler à des communes de plus de 20 000 habitants.
-
-Ces délégations subsistent tant qu'elles ne sont pas rapportées.
-
-Il est le chef des services que la communauté de communes crée.
-
-Il représente la communauté de communes en justice.
-
-**Nota:**
-
-NOTA : Loi 99-586 1999-07-12 art. 111 :
-
-I. - Les dispositions de la deuxième phrase du troisième alinéa de l'article L. 5211-9 du code général des collectivités
-territoriales sont applicables à compter du 1er janvier 2000.
-
-II. - Jusqu'à l'expiration du délai prévu au I, sont maintenues en vigueur, dans leur rédaction en vigueur à la date de
-publication de la présente loi, les dispositions suivantes du code général des collectivités territoriales :
-
-- la dernière phrase du quatrième alinéa de l'article L. 5212-11 ;
-
-- le dernier alinéa de l'article L. 5213-10 ;
-
-- la dernière phrase du quatrième alinéa de l'article L. 5214-11 ;
-
-- le dernier alinéa de l'article L. 5215-14 ;
-
-- le dernier alinéa de l'article L. 5216-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 1999-07-12 art. 36, 111 jorf 13 juillet 1999
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-5 ecqc L163-13-1
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
-
-
-##### Sous-section 3 : Le bureau.
-
-###### Article L5214-12
-
-- Le bureau est composé du président, d'un ou de plusieurs vice-présidents et, éventuellement, d'un ou de plusieurs autres
-membres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-5 ecqc L163-13 al. 1
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
-
-
-###### Article L5214-13
-
-- Le conseil de la communauté de communes peut déléguer une partie de ses attributions au bureau à l'exception :
-
-1° Du vote du budget ;
-
-2° De l'approbation du compte administratif ;
-
-3° Des décisions relatives aux modifications des conditions initiales de composition, de fonctionnement ou de durée de la
-communauté de communes ;
-
-4° De l'adhésion de la communauté à un établissement public ;
-
-5° Des mesures de même nature que celles visées à l'article L. 1612-15 ;
-
-6° De la délégation de la gestion d'un service public.
-
-Lors de chaque réunion du conseil, le président rend compte des travaux du bureau.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. 3 (Ab)
-	  - CODE DES COMMUNES. - art. 4 (Ab)
-	  - CODE DES COMMUNES. - art. 5 (Ab)
-	  - CODE DES COMMUNES. - art. 6 (Ab)
-	  - CODE DES COMMUNES. - art. 7 (Ab)
-	  - Code des communes L167-5 ecqc L163-13 al. 2, 3, 4, 5, 6, 7, 8 et 9
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L1612-15 (V)
-
-
-##### Section 3 : Fonctionnement.
-
-###### Article L5214-14
-
-- Le conseil de la communauté de communes se réunit au moins une fois par trimestre au siège de la communauté ou dans un lieu
-choisi par le conseil dans l'une des communes membres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-5 ecqc L163-12 al. 1
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
-
-
-###### Article L5214-15
-
-- Si le tiers des membres présents ou le président le demande, le conseil de la communauté de communes décide de se former en
-comité secret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-5 ecqc L163-10 al. 2
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
+	  - Code général des collectivités territoriales L2123-3 à L2123-5, L2123-7 à L2123-11
 
 
 ##### Section 4 : Compétences.
@@ -59077,7 +58731,10 @@ d'intérêt communautaire, des compétences relevant de chacun des deux groupes 
 
 1° Aménagement de l'espace ;
 
-2° Actions de développement économique intéressant l'ensemble de la communauté.
+2° Actions de développement économique intéressant l'ensemble de la communauté. Quand la communauté de communes opte pour le
+régime fiscal défini à l'article 1609 nonies C du code général des impôts, l'aménagement, la gestion et l'entretien des zones
+d'activité industrielle, commerciale, tertiaire, artisanale, touristique, portuaire ou aéroportuaire d'intérêt communautaire
+sont inclus dans cette compétence ;
 
 II. - La communauté de communes doit par ailleurs exercer dans les mêmes conditions des compétences relevant d'au moins un
 des quatre groupes suivants :
@@ -59091,8 +58748,14 @@ des quatre groupes suivants :
 4° Construction, entretien et fonctionnement d'équipements culturels et sportifs et d'équipements de l'enseignement
 préélémentaire et élémentaire.
 
-La définition des compétences transférées au sein de chacun des groupes est fixée par la majorité qualifiée requise au second
-alinéa de l'article L. 5214-2.
+III. - La définition des compétences transférées au sein de chacun des groupes est fixée par la majorité qualifiée requise
+pour la création de la communauté. ;
+
+IV. - L'intérêt communautaire des compétences exercées au sein des groupes mentionnés aux I et II est déterminé à la majorité
+qualifiée requise pour la création de la communauté de communes. ;
+
+V. - La communauté de communes peut attribuer des fonds de concours aux communes membres afin de contribuer à la réalisation
+ou au fonctionnement d'équipements d'intérêt commun.
 
 **Liens relatifs à cet article**
 
@@ -59100,9 +58763,9 @@ alinéa de l'article L. 5214-2.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 17 ()
 
 	**Cité par**:
 
@@ -59149,134 +58812,16 @@ alinéa de l'article L. 5214-2.
 	  - Code général des collectivités territoriales - art. L5214-2 (Ab)
 
 
-###### Article L5214-17
-
-- La communauté de communes créée en application de l'article L. 5213-25 conserve l'intégralité des compétences
-antérieurement exercées par le district auquel elle se substitue.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 55 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-4 al. 2 (phr 2)
-	  - CODE DES COMMUNES. - art. L167-4 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5213-25 (Ab)
-
-
-###### Article L5214-18
-
-- Les communes membres de la communauté de communes peuvent à tout moment transférer, en tout ou partie, à cette dernière
-certaines de leurs compétences et les équipements ou services publics utiles à l'exercice de celles-ci.
-
-Les transferts de compétences, d'équipements ou de services publics sont décidés par délibérations concordantes du conseil de
-la communauté de communes et de la majorité qualifiée des conseils municipaux des communes membres définie au second alinéa
-de l'article L. 5214-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-3 al. 10 et 11
-	  - CODE DES COMMUNES. - art. L167-3 (Ab)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 257 (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5214-2 (Ab)
-
-
-###### Article L5214-19
-
-- L'acte institutif ou les délibérations ultérieures qui procèdent à des transferts de compétences déterminent les conditions
-financières et patrimoniales de ces transferts ainsi que l'affectation des personnels.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-3 al. 12
-	  - CODE DES COMMUNES. - art. L167-3 (Ab)
-
-
-###### Article L5214-20
-
-- Les décisions du conseil de la communauté de communes dont les effets ne concernent qu'une seule des communes membres ne
-peuvent être prises qu'après avis du conseil municipal de cette commune. S'il n'a pas été rendu dans le délai de deux mois à
-compter de la transmission du projet de la communauté, l'avis est réputé favorable. Lorsque cet avis est défavorable, la
-décision doit être prise à la majorité des deux tiers des membres du conseil de la communauté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 47 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L167-3-1 (Ab)
-
-
 ###### Article L5214-21
 
 - Lorsque des communes ont décidé de créer une communauté de communes et que ces mêmes communes, à l'exclusion de toute
-autre, étaient antérieurement associées dans un syndicat de communes ou un district, la communauté de communes ainsi créée
-est substituée de plein droit à ces syndicats de communes ou à ces districts.
+autre, étaient antérieurement associées dans un syndicat de communes, la communauté de communes ainsi créée est substituée de
+plein droit à ces syndicats de communes pour la totalité des compétences qu'ils exercent.
 
-Pour l'exercice de ses compétences, la communauté de communes est également substituée aux communes qui en font partie
-lorsque celles-ci sont groupées avec des communes extérieures à la communauté.
-
-Cette dernière disposition ne modifie pas les attributions des syndicats de communes ou des districts intéressés ; elle ne
-modifie pas non plus le périmètre dans lequel ces établissements publics exercent leurs compétences.
+Pour l'exercice de ses compétences, la communauté de communes est également substituée aux communes qui en sont membres
+lorsque celles-ci sont groupées avec des communes extérieures à la communauté dans un syndicat de communes, lequel devient un
+syndicat mixte au sens de l'article L. 5711-1. Ni les attributions du syndicat ni le périmètre dans lequel il exerce ses
+compétences ne sont modifiés.
 
 **Liens relatifs à cet article**
 
@@ -59284,9 +58829,10 @@ modifie pas non plus le périmètre dans lequel ces établissements publics exer
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 1999-07-12 art. 18, 24? 55 jorf 13 juillet 1999
+	  - Loi n°99-586 du 12 juillet 1999 - art. 18 ()
 
 	**Anciens textes**:
 
@@ -59303,12 +58849,16 @@ modifie pas non plus le périmètre dans lequel ces établissements publics exer
 	  - Code général des collectivités territoriales - art. L5721-2 (VD)
 	  - Code général des collectivités territoriales - art. L5832-20 (VT)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5711-1 (M)
+
 
 ###### Article L5214-22
 
-- Un décret en Conseil d'Etat fixe les conditions dans lesquelles peuvent être dévolues à une communauté de communes des
-compétences exercées antérieurement par un syndicat de communes ou un district, inclus en tout ou partie dans le périmètre de
-la communauté ou englobant celle-ci.
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles peuvent être dévolues à une communauté de communes des
+compétences exercées antérieurement par un syndicat de communes inclus en tout ou partie dans le périmètre de la communauté
+ou englobant celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -59316,9 +58866,9 @@ la communauté ou englobant celle-ci.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 55 ()
 
 	**Anciens textes**:
 
@@ -59381,97 +58931,77 @@ compétente pour l'organisation des transports urbains.
 	  - Code général des impôts, CGI. - art. 1379-0 bis (VD)
 
 
+###### Article L5214-23-1
+
+Les communautés de communes faisant application des dispositions de l'article 1609 nonies C du code général des impôts dont
+la population est comprise entre 3 500 habitants et 50 000 habitants au plus ou bien, lorsqu'elle est supérieure à 50 000
+habitants, n'inclut pas de commune centre ou de commune chef-lieu de département de plus de 15 000 habitants, sont éligibles
+à la dotation prévue au neuvième alinéa de l'article L. 5211-29 lorsqu'elles exercent au moins quatre des cinq groupes de
+compétences suivants :
+
+1° En matière de développement économique : aménagement, entretien et gestion de zones d'activité industrielle, commerciale,
+tertiaire, artisanale ou touristique qui sont d'intérêt communautaire ; actions de développement économique ;
+
+2° En matière d'aménagement de l'espace communautaire : schéma directeur et schéma de secteur ; aménagement rural ; zones
+d'aménagement concerté d'intérêt communautaire ;
+
+3° Création ou aménagement et entretien de voirie d'intérêt communautaire ;
+
+4° Politique du logement social d'intérêt communautaire et action, par des opérations d'intérêt communautaire, en faveur du
+logement des personnes défavorisées ;
+
+5° Elimination et valorisation des déchets des ménages et déchets assimilés.
+
+L'éligibilité à la dotation précitée est constatée à la date à laquelle la communauté de communes remplit l'ensemble des
+conditions requises, par arrêté du représentant de l'Etat dans le département lorsque les communes font partie du même
+département ou par arrêté conjoint des représentants de l'Etat dans les départements concernés dans le cas contraire.
+
+III. - La liste des communautés de communes existant à la date de publication de la présente loi qui remplissent l'ensemble
+des conditions prévues à l'article L. 5214-23-1 du code général des collectivités territoriales est dressée par arrêté du
+représentant de l'Etat dans le département avant le 31 décembre de l'année de cette publication.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies C
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 17 ()
+
+	**Cité par**:
+
+	  - Décret n°99-1106 du 21 décembre 1999 - art. 1 (Ab)
+	  - Code général des collectivités territoriales - art. D5842-2 (V)
+	  - Code général des collectivités territoriales - art. L5211-29 (V)
+	  - Code général des collectivités territoriales - art. L5211-30 (V)
+	  - Code général des collectivités territoriales - art. L5211-41-1 (V)
+	  - Code général des collectivités territoriales - art. L5214-23-1 (M)
+	  - Code général des collectivités territoriales - art. L5215-40-1 (V)
+	  - Code général des collectivités territoriales - art. L5216-10 (V)
+	  - Code général des collectivités territoriales - art. L5832-20 (VT)
+	  - Code général des collectivités territoriales - art. R5211-2 (Ab)
+
+
 ##### Section 6 : Modifications des conditions initiales de composition et de fonctionnement de la communauté de communes
-
-##### Sous-section 1 : Admission de nouvelles communes.
-
-###### Article L5214-24
-
-- Des communes autres que celles primitivement associées peuvent être admises à faire partie de la communauté de communes
-avec le consentement du conseil de la communauté. La délibération du conseil de la communauté doit être notifiée aux maires
-de chacune des communes associées.
-
-Le maire de chacune des communes intéressées doit obligatoirement, dans le délai de quarante jours à compter de cette
-notification, consulter le conseil municipal.
-
-La décision d'admission est prise par le représentant de l'Etat dans le département.
-
-Elle ne peut, toutefois, intervenir si plus d'un tiers des conseils municipaux s'oppose à l'admission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-5 ecqc L163-15
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
-
-
-##### Sous-section 2 : Modification des règles de fonctionnement.
-
-###### Article L5214-25
-
-- Le conseil de communauté délibère sur la modification des conditions initiales de fonctionnement ou de durée de la
-communauté de communes.
-
-La délibération du conseil de communauté est notifiée aux maires de chacune des communes associées.
-
-Les conseils municipaux doivent obligatoirement être consultés dans un délai de quarante jours à compter de cette
-notification.
-
-La décision de modification est toutefois subordonnée à l'accord des conseils municipaux des deux tiers au moins des communes
-intéressées représentant plus de la moitié de la population totale de celles-ci, ou de la moitié des communes intéressées
-représentant plus des deux tiers de la population. Cette majorité doit nécessairement comprendre les conseils municipaux des
-communes dont la population totale est supérieure au quart de la population totale concernée.
-
-La décision de modification est prise par le représentant de l'Etat dans le département.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L167-5 ecqc L163-17
-	  - CODE DES COMMUNES. - art. L167-5 (Ab)
-
 
 ##### Sous-section 3 : Retrait de communes.
 
 ###### Article L5214-26
 
-- Une commune peut se retirer de la communauté de communes avec le consentement du conseil de communauté. Celui-ci fixe, en
-accord avec le conseil municipal intéressé, les conditions auxquelles s'opère le retrait.
+Par dérogation à l'article L. 5211-19, une commune peut être autorisée, par le représentant de l'Etat dans le département
+après avis de la commission départementale de la coopération intercommunale réunie dans la formation prévue au second alinéa
+de l'article L. 5211-45, à se retirer d'une communauté de communes pour adhérer à un autre établissement public de
+coopération intercommunale à fiscalité propre dont le conseil communautaire a accepté la demande d'adhésion. L'avis de la
+commission départementale de la coopération intercommunale est réputé négatif s'il n'a pas été rendu à l'issue d'un délai de
+deux mois.
 
-La délibération du conseil de communauté est notifiée aux maires de chacune des communes associées.
-
-Le maire de chacune des communes intéressées doit obligatoirement, dans le délai de quarante jours à compter de cette
-notification, consulter le conseil municipal.
-
-La décision de retrait est prise par le représentant de l'Etat dans le département.
-
-Elle ne peut, toutefois, intervenir si plus d'un tiers des conseils municipaux s'oppose au retrait.
+Ce retrait s'effectue dans les conditions fixées par l'article L. 5211-25-1.
 
 **Liens relatifs à cet article**
 
@@ -59479,9 +59009,9 @@ Elle ne peut, toutefois, intervenir si plus d'un tiers des conseils municipaux s
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 19 ()
 
 	**Cité par**:
 
@@ -59499,6 +59029,11 @@ Elle ne peut, toutefois, intervenir si plus d'un tiers des conseils municipaux s
 	  - Code des communes L167-5 ecqc L163-16
 	  - CODE DES COMMUNES. - art. L167-5 (Ab)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-19 (M)
+	  - Code général des collectivités territoriales - art. L5211-25-1 (M)
+
 
 ##### Sous-section 4 : Adhésion de la communauté de communes à un établissement public de coopération intercommunale.
 
@@ -59506,7 +59041,7 @@ Elle ne peut, toutefois, intervenir si plus d'un tiers des conseils municipaux s
 
 - A moins de dispositions contraires, confirmées par la décision institutive, l'adhésion de la communauté de communes à un
 établissement public de coopération intercommunale est subordonnée à l'accord des conseils municipaux des communes membres de
-la communauté de communes, donné dans les conditions de majorité prévues au second alinéa de l'article L. 5214-2.
+la communauté de communes, donné dans les conditions de majorité qualifiée requises pour la création de la communauté.
 
 **Liens relatifs à cet article**
 
@@ -59514,9 +59049,9 @@ la communauté de communes, donné dans les conditions de majorité prévues au 
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 35 ()
 
 	**Anciens textes**:
 
@@ -59532,21 +59067,25 @@ la communauté de communes, donné dans les conditions de majorité prévues au 
 
 ###### Article L5214-28
 
-- La communauté de communes est dissoute :
+La communauté de communes est dissoute : 
 
-a) Soit de plein droit à l'expiration de la durée fixée par la décision institutive ;
+a) Soit de plein droit à l'expiration de la durée fixée par la décision institutive ; 
 
-b) Soit par le consentement de tous les conseils municipaux intéressés.
+b) Soit par le consentement de tous les conseils municipaux intéressés. 
 
-Elle peut être dissoute :
+Elle peut être dissoute : 
 
-a) Soit sur la demande motivée de la majorité de ces conseils municipaux et l'avis du bureau du conseil général par arrêté du
-ou des représentants de l'Etat dans le ou les départements concernés ;
+a) Soit sur la demande motivée de la majorité de ces conseils municipaux par arrêté du ou des représentants de l'Etat dans le
+ou les départements concernés ; 
 
-b) Soit d'office par un décret rendu sur l'avis conforme du conseil général et du Conseil d'Etat.
+b) Soit, lorsque la communauté de communes a opté pour le régime fiscal défini à l'article 1609 nonies C du code général des
+impôts, sur la demande des conseils municipaux dans les conditions de majorité requises pour la création par arrêté du ou des
+représentants de l'Etat dans le ou les départements concernés ; 
 
-L'arrêté ou le décret de dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles la
-communauté de communes est liquidée.
+c) Soit d'office par un décret rendu sur l'avis conforme du conseil général et du Conseil d'Etat.
+
+L'arrêté ou le décret de dissolution détermine, dans le respect des dispositions de l'article L. 5211-25-1 et sous la réserve
+des droits des tiers, les conditions dans lesquelles la communauté de communes est liquidée. 
 
 La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions administratives
 paritaires compétentes. Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un
@@ -59559,9 +59098,14 @@ financières correspondantes.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 20 ()
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies C (V)
+	  - Code général des collectivités territoriales - art. L5211-25-1 (V)
 
 	**Anciens textes**:
 
@@ -59609,18 +59153,19 @@ représentants de l'Etat dans le ou les départements concernés après avis des
 
 ###### Article L5215-1
 
-- La communauté urbaine est un établissement public de coopération intercommunale regroupant plusieurs communes d'une
-agglomération de plus de 20 000 habitants.
+La communauté urbaine est un établissement public de coopération intercommunale regroupant plusieurs communes d'un seul
+tenant et sans enclave qui forment, à la date de sa création, un ensemble de plus de 500 000 habitants et qui s'associent au
+sein d'un espace de solidarité, pour élaborer et conduire ensemble un projet commun de développement urbain et d'aménagement
+de leur territoire. 
+
+Ces conditions ne sont pas exigées pour les communautés urbaines existant à la date de publication de la loi n° 99-586 du 12
+juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 	**Cité par**:
 
@@ -59639,72 +59184,17 @@ agglomération de plus de 20 000 habitants.
 	  - Code général des collectivités territoriales - art. L5215-20-1 (VT)
 	  - Code général des collectivités territoriales - art. R5211-3 (V)
 
+	**Cite**:
+
+	  - Loi n°99-586 du 12 juillet 1999 (V)
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 5 ()
+
 	**Anciens textes**:
 
 	  - Code des communes L165-4 al. 1
-	  - CODE DES COMMUNES. - art. L165-4 (Ab)
-
-
-###### Article L5215-2
-
-- Sur l'initiative d'un ou de plusieurs conseils municipaux demandant la création d'une communauté urbaine, le ou les
-représentants de l'Etat dans le ou les départements concernés fixent par arrêté la liste des communes intéressées.
-
-La communauté urbaine peut être créée par arrêté du représentant de l'Etat dans le département lorsque les communes font
-partie du même département ou par arrêté conjoint des représentants de l'Etat dans les départements concernés dans le cas
-contraire, sur la demande des deux tiers au moins des conseils municipaux des communes intéressées représentant plus de la
-moitié de la population totale de celles-ci ou de la moitié des conseils municipaux des communes comptant les deux tiers de
-la population. Cette majorité doit comprendre le conseil municipal de la commune dont la population est supérieure à la
-moitié de la population totale concernée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 35 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L165-4 al. 2 et 3
-	  - CODE DES COMMUNES. - art. L165-4 (Ab)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L5215-20 (M)
-	  - Code général des collectivités territoriales - art. L5215-21 (M)
-	  - Code général des collectivités territoriales - art. L5215-41 (Ab)
-	  - Code général des collectivités territoriales - art. L5215-42 (M)
-
-
-###### Article L5215-3
-
-- La décision institutive détermine le siège de la communauté urbaine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 35 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L165-4 al. 4
 	  - CODE DES COMMUNES. - art. L165-4 (Ab)
 
 
@@ -59732,75 +59222,16 @@ La communauté urbaine est créée sans limitation de durée.
 
 ##### Sous-section 1 : Le conseil de communauté.
 
-###### Article L5215-5
-
-- La communauté urbaine est administrée par un conseil composé de délégués des communes membres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L165-24 al. 1
-	  - CODE DES COMMUNES. - art. L165-24 (Ab)
-
-
 ###### Article L5215-6
 
-- Le conseil de communauté est composé de délégués des communes, dont le nombre est fixé conformément au tableau ci-dessous:
+Le conseil de communauté est composé de délégués des communes, dont le nombre est fixé dans un délai de trois mois à compter
+de la notification de l'arrêté déterminant le périmètre de la communauté, soit par accord amiable de l'ensemble des conseils
+municipaux des communes, soit conformément au tableau ci-dessous:
 
-(A) NOMBRE de communes
+[tableau non reproduit]
 
-(B) POPULATION MUNICIPALE TOTALE de l'agglomération
-
-(a) 200 000 et plus
-
-(b) 200 001 à 600 000
-
-(c) 600 001 à 1 000 000
-
-(d) Plus de 1 000 000
-
-<table>
-  <tbody><tr>
-    <td> :============:=======================:</td>
-  </tr>
-  <tr>
-    <td> :            :         B             :</td>
-  </tr>
-  <tr>
-    <td> :      A     :=====:=====:=====:=====:</td>
-  </tr>
-  <tr>
-    <td> :            : (a) : (b) : (c) : (d) :</td>
-  </tr>
-  <tr>
-    <td> :============:=====:=====:=====:=====:</td>
-  </tr>
-  <tr>
-    <td> : 20 au plus :  50 : 80  : 90  : 120 :</td>
-  </tr>
-  <tr>
-    <td> : De 21 à 50 :  70 : 90  : 120 : 140 :</td>
-  </tr>
-  <tr>
-    <td> : Plus de 50 :  90 : 120 : 140 : 155 :</td>
-  </tr>
-  <tr>
-    <td> :====================================:</td>
-  </tr>
-</tbody></table>
+Dans les communautés urbaines qui comportent plus de soixante-dix-sept communes, le nombre de délégués est égal à deux fois
+le nombre de communes représentées.
 
 **Liens relatifs à cet article**
 
@@ -59808,9 +59239,9 @@ La communauté urbaine est créée sans limitation de durée.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 10 ()
 
 	**Cité par**:
 
@@ -59828,7 +59259,8 @@ La communauté urbaine est créée sans limitation de durée.
 
 ###### Article L5215-7
 
-- La répartition des sièges est établie selon les modalités suivantes :
+- La répartition des sièges est établie dans le délai fixé à l'article L. 5215-6, soit par accord amiable de l'ensemble des
+conseils municipaux des communes, soit selon les modalités suivantes :
 
 a) Un siège est attribué à chaque commune membre de la communauté ;
 
@@ -59845,9 +59277,9 @@ précédente.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 10 ()
 
 	**Anciens textes**:
 
@@ -59896,41 +59328,22 @@ urbaine entraînent la suppression d'une ou plusieurs communes ou la création d
 	  - Code général des collectivités territoriales - art. L5215-6
 
 
-###### Article L5215-9
-
-- Les délégués des communes au conseil de communauté sont désignés par chaque conseil municipal en son sein. Toutefois, au
-cas où le nombre des conseillers municipaux est inférieur au nombre de sièges attribués à la commune, le conseil municipal
-peut désigner tout citoyen éligible au conseil municipal de la commune pour occuper les sièges qui ne peuvent être pourvus
-par des conseillers municipaux.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L165-24 al. 3
-	  - CODE DES COMMUNES. - art. L165-24 (Ab)
-
-
 ###### Article L5215-10
 
 - L'élection des délégués s'effectue selon les modalités suivantes :
 
 1° S'il n'y a qu'un délégué, est appliquée la procédure prévue au dernier alinéa de l'article L. 2121-21 ;
 
-2° Dans les autres cas, l'élection s'effectue au scrutin de liste sans panachage ni vote préférentiel ; la répartition des
-sièges entre les listes est opérée selon les règles de la représentation proportionnelle à la plus forte moyenne.
+2° Dans les autres cas, les délégués des communes au conseil de la communauté sont élus au scrutin de liste à un tour, sans
+adjonction ni suppression de noms et sans modification de l'ordre de présentation. La répartition des sièges entre les listes
+est opérée selon les règles de la représentation proportionnelle à la plus forte moyenne. En cas de vacance, pour quelque
+cause que ce soit, le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le délégué élu
+sur cette liste. Lorsque ces dispositions ne peuvent être appliquées, il est procédé à une nouvelle élection de l'ensemble
+des délégués de la commune au conseil de la communauté.
+
+La constatation, par la juridiction administrative, de l'inéligibilité d'un ou plusieurs candidats au conseil de la
+communauté n'entraîne l'annulation de l'élection que du ou des élus inéligibles. La juridiction saisie proclame en
+conséquence l'élection du ou des suivants de liste.
 
 **Liens relatifs à cet article**
 
@@ -59938,9 +59351,9 @@ sièges entre les listes est opérée selon les règles de la représentation pr
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 11 ()
 
 	**Anciens textes**:
 
@@ -59954,161 +59367,6 @@ sièges entre les listes est opérée selon les règles de la représentation pr
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L5211-7 (V)
-
-
-###### Article L5215-11
-
-- Les conditions d'éligibilité, les inéligibilités et les incompatibilités applicables aux membres du conseil de communauté
-sont celles que prévoient pour les élections au conseil municipal les articles L. 44 à L. 46 et L. 228 à L. 239 du code
-électoral.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L165-32 al. 1
-	  - CODE DES COMMUNES. - art. L165-32 (Ab)
-
-	**Cite**:
-
-	  - Code électoral L44 à L46, L228 à L239
-
-
-###### Article L5215-12
-
-- Le mandat des membres du conseil de communauté expire lors de l'installation du conseil de communauté suivant le
-renouvellement général des conseils municipaux.
-
-A partir de l'installation du conseil, les fonctions de président sont assurées par le doyen d'âge jusqu'à l'élection du
-président du conseil de communauté.
-
-En cas de suspension, de dissolution ou de démission des membres en exercice d'un conseil municipal, le mandat des délégués
-est prorogé jusqu'à la désignation des nouveaux délégués.
-
-En cas de vacance parmi les membres du conseil de communauté, par suite de décès, de démission ou toute autre cause, il est
-pourvu au remplacement dans le délai de deux mois.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. 3 (Ab)
-	  - Code des communes L165-32 al. 2, 3, 4 et 5
-	  - CODE DES COMMUNES. - art. L165-32 (Ab)
-
-
-###### Article L5215-13
-
-- Dans les cas de substitution de plein droit d'une communauté urbaine à un district, les communes qui n'ont pas désigné
-leurs représentants au conseil de communauté dans un délai de trente jours à compter de la création de la communauté sont
-réprésentées par leur maire jusqu'à ce qu'elles aient procédé à cette désignation. Le conseil de communauté est réputé
-complet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 55 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L165-7-2 (Ab)
-
-
-##### Sous-section 2 : Le président.
-
-###### Article L5215-14
-
-- Indépendamment de ses pouvoirs propres, le président assure l'exécution des décisions du conseil de communauté et
-représente la communauté urbaine dans les actes de la vie civile.
-
-Il peut, sous sa responsabilité, déléguer une partie de ses fonctions à un ou plusieurs des vice-présidents ou, en cas
-d'empêchement de ces derniers, à des membres du conseil de communauté.
-
-Il peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature au directeur et au
-directeur adjoint de la communauté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L165-34 (M)
-	  - CODE DES COMMUNES. - art. L165-34 (Ab)
-
-
-##### Sous-section 3 : Le bureau.
-
-###### Article L5215-15
-
-- Le bureau du conseil de communauté comprend le président et des vice-présidents.
-
-Le nombre de vice-présidents est librement déterminé par le conseil de communauté, sans que ce nombre puisse excéder 30% de
-l'effectif légal du conseil.
-
-Le mandat des membres du bureau prend fin en même temps que celui des membres du conseil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 36 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L165-33 al 1, 2 et 4
-	  - CODE DES COMMUNES. - art. L165-33 (Ab)
 
 
 ##### Sous-section 4 : Conditions d'exercice du mandat de membre du conseil de communauté.
@@ -60196,15 +59454,18 @@ puissent excéder 25 p. 100 du montant total des indemnités versées chaque ann
 
 Le président du conseil de communauté est l'ordonnateur des dépenses susmentionnées.
 
+L'élu responsable de chaque groupe d'élus décide des conditions et des modalités d'exécution du service confié que ces
+collaborateurs accomplissent auprès de ces groupes au sein de l'organe délibérant.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 du 21 février 1996 - art. 1 (V)
+	  - Loi n°99-586 du 12 juillet 1999 - art. 76 ()
 
 	**Cité par**:
 
@@ -60240,48 +59501,78 @@ urbaine.
 
 ###### Article L5215-20
 
-- Sont transférées à la communauté urbaine les compétences attribuées aux communes dans les domaines suivants :
+I. - La communauté urbaine exerce de plein droit, au lieu et place des communes membres, les compétences suivantes :
 
-1° Chartes intercommunales de développement et d'aménagement, schémas directeurs, plans d'occupation des sols ou documents
-d'urbanisme en tenant lieu, programmes locaux de l'habitat, constitution de réserves foncières intéressant la communauté, les
-conseils municipaux devant être saisis pour avis ;
+1° En matière de développement et d'aménagement économique, social et culturel de l'espace communautaire :
 
-2° Création et réalisation de zones d'aménagement concerté ; actions de développement économique ; création et équipement des
-zones d'activité industrielle, tertiaire, artisanale, touristique, portuaire ou aéroportuaire ; actions de réhabilitation
-d'intérêt communautaire ;
+a) Création, aménagement, entretien et gestion de zones d'activité industrielle, commerciale, tertiaire, artisanale,
+touristique, portuaire ou aéroportuaire ;
 
-3° Prise en considération d'un programme d'aménagement d'ensemble et détermination de secteurs d'aménagement mentionnés à
-l'article L. 332-9 du code de l'urbanisme ;
+b) Actions de développement économique ;
 
-4° Construction, aménagement et entretien des locaux scolaires dans les zones et secteurs mentionnées aux 2° et 3° et
-réalisés ou déterminés par la communauté ; à l'expiration d'un délai de dix ans à dater de leur mise en service, la propriété
-et l'entretien de ces locaux sont transférés, sur sa demande, à la commune sur le territoire de laquelle ils sont situés ; en
-ce cas, les conditions de prise en charge des annuités d'emprunt afférentes à ces locaux sont déterminées par délibérations
-concordantes du conseil de communauté et du conseil municipal intéressé ;
+c) Construction ou aménagement, entretien, gestion et animation d'équipements, de réseaux d'équipements ou d'établissements
+culturels, socioculturels, socio-éducatifs, sportifs, lorsqu'ils sont d'intérêt communautaire ;
 
-5° Services d'incendie et de secours sous réserve des dispositions du chapitre IV du titre II du livre IV de la première
+d) Lycées et collèges dans les conditions fixées au chapitre Ier de la section 2 du titre II de la loi n° 83-663 du 22
+juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les
+départements, les régions et l'Etat ;
+
+2° En matière d'aménagement de l'espace communautaire :
+
+a) Schéma directeur et schéma de secteur ; plan d'occupation des sols et documents d'urbanisme en tenant lieu ; création et
+réalisation de zones d'aménagement concerté d'intérêt communautaire ; et après avis des conseils municipaux, constitution de
+réserves foncières d'intérêt communautaire ;
+
+b) Organisation des transports urbains au sens du chapitre II du titre II de la loi n° 82-1153 du 30 décembre 1982
+d'orientation des transports intérieurs, sous réserve des dispositions de l'article 46 de cette loi ; création ou aménagement
+et entretien de voirie ; signalisation ; parcs de stationnement ;
+
+c) Prise en considération d'un programme d'aménagement d'ensemble et détermination des secteurs d'aménagement au sens du code
+de l'urbanisme ;
+
+3° En matière d'équilibre social de l'habitat sur le territoire communautaire :
+
+a) Programme local de l'habitat ;
+
+b) Politique du logement d'intérêt communautaire ; politique du logement social ; action en faveur du logement des personnes
+défavorisées par des opérations d'intérêt communautaire ;
+
+c) Opérations programmées d'amélioration de l'habitat, actions de réhabilitation et résorption de l'habitat insalubre,
+lorsqu'elles sont d'intérêt communautaire ;
+
+4° En matière de politique de la ville dans la communauté :
+
+a) Dispositifs contractuels de développement urbain, de développement local et d'insertion économique et sociale ;
+
+b) Dispositifs locaux de prévention de la délinquance ;
+
+5° En matière de gestion des services d'intérêt collectif :
+
+a) Assainissement et eau ;
+
+b) Création et extension des cimetières créés, crématoriums ;
+
+c) Abattoirs, abattoirs marchés et marchés d'intérêt national ;
+
+d) Services d'incendie et de secours, dans les conditions fixées au chapitre IV du titre II du livre IV de la première
 partie ;
 
-6° Transports urbains de voyageurs ;
+6° En matière de protection et mise en valeur de l'environnement et de politique du cadre de vie :
 
-7° Lycées et collèges ;
+a) Elimination et valorisation des déchets des ménages et déchets assimilés ;
 
-8° Eau, assainissement, à l'exclusion de l'hydraulique agricole, ordures ménagères ;
+b) Lutte contre la pollution de l'air ;
 
-9° Création de cimetières et extension des cimetières ainsi créés, crématoriums ;
+c) Lutte contre les nuisances sonores.
 
-10° Abattoirs, abattoirs marchés, marchés d'intérêt national ;
+Lorsque l'exercice des compétences mentionnées au présent paragraphe est subordonné à la reconnaissance de leur intérêt
+communautaire, cet intérêt est déterminé à la majorité des deux tiers du conseil de la communauté urbaine.
 
-11° Voirie et signalisation ;
+II. - La communauté urbaine peut transférer certaines de ses compétences à un syndicat mixte dont le périmètre inclut en
+totalité le périmètre communautaire après création du syndicat ou adhésion de la communauté.
 
-12° Parcs de stationnement.
-
-Lors de la création de la communauté, les communes peuvent décider, dans les conditions de majorité prévues au second alinéa
-de l'article L. 5215-2, d'exclure des compétences de la communauté tout ou partie de celles relatives aux équipements ou
-opérations mentionnés aux 2°, 3°, 9°, 11° et 12° ci-dessus, lorsque ces équipements ou ces opérations sont principalement
-destinés aux habitants d'une commune.
-
-Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions et les modalités d'application du présent article.
+III. - Par convention passée avec le département, une communauté urbaine peut exercer pour le département tout ou partie des
+compétences d'aide sociale que celui-ci lui confie.
 
 **Liens relatifs à cet article**
 
@@ -60291,7 +59582,7 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions et 
 
 	**Modifié par**:
 
-	  - Loi n°96-369 du 3 mai 1996 - art. 52 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 5 () JORF 13 juillet 1999
 
 	**Cité par**:
 
@@ -60308,34 +59599,76 @@ Un décret en Conseil d'Etat précise, en tant que de besoin, les conditions et 
 	  - Code général des collectivités territoriales - art. L5215-21 (M)
 	  - Code général des collectivités territoriales - art. L5215-22 (VD)
 
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5215-2 (Ab)
-	  - Code de l'urbanisme - art. L332-9 (M)
-
 	**Anciens textes**:
 
 	  - Loi n°66-1069-1966-12-31 art. 8 ecqc L165-7 al. 1, 2, 3, 4, 5, 6, 7 8, 9, 10, 11, 12, 13 et 15 du Code des communes
 
 
-##### Sous-section 3 : Transferts de compétences.
+###### Article L5215-20-1
 
-###### Article L5215-21
+I. - Les communautés urbaines existant à la date de promulgation de la loi n° 99-586 du 12 juillet 1999 relative au
+renforcement et à la simplification de la coopération intercommunale continuent d'exercer à titre obligatoire, au lieu et
+place des communes membres, les compétences suivantes :
 
-- La communauté urbaine est substituée de plein droit, et pour la totalité des compétences qu'il exerce, au district
-préexistant constitué entre toutes les communes composant la communauté.
+1° Chartes intercommunales de développement et d'aménagement, schémas directeurs, plans d'occupation des sols ou documents
+d'urbanisme en tenant lieu, programmes locaux de l'habitat, constitution de réserves foncières intéressant la communauté, les
+conseils municipaux devant être saisis pour avis ;
 
-La même règle s'applique lorsque la communauté urbaine comprend des communes extérieures au district préexistant, sous
-réserve que cette extension de périmètre n'ait pas pour effet d'augmenter de plus de 10 p. 100 la population totale du
-district préexistant, calculée dans les conditions définies à l'article L. 2334-2.
+2° Création et réalisation de zones d'aménagement concerté ; actions de développement économique ; création et équipement des
+zones d'activité industrielle, tertiaire, artisanale, touristique, portuaire ou aéroportuaire ; actions de réhabilitation
+d'intérêt communautaire ;
 
-Toutefois, les communes membres peuvent décider, dans les conditions de majorité prévues au second alinéa de l'article L.
-5215-2, d'exclure des compétences de la communauté urbaine tout ou partie des compétences exercées par le district, à
-l'exception de celles qui sont énumérées aux 1°, 4°, 5°, 6°, 7°, 8° et 10° de l'article L. 5215-20.
+3° Prise en considération d'un programme d'aménagement d'ensemble et détermination de secteurs d'aménagement mentionnés à
+l'article L. 332-9 du code de l'urbanisme ;
 
-Dans ce cas, les compétences exclues de celles de la communauté urbaine sont restituées aux communes.
+4° Construction, aménagement et entretien des locaux scolaires dans les zones et secteurs mentionnés aux 2° et 3° et réalisés
+ou déterminés par la communauté ; à l'expiration d'un délai de dix ans à dater de leur mise en service, la propriété et
+l'entretien de ces locaux sont transférés, sur sa demande, à la commune sur le territoire de laquelle ils sont situés ; en ce
+cas, les conditions de prise en charge des annuités d'emprunt afférentes à ces locaux sont déterminées par délibérations
+concordantes du conseil de communauté et du conseil municipal intéressé ;
+
+5° Services d'incendie et de secours, sous réserve des dispositions du chapitre IV du titre II du livre IV de la première
+partie ;
+
+6° Transports urbains de voyageurs ;
+
+7° Lycées et collèges ;
+
+8° Eau, assainissement, à l'exclusion de l'hydraulique agricole, ordures ménagères ;
+
+9° Création de cimetières et extension des cimetières ainsi créés, crématoriums ;
+
+10° Abattoirs, abattoirs marchés, marchés d'intérêt national ;
+
+11° Voirie et signalisation ;
+
+12° Parcs de stationnement.
+
+Ces compétences peuvent toutefois ne pas inclure tout ou partie des compétences mentionnées aux 2°, 3°, 9°, 11° et 12° pour
+les équipements ou opérations principalement destinés aux habitants d'une commune, s'il en a été décidé ainsi lors de la
+création de la communauté ou postérieurement à celle-ci selon les règles de majorité qualifiée requises pour cette création.
+
+II. - Les communautés urbaines existant à la date de promulgation de la loi n° 99-586 du 12 juillet 1999 précitée continuent
+d'exercer dans les conditions de droit commun, au lieu et place des communes membres, les compétences qui leur ont été
+antérieurement librement transférées par les communes membres.
+
+III. - Le conseil des communautés urbaines visées au I et les conseils municipaux des communes membres peuvent décider
+l'élargissement des compétences de la communauté à l'ensemble des compétences définies au I de l'article L. 5215-20, sous
+réserve qu'elles remplissent les conditions fixées au premier alinéa de l'article L. 5215-1.
+
+Cet élargissement est acquis par délibérations concordantes du conseil de communauté et d'au moins la moitié des conseils
+municipaux des communes membres représentant plus de la moitié de la population totale de la communauté. Il emporte
+perception de la taxe professionnelle dans les conditions fixées au 1° du I de l'article 1609 bis du code général des impôts.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 bis
+	  - Loi n°99-586 1999-07-12
+	  - Code général des collectivités territoriales - art. L5215-1 (M)
+	  - Code général des collectivités territoriales - art. L5215-20 (M)
+	  - Code de l'urbanisme - art. L332-9 (M)
 
 	**Codifié par**:
 
@@ -60343,7 +59676,38 @@ Dans ce cas, les compétences exclues de celles de la communauté urbaine sont r
 
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 6 () JORF 13 juillet 1999
+
+	**Cité par**:
+
+	  - Loi n°2002-306 du 4 mars 2002 - art. 9 (V)
+	  - Code du tourisme. - art. L134-1 (V)
+	  - Code du tourisme. - art. L134-1-1 (M)
+	  - Code général des collectivités territoriales - art. L5215-23 (V)
+
+
+##### Sous-section 3 : Transferts de compétences.
+
+###### Article L5215-21
+
+La communauté urbaine est substituée de plein droit au syndicat de communes préexistant dont le périmètre est identique au
+sien, pour la totalité des compétences qu'il exerce. 
+
+La communauté urbaine est également substituée de plein droit, pour les compétences qu'elle exerce, au syndicat de communes
+préexistant inclus en totalité dans son périmètre. 
+
+La substitution de la communauté urbaine au syndicat de communes s'effectue dans les conditions prévues au deuxième alinéa de
+l'article L. 5211-41.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 8 ()
 
 	**Anciens textes**:
 
@@ -60352,9 +59716,7 @@ Dans ce cas, les compétences exclues de celles de la communauté urbaine sont r
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2334-2 (M)
-	  - Code général des collectivités territoriales - art. L5215-2 (Ab)
-	  - Code général des collectivités territoriales - art. L5215-20 (M)
+	  - Code général des collectivités territoriales - art. L5211-41 (V)
 
 	**Cité par**:
 
@@ -60364,22 +59726,46 @@ Dans ce cas, les compétences exclues de celles de la communauté urbaine sont r
 
 ###### Article L5215-22
 
-- Pour l'exercice de ses compétences, la communauté urbaine est substituée de plein droit aux communes, syndicats ou
-districts préexistants constitués entre tout ou partie des communes qui la composent.
+I. - Lorsqu'une partie des communes d'un syndicat de communes ou d'un syndicat mixte fait partie d'une communauté urbaine,
+par création de cette communauté ou par transformation d'un établissement public de coopération intercommunale en communauté
+urbaine, et que cette communauté est incluse en totalité dans le syndicat, cette création ou cette transformation vaut
+retrait du syndicat des communes membres de la communauté pour les compétences visées au I de l'article L. 5215-20 que le
+syndicat exerce. Ce retrait s'effectue dans les conditions fixées à l'article L. 5211-25-1. A défaut d'accord entre l'organe
+délibérant du syndicat et le conseil municipal concerné sur la répartition des biens ou du produit de leur réalisation et du
+solde de l'encours de la dette visés au 2° de l'article L. 5211-25-1, cette répartition est fixée par arrêté du ou des
+représentants de l'Etat dans le ou les départements concernés.
+
+Pour l'exercice des compétences transférées autres que celles visées au I de l'article L. 5215-20, la communauté urbaine est
+substituée au sein du syndicat aux communes qui la composent. Cette disposition ne modifie pas les attributions du syndicat
+de communes, qui devient syndicat mixte au sens de l'article L. 5711-1, ou du syndicat mixte intéressé. Elle ne modifie pas
+non plus le périmètre dans lequel ce syndicat exerce ses compétences.
+
+II. - Lorsqu'une partie des communes d'un syndicat de communes ou d'un syndicat mixte est associée avec des communes
+extérieures à ce syndicat dans une communauté urbaine, par création de cette communauté ou par transformation d'un
+établissement public de coopération intercommunale en communauté urbaine, cette création ou cette transformation vaut retrait
+du syndicat des communes membres de la communauté pour les compétences transférées et dans les conditions prévues au premier
+alinéa du I. Elle vaut substitution de la communauté urbaine aux communes pour les compétences transférées et dans les
+conditions prévues au second alinéa du même paragraphe.
+
+III. - Lorsque le périmètre d'une communauté urbaine est étendu, conformément à l'article L. 5211-18, par adjonction d'une ou
+de plusieurs communes membres d'un ou de plusieurs syndicats de communes ou syndicats mixtes, cette extension vaut retrait
+des communes des syndicats ou substitution de la communauté urbaine aux communes au sein des syndicats dans les cas et
+conditions prévus aux I et II.
+
+Lorsque les compétences d'une communauté urbaine sont étendues, conformément à l'article L. 5211-17, à des compétences
+antérieurement déléguées par tout ou partie des communes qui la composent à un ou plusieurs syndicats de communes ou
+syndicats mixtes, la communauté urbaine est substituée à ces communes au sein du ou des syndicats dans les conditions visées
+au second alinéa du I.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 1966-12-31 art. 11 al. 1 (phr 1)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 8 ()
 
 	**Cité par**:
 
@@ -60396,14 +59782,27 @@ districts préexistants constitués entre tout ou partie des communes qui la com
 	  - Code général des collectivités territoriales - art. L5843-1 (VD)
 	  - Code général des collectivités territoriales - art. R5212-17 (Ab)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-17 (M)
+	  - Code général des collectivités territoriales - art. L5211-18 (M)
+	  - Code général des collectivités territoriales - art. L5211-25-1 (M)
+	  - Code général des collectivités territoriales - art. L5215-20 (M)
+	  - Code général des collectivités territoriales - art. L5711-1 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°66-0069 1966-12-31 art. 11 al. 1 (phr 1)
+
 
 ###### Article L5215-23
 
-- La communauté urbaine est également substituée, pour l'exercice de ses seules compétences, aux communes qui en font partie
-lorsque celles-ci sont groupées avec des communes extérieures à la communauté.
-
-Cette disposition n'entraîne aucune modification quant aux attributions et au périmètre des syndicats de communes ou des
-districts intéressés.
+Les communautés urbaines existant à la date de publication de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et
+à la simplification de la coopération intercommunale ayant élargi ou non leurs compétences dans les conditions prévues au III
+de l'article L. 5215-20-1 sont substituées, pour l'exercice de leurs seules compétences, aux communes qui en font partie
+lorsque celles-ci sont groupées avec des communes extérieures à la communauté. Cette disposition n'entraîne aucune
+modification quant aux attributions et au périmètre des syndicats de communes intéressés qui deviennent des syndicats mixtes
+au sens de l'article L. 5711-1.
 
 **Liens relatifs à cet article**
 
@@ -60415,9 +59814,15 @@ districts intéressés.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 (V)
+	  - Code général des collectivités territoriales - art. L5215-20-1 (V)
+	  - Code général des collectivités territoriales - art. L5711-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 8 ()
 
 
 ###### Article L5215-24
@@ -60440,42 +59845,12 @@ attributions conférées ou imposées par les lois et règlements respectivement
 	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
-###### Article L5215-25
-
-- Si le transfert des compétences rend nécessaire la modification des contrats de concession, d'affermage ou de prestations
-de services relatifs à des services publics ou d'intérêt public, il est procédé par accord amiable à cette modification.
-
-A défaut d'accord, un décret en Conseil d'Etat définit la procédure utilisée.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°66-1069 du 31 décembre 1966 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 35 ()
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L5215-41 (Ab)
-
-
 ##### Sous-section 4 : Modalités particulières d'intervention.
 
 ###### Article L5215-26
 
 - La communauté urbaine peut attribuer des fonds de concours aux communes membres afin de contribuer à la réalisation ou au
-fonctionnement d'équipements d'intérêt communautaire.
+fonctionnement d'équipements d'intérêt commun.
 
 **Liens relatifs à cet article**
 
@@ -60488,9 +59863,9 @@ fonctionnement d'équipements d'intérêt communautaire.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 10 ()
 
 	**Cité par**:
 
@@ -60568,9 +59943,8 @@ salaire ou honoraires.
 
 ###### Article L5215-29
 
-- Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont achevées les opérations décidées par les communes, les
-syndicats de communes ou les districts avant le transfert des compétences, notamment en ce qui concerne le financement de ces
-opérations.
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont achevées les opérations décidées par les communes, les
+syndicats de communes avant le transfert des compétences, notamment en ce qui concerne le financement de ces opérations.
 
 **Liens relatifs à cet article**
 
@@ -60578,9 +59952,9 @@ opérations.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 55 ()
 
 	**Cité par**:
 
@@ -60646,6 +60020,12 @@ du ministre de l'intérieur, suivant qu'il s'agit ou non de routes nationales.
 1° Le produit des impôts directs mentionnés au 1° du a de l'article L. 2331-3 et, le cas échéant, aux articles 1609 quinquies
 C ou 1609 nonies C du code général des impôts ;
 
+1° Soit, de plein droit ou après option, le produit des impôts mentionnés au I et au II de l'article 1609 nonies C du code
+général des impôts ;
+
+- soit le produit des impôts directs mentionnés au 2° du I de l'article 1609 bis du code général des impôts et, le cas
+échéant, au II de l'article 1609 quinquies C du même code ;.
+
 2° Soit le produit de la taxe d'enlèvement des ordures ménagères, de la redevance d'enlèvement des ordures ménagères sur les
 terrains de camping, de la redevance spéciale, soit le produit de la redevance pour enlèvement des ordures, déchets et
 résidus ;
@@ -60658,7 +60038,7 @@ et à la lutte contre leur pollution ;
 
 5° Le revenu de ses biens meubles ou immeubles ;
 
-6° Le produit des taxes constituant le prix d'un service rendu par la communauté ;
+6° Le produit des taxes correspondant aux compétences qui lui ont été transférées ;.
 
 7° Le produit des redevances et droits divers correspondant aux services assurés en régie, concédés ou affermés par la
 communauté urbaine, de sa participation dans les entreprises et des sommes qu'elle reçoit en échange de services rendus ;
@@ -60679,23 +60059,21 @@ l'urbanisme ;
 14° Le produit de la participation instituée dans les secteurs d'aménagement en vertu des dispositions de l'article L. 332-9
 du code de l'urbanisme.
 
+15° Le produit du versement destiné aux transports en commun prévu à l'article L. 2333-34.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - CGI 1609 quinquies C, 1609 nonies C
 	  - Loi n°64-1245 du 16 décembre 1964 - art. 18 (Ab)
-	  - Code général des collectivités territoriales - art. L2331-3 (M)
-	  - Code de l'urbanisme - art. L332-6-1 (M)
-	  - Code de l'urbanisme - art. L332-9 (M)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 9 ()
 
 	**Cité par**:
 
@@ -60854,9 +60232,9 @@ quand ces dépenses concernent des services relevant de sa compétence.
 
 ###### Article L5215-39
 
-- A compter de la date du transfert des compétences à la communauté urbaine, celle-ci prend en charge le service de la dette
-des communes, syndicats de communes ou districts compris dans l'agglomération, ainsi que les obligations de ces collectivités
-ou établissements publics à raison des compétences transférées.
+A compter de la date du transfert des compétences à la communauté urbaine, celle-ci prend en charge le service de la dette
+des communes, syndicats de communes compris dans l'agglomération, ainsi que les obligations de ces collectivités ou
+établissements publics à raison des compétences transférées.
 
 Le montant des annuités de remboursement des emprunts constitue une dépense obligatoire pour la communauté urbaine.
 
@@ -60874,9 +60252,9 @@ dispositions conventionnelles contraires.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 55 ()
 
 	**Cité par**:
 
@@ -60920,26 +60298,43 @@ des conseils municipaux intéressés.
 	  - Code général des collectivités territoriales - art. R5215-1 (Ab)
 
 
-##### Sous-section 2 : Compétences supplémentaires.
+##### Section 3 : Modifications
 
-###### Article L5215-41
+##### Sous-section 2 : Admission de nouvelles communes
 
-- Postérieurement à la création de la communauté urbaine, les communes membres peuvent transférer, en tout ou partie, à la
-communauté certaines de leurs compétences et la communauté peut transférer, en tout ou partie, aux communes membres certaines
-de ses compétences.
+###### Article L5215-40-1
 
-Les transferts de compétences mentionnés au présent article sont décidés par délibérations concordantes du conseil de la
-communauté urbaine et de la majorité qualifiée des conseils municipaux des communes membres définie au second alinéa de
-l'article L. 5215-2.
+Dans un délai de trois ans à compter de la publication de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à
+la simplification de la coopération intercommunale, le périmètre des communautés urbaines peut être étendu aux communes dont
+l'inclusion dans le périmètre communautaire est de nature à assurer la cohérence spatiale et économique ainsi que la
+solidarité financière et sociale qui sont nécessaires au développement de la communauté urbaine et à son évolution en
+métropole régionale. Il ne peut toutefois inclure, sans leur accord, les communes membres d'une communauté de communes dont
+l'éligibilité à la dotation prévue au neuvième alinéa de l'article L. 5211-29 a été constatée dans les conditions fixées à
+l'article L. 5214-23-1.
 
-Ces délibérations déterminent les conditions financières et patrimoniales du transfert ainsi que l'affectation des
-personnels.
+Le projet d'extension du périmètre communautaire est arrêté par le représentant de l'Etat dans le département lorsque les
+communes font partie du même département, ou par arrêté conjoint des représentants de l'Etat dans les départements concernés
+lorsque le périmètre projeté s'étend au-delà d'un seul département, après avis de la ou des commissions départementales de la
+coopération intercommunale concernées. Cet avis est réputé négatif s'il n'a pas été rendu à l'issue d'un délai de deux mois.
+Le périmètre peut être étendu après accord du conseil de la communauté urbaine ainsi que des deux tiers au moins des conseils
+municipaux de toutes les communes incluses dans le futur périmètre et représentant plus de la moitié de la population totale
+de celles-ci ou de la moitié au moins des conseils municipaux de ces communes représentant les deux tiers de la population.
+Cette majorité doit nécessairement comprendre le conseil municipal de la commune dont la population est supérieure à la
+moitié de la population totale concernée ou, à défaut, de la commune dont la population est la plus importante. A défaut de
+délibération dans le délai de trois mois à compter de la notification du projet d'extension du périmètre, l'accord est réputé
+donné.
 
-Le transfert de compétences de la communauté urbaine aux communes membres entraîne le transfert des droits et obligations
-correspondants. Il est fait application, le cas échéant, des dispositions de l'article L. 5215-25.
+L'extension du périmètre communautaire est prononcée par arrêté du ou des représentants de l'Etat dans le ou les
+départements. Cet arrêté vaut retrait des communes auxquelles le périmètre est étendu des établissements publics de
+coopération intercommunale dont elles sont membres. Dans le cas particulier de syndicats de communes ou de syndicats mixtes,
+le retrait s'effectue dans les conditions fixées à l'article L. 5215-22.
 
-Le transfert de compétences des communes à la communauté urbaine se fait selon les modalités prévues aux articles L. 5215-22
-à L. 5215-25.
+L'extension du périmètre entraîne une nouvelle répartition des sièges au conseil de la communauté urbaine conformément aux
+articles L. 5215-6 et L. 5215-7. Elle entraîne l'application à l'ensemble des biens, équipements et services publics
+nécessaires à l'exercice des compétences transférées, ainsi que des droits et obligations attachés à ces biens, équipements
+et services à la date du transfert, des dispositions prévues au II de l'article L. 5211-18.
+
+La procédure peut être renouvelée tous les douze ans à compter de l'expiration du délai de trois ans prévu au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -60947,41 +60342,47 @@ Le transfert de compétences des communes à la communauté urbaine se fait selo
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L165-11 (M)
-	  - CODE DES COMMUNES. - art. L165-11 (Ab)
-
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5215-2 (Ab)
-	  - Code général des collectivités territoriales - art. L5215-25 (Ab)
-	  - Code général des collectivités territoriales L5215-2, L5215-25, L5215-22 à L5215-25
+	  - Loi n°99-586 1999-07-12
+	  - Code général des collectivités territoriales - art. L5211-18 (M)
+	  - Code général des collectivités territoriales - art. L5214-23-1 (M)
+	  - Code général des collectivités territoriales - art. L5215-22 (M)
+	  - Code général des collectivités territoriales - art. L5215-6 (M)
+	  - Code général des collectivités territoriales - art. L5215-7 (M)
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 6 () JORF 13 juillet 1999
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R*163-6 (Ab)
+	  - CODE DES COMMUNES. - art. R166-4 (Ab)
+	  - Code général des collectivités territoriales - art. R5212-17 (Ab)
+	  - Code général des impôts, CGI. - art. 1609 nonies C (V)
+	  - Code général des impôts, CGI. - art. 1638 quater (V)
 
 
 ##### Section 6 : Dissolution et transformation.
 
 ###### Article L5215-42
 
-- La communauté urbaine peut être dissoute sur la demande des conseils municipaux des communes qu'elle rassemble, statuant à
-la majorité fixée au second alinéa de l'article L. 5215-2. La dissolution est prononcée par décret en conseil des ministres.
+La communauté urbaine peut être dissoute sur la demande des conseils municipaux des communes qu'elle rassemble, statuant par
+un vote des deux tiers au moins des conseils municipaux des communes intéressées représentant plus de la moitié de la
+population totale de celles-ci, ou de la moitié au moins des conseils municipaux des communes représentant les deux tiers de
+la population, cette majorité devant en outre nécessairement comprendre le conseil municipal dont la population est
+supérieure à la moitié de la population totale concernée. La dissolution est prononcée par décret en conseil des ministres. 
 
-Un décret en Conseil d'Etat détermine, sous réserve des droits des tiers, les conditions dans lesquelles la communauté est
-liquidée ; il fixe notamment les conditions dans lesquelles s'opère le transfert des biens, droits et obligations, après
-l'avis d'une commission composée comme il est dit à l'article L. 5215-28.
+Un décret en Conseil d'Etat détermine, conformément aux dispositions de l'article L. 5211-25-1 et sous réserve des droits des
+tiers, les conditions dans lesquelles la communauté est liquidée ; il fixe notamment les conditions dans lesquelles s'opère
+le transfert des biens, droits et obligations, après l'avis d'une commission composée comme il est dit à l'article L.
+5215-28. 
 
 Les personnels de la communauté sont répartis entre les communes membres ou leurs éventuels organismes de coopération, par
 une commission présidée par le président du conseil supérieur de la fonction publique territoriale, sans qu'il puisse être
 procédé à un dégagement des cadres et en tenant compte de leurs droits acquis. Les communes ou leurs éventuels organismes de
-coopération attributaires supportent les charges financières correspondantes.
+coopération attributaires supportent les charges financières correspondantes. 
 
 Un décret en Conseil d'Etat fixe les conditions et les modalités de cette répartition ainsi que la composition de cette
 commission.
@@ -60992,9 +60393,10 @@ commission.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 1999-07-12 art. 12, 13 jorf 13 juillet 1999
+	  - Loi n°99-586 du 12 juillet 1999 - art. 12 ()
 
 	**Anciens textes**:
 
@@ -61004,65 +60406,105 @@ commission.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5215-2 (Ab)
+	  - Code général des collectivités territoriales - art. L5211-25-1 (V)
 	  - Code général des collectivités territoriales - art. L5215-28 (V)
 
 
-###### Article L5215-43
+##### CHAPITRE VI : Communauté d'agglomération
 
-- Les communautés urbaines existant le 8 février 1992, date de publication de la loi d'orientation n° 92-125 du 6 février
-1992 relative à l'administration territoriale de la République, peuvent se transformer en communauté de villes par décision
-du conseil de communauté prise à la majorité des deux tiers au moins de ses membres.
+###### Article L5216-10
+
+Dans un délai de trois ans à compter de la publication de la loi n° 99-586 du 12 juillet 1999 relative au renforcement et à
+la simplification de la coopération intercommunale, le périmètre des communautés d'agglomération peut être étendu aux
+communes dont l'inclusion dans le périmètre communautaire est de nature à assurer la cohérence spatiale et économique ainsi
+que la solidarité financière et sociale qui sont nécessaires au développement de la communauté d'agglomération. Il ne peut
+toutefois inclure, sans leur accord, les communes membres d'une communauté de communes dont l'éligibilité à la dotation
+prévue au neuvième alinéa de l'article L. 5211-29 a été constatée dans les conditions fixées à l'article L. 5214-23-1.
+
+Le projet d'extension du périmètre communautaire est arrêté par le représentant de l'Etat dans le département lorsque les
+communes font partie du même département, ou par arrêté conjoint des représentants de l'Etat dans les départements concernés
+lorsque le périmètre projeté s'étend au-delà d'un seul département, après avis de la ou des commissions départementales de la
+coopération intercommunale concernées. Cet avis est réputé négatif s'il n'a pas été rendu à l'issue d'un délai de deux mois.
+Le périmètre peut être étendu après accord du conseil de la communauté d'agglomération ainsi que des deux tiers au moins des
+conseils municipaux de toutes les communes incluses dans le futur périmètre et représentant plus de la moitié de la
+population totale de celles-ci ou de la moitié au moins des conseils municipaux de ces communes représentant les deux tiers
+de la population. Cette majorité doit nécessairement comprendre le conseil municipal de la commune dont la population est
+supérieure à la moitié de la population totale concernée ou, à défaut, de la commune dont la population est la plus
+importante. A défaut de délibération dans le délai de trois mois à compter de la notification du projet d'extension du
+périmètre, l'accord est réputé donné.
+
+L'extension du périmètre communautaire est prononcée par arrêté du ou des représentants de l'Etat dans le ou les
+départements. Cet arrêté vaut retrait des communes auxquelles le périmètre est étendu des établissements publics de
+coopération intercommunale dont elles sont membres. Dans le cas particulier de syndicats de communes ou de syndicats mixtes,
+le retrait s'effectue dans les conditions fixées à l'article L. 5216-7.
+
+L'extension du périmètre entraîne une nouvelle répartition des sièges au conseil de la communauté d'agglomération
+conformément à l'article L. 5216-3. Elle entraîne l'application à l'ensemble des biens, équipements et services publics
+nécessaires à l'exercice des compétences transférées, ainsi que des droits et obligations attachés à ces biens, équipements
+et services à la date du transfert, des dispositions prévues au II de l'article L. 5211-18.
+
+La procédure peut être renouvelée tous les douze ans à compter de l'expiration du délai de trois ans prévu au premier alinéa.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°92-125 1992-02-06
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 1999-07-12
+	  - Code général des collectivités territoriales - art. L5211-18 (M)
+	  - Code général des collectivités territoriales - art. L5214-23-1 (M)
+	  - Code général des collectivités territoriales - art. L5216-3 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-7 (Ab)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°99-586 du 12 juillet 1999 - art. 58 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-7 al. 1 ecqc la communauté urbaine
+	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
+	  - Loi n°99-586 du 12 juillet 1999 - art. 2 ()
 
 	**Cité par**:
 
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies C (M)
-	  - Code général des collectivités territoriales - art. L5216-17 (Ab)
+	  - Loi n°2003-590 du 2 juillet 2003 - art. 64 (V)
+	  - CODE DES COMMUNES. - art. R*163-6 (Ab)
+	  - CODE DES COMMUNES. - art. R166-4 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1638 quater (V)
+	  - Code général des collectivités territoriales - art. L5832-2 (V)
+	  - Code général des collectivités territoriales - art. L5832-21 (VT)
+	  - Code général des collectivités territoriales - art. L5842-30 (V)
+	  - Code général des collectivités territoriales - art. R5212-17 (Ab)
+	  - Code général des impôts, CGI. - art. 1609 nonies C (V)
 
+	**Anciens textes**:
 
-##### CHAPITRE VI : Communauté de villes
+	  - CODE DES COMMUNES. - art. L168-6 (Ab)
+
 
 ##### Section 1 : Création.
 
 ###### Article L5216-1
 
-- La communauté de villes est un établissement public de coopération intercommunale regroupant plusieurs communes d'une
-agglomération de plus de 20 000 habitants.
-
-Elle a pour objet d'associer des communes au sein d'un périmètre de solidarité urbaine en vue du développement concerté de
-l'agglomération.
+La communauté d'agglomération est un établissement public de coopération intercommunale regroupant plusieurs communes
+formant, à la date de sa création, un ensemble de plus de 50 000 habitants d'un seul tenant et sans enclave, autour d'une ou
+plusieurs communes centre de plus de 15 000 habitants. Le seuil démographique de 15 000 habitants ne s'applique pas lorsque
+la communauté d'agglomération comprend le chef-lieu du département. Le périmètre d'une communauté d'agglomération ne peut
+comprendre une commune qui est déjà membre d'un autre établissement public de coopération intercommunale percevant la taxe
+professionnelle selon les dispositions de l'article 1609 nonies C du code général des impôts au 1er janvier 1999, si le
+conseil municipal de la commune intéressée a émis une délibération défavorable à l'arrêté dressant la liste des communes ou
+si plus du quart des conseils municipaux des communes membres de l'établissement existant s'opposent au retrait de ladite
+commune. Ces communes s'associent au sein d'un espace de solidarité, en vue d'élaborer et conduire ensemble un projet commun
+de développement urbain et d'aménagement de leur territoire.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1609 nonies C
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 	**Cité par**:
 
@@ -61089,27 +60531,18 @@ l'agglomération.
 	  - Code général des collectivités territoriales - art. R5211-3 (V)
 	  - Code général des impôts, CGI. - art. 1609 nonies C (VT)
 
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
 
 	**Anciens textes**:
 
-	  - Code des communes L168-1 al. 1 et L168-4 al. 1 (phr 1)
 	  - CODE DES COMMUNES. - art. L168-1 (Ab)
 
 
 ###### Article L5216-2
 
-- Sur l'initiative d'un ou plusieurs conseils municipaux demandant la création d'une communauté de villes, le ou les
-représentants de l'Etat dans le ou les départements concernés fixent par arrêté la liste des communes intéressées.
-
-La communauté de villes est créée par arrêté du représentant de l'Etat dans le département lorsque les communes font partie
-du même département ou par arrêté conjoint des représentants de l'Etat dans les départements concernés dans le cas contraire,
-sur la demande des deux tiers au moins des conseils municipaux des communes intéressées représentant plus de la moitié de la
-population totale de celles-ci ou de la moitié des conseils municipaux des communes comptant les deux tiers de la population,
-cette majorité devant comprendre le conseil municipal de la commune dont la population est supérieure à la moitié de la
-population totale concernée.
+La communauté d'agglomération est créée sans limitation de durée.
 
 **Liens relatifs à cet article**
 
@@ -61119,15 +60552,10 @@ population totale concernée.
 
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
 	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
 
 	**Anciens textes**:
 
-	  - Code des communes L168-1 al. 2 et 3
 	  - CODE DES COMMUNES. - art. L168-1 (Ab)
 
 	**Cité par**:
@@ -61137,9 +60565,23 @@ population totale concernée.
 	  - Code général des impôts, CGI. - art. 1609 nonies C (VT)
 
 
+##### Section 2 : Le conseil de la communauté d'agglomération
+
 ###### Article L5216-3
 
-- La décision institutive détermine le siège de la communauté de villes.
+Dans un délai de trois mois à compter de la notification de l'arrêté fixant le périmètre de la communauté, le nombre et la
+répartition des sièges au sein du conseil de la communauté d'agglomération sont fixés :
+
+- soit par accord amiable de l'ensemble des conseils municipaux des communes intéressées ;
+
+- soit en fonction de la population, par décision des conseils municipaux des communes intéressées dans les conditions de
+majorité qualifiée requises pour la création de la communauté.
+
+Dans les deux cas, chaque commune dispose au minimum d'un siège et aucune commune ne peut disposer de plus de la moitié des
+sièges.
+
+La décision institutive ou une décision modificative peut prévoir la désignation d'un ou plusieurs délégués suppléants,
+appelés à siéger au conseil avec voix délibérative en cas d'empêchement du ou des titulaires.
 
 **Liens relatifs à cet article**
 
@@ -61149,15 +60591,14 @@ population totale concernée.
 
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
 
 	**Abrogé par**:
 
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
+	  - Loi n°2010-1563 du 16 décembre 2010 - art. 9 (V)
 
 	**Anciens textes**:
 
-	  - Code des communes L168-1 al. 4
 	  - CODE DES COMMUNES. - art. L168-1 (Ab)
 
 	**Cité par**:
@@ -61167,9 +60608,13 @@ population totale concernée.
 	  - Code général des collectivités territoriales - art. L5842-26 (V)
 
 
+##### Section 3 : Conditions d'exercice des mandats des membres du conseil de la communauté d'agglomération
+
 ###### Article L5216-4
 
-- La communauté de villes est créée sans limitation de durée.
+Les dispositions du chapitre III du titre II du livre Ier de la deuxième partie du code général des collectivités
+territoriales relative aux conditions d'exercice des mandats municipaux sont applicables aux membres du conseil de la
+communauté, sous réserve des dispositions de l'article L. 5211-12.
 
 **Liens relatifs à cet article**
 
@@ -61179,29 +60624,26 @@ population totale concernée.
 
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
 	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
 
 	**Anciens textes**:
 
-	  - Code des communes L168-6 ecqc L165-38 al. 1
 	  - CODE DES COMMUNES. - art. L168-6 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-12 (M)
 
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L5842-27 (V)
 
 
-##### Section 2 : Organes
+###### Article L5216-4-1
 
-##### Sous-section 1 : Le conseil de communauté.
-
-###### Article L5216-5
-
-- La communauté de villes est administrée par un conseil composé des délégués des communes.
+Dans les communautés d'agglomération de 400 000 habitants au moins, les indemnités votées par le conseil de la communauté
+pour l'exercice des fonctions de délégués des communes sont au maximum égales à 28 % du terme de référence mentionné au I de
+l'article L. 2123-20.
 
 **Liens relatifs à cet article**
 
@@ -61211,9 +60653,105 @@ population totale concernée.
 
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2123-20 (V)
+
+
+###### Article L5216-4-2
+
+Dans les conseils de communautés d'agglomération de plus de 100 000 habitants, le fonctionnement des groupes de délégués peut
+faire l'objet de délibérations sans que puissent être modifiées, à cette occasion, les décisions relatives au régime
+indemnitaire des délégués.
+
+L'élu responsable de chaque groupe d'élus décide des conditions et des modalités d'exécution du service confié que ces
+collaborateurs accomplissent auprès de ces groupes au sein de l'organe délibérant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5842-27 (V)
+
+
+##### Section 4 : Compétences
+
+###### Article L5216-5
+
+I. - La communauté d'agglomération exerce de plein droit au lieu et place des communes membres les compétences suivantes :
+
+" 1° En matière de développement économique : création, aménagement, entretien et gestion de zones d'activité industrielle,
+commerciale, tertiaire, artisanale, touristique, portuaire ou aéroportuaire qui sont d'intérêt communautaire ; actions de
+développement économique d'intérêt communautaire ;
+
+" 2° En matière d'aménagement de l'espace communautaire : schéma directeur et schéma de secteur ; création et réalisation de
+zones d'aménagement concerté d'intérêt communautaire ; organisation des transports urbains au sens du chapitre II du titre II
+de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, sous réserve des dispositions de l'article
+46 de cette loi ;
+
+" 3° En matière d'équilibre social de l'habitat sur le territoire communautaire : programme local de l'habitat ; politique du
+logement, notamment du logement social, d'intérêt communautaire et action, par des opérations d'intérêt communautaire, en
+faveur du logement des personnes défavorisées ; amélioration du parc immobilier bâti d'intérêt communautaire ;
+
+" 4° En matière de politique de la ville dans la communauté :
+
+dispositifs contractuels de développement urbain, de développement local et d'insertion économique et sociale d'intérêt
+communautaire ; dispositifs locaux, d'intérêt communautaire, de prévention de la délinquance.
+
+" II. - La communauté d'agglomération doit en outre exercer au lieu et place des communes au moins trois compétences parmi
+les cinq suivantes :
+
+" 1° Création ou aménagement et entretien de voirie d'intérêt communautaire ; création ou aménagement et gestion de parcs de
+stationnement d'intérêt communautaire ;
+
+" 2° Assainissement ;
+
+" 3° Eau ;
+
+" 4° En matière de protection et de mise en valeur de l'environnement et du cadre de vie : lutte contre la pollution de
+l'air, lutte contre les nuisances sonores, élimination et valorisation des déchets des ménages et déchets assimilés ou partie
+de cette compétence dans les conditions fixées par l'article L. 2224-13 ;
+
+" 5° Construction, aménagement, entretien et gestion d'équipements culturels et sportifs d'intérêt communautaire.
+
+" Le choix de ces compétences est arrêté par décision des conseils municipaux des communes intéressées dans les conditions de
+majorité qualifiée requise pour la création.
+
+" III. - Lorsque l'exercice des compétences mentionnées aux I et II du présent article est subordonné à la reconnaissance de
+leur intérêt communautaire, cet intérêt est déterminé à la majorité des deux tiers du conseil de la communauté
+d'agglomération.
+
+" IV. - La communauté d'agglomération peut transférer certaines de ses compétences à un syndicat mixte dont le périmètre
+inclut en totalité le périmètre communautaire après création du syndicat ou adhésion de la communauté.
+
+" V. - Par convention passée avec le département, une communauté d'agglomération peut exercer pour le département tout ou
+partie des compétences d'aide sociale que celui-ci lui confie.
+
+" VI. - La communauté d'agglomération peut attribuer des fonds de concours aux communes membres afin de contribuer à la
+réalisation ou au fonctionnement d'équipements d'intérêt commun.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°82-1153 du 30 décembre 1982 - art. 46, v. init.
+	  - Code général des collectivités territoriales - art. L2224-13 (M)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
 
 	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
 
@@ -61245,18 +60783,19 @@ population totale concernée.
 
 	**Anciens textes**:
 
-	  - Code des communes L168-2 al. 1
 	  - CODE DES COMMUNES. - art. L168-2 (Ab)
 
 
 ###### Article L5216-6
 
-- A défaut d'accord amiable entre les conseils municipaux intervenu dans un délai de trois mois à compter de leur
-renouvellement général ou de la publication de l'arrêté fixant le périmètre de la communauté, la répartition des sièges au
-sein du conseil de communauté est assurée en fonction de la population à la représentation proportionnelle à la plus forte
-moyenne. Dans ce cas, le nombre total des sièges à répartir est déterminé par application des dispositions de l'article L.
-5215-6 et est augmenté, après répartition, de façon à ce que chaque commune dispose au moins d'un siège et à ce qu'aucune ne
-dispose de plus de la moitié des sièges.
+La communauté d'agglomération est substituée de plein droit au syndicat de communes préexistant dont le périmètre est
+identique au sien, pour la totalité des compétences qu'il exerce. 
+
+La communauté d'agglomération est également substituée de plein droit, pour les compétences qu'elle exerce, au syndicat de
+communes préexistant inclus en totalité dans son périmètre. 
+
+La substitution de la communauté d'agglomération au syndicat de communes s'effectue dans les conditions prévues au deuxième
+alinéa de l'article L. 5211-41.
 
 **Liens relatifs à cet article**
 
@@ -61266,19 +60805,11 @@ dispose de plus de la moitié des sièges.
 
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
 	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L168-3 (Ab)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5215-6 (M)
+	  - Code général des collectivités territoriales - art. L5211-41 (V)
 
 	**Cité par**:
 
@@ -61287,13 +60818,36 @@ dispose de plus de la moitié des sièges.
 
 ###### Article L5216-7
 
-- La désignation des délégués de chaque commune au conseil de communauté est opérée au sein de chaque conseil municipal au
-scrutin uninominal à deux tours s'il n'y a qu'un délégué, et au scrutin de liste majoritaire dans le cas contraire. Les
-listes de candidats peuvent comporter moins de noms que de sièges à pourvoir.
+I. - Lorsqu'une partie des communes d'un syndicat de communes ou d'un syndicat mixte fait partie d'une communauté
+d'agglomération, par création de cette communauté ou par transformation d'un établissement public de coopération
+intercommunale en communauté d'agglomération, et que cette communauté est incluse en totalité dans le syndicat, cette
+création ou cette transformation vaut retrait du syndicat des communes membres de la communauté pour les compétences visées
+aux I et II de l'article L. 5216-5 que le syndicat exerce. Ce retrait s'effectue dans les conditions fixées à l'article L.
+5211-25-1. A défaut d'accord entre l'organe délibérant du syndicat et le conseil municipal concerné sur la répartition des
+biens ou du produit de leur réalisation et du solde de l'encours de la dette visés au 2° de l'article L. 5211-25-1, cette
+répartition est fixée par arrêté du ou des représentants de l'Etat dans le ou les départements concernés.
 
-Toutefois, au cas où le nombre des conseillers municipaux est inférieur au nombre des sièges attribués à la commune, le
-conseil municipal peut désigner tout citoyen éligible au conseil municipal de la commune pour occuper les sièges qui ne
-peuvent être pourvus par des conseillers municipaux.
+Pour l'exercice des compétences transférées qui ne sont pas visées par les I et II de l'article L. 5216-5, la communauté
+d'agglomération est substituée au sein du syndicat aux communes qui la composent. Cette disposition ne modifie pas les
+attributions du syndicat de communes, qui devient syndicat mixte au sens de l'article L. 5711-1, ou du syndicat mixte
+intéressé. Elle ne modifie pas non plus le périmètre dans lequel ce syndicat exerce ses compétences.
+
+II. - Lorsqu'une partie des communes d'un syndicat de communes ou d'un syndicat mixte est associée avec des communes
+extérieures à ce syndicat dans une communauté d'agglomération, par création de cette communauté ou par transformation d'un
+établissement public de coopération intercommunale en communauté d'agglomération, cette création ou cette transformation vaut
+retrait du syndicat des communes membres de la communauté d'agglomération pour les compétences transférées et dans les
+conditions prévues au premier alinéa du I. Elle vaut substitution de la communauté d'agglomération aux communes pour les
+compétences transférées et dans les conditions prévues au second alinéa du même paragraphe.
+
+III. - Lorsque le périmètre d'une communauté d'agglomération est étendu, conformément à l'article L. 5211-18, par adjonction
+d'une ou de plusieurs communes membres d'un ou de plusieurs syndicats de communes ou syndicats mixtes, cette extension vaut
+retrait des communes des syndicats ou substitution de la communauté d'agglomération aux communes au sein des syndicats dans
+les cas et conditions prévus aux I et II.
+
+Lorsque les compétences d'une communauté d'agglomération sont étendues, conformément à l'article L. 5211-17, à des
+compétences antérieurement déléguées par tout ou partie des communes qui la composent à un ou plusieurs syndicats de communes
+ou syndicats mixtes, la communauté d'agglomération est substituée à ces communes au sein du ou des syndicats dans les
+conditions visées au second alinéa du I.
 
 **Liens relatifs à cet article**
 
@@ -61303,15 +60857,10 @@ peuvent être pourvus par des conseillers municipaux.
 
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
 	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
 
 	**Anciens textes**:
 
-	  - Code des communes L168-2 al. 3 et 4
 	  - CODE DES COMMUNES. - art. L168-2 (Ab)
 
 	**Cité par**:
@@ -61327,12 +60876,37 @@ peuvent être pourvus par des conseillers municipaux.
 	  - Code général des collectivités territoriales - art. L5721-2 (VD)
 	  - Code général des collectivités territoriales - art. R5212-17 (Ab)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-17 (M)
+	  - Code général des collectivités territoriales - art. L5211-18 (M)
+	  - Code général des collectivités territoriales - art. L5211-25-1 (M)
+	  - Code général des collectivités territoriales - art. L5216-5 (Ab)
+	  - Code général des collectivités territoriales - art. L5711-1 (M)
+
+
+##### Section 5 : Dispositions financières
 
 ###### Article L5216-8
 
-- Les conditions d'éligibilité, les inéligibilités et les incompatibilités applicables aux membres du conseil de communauté
-sont celles que prévoient pour les élections au conseil municipal les articles L. 44 à L. 46 et L. 228 à L. 239 du code
-électoral.
+Les recettes du budget de la communauté d'agglomération comprennent : 
+
+1° Les ressources fiscales mentionnées à l'article 1609 nonies C et 1609 nonies D du code général des impôts ; 
+
+2° Le revenu des biens, meubles ou immeubles, de la communauté d'agglomération ; 
+
+3° Les sommes qu'elle reçoit des administrations publiques, des associations, des particuliers, en échange d'un service
+rendu ; 
+
+4° Les subventions et dotations de l'Etat, de la région, du département et des communes ; 
+
+5° Le produit des dons et legs ; 
+
+6° Le produit des taxes, redevances et contributions correspondant aux services assurés ; 
+
+7° Le produit des emprunts ; 
+
+8° Le produit du versement destiné aux transports en commun prévu à l'article L. 2333-64.
 
 **Liens relatifs à cet article**
 
@@ -61342,20 +60916,16 @@ sont celles que prévoient pour les élections au conseil municipal les articles
 
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
 	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-6 ecqc L165-32 al. 1
-	  - CODE DES COMMUNES. - art. L168-6 (Ab)
 
 	**Cite**:
 
-	  - Code électoral L44 à L46, L228 à L239
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies C (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies D (VT)
+
+	**Anciens textes**:
+
+	  - CODE DES COMMUNES. - art. L168-6 (Ab)
 
 	**Cité par**:
 
@@ -61365,19 +60935,22 @@ sont celles que prévoient pour les élections au conseil municipal les articles
 	  - Code général des impôts, CGI. - art. 1379-0 bis (VD)
 
 
+##### Section 6 : Dissolution.
+
 ###### Article L5216-9
 
-- Le mandat des membres du conseil de communauté expire lors de l'installation du conseil de communauté suivant le
-renouvellement général des conseils municipaux.
+La communauté d'agglomération est dissoute, par décret en Conseil d'Etat, sur la demande des conseils municipaux des communes
+membres acquise par un vote des deux tiers au moins des conseils municipaux des communes intéressées représentant plus de la
+moitié de la population totale de celles-ci, ou de la moitié au moins des conseils municipaux des communes représentant les
+deux tiers de la population, cette majorité devant en outre nécessairement comprendre le conseil municipal de la commune dont
+la population est supérieure à la moitié de la population concernée. Ce décret détermine, conformément aux dispositions de
+l'article L. 5211-25-1 et dans le respect des droits des tiers, les conditions dans lesquelles la communauté d'agglomération
+est liquidée. 
 
-A partir de l'installation du conseil, les fonctions de président sont assurées par le doyen d'âge jusqu'à l'élection du
-président du conseil de communauté.
-
-En cas de suspension, de dissolution ou de démission des membres en exercice d'un conseil municipal, le mandat des délégués
-est prorogé jusqu'à la désignation des nouveaux délégués.
-
-En cas de vacance parmi les membres du conseil de communauté, par suite de décès, de démission ou toute autre cause, il est
-pourvu au remplacement dans le délai de deux mois.
+La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions administratives
+paritaires compétentes. Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un
+emploi de même niveau et en tenant compte de leurs droits acquis. Les communes attributaires supportent les charges
+financières correspondantes.
 
 **Liens relatifs à cet article**
 
@@ -61387,744 +60960,20 @@ pourvu au remplacement dans le délai de deux mois.
 
 	**Créé par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
 	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
 
 	**Anciens textes**:
 
-	  - CODE DES COMMUNES. - art. 3 (Ab)
-	  - Code des communes L168-6 ecqc L165-32 al. 2, 3, 4 et 5
 	  - CODE DES COMMUNES. - art. L168-6 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-25-1 (V)
 
 	**Cité par**:
 
 	  - Code général des collectivités territoriales - art. L5841-1 (VD)
 	  - Code général des collectivités territoriales - art. L5842-30 (V)
-
-
-##### Sous-section 2 : Le président.
-
-###### Article L5216-10
-
-- Indépendamment de ses pouvoirs propres, le président assure l'exécution des décisions du conseil de communauté et
-représente la communauté de villes dans les actes de la vie civile.
-
-Il peut, sous sa responsabilité, déléguer une partie de ses fonctions à un ou plusieurs des vice-présidents ou, en cas
-d'empêchement de ces derniers, à des membres du conseil de communauté.
-
-Il peut également donner, sous sa surveillance et sa responsabilité, par arrêté, délégation de signature au directeur et au
-directeur-adjoint de la communauté.
-
-**Nota:**
-
-NOTA : Loi 99-586 1999-07-12 art. 111 :
-
-I. - Les dispositions de la deuxième phrase du troisième alinéa de l'article L. 5211-9 du code général des collectivités
-territoriales sont applicables à compter du 1er janvier 2000.
-
-II. - Jusqu'à l'expiration du délai prévu au I, sont maintenues en vigueur, dans leur rédaction en vigueur à la date de
-publication de la présente loi, les dispositions suivantes du code général des collectivités territoriales :
-
-- la dernière phrase du quatrième alinéa de l'article L. 5212-11 ;
-
-- le dernier alinéa de l'article L. 5213-10 ;
-
-- la dernière phrase du quatrième alinéa de l'article L. 5214-11 ;
-
-- le dernier alinéa de l'article L. 5215-14 ;
-
-- le dernier alinéa de l'article L. 5216-10.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°99-586 du 12 juillet 1999 - art. 111 (V)
-
-	**Cité par**:
-
-	  - Loi n°2003-590 du 2 juillet 2003 - art. 64 (V)
-	  - CODE DES COMMUNES. - art. R*163-6 (Ab)
-	  - CODE DES COMMUNES. - art. R166-4 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1638 quater (V)
-	  - Code général des collectivités territoriales - art. L5832-2 (V)
-	  - Code général des collectivités territoriales - art. L5832-21 (VT)
-	  - Code général des collectivités territoriales - art. L5842-30 (V)
-	  - Code général des collectivités territoriales - art. R5212-17 (Ab)
-	  - Code général des impôts, CGI. - art. 1609 nonies C (V)
-
-	**Anciens textes**:
-
-	  - Code des communes L168-6 ecqc L165-34
-	  - CODE DES COMMUNES. - art. L168-6 (Ab)
-
-
-##### Sous-section 3 : Le bureau.
-
-###### Article L5216-11
-
-- Le bureau du conseil de communauté comprend le président et des vice-présidents.
-
-Le nombre de vice-présidents est librement déterminé par le conseil de communauté, sans que ce nombre puisse excéder 30 p.
-100 de l'effectif légal du conseil.
-
-Le mandat des membres du bureau prend fin en même temps que celui des membres du conseil.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-6 ecqc L165-33 al. 1, 2 et 4
-	  - CODE DES COMMUNES. - art. L168-6 (Ab)
-
-
-##### Sous-section 4 : Conditions d'exercice du mandat de membre du conseil de communauté.
-
-###### Article L5216-12
-
-- Les dispositions du chapitre III du titre II du livre premier de la deuxième partie relatives aux conditions d'exercice des
-mandats municipaux sont applicables aux membres du conseil de communauté sous réserve des dispositions qui leur sont propres.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-6 ecqc L165-2 ecqc les mandats
-	  - CODE DES COMMUNES. - art. L168-6 (Ab)
-
-
-###### Article L5216-13
-
-- Dans les communautés de villes de 400 000 habitants au moins, les indemnités votées par le conseil de communauté pour
-l'exercice effectif des fonctions de délégué des communes sont au maximum égales à 28 p. 100 du terme de référence mentionné
-au I de l'article L. 2123-20.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L123-6 al. 6 ecqc la communauté de villes
-	  - CODE DES COMMUNES. - art. L123-6 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2123-20 (M)
-
-
-##### Section 3 : Fonctionnement.
-
-###### Article L5216-14
-
-- Les décisions du conseil de communauté dont les effets ne concernent qu'une seule des communes membres ne peuvent être
-prises qu'après avis du conseil municipal de cette commune. S'il n'a pas été rendu dans un délai de deux mois à compter de la
-transmission du projet de la communauté, l'avis est réputé favorable. Lorsque cet avis est défavorable, la décision doit être
-prise à la majorité des deux tiers des membres du conseil de communauté.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L168-4-1 (Ab)
-
-
-##### Section 4 : Compétences
-
-##### Sous-section 1 : Dispositions générales.
-
-###### Article L5216-15
-
-- Le conseil de la communauté de villes règle par ses délibérations les affaires qui sont de la compétence de la communauté
-de villes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-2 al. 2
-	  - CODE DES COMMUNES. - art. L168-2 (Ab)
-
-
-##### Sous-section 2 : Compétences obligatoires.
-
-###### Article L5216-16
-
-- I. - La communauté de villes exerce de plein droit au lieu et place des communes membres, pour la conduite d'actions
-d'intérêt communautaire, les compétences ainsi que les règlements y afférents relevant de chacun des deux groupes suivants :
-
-1° Aménagement de l'espace : schéma directeur, schéma de secteur, charte intercommunale de développement et d'aménagement,
-élaboration des programmes locaux de l'habitat visés à l'article L. 302-1 du code de la construction et de l'habitation,
-création et réalisation de zones d'aménagement concerté ;
-
-2° Actions de développement économique, création et équipement des zones d'activité industrielle, tertiaire, artisanale,
-touristique, portuaire ou aéroportuaire.
-
-II. - La communauté de villes doit par ailleurs exercer dans les mêmes conditions les compétences relevant d'au moins un des
-quatre groupes suivants :
-
-1° Protection et mise en valeur de l'environnement, politique du cadre de vie, lutte contre la pollution des eaux et de
-l'air, lutte contre le bruit, assainissement, collecte, traitement et élimination des déchets dans le cadre des schémas
-départementaux les concernant lorsqu'ils existent ;
-
-2° Politique du logement et actions de réhabilitation ;
-
-3° Création, aménagement et entretien de la voirie, plans de déplacements urbains et transports urbains ;
-
-4° Construction, entretien et fonctionnement d'équipements culturels et sportifs et d'équipements relevant de l'enseignement
-préélémentaire et élémentaire ; action et animation culturelles.
-
-La définition des compétences transférées au sein de chacun des groupes est fixée par la majorité qualifiée requise au second
-alinéa de l'article L. 5216-2.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. 2 (Ab)
-	  - CODE DES COMMUNES. - art. 3 (Ab)
-	  - CODE DES COMMUNES. - art. 4 (Ab)
-	  - CODE DES COMMUNES. - art. 5 (Ab)
-	  - CODE DES COMMUNES. - art. 6 (Ab)
-	  - Code des communes L168-4 al. 1 (phr 2), 2, 3, 4, 5, 6, 7 et 8 ecqc la communauté de ville et 9
-	  - CODE DES COMMUNES. - art. L168-3 (Ab)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 quinquies A (M)
-	  - Code général des collectivités territoriales - art. L5814-1 (M)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5216-2 (Ab)
-	  - Code de la construction et de l'habitation. - art. L302-1 (M)
-
-
-###### Article L5216-17
-
-- La communauté de villes créée en application de l'article L. 5213-26 ou de l'article L. 5215-43 conserve l'intégralité des
-compétences antérieurement exercées par le district ou la communauté urbaine auxquels elle se substitue.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-7 al. 2
-	  - CODE DES COMMUNES. - art. L168-7 (Ab)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies C (M)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5213-26 (Ab)
-	  - Code général des collectivités territoriales - art. L5215-43 (Ab)
-
-
-###### Article L5216-18
-
-- L'acte institutif qui procède à des transferts de compétences détermine les conditions financières et patrimoniales de ces
-transferts, notamment en ce qui concerne les emprunts antérieurement contractés par les communes intéressées, ainsi que
-l'affectation des personnels.
-
-L'acte institutif détermine en outre les règles de partage de compétences entre communes et communauté en matière
-d'acquisitions foncières par préemption, de réalisation d'opérations de logements ou d'activités économiques, de charge
-d'équipement de ces zones et de voirie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-4  al. 12 et 13 ecqc l'acte initial de transfert de compétences
-
-
-###### Article L5216-19
-
-- La communauté de villes est substituée de plein droit aux syndicats de communes ou districts préexistants dont le périmètre
-est identique au sien.
-
-La communauté de villes est également substituée pour l'exercice de ses compétences aux communes qui en font partie lorsque
-celles-ci sont groupées avec des communes extérieures à la communauté.
-
-Cette disposition ne modifie pas les attributions des syndicats de communes ou des districts intéressés ; elle ne modifie pas
-non plus le périmètre dans lequel ces établissements publics exercent leurs compétences.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L168-5 (Ab)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1609 nonies C (M)
-
-
-###### Article L5216-20
-
-- Un décret en Conseil d'Etat fixe les conditions dans lesquelles peuvent être dévolues à une communauté de villes des
-compétences exercées antérieurement par un syndicat de communes, un district ou une communauté de communes inclus en tout ou
-partie dans le périmètre de la communauté de villes ou englobant celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L168-8 (Ab)
-
-
-###### Article L5216-21
-
-- Le transfert de compétences emporte transfert au président et au conseil de communauté de toutes les attributions conférées
-ou imposées par les lois et règlements respectivement au maire et au conseil municipal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-6 ecqc L165-19
-	  - CODE DES COMMUNES. - art. L168-6 (Ab)
-
-
-###### Article L5216-22
-
-- Si le transfert de compétences rend nécessaire la modification des contrats de concession, d'affermage ou de prestations de
-services relatifs à des services publics ou d'intérêt public, il est procédé par accord amiable à cette modification.
-
-A défaut d'accord, un décret en Conseil d'Etat définit la procédure utilisée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-6 ecqc L165-20
-	  - CODE DES COMMUNES. - art. L168-6 (Ab)
-
-
-###### Article L5216-23
-
-- Les immeubles et meubles faisant partie du domaine public des communes appartenant à l'agglomération sont affectés de plein
-droit à la communauté de villes, dès son institution, dans la mesure où ils sont nécessaires à l'exercice des compétences de
-la communauté.
-
-Le transfert définitif de propriété ainsi que des droits et obligations attachés aux biens transférés est opéré par accord
-amiable.
-
-A défaut d'accord amiable, un décret en Conseil d'Etat, pris après avis d'une commission dont la composition est fixée par
-arrêté du ministre de l'intérieur et qui comprend notamment des maires et des conseillers généraux, procède au transfert
-définitif de propriété au plus tard un an après les transferts de compétences à la communauté.
-
-Les transferts de biens, droits et obligations prévus aux alinéas précédents ne donnent pas lieu à indemnité, droit, taxe,
-salaire ou honoraires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-6 ecqc L165-21
-	  - CODE DES COMMUNES. - art. L168-6 (Ab)
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1043 (M)
-	  - Code général des collectivités territoriales - art. L5216-29 (Ab)
-
-
-###### Article L5216-24
-
-- Un décret en Conseil d'Etat fixe les conditions dans lesquelles sont achevées les opérations décidées par les communes, les
-syndicats de communes ou les districts avant le transfert de compétences, notamment en ce qui concerne le financement de ces
-opérations.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-6 ecqc L165-23
-	  - CODE DES COMMUNES. - art. L168-6 (Ab)
-
-
-##### Section 5 : Dispositions financières.
-
-###### Article L5216-25
-
-- Les recettes du budget de la communauté de villes comprennent :
-
-1° Les ressources fiscales mentionnées aux articles 1609 nonies C et 1609 nonies D du code général des impôts ;
-
-2° Le revenu des biens, meubles ou immeubles, de la communauté de villes ;
-
-3° Les sommes qu'elle reçoit des administrations publiques, des associations, des particuliers, en échange d'un service
-rendu ;
-
-4° Les subventions de l'Etat, de la région, du département et des communes ;
-
-5° Le produit des dons et legs ;
-
-6° Le produit des taxes, redevances et contributions correspondant aux services assurés ;
-
-7° Le produit des emprunts ;
-
-8° Le produit du versement destiné aux transports en commun prévu à l'article L. 2333-64 , lorsque la communauté est
-compétente pour l'organisation des transports urbains.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1609 nonies C, 1609 nonies D
-	  - Code général des collectivités territoriales - art. L2333-64 (M)
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. L259-2 (Ab)
-
-
-###### Article L5216-26
-
-- A compter de la date du transfert de compétences à la communauté de villes, celle-ci prend en charge le service de la dette
-des communes, syndicats de communes ou districts compris dans l'agglomération, ainsi que les obligations de ces collectivités
-ou établissements publics à raison des compétences transférées.
-
-Le montant des annuités de remboursement des emprunts constitue une dépense obligatoire pour la communauté de villes.
-
-Les garanties accordées et les subventions en annuités attribuées par les départements en faveur des communes ou groupements
-pour la réalisation d'ouvrages faisant l'objet d'un transfert se trouvent reportées sur la communauté de villes malgré toutes
-dispositions conventionnelles contraires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-6 ecqc L165-22
-	  - CODE DES COMMUNES. - art. L168-6 (Ab)
-
-
-##### Section 6 : Modifications
-
-##### Sous-section 1 : Admission de nouvelles communes.
-
-###### Article L5216-27
-
-- Le périmètre de l'agglomération dans laquelle la communauté de villes exerce ses compétences peut être ultérieurement
-étendu, par arrêté du représentant de l'Etat dans le département, par adjonction de communes nouvelles, soit à la demande de
-leurs conseils municipaux, soit sur l'initiative du conseil de communauté.
-
-La modification est subordonnée dans le premier cas à l'accord du conseil de communauté et dans le second cas à celui du ou
-des conseils municipaux intéressés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - Code des communes L168-6 ecqc L165-6
-	  - CODE DES COMMUNES. - art. L168-6 (Ab)
-
-
-##### Sous-section 2 : Compétences supplémentaires.
-
-###### Article L5216-28
-
-- Les communes membres de la communauté de villes peuvent, à tout moment, transférer en tout ou partie à cette dernière
-certaines de leurs compétences et les équipements ou services publics utiles à l'exercice de celles-ci.
-
-Ces transferts de compétences, d'équipements ou de services publics sont décidés par délibérations concordantes du conseil de
-communauté et de la majorité qualifiée des conseils municipaux des communes membres définie au second alinéa de l'article L.
-5216-2.
-
-Les délibérations ultérieures qui procèdent à des transferts de compétences déterminent les conditions financières et
-patrimoniales de ces transferts, notamment en ce qui concerne les emprunts antérieurement contractés par les communes
-intéressées, ainsi que l'affectation des personnels.
-
-Ces délibérations déterminent en outre les règles de partage de compétences entre communes et communauté en matière
-d'acquisitions foncières par préemption, de réalisation d'opérations de logements ou d'activités économiques, de charge
-d'équipement de ces zones et de voirie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. 11 (Ab)
-	  - Code des communes L168-4 al. 10, 11, 12 et 13 (sauf Moselle, Bas- Rhin et Haut-Rhin) ecqc les transferts de compétences
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5216-2 (Ab)
-
-
-##### Section 7 : Dissolution.
-
-###### Article L5216-29
-
-- La communauté de villes peut être dissoute sur la demande des conseils municipaux des communes qu'elle rassemble, statuant
-à la majorité des deux tiers au moins des conseils municipaux des communes intéressées représentant plus des trois quarts de
-la population totale de celles-ci, ou des trois quarts des conseils municipaux des communes intéressées représentant plus des
-deux tiers de la population totale, cette majorité devant nécessairement comprendre les conseils municipaux des communes dont
-la population totale est supérieure au quart de la population totale concernée.
-
-La dissolution est prononcée par décret en conseil des ministres.
-
-Un décret en Conseil d'Etat détermine, sous réserve du droit des tiers, les conditions dans lesquelles la communauté est
-liquidée ; il fixe notamment les conditions dans lesquelles s'opère le transfert des biens, droits et obligations, après
-l'avis d'une commission composée comme il est dit à l'article L. 5216-23.
-
-Les personnels de la communauté sont répartis entre les communes membres ou leurs éventuels organismes de coopération, par
-une commission présidée par le président de la commission nationale paritaire du personnel communal, sans qu'il puisse être
-procédé à un dégagement des cadres et en tenant compte de leurs droits acquis. Les communes ou leurs éventuels organismes de
-coopération attributaires supportent les charges financières correspondantes.
-
-Un décret en Conseil d'Etat fixe les conditions et les modalités de cette répartition ainsi que la composition de cette
-commission.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°99-586 du 12 juillet 1999 - art. 1 ()
-
-	**Anciens textes**:
-
-	  - CODE DES COMMUNES. - art. 3 (Ab)
-	  - Code des communes L168-6 ecqc L165-38 al. 2, 3, 4 et 5
-	  - CODE DES COMMUNES. - art. L168-6 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L5216-23 (Ab)
 
 
 #### TITRE II : AUTRES FORMES DE COOPÉRATION INTERCOMMUNALE
@@ -63148,11 +61997,8 @@ Le comité du syndicat est installé dans le délai d'un mois à compter de la c
 
 ###### Article L5332-3
 
-- Une commune peut, sur sa demande, être admise à faire partie du syndicat d'agglomération nouvelle.
-
-Par dérogation aux dispositions de l'article L. 5212-26, la décision d'admission est prise par décret en Conseil d'Etat, sur
-proposition du représentant de l'Etat dans le département, après avis conforme du comité syndical et de la majorité des
-conseils municipaux des communes membres représentant au moins la moitié de la population.
+Une commune peut, sur sa demande, être admise à faire partie du syndicat d'agglomération nouvelle dans les conditions prévues
+à l'article L. 5211-18.
 
 **Liens relatifs à cet article**
 
@@ -63163,19 +62009,23 @@ conseils municipaux des communes membres représentant au moins la moitié de la
 
 	**Codifié par**:
 
-	  - Loi n°96-142 1996-02-21
+	  - Loi n°96-142 du 21 février 1996
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 49 (V)
 
 	**Cité par**:
 
 	  - Loi n°99-586 du 12 juillet 1999 - art. 49 (V)
 
+	**Abrogé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
+
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5212-26 (Ab)
+	  - Code général des collectivités territoriales - art. L5211-18
 
 
 ###### Article L5332-4
@@ -63205,7 +62055,7 @@ l'objet d'une convention entre l'Etat, le syndicat d'agglomération nouvelle et 
 
 ###### Article L5332-5
 
-- Par dérogation aux dispositions de l'article L. 5212-28, la décision de retrait d'une commune membre du syndicat
+Par dérogation aux dispositions de l'article L. 5211-19, la décision de retrait d'une commune membre du syndicat
 d'agglomération nouvelle est prise par décret en Conseil d'Etat, sur proposition du représentant de l'Etat dans le
 département, après avis conforme du comité syndical et des conseils municipaux des communes membres obtenu à la majorité des
 deux tiers de ceux-ci, représentant plus de la moitié de la population ou la moitié des conseils municipaux représentant plus
@@ -63220,15 +62070,19 @@ des deux tiers de la population.
 
 	**Codifié par**:
 
-	  - Loi n°96-142 1996-02-21
+	  - Loi n°96-142 du 21 février 1996
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 38 ()
+
+	**Abrogé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 44 (VD)
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5212-28 (Ab)
+	  - Code général des collectivités territoriales - art. L5211-19
 
 
 ##### CHAPITRE III : Compétences et pouvoirs de la communauté d'agglomération nouvelle et du syndicat d'agglomération nouvelle
@@ -63332,25 +62186,25 @@ d'utilisation du sol. Il en est de même dès que la conformité d'une opératio
 
 ###### Article L5333-4
 
-- Les communes gèrent les équipements, à l'exception de ceux qui sont reconnus d'intérêt commun et qui sont à ce titre créés
-et gérés par la communauté ou le syndicat d'agglomération nouvelle.
+Les communes gèrent les équipements ainsi que les services publics qui leur sont attachés, à l'exception de ceux qui sont
+reconnus d'intérêt commun et qui sont à ce titre créés et gérés par la communauté ou le syndicat d'agglomération nouvelle. 
 
 Un inventaire des équipements existants ou en voie de réalisation est dressé lors de la création de la communauté ou du
 syndicat d'agglomération nouvelle ; les conseils municipaux se prononcent à la majorité des deux tiers de ceux-ci
 représentant plus de la moitié de la population ou la moitié des conseils municipaux représentant plus des deux tiers de la
 population dans un délai de quatre mois à compter de la date de l'arrêté pris par le représentant de l'Etat dans le
 département en application du septième alinéa de l'article L. 5321-1 sur la liste des équipements reconnus d'intérêt commun
-lors de l'établissement de cet inventaire qui est constaté par un arrêté du représentant de l'Etat dans le département.
-L'inventaire est renouvelé après chaque renouvellement des conseils municipaux dans les conditions prévues pour son
-établissement initial. Dans le cas de transferts d'équipements lors du renouvellement de l'inventaire, les conséquences
+lors de l'établissement de cet inventaire qui est constaté par un arrêté du représentant de l'Etat dans le
+département.L'inventaire est renouvelé après chaque renouvellement des conseils municipaux dans les conditions prévues pour
+son établissement initial. Dans le cas de transferts d'équipements lors du renouvellement de l'inventaire, les conséquences
 financières de ces transferts sont fixées par une convention signée entre la communauté ou le syndicat d'agglomération
 nouvelle et la ou les communes membres concernées et approuvée à la majorité des deux tiers des membres du conseil
-d'agglomération ou du comité syndical.
+d'agglomération ou du comité syndical. 
 
 Les équipements dont la réalisation est décidée par la communauté ou le syndicat d'agglomération nouvelle, postérieurement à
 l'établissement de cet inventaire, peuvent être ajoutés à la liste des équipements reconnus d'intérêt commun par délibération
 de la communauté ou du syndicat adoptée à la majorité des deux tiers au moment de la première inscription budgétaire les
-concernant.
+concernant. 
 
 Si un équipement de nature intercommunale n'est pas porté sur la liste des équipements reconnus d'intérêt commun, faute de la
 majorité qualifiée prévue aux deux alinéas précédents, la commune à qui en revient la gestion peut demander qu'il soit ajouté
@@ -63368,9 +62222,9 @@ d'agglomération ou du comité du syndicat.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 49 (V)
 
 	**Cité par**:
 
@@ -63381,6 +62235,43 @@ d'agglomération ou du comité du syndicat.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L5321-1 (V)
+
+
+###### Article L5333-4-1
+
+Les communes membres d'un syndicat d'agglomération nouvelle ou d'une communauté d'agglomération nouvelle peuvent à tout
+moment transférer à ce syndicat ou à cette communauté tout ou partie des compétences visées à l'article L. 5216-5 dont le
+transfert n'est pas prévu par les articles L. 5333-1 à L. 5333-4, ainsi que les biens, équipements ou services publics
+nécessaires à l'exercice de ces compétences.
+
+Ces transferts sont décidés par délibérations concordantes du comité du syndicat d'agglomération nouvelle ou du conseil de la
+communauté d'agglomération nouvelle et des conseils municipaux se prononçant à une majorité des deux tiers au moins des
+conseils municipaux des communes intéressées représentant plus de la moitié de la population totale de celles-ci, ou par la
+moitié au moins des conseils municipaux des communes représentant les deux tiers de la population. Cette majorité doit
+nécessairement comprendre la commune dont la population est supérieure à la moitié de la population totale concernée ou, à
+défaut, la commune dont la population est la plus importante. Le conseil municipal de chaque commune dispose d'un délai de
+trois mois à compter de la notification au maire de la commune de la délibération du comité du syndicat d'agglomération
+nouvelle ou du conseil de la communauté d'agglomération pour se prononcer sur les transferts proposés. A défaut de
+délibération dans ce délai, sa décision est réputée favorable.
+
+Les transferts s'effectuent dans les conditions financières et patrimoniales prévues aux trois derniers alinéas de l'article
+L. 5211-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 48 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-17 (M)
+	  - Code général des collectivités territoriales - art. L5216-5 (Ab)
+	  - Code général des collectivités territoriales L5216-5, L5333-1 à L5333-4, L5211-17
 
 
 ###### Article L5333-5
@@ -64003,19 +62894,15 @@ taxe professionnelle et l'exercice 1992 s'entend du deuxième exercice au titre 
 
 ###### Article L5334-12
 
-- Si, du fait de l'application des dispositions des articles 1636 B sexies et 1636 B septies du code général des impôts, les
+Si, du fait de l'application des dispositions des articles 1636 B sexies et 1636 B septies du code général des impôts, les
 ressources propres de la communauté ou du syndicat d'agglomération nouvelle, à l'exclusion du produit des emprunts, sont
 insuffisantes pour couvrir la charge de la dette et les autres dépenses obligatoires, notamment la dotation d'équilibre
-servie aux communes en vertu de l'article précédent, la communauté ou le syndicat d'agglomération nouvelle peut prélever une
+servie aux communes en vertu de l'article L. 5334-6, la communauté ou le syndicat d'agglomération nouvelle peut prélever une
 taxe additionnelle sur les taxes foncières et sur la taxe d'habitation, sous réserve que les rapports entre les taux de ces
 trois taxes soient égaux aux rapports constatés, l'année précédente, entre les taux moyens pondérés de chaque taxe dans
 l'ensemble des communes membres.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1636 B sexies, 1636 B septies
 
 	**Anciens textes**:
 
@@ -64026,9 +62913,14 @@ l'ensemble des communes membres.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 110 ()
+
+	**Cite**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1636 B septies (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1636 B sexies (V)
 
 
 ###### Article L5334-13
@@ -64387,38 +63279,40 @@ terminées.
 
 ###### Article L5341-2
 
-- Dans les deux mois suivant la date de publication du décret prévu à l'article L. 5341-1 ci-dessus, une ou plusieurs
-communes peuvent adresser au représentant de l'Etat dans le département une demande de retrait du syndicat d'agglomération
-nouvelle ou de la communauté d'agglomération nouvelle. Dans le même délai et selon la même procédure, une ou plusieurs
-communes limitrophes peuvent demander leur admission dans le syndicat ou la communauté d'agglomération nouvelle.
+Dans les six mois suivant la date de publication du décret prévu à l'article L. 5341-1, un syndicat d'agglomération nouvelle
+ou une communauté d'agglomération nouvelle qui remplit les conditions fixées à l'article L. 5216-1 peut être transformé en
+communauté d'agglomération par décision prise à la majorité des deux tiers au moins des membres du comité du syndicat
+d'agglomération nouvelle ou du conseil d'agglomération nouvelle lorsque le syndicat ou la communauté exerce les compétences
+prévues à l'article L. 5216-5. Dans le cas contraire, cette transformation peut être décidée à la majorité qualifiée prévue
+au II de l'article L. 5211-5, sur proposition du comité du syndicat d'agglomération nouvelle ou du conseil de la communauté
+d'agglomération nouvelle adressée au représentant de l'Etat dans le département lorsque les communes font partie du même
+département ou aux représentants de l'Etat dans les départements concernés dans le cas contraire. Le conseil municipal de
+chaque commune membre dispose d'un délai de trois mois, à compter de la notification au maire de la commune de la
+délibération du comité du syndicat d'agglomération nouvelle ou du conseil de la communauté d'agglomération nouvelle par le ou
+les représentants de l'Etat dans le ou les départements concernés, pour se prononcer sur cette proposition. A défaut de cette
+délibération dans ce délai, sa décision est réputée favorable.
 
-Le comité du syndicat d'agglomération nouvelle ou le conseil d'agglomération ainsi que les conseils municipaux des communes
-membres du syndicat ou de la communauté disposent d'un délai de six mois courant à compter de la même date pour se prononcer
-sur le retrait ou l'admission et sur leurs conditions financières et patrimoniales.
+La transformation du syndicat d'agglomération nouvelle ou de la communauté d'agglomération nouvelle est prononcée par arrêté
+du représentant de l'Etat dans le département ou par arrêté conjoint des représentants de l'Etat dans les départements
+concernés. La transformation n'entraîne pas création d'une nouvelle personne morale. Cette transformation est sans effet sur
+les compétences exercées au lieu et place des communes à la date de la transformation, ou en leur nom par voie de convention
+à la même date, et qui ne sont pas visées au I et au II de l'article L. 5216-5. L'ensemble des biens, droits et obligations
+du syndicat d'agglomération nouvelle ou de la communauté d'agglomération nouvelle est transféré à la communauté
+d'agglomération, qui est substituée de plein droit au syndicat d'agglomération nouvelle ou à la communauté d'agglomération
+nouvelle dans toutes les délibérations et tous les actes de ce dernier à la date de l'arrêté de transformation. L'ensemble
+des personnels du syndicat d'agglomération nouvelle ou de la communauté d'agglomération nouvelle est réputé relever de la
+communauté d'agglomération dans les conditions de statut et d'emploi qui sont les siennes. Sans préjudice des dispositions
+des articles L. 2121-33 et L. 2122-10, les délégués des communes au comité du syndicat d'agglomération nouvelle ou au conseil
+de la communauté d'agglomération nouvelle conservent leur mandat, pour la durée de celui-ci restant à courir, à l'organe
+délibérant de la communauté d'agglomération.
 
-Si le comité du syndicat d'agglomération ainsi que les deux tiers des conseils municipaux des communes membres représentant
-plus des trois quarts de la population ou les trois quarts des conseils municipaux représentant plus des deux tiers de la
-population ont donné leur accord, le retrait ou l'admission est constaté par le représentant de l'Etat dans le département.
+En cas de rejet de la proposition du comité du syndicat d'agglomération nouvelle ou du conseil de la communauté
+d'agglomération nouvelle, le syndicat ou la communauté d'agglomération nouvelle continue d'être régi par les dispositions du
+titre III du présent livre.
 
-Par le même acte, le représentant de l'Etat dans le département peut modifier les limites territoriales des communes avec
-l'accord des conseils municipaux de ces communes ainsi que du comité du syndicat ou du conseil d'agglomération.
-
-Si la modification des limites territoriales des communes affecte celles des cantons, cette modification ainsi que la
-décision de retrait ou d'admission sont prises par décret en Conseil d'Etat.
-
-A l'issue de la procédure de retrait ou d'admission ou, à défaut, à l'expiration du délai mentionné au premier alinéa, le
-syndicat d'agglomération nouvelle ou la communauté d'agglomération nouvelle prend la dénomination de syndicat d'agglomération
-ou de communauté d'agglomération.
-
-Les conseils municipaux des communes membres du syndicat d'agglomération ou de la communauté d'agglomération peuvent, à la
-majorité des deux tiers de ceux-ci, représentant plus de la moitié de la population ou la moitié des conseils municipaux
-représentant plus des deux tiers de la population, opter pour la transformation du syndicat d'agglomération en communauté
-d'agglomération ou pour la transformation de la communauté d'agglomération en syndicat d'agglomération.
-
-Cette option peut être exercée soit dans un délai de trois mois à compter de la décision de retrait ou d'admission ou, si le
-représentant de l'Etat dans le département n'a pas été saisi d'une telle demande, dans un délai d'un an à compter de la
-publication du décret prévu à l'article L. 5341-1, soit dans un délai de trois mois suivant un renouvellement général des
-conseils municipaux.
+Le périmètre d'urbanisation prévu à l'article L. 5311-2 est abrogé, par arrêté du représentant de l'Etat dans le département,
+à la date de transformation du syndicat d'agglomération nouvelle ou de la communauté d'agglomération nouvelle en communauté
+d'agglomération.
 
 **Liens relatifs à cet article**
 
@@ -64431,9 +63325,9 @@ conseils municipaux.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 59 ()
 
 	**Cité par**:
 
@@ -64446,7 +63340,44 @@ conseils municipaux.
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L2121-33 (V)
+	  - Code général des collectivités territoriales - art. L2122-10 (M)
+	  - Code général des collectivités territoriales - art. L5211-5 (M)
+	  - Code général des collectivités territoriales - art. L5216-1 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-5 (Ab)
+	  - Code général des collectivités territoriales - art. L5311-2 (V)
 	  - Code général des collectivités territoriales - art. L5341-1 (M)
+
+
+###### Article L5341-3
+
+Le périmètre d'une agglomération nouvelle dont les opérations de construction et d'aménagement sont déclarées terminées
+conformément à l'article L. 5341-1 et dont le comité du syndicat ou le conseil de la communauté d'agglomération nouvelle
+propose la transformation en communauté d'agglomération en application de l'article L. 5341-2 peut être étendu dans les
+conditions prévues aux trois premiers alinéas de l'article L. 5211-41-1. A cette fin, la proposition de transformation du
+comité du syndicat d'agglomération nouvelle ou du conseil de la communauté d'agglomération nouvelle et le projet d'extension
+du périmètre arrêté par le ou les représentants de l'Etat dans le ou les départements concernés font l'objet de la même
+notification aux communes membres du syndicat.
+
+Les communes auxquelles le périmètre a été étendu sont représentées à l'organe délibérant de la communauté d'agglomération
+dans les mêmes conditions que les autres communes jusqu'au renouvellement général des conseils municipaux qui suit la
+transformation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 60 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-41-1 (M)
+	  - Code général des collectivités territoriales - art. L5341-1 (M)
+	  - Code général des collectivités territoriales - art. L5341-2 (M)
 
 
 #### TITRE V : DISPOSITIONS D'APPLICATION
@@ -65172,14 +64103,14 @@ Les lieux de mise à disposition du public sont le siège de l'établissement et
 
 ### LIVRE VII : SYNDICAT MIXTE
 
-#### TITRE Ier : SYNDICAT MIXTE ASSOCIANT EXCLUSIVEMENT DES COMMUNES, DES SYNDICATS DE COMMUNES OU DES DISTRICTS
+#### TITRE IER : SYNDICAT MIXTE ASSOCIANT EXCLUSIVEMENT DES COMMUNES ET DES ETABLISSEMENTS PUBLICS DE COOPERATION INTERCOMMUNALE
 
 ##### CHAPITRE unique.
 
 ###### Article L5711-1
 
-- Les syndicats mixtes constitués exclusivement de communes, de syndicats de communes ou de districts sont soumis aux
-dispositions des chapitres Ier et II du titre Ier du livre II de la présente partie.
+- Les syndicats mixtes constitués exclusivement de communes et d'établissements publics de coopération intercommunale sont
+soumis aux dispositions des chapitres Ier et II du titre Ier du livre II de la présente partie.
 
 **Liens relatifs à cet article**
 
@@ -65236,9 +64167,9 @@ dispositions des chapitres Ier et II du titre Ier du livre II de la présente pa
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 24 ()
 
 
 #### TITRE II : SYNDICAT MIXTE ASSOCIANT DES COLLECTIVITÉS TERRITORIALES, DES GROUPEMENTS DE COLLECTIVITÉS TERRITORIALES ET D'AUTRES PERSONNES MORALES DE DROIT PUBLIC
@@ -65286,12 +64217,20 @@ Le syndicat mixte est un établissement public.
 ###### Article L5721-2
 
 - Un syndicat mixte peut être constitué par accord entre des institutions d'utilité commune interrégionales, des régions, des
-ententes ou des institutions interdépartementales, des départements, des communautés de villes, des communautés de communes,
-des communautés urbaines, des districts, des syndicats de communes, des communes, des chambres de commerce et d'industrie,
-d'agriculture, de métiers et d'autres établissements publics, en vue d'oeuvres ou de services présentant une utilité pour
-chacune de ces personnes morales.
+ententes ou des institutions interdépartementales, des départements, des établissements publics de coopération
+intercommunale, des communes, des chambres de commerce et d'industrie, d'agriculture, de métiers et d'autres établissements
+publics, en vue d'oeuvres ou de services présentant une utilité pour chacune de ces personnes morales.
 
 Le syndicat mixte doit comprendre au moins une collectivité territoriale ou un groupement de ces collectivités.
+
+Pour tout syndicat mixte créé à compter du renouvellement général des conseils municipaux qui suit la publication de la loi
+n° 99-586 du 12 juillet 1999 relative au renforcement et à la simplification de la coopération intercommunale, le nombre de
+sièges détenus au sein du comité syndical par chaque collectivité territoriale ou établissement public membre du syndicat
+mixte est proportionnel à la contribution de cette collectivité ou de cet établissement au budget de ce syndicat.
+
+Le nombre de sièges détenus par chaque collectivité territoriale ou établissement public au sein du comité syndical d'un
+syndicat mixte ne peut excéder la majorité absolue du nombre total des sièges. Pour les syndicats mixtes existants, cette
+disposition prend effet à compter du 1er janvier 2002.
 
 La création du syndicat mixte est autorisée par arrêté du représentant de l'Etat dans le département siège du syndicat.
 
@@ -65337,9 +64276,14 @@ La décision d'autorisation approuve les modalités de fonctionnement du syndica
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Cite**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 1999-07-12
+
+	**Modifié par**:
+
+	  - Loi n°99-586 1999-07-12 art. 21, 28 jorf 13 juillet 1999
+	  - Loi n°99-586 du 12 juillet 1999 - art. 21 ()
 
 	**Anciens textes**:
 
@@ -65380,8 +64324,11 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 ###### Article L5721-4
 
-- Les dispositions du titre III du livre Ier de la troisième partie relatives au contrôle de légalité et au caractère
+Les dispositions du titre III du livre Ier de la troisième partie relatives au contrôle de légalité et au caractère
 exécutoire des actes des autorités départementales sont applicables aux syndicats mixtes régis par le présent titre.
+
+Leur sont également applicables les dispositions des chapitres II et VII du titre unique du livre VI de la première partie
+relatives au contrôle budgétaire et aux comptables publics.
 
 **Liens relatifs à cet article**
 
@@ -65403,9 +64350,9 @@ exécutoire des actes des autorités départementales sont applicables aux syndi
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 30 ()
 
 
 ###### Article L5721-5
@@ -65466,6 +64413,126 @@ peut l'obtenir à ses frais, aussi bien du président de l'établissement public
 	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 
+###### Article L5721-6-1
+
+Le transfert de compétences à un syndicat mixte entraîne de plein droit l'application à l'ensemble des biens, équipements et
+services publics nécessaires à leur exercice, ainsi qu'à l'ensemble des droits et obligations qui leur sont attachés à la
+date du transfert : 
+
+1° Au moment de la création du syndicat : des dispositions des trois premiers alinéas de l'article L. 1321-1, des deux
+premiers alinéas de l'article L. 1321-2 et des articles L. 1321-3, L. 1321-4 et L. 1321-5. 
+
+Toutefois, lorsque le syndicat mixte est compétent en matière de zones d'activité économique, les conditions financières et
+patrimoniales du transfert des biens immobiliers nécessaires à l'exercice de cette compétence sont décidées par accord entre
+les collectivités territoriales et les établissements publics de coopération intercommunale qui participent à la création du
+syndicat. L'affectation des personnels est décidée dans les mêmes conditions. 
+
+Le syndicat mixte est substitué de plein droit, à la date du transfert des compétences, aux collectivités territoriales et
+établissements publics de coopération intercommunale dans toutes leurs délibérations et tous leurs actes. Les contrats sont
+exécutés dans les conditions antérieures jusqu'à leur échéance, sauf accord contraire des parties. La substitution de
+personne morale aux contrats conclus par les collectivités et établissements n'entraîne aucun droit à résiliation ou à
+indemnisation pour le cocontractant. La collectivité ou l'établissement qui transfère la compétence informe les
+cocontractants de cette substitution ; 
+
+2° En cas d'extension ultérieure des compétences ou du périmètre du syndicat : des dispositions des premier et dernier
+alinéas du 1° du présent article. 
+
+Toutefois, lorsque le syndicat mixte est compétent en matière de zones d'activité économique, les conditions financières et
+patrimoniales du transfert des biens immobiliers nécessaires à l'exercice de cette compétence sont décidées dans les
+conditions fixées par les statuts du syndicat et, à défaut, par délibérations concordantes du comité du syndicat mixte et des
+organes délibérants des collectivités et établissements publics de coopération intercommunale membres. L'affectation des
+personnels est décidée dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 25 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1321-1 (V)
+	  - Code général des collectivités territoriales - art. L1321-2 (V)
+	  - Code général des collectivités territoriales - art. L1321-3 (V)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L5721-9 (V)
+
+
+###### Article L5721-6-2
+
+Le retrait d'un syndicat mixte ou, lorsque les statuts du syndicat le permettent, le retrait d'une ou plusieurs compétences
+transférées à un syndicat mixte, s'effectue dans les conditions fixées à l'article L. 5211-25-1. Lorsque les biens meubles et
+immeubles ont été acquis ou réalisés ou lorsque la dette a été contractée, postérieurement au transfert de compétences, la
+répartition de ces biens ou du produit de leur réalisation ainsi que celle du solde de l'encours de la dette est fixée, à
+défaut d'accord, par arrêté du ou des représentants de l'Etat dans le ou les départements concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 26 ()
+
+	**Cité par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 22 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-25-1 (V)
+
+
+###### Article L5721-6-3
+
+Une commune peut être autorisée par le représentant de l'Etat dans le département, après avis de la commission départementale
+de la coopération intercommunale réunie dans la formation prévue au second alinéa, à se retirer d'un syndicat mixte pour
+adhérer à une communauté de communes ou, lorsque les statuts du syndicat le permettent, à lui retirer une ou plusieurs
+compétences qu'elle lui a transférées pour les transférer à la communauté de communes dont elle est membre, dans les
+conditions prévues aux deuxième à quatrième alinéas de l'article L. 5212-29. L'avis de la commission départementale de la
+coopération intercommunale est réputé négatif s'il n'a pas été rendu à l'issue d'un délai de deux mois. 
+
+La commission départementale de la coopération intercommunale est consultée en formation restreinte composée du quart des
+membres élus par le collège visé au 1° de l'article L. 5211-43, dont deux membres issus des conseils municipaux des communes
+de moins de 2 000 habitants, du quart des membres élus par le collège visé au 2° de l'article L. 5211-43, d'un représentant
+du conseil général lorsque le département est membre du syndicat et d'un représentant du conseil régional lorsque la région
+est membre du syndicat.
+
+**Nota:**
+
+
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 22 (Ab)
+	  - Loi n°99-586 du 12 juillet 1999 - art. 112 (V)
+	  - CODE DES COMMUNES. - art. R*166-2 (Ab)
+	  - Code général des collectivités territoriales - art. L5843-2 (V)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°99-586 du 12 juillet 1999 - art. 27 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-43 (V)
+	  - Code général des collectivités territoriales - art. L5212-29 (V)
+
+
 ###### Article L5721-7
 
 - Le syndicat mixte est dissous de plein droit soit à l'expiration de la durée pour laquelle il a été institué, soit à la fin
@@ -65478,31 +64545,40 @@ Toutefois, lorsque la demande de dissolution du syndicat mixte est présentée �
 sous la réserve des droits des tiers, les conditions dans lesquelles le syndicat est liquidé, la dissolution du syndicat
 mixte est prononcée par arrêté du représentant de l'Etat dans le département siège du syndicat.
 
+Le décret ou l'arrêté détermine, dans le respect du droit des tiers et des dispositions de l'article L. 5211-25-1, les
+conditions de liquidation du syndicat.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 29 ()
 
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L166-4 (M)
 	  - CODE DES COMMUNES. - art. L166-4 (Ab)
 
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L5211-25-1 (M)
+
 
 ##### CHAPITRE II : Dispositions financières
 
 ###### Article L5722-1
 
-- Les dispositions du livre III de la deuxième partie sont applicables au syndicat mixte sous réserve des dispositions des
-articles ci-après.
+Les dispositions du livre III de la deuxième partie et celles des articles L. 3312-1, L. 3312-2 et L. 3341-1 sont applicables
+aux syndicats mixtes mentionnés à l'article L. 5721-2 sous réserve des dispositions des articles ci-après.
 
-Pour l'application des articles L. 2312-1 et L. 2313-1, les lieux de mise à la disposition du public des documents
-budgétaires sont le siège de l'établissement ainsi que les mairies des communes membres du syndicat mixte.
+Les dispositions de l'article L. 2313-1 s'appliquent aux syndicats mixtes mentionnés à l'article L. 5721-2. Les documents
+budgétaires sont mis à la disposition du public au siège de l'établissement et des mairies concernées. Lorsque les syndicats
+mixtes comprennent au moins un département ou une région, les documents budgétaires sont également consultables au siège des
+conseils généraux et des conseils régionaux intéressés.
 
 **Liens relatifs à cet article**
 
@@ -65522,14 +64598,17 @@ budgétaires sont le siège de l'établissement ainsi que les mairies des commun
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 30 ()
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2312-1 (M)
 	  - Code général des collectivités territoriales - art. L2313-1 (M)
+	  - Code général des collectivités territoriales - art. L3312-1 (M)
+	  - Code général des collectivités territoriales - art. L3312-2 (M)
+	  - Code général des collectivités territoriales - art. L3341-1 (V)
+	  - Code général des collectivités territoriales - art. L5721-2 (M)
 
 
 ###### Article L5722-2
@@ -65629,8 +64708,8 @@ taux. La redevance est perçue à son profit.
 
 ###### Article L5722-6
 
-- Les syndicats mixtes qui ne comprennent que des collectivités territoriales ou leurs groupements à fiscalité propre peuvent
-également instituer, dans les conditions prévues à l'article L. 5211-27, la taxe de séjour ou la taxe de séjour forfaitaire
+Les syndicats mixtes qui ne comprennent que des collectivités territoriales ou leurs groupements à fiscalité propre peuvent
+également instituer, dans les conditions prévues à l'article L. 5211-21, la taxe de séjour ou la taxe de séjour forfaitaire
 lorsqu'ils réalisent des actions de promotion en faveur du tourisme ou, dans la limite de leurs compétences, des actions de
 protection et de gestion de leurs espaces naturels.
 
@@ -65640,9 +64719,9 @@ protection et de gestion de leurs espaces naturels.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 90 ()
 
 	**Cité par**:
 
@@ -65663,7 +64742,7 @@ protection et de gestion de leurs espaces naturels.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5211-27 (T)
+	  - Code général des collectivités territoriales - art. L5211-21 (V)
 
 
 ### LIVRE VIII : DISPOSITIONS PARTICULIÈRES
@@ -65674,9 +64753,9 @@ protection et de gestion de leurs espaces naturels.
 
 ###### Article L5811-1
 
-- Les renvois faits par les articles L. 1612-20, L. 5211-3, L. 5211-4 et L. 5212-1 à L. 5212-4, en tant qu'ils concernent les
-syndicats de communes, s'entendent comme visant les dispositions du titre IV du livre V de la deuxième partie, notamment en
-ce qui concerne la comptabilité et les règles de contrôle.
+Les renvois faits par les articles L. 1612-20, L. 5211-3, L. 5211-4 et L. 5212-1 à L. 5212-2 et L. 5212-4, en tant qu'ils
+concernent les syndicats de communes, s'entendent comme visant les dispositions du titre IV du livre V de la deuxième partie,
+notamment en ce qui concerne la comptabilité et les règles de contrôle. 
 
 Les dispositions qui précèdent sont applicables aux syndicats de communes dont le siège se trouve dans le département de la
 Moselle, du Bas-Rhin ou du Haut-Rhin, même s'ils comprennent des communes d'autres départements.
@@ -65687,9 +64766,9 @@ Moselle, du Bas-Rhin ou du Haut-Rhin, même s'ils comprennent des communes d'aut
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 35 ()
 
 	**Anciens textes**:
 
@@ -65699,9 +64778,10 @@ Moselle, du Bas-Rhin ou du Haut-Rhin, même s'ils comprennent des communes d'aut
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L1612-20 (V)
-	  - Code général des collectivités territoriales - art. L5211-3 (M)
-	  - Code général des collectivités territoriales - art. L5211-4 (M)
-	  - Code général des collectivités territoriales L1612-20, L5211-3, L5211-4, L5212-1 à L5212-4
+	  - Code général des collectivités territoriales - art. L5211-3 (V)
+	  - Code général des collectivités territoriales - art. L5211-4 (V)
+	  - Code général des collectivités territoriales - art. L5212-1 (V)
+	  - Code général des collectivités territoriales - art. L5212-4 (V)
 
 
 ##### CHAPITRE II : Communauté de communes.
@@ -65788,10 +64868,13 @@ deuxième partie et les autres lois locales maintenues en vigueur.
 
 ###### Article L5814-1
 
-- Pour son application aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin, le II de l'article L.
-5216-16 est complété par un 5° ainsi rédigé :
+Pour son application aux communes des départements de la Moselle, du Bas-Rhin et du Haut-Rhin, le II de l'article L. 5216-5
+est complété par un 6° ainsi rédigé : 
 
-" 5° Construction et entretien des bâtiments affectés aux cultes dont les ministres sont salariés par l'Etat. "
+" 6° Construction et entretien des bâtiments affectés aux cultes dont les ministres sont salariés par l'Etat. 
+
+" Dans ce cas, la communauté d'agglomération doit exercer, au lieu et place des communes, au moins quatre compétences sur
+six."
 
 **Liens relatifs à cet article**
 
@@ -65799,9 +64882,9 @@ deuxième partie et les autres lois locales maintenues en vigueur.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 3 ()
 
 	**Anciens textes**:
 
@@ -65810,7 +64893,7 @@ deuxième partie et les autres lois locales maintenues en vigueur.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5216-16 (Ab)
+	  - Code général des collectivités territoriales - art. L5216-5 (V)
 
 
 ##### CHAPITRE V : Entente, convention et conférence intercommunales.
@@ -65873,8 +64956,8 @@ l'alinéa précédent.
 
 ###### Article L5816-1
 
-- Les dispositions des articles L. 5222-1 et L. 5222-3 ne sont pas applicables aux communes des départements de la Moselle,
-du Bas-Rhin et du Haut-Rhin.
+Les dispositions de l'article L. 5222-1 ne sont pas applicables aux communes des départements de la Moselle, du Bas-Rhin et
+du Haut-Rhin.
 
 **Liens relatifs à cet article**
 
@@ -65882,9 +64965,9 @@ du Bas-Rhin et du Haut-Rhin.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°99-586 du 12 juillet 1999 - art. 4 ()
 
 	**Anciens textes**:
 
@@ -65894,8 +64977,7 @@ du Bas-Rhin et du Haut-Rhin.
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L5222-1 (M)
-	  - Code général des collectivités territoriales - art. L5222-3 (V)
+	  - Code général des collectivités territoriales - art. L5222-1 (V)
 
 
 ###### Article L5816-2
