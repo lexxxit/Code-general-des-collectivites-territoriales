@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1996-02-24
+Version Consolidée au 1996-03-27
 
 # Partie législative
 
@@ -637,14 +637,14 @@ vice-présidents.
 
 ###### Article L1211-3
 
-- Le comité des finances locales contrôle la répartition de la dotation globale de fonctionnement.
+Le comité des finances locales contrôle la répartition de la dotation globale de fonctionnement. 
 
-Il fixe la part des ressources affectées aux dotations mentionnées aux articles L. 1211-5, L. 1613-5 et L. 2334-13 et en
-contrôle la répartition.
+Il fixe, le cas échéant, le montant de la dotation forfaitaire dans les conditions prévues à l'article L. 2334-7 et détermine
+la part des ressources affectées aux dotations mentionnées aux articles L. 1211-5, L. 1613-5 et L. 2334-13. 
 
 Le Gouvernement peut le consulter sur tout projet de loi, tout projet d'amendement du Gouvernement ou sur toutes dispositions
 réglementaires à caractère financier concernant les collectivités locales. Pour les décrets, cette consultation est
-obligatoire.
+obligatoire. 
 
 Chaque année, avant le 31 juillet, les comptes du dernier exercice connu des collectivités locales lui sont présentés ainsi
 qu'aux commissions des finances de l'Assemblée nationale et du Sénat.
@@ -655,9 +655,9 @@ qu'aux commissions des finances de l'Assemblée nationale et du Sénat.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-241 du 26 mars 1996 - art. 5 ()
 
 	**Anciens textes**:
 
@@ -668,7 +668,8 @@ qu'aux commissions des finances de l'Assemblée nationale et du Sénat.
 
 	  - Code général des collectivités territoriales - art. L1211-5 (V)
 	  - Code général des collectivités territoriales - art. L1613-5 (V)
-	  - Code général des collectivités territoriales - art. L2334-13 (M)
+	  - Code général des collectivités territoriales - art. L2334-13 (V)
+	  - Code général des collectivités territoriales - art. L2334-7 (V)
 
 
 ###### Article L1211-4
@@ -24934,22 +24935,45 @@ occupées par l'ensemble de ces installations sur le territoire de chacune d'ell
 
 ###### Article L2334-7
 
-- Chaque commune reçoit une dotation forfaitaire qui, après avoir été, le cas échéant, révisée en application des
-dispositions des articles L. 2334-9 à L. 2334-12, progresse chaque année de la moitié du taux d'évolution de l'ensemble des
-ressources affectées à la dotation globale de fonctionnement. Pour 1994, le montant de cette dotation est égal à la somme des
-dotations reçues en 1993 en application des articles L. 234-2, L. 234-4, L. 234-10 et, le cas échéant, des articles L.
-234-14-2, L. 234-19-1 et L. 234-19-2 du code des communes dans leur rédaction antérieure à la loi n° 93-1436 du 31 décembre
-1993 portant réforme de la dotation globale de fonctionnement et modifiant le code des communes et le code général des
-impôts.
+Chaque commune reçoit une dotation forfaitaire.
+
+Pour 1994, le montant de cette dotation est égal à la somme des dotations reçues en 1993 en application des articles L.
+234-2, L. 234-4, L. 234-10 et, le cas échéant, des articles L. 234-14-2, L. 234-19-1 et L. 234-19-2 du code des communes dans
+leur rédaction antérieure à la loi n° 93-1436 du 31 décembre 1993 portant réforme de la dotation globale de fonctionnement et
+modifiant le code des communes et le code général des impôts.
 
 La dotation forfaitaire comprend également les sommes reçues en 1993 au titre de la dotation supplémentaire aux communes et
-groupements touristiques ou thermaux et de la dotation particulière aux communes touristiques et au titre de la dotation
-particulière au profit des villes assumant des charges de centralité, en application des articles L. 234-13 et L. 234-14 du
-code des communes dans leur rédaction antérieure à la loi n° 93-1436 du 31 décembre 1993 précitée. Ces sommes sont
-identifiées au sein de la dotation forfaitaire. Elles progressent chaque année selon les modalités prévues au premier alinéa.
+groupements touristiques ou thermaux et de la dotation particulière aux communes touristiques ainsi qu'au titre de la
+dotation particulière au profit des villes assumant des charges de centralité, en application des articles L. 234-13 et L.
+234-14 du code des communes dans leur rédaction antérieure à la loi n° 93-1436 du 31 décembre 1993 précitée. Ces sommes sont
+identifiées au sein de la dotation forfaitaire.
 
-En 1996, la dotation forfaitaire de l'ensemble des communes est majorée de 97,5 millions de francs, répartis au prorata de
-leurs populations. Les années suivantes, cette majoration évolue selon les modalités prévues au premier alinéa.
+Les groupements de communes qui percevaient au lieu et place des communes constituant le groupement les dotations prévues à
+l'article L. 234-13 du code des communes, dans sa rédaction antérieure à la loi n° 93-1436 du 31 décembre 1993 précitée,
+continuent à les percevoir. Pour 1994, le montant de ces dotations est égal à la somme reçue en 1993.
+
+En 1995, les montants définis aux trois précédents alinéas progressent, sous réserve des dispositions des articles L. 2334-9
+à L. 2334-12, de la moitié du taux d'évolution de l'ensemble des ressources affectées à la dotation globale de
+fonctionnement.
+
+A compter de 1996, le taux de progression des montants mentionnés au précédent alinéa est ainsi calculé, sous réserve des
+dispositions des articles L. 2334-9 à L. 2334-12 :
+
+si l'évolution des ressources de la dotation globale de fonctionnement, en application de l'indexation prévue au premier
+alinéa de l'article L. 1613-1, résulte pour un tiers au moins de la progression du produit intérieur brut en volume, le
+comité des finances locales fixe le taux de progression de ces montants entre 50 p. 100 et 55 p. 100 du taux de progression
+de l'ensemble de ces ressources ;
+
+dans le cas contraire, ces montants progressent de la moitié du taux d'évolution de l'ensemble des ressources affectées à la
+dotation globale de fonctionnement.
+
+En 1996, la dotation forfaitaire de l'ensemble des communes, calculée selon les modalités prévues ci-dessus, est majorée,
+d'une part, de 97,5 millions de francs, répartis au prorata de leurs populations, et, d'autre part, de 22 millions de francs,
+répartis au prorata du nombre des écoles primaires et maternelles situées sur leur territoire à la rentrée scolaire 1994. Les
+sommes correspondant à cette dernière compensation sont reversées par les communes bénéficiaires aux groupements de communes
+dont elles sont membres lorsque ceux-ci sont compétents en matière de fonctionnement des établissements d'enseignement
+élémentaire et préélémentaire. Les années suivantes, ces majorations évoluent selon les modalités définies aux sixième à
+huitième alinéas.
 
 **Liens relatifs à cet article**
 
@@ -25025,19 +25049,20 @@ leurs populations. Les années suivantes, cette majoration évolue selon les mod
 	  - CODE DES COMMUNES. - art. L234-14-2 (Ab)
 	  - CODE DES COMMUNES. - art. L234-19-1 (M)
 	  - CODE DES COMMUNES. - art. L234-19-2 (Ab)
-	  - Code général des collectivités territoriales L2334-9 à L2334-12, L234-2, L234-4, L234-10
+	  - Code général des collectivités territoriales - art. L1613-1 (M)
+	  - Code général des collectivités territoriales L234-2, L234-4, L234-10, L2334-9 à L2334-12, L1613-1
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-241 du 26 mars 1996 - art. 1 ()
 
 	**Anciens textes**:
 
-	  - Code des communes  L234-7 al. 1, 2 et 4
+	  - Code des communes L234-7 al. 1, 2 et 4
 	  - CODE DES COMMUNES. - art. L234-7 (Ab)
 
 
@@ -25176,8 +25201,8 @@ forfaitaire par habitant perçue par la commune l'année précédant la division
 
 ###### Article L2334-13
 
-- Il est institué une dotation d'aménagement qui regroupe une dotation au bénéfice des groupements de communes, une dotation
-de solidarité urbaine et une dotation de solidarité rurale.
+Il est institué une dotation d'aménagement qui regroupe une dotation au bénéfice des groupements de communes, une dotation de
+solidarité urbaine et une dotation de solidarité rurale.
 
 Le montant de la dotation d'aménagement est égal à la différence entre l'ensemble des ressources affectées à la dotation
 globale de fonctionnement des communes et la dotation forfaitaire prévue à l'article L. 2334-7.
@@ -25189,12 +25214,19 @@ Après prélèvement de la dotation des groupements de communes, dont le montant
 l'article L. 5211-32, et de la quote-part destinée aux communes d'outre-mer, le solde de la dotation d'aménagement est
 réparti entre la dotation de solidarité urbaine et la dotation de solidarité rurale.
 
-La quote-part destinée aux communes d'outre-mer évolue de faon telle que le total des attributions leur revenant au titre de
+La quote-part destinée aux communes d'outre-mer évolue de façon telle que le total des attributions leur revenant au titre de
 la dotation globale de fonctionnement progresse au moins comme l'ensemble des ressources affectées à cette dotation.
 
-Le montant des crédits respectivement attribués à la dotation de solidarité urbaine et à la dotation de solidarité rurale est
-fixé par le comité des finances locales institué par l'article L. 1211-1 de telle sorte qu'aucune de ces deux dotations
-n'excède 55 p. 100 et ne soit inférieure à 45 p. 100 du solde mentionné au quatrième alinéa.
+En 1995, Le montant des crédits respectivement attribués à la dotation de solidarité urbaine et à la dotation de solidarité
+rurale est fixé par le comité des finances locales de telle sorte qu'aucune de ces deux dotations n'excède 55 p. 100 et ne
+soit inférieure à 45 p. 100 du solde mentionné au quatrième alinéa.
+
+Pour l'année 1996, le montant des crédits mis en répartition au titre de la dotation de solidarité urbaine est égal à 57 p.
+100 du solde mentionné au quatrième alinéa.
+
+A compter de 1997, l'augmentation annuelle de ce solde est répartie par le comité des finances locales entre la dotation de
+solidarité urbaine et la dotation de solidarité rurale de manière à ce que chacune en reçoive 45 p. 100 au moins et 55 p. 100
+au plus.
 
 **Liens relatifs à cet article**
 
@@ -25245,9 +25277,9 @@ n'excède 55 p. 100 et ne soit inférieure à 45 p. 100 du solde mentionné au q
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-241 du 26 mars 1996 - art. 3 ()
 
 	**Anciens textes**:
 
@@ -25283,183 +25315,6 @@ troisième trimestre de l'exercice au titre duquel elles sont versées.
 
 	  - Code des communes L234-16 al. 2
 	  - CODE DES COMMUNES. - art. L234-16 (Ab)
-
-
-###### Article L2334-16
-
-- Bénéficient de la dotation prévue à l'article L. 2334-15 :
-
-1° Les communes de 10 000 habitants et plus classées, en fonction d'un indice synthétique de ressources et de charges défini
-ci-après, dans l'une des trois premières catégories prévues à l'article L. 2334-17 ;
-
-2° Les communes de moins de 10 000 habitants dont le nombre de logements sociaux est supérieur à 1 100 et dont le potentiel
-fiscal par habitant est inférieur au potentiel fiscal moyen national par habitant des communes de plus de 10 000 habitants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Anciens textes**:
-
-	  - Code des communes L234-12 par. II
-	  - CODE DES COMMUNES. - art. L234-12 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2334-15 (M)
-
-	**Cité par**:
-
-	  - Code général des collectivités territoriales - art. L2334-17 (V)
-	  - Code général des collectivités territoriales - art. L2334-18-2 (V)
-	  - Code général des collectivités territoriales - art. L2334-18-4 (M)
-
-
-###### Article L2334-17
-
-- L'indice synthétique de ressources et de charges mentionné à l'article L. 2334-16 est constitué dans des conditions fixées
-par décret en Conseil d'Etat :
-
-1° Du rapport entre le potentiel fiscal par habitant des communes de 10 000 habitants et plus et le potentiel fiscal par
-habitant de la commune, tel qu'il est défini à l'article L. 2334-4 ;
-
-2° Du rapport entre la part des logements sociaux de la commune dans le total des logements de la commune et la part des
-logements sociaux des communes de 10 000 habitants et plus dans le total des logements de ces mêmes communes ; les logements
-sociaux auxquels il est fait référence sont définis par décret en Conseil d'Etat, les logements sociaux en accession à la
-propriété étant pris en compte si leur nombre est au moins égal à cinq par opération ; les logements vendus à leurs
-locataires en application de l'article L. 443-7 du code de la construction et de l'habitation sont également pris en compte
-pendant vingt ans à compter de la vente ;
-
-3° Du rapport entre la part des logements dont un occupant bénéficie de l'une des prestations prévues aux articles L. 351-1
-du code de la construction et de l'habitation, L. 542-1 et L. 831-1 du code de la sécurité sociale dans le nombre total des
-logements de la commune et la part du total des logements dont un occupant bénéficie des mêmes prestations dans le total des
-logements des communes de 10 000 habitants et plus ;
-
-4° Du rapport entre le revenu moyen par habitant des communes de 10 000 habitants et plus et le revenu par habitant de la
-commune, calculé en prenant en compte la population qui résulte des recensements généraux.
-
-Le revenu pris en considération pour l'application de l'alinéa précédent est le dernier revenu imposable connu.
-
-L'indice synthétique de ressources et de charges est obtenu en pondérant le rapport défini au 1° par 50 p. 100, le rapport
-défini au 2° par 20 p. 100, le rapport défini au 3° par 20 p. 100 et le rapport défini au 4° par 10 p. 100. Toutefois, chacun
-des pourcentages de pondération peut être majoré ou minoré pour l'ensemble des communes bénéficiaires d'au plus cinq points
-dans des conditions fixées par décret en Conseil d'Etat.
-
-Les communes sont classées en fonction de la valeur décroissante de l'indice synthétique. Dans l'ordre de ce classement,
-elles sont réparties en quatre catégories comportant un nombre égal de communes.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°86-1317 du 30 décembre 1986 - art. 6 (V)
-	  - Loi n°2013-595 du 8 juillet 2013 - art. 67 (VD)
-	  - CODE DES COMMUNES. - art. R*234-11 (Ab)
-	  - CODE DES COMMUNES. - art. R*234-12 (Ab)
-	  - Code de la construction et de l'habitation. - art. L301-3-1 (V)
-	  - Code de la construction et de l'habitation. - art. L302-5 (M)
-	  - Code de la construction et de l'habitation. - art. L302-5-1 (Ab)
-	  - Code de la construction et de l'habitation. - art. L411-10 (VT)
-	  - Code de la construction et de l'habitation. - art. L441-1-4 (M)
-	  - Code de la construction et de l'habitation. - art. L444-2 (M)
-	  - Code général des collectivités territoriales - art. D2334-4-1 (V)
-	  - Code général des collectivités territoriales - art. L2334-16 (V)
-	  - Code général des collectivités territoriales - art. L2334-18 (V)
-	  - Code général des collectivités territoriales - art. L2334-18-2 (V)
-	  - Code général des collectivités territoriales - art. L2334-18-4 (V)
-	  - Code général des collectivités territoriales - art. L2531-14 (V)
-	  - Code général des collectivités territoriales - art. L3334-6-1 (VD)
-	  - Code général des collectivités territoriales - art. L3334-8 (Ab)
-	  - Code général des collectivités territoriales - art. L3335-4 (VD)
-	  - Code général des collectivités territoriales - art. L5334-8 (VT)
-	  - Code général des collectivités territoriales - art. R2334-4 (V)
-	  - Code général des collectivités territoriales - art. R2334-5 (V)
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Anciens textes**:
-
-	  - Code des communes L234-12 par. III
-	  - CODE DES COMMUNES. - art. L234-12 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2334-4 (M)
-	  - Code de la construction et de l'habitation. - art. L351-1 (V)
-	  - Code de la construction et de l'habitation. - art. L443-7 (M)
-
-
-###### Article L2334-18
-
-- L'attribution revenant à chaque commune de 10 000 habitants et plus est égale au produit de sa population par la valeur de
-l'indice qui lui est attribué, pondéré par un coefficient correspondant à sa catégorie, qui est fixé à 1,5 pour la 1re
-catégorie, 1 pour la 2e catégorie et 0,5 pour la 3e catégorie, ainsi que par l'effort fiscal dans la limite de 1,3.
-
-L'attribution par habitant revenant aux communes éligibles de moins de 10 000 habitants est égale au produit de leur
-population par le montant moyen par habitant revenant à l'ensemble des communes percevant une attribution.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cité par**:
-
-	  - Loi n°2013-595 du 8 juillet 2013 - art. 67 (V)
-	  - Code général des collectivités territoriales - art. L2334-16 (V)
-	  - Code général des collectivités territoriales - art. L2334-18-4 (V)
-
-	**Anciens textes**:
-
-	  - Code des communes L234-12 par. IV
-	  - CODE DES COMMUNES. - art. L234-12 (Ab)
-
-
-###### Article L2334-19
-
-- Le maire d'une commune ayant bénéficié, au cours de l'exercice précédent, de la dotation de solidarité urbaine prévue aux
-articles L. 2334-15 à L. 2334-18 présente au conseil municipal, avant la fin du deuxième trimestre qui suit la clôture de cet
-exercice, un rapport qui retrace les actions de développement social urbain entreprises au cours de cet exercice et les
-conditions de leur financement.
-
-Paragraphe 2
-
-Dotation de solidarité rurale
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°91-429 1991-05-13 art. 8
-
-	**Codifié par**:
-
-	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales L2334-15 à L2334-18
 
 
 ##### Paragraphe 1 : Dotation de solidarité urbaine.
@@ -25503,6 +25358,254 @@ urbaines confrontées à une insuffisance de leurs ressources et supportant des 
 
 	  - Code des communes L234-12 par. I
 	  - CODE DES COMMUNES. - art. L234-12 (Ab)
+
+
+###### Article L2334-16
+
+Bénéficient de la dotation prévue à l'article L. 2334-15 :
+
+1° Les trois premiers quarts des communes de 10 000 habitants et plus, classées, chaque année, en fonction d'un indice
+synthétique de ressources et de charges défini à l'article L. 2334-17 ;
+
+2° Le premier dixième des communes dont la population est comprise entre 5 000 et 9 999 habitants, classées, chaque année, en
+fonction d'un indice synthétique de ressources et de charges défini à l'article L. 2334-18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°96-241 du 26 mars 1996 - art. 4 ()
+
+	**Anciens textes**:
+
+	  - Code des communes L234-12 par. II
+	  - CODE DES COMMUNES. - art. L234-12 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-15 (M)
+	  - Code général des collectivités territoriales - art. L2334-18 (M)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L2334-17 (V)
+	  - Code général des collectivités territoriales - art. L2334-18-2 (V)
+	  - Code général des collectivités territoriales - art. L2334-18-4 (M)
+
+
+###### Article L2334-17
+
+L'indice synthétique de ressources et de charges mentionné à l'article L. 2334-16 pour les communes de 10 000 habitants et
+plus est constitué :
+
+1° Du rapport entre le potentiel fiscal par habitant des communes de 10 000 habitants et plus et le potentiel fiscal par
+habitant de la commune, tel que défini à l'article L. 2334-4 ;
+
+2° Du rapport entre la proportion de logements sociaux dans le total des logements de la commune et la proportion de
+logements sociaux dans le total des logements des communes de 10 000 habitants et plus ;
+
+3° Du rapport entre la proportion du total des bénéficiaires d'aides au logement, y compris leur conjoint et les personnes à
+charge vivant habituellement dans leur foyer, dans le nombre total de logements de la commune et cette même proportion
+constatée dans l'ensemble des communes de 10 000 habitants et plus ;
+
+4° Du rapport entre le revenu moyen par habitant des communes de 10 000 habitants et plus et le revenu par habitant de la
+commune, calculé en prenant en compte la population qui résulte des recensements généraux ou complémentaires.
+
+Les logements sociaux retenus pour l'application du présent article sont les logements locatifs appartenant aux organismes
+d'habitations à loyer modéré, aux sociétés d'économie mixte locales et aux filiales de la Société centrale immobilière de la
+Caisse des dépôts et consignations, à l'exclusion des logements foyers mentionnés au 5° de l'article L. 351-2 du code de la
+construction et de l'habitation. Sont également considérés comme des logements sociaux pour l'application du présent article
+les logements appartenant à l'Entreprise minière et chimique et aux sociétés à participation majoritaire de l'Entreprise
+minière et chimique, les logements appartenant aux houillères de bassin, aux sociétés à participation majoritaire des
+houillères de bassin ainsi qu'aux sociétés à participation majoritaire des Charbonnages de France et les logements locatifs
+ayant bénéficié de prêts spéciaux consentis par le Crédit foncier de France appartenant à des personnes morales autres que
+celles citées ci-dessus à la condition qu'ils constituent sur le territoire d'une commune un ensemble d'au moins 2 000
+logements.
+
+Les aides au logement retenues pour l'application du présent article sont, dans des conditions définies par décret en Conseil
+d'Etat, les prestations prévues aux articles L. 351-1 du code de la construction et de l'habitation et L. 542-1 et L. 831-1
+du code de la sécurité sociale.
+
+" Le revenu pris en considération pour l'application du 4° est le dernier revenu imposable connu.
+
+L'indice synthétique de ressources et de charges est obtenu par addition des rapports visés aux 1°, 2°, 3° et 4°, en
+pondérant le premier par 45 p. 100, le deuxième par 15 p. 100, le troisième par 30 p. 100 et le quatrième par 10 p. 100.
+Toutefois, chacun des pourcentages de pondération peut être majoré ou minoré pour l'ensemble des communes bénéficiaires d'au
+plus cinq points dans des conditions fixées par un décret en Conseil d'Etat.
+
+Les communes sont classées en fonction de la valeur décroissante de leur indice synthétique.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°86-1317 du 30 décembre 1986 - art. 6 (V)
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 67 (VD)
+	  - CODE DES COMMUNES. - art. R*234-11 (Ab)
+	  - CODE DES COMMUNES. - art. R*234-12 (Ab)
+	  - Code de la construction et de l'habitation. - art. L301-3-1 (V)
+	  - Code de la construction et de l'habitation. - art. L302-5 (M)
+	  - Code de la construction et de l'habitation. - art. L302-5-1 (Ab)
+	  - Code de la construction et de l'habitation. - art. L411-10 (VT)
+	  - Code de la construction et de l'habitation. - art. L441-1-4 (M)
+	  - Code de la construction et de l'habitation. - art. L444-2 (M)
+	  - Code général des collectivités territoriales - art. D2334-4-1 (V)
+	  - Code général des collectivités territoriales - art. L2334-16 (V)
+	  - Code général des collectivités territoriales - art. L2334-18 (V)
+	  - Code général des collectivités territoriales - art. L2334-18-2 (V)
+	  - Code général des collectivités territoriales - art. L2334-18-4 (V)
+	  - Code général des collectivités territoriales - art. L2531-14 (V)
+	  - Code général des collectivités territoriales - art. L3334-6-1 (VD)
+	  - Code général des collectivités territoriales - art. L3334-8 (Ab)
+	  - Code général des collectivités territoriales - art. L3335-4 (VD)
+	  - Code général des collectivités territoriales - art. L5334-8 (VT)
+	  - Code général des collectivités territoriales - art. R2334-4 (V)
+	  - Code général des collectivités territoriales - art. R2334-5 (V)
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°96-241 du 26 mars 1996 - art. 4 ()
+
+	**Anciens textes**:
+
+	  - Code des communes L234-12 par. III
+	  - CODE DES COMMUNES. - art. L234-12 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-4 (M)
+	  - Code de la construction et de l'habitation. - art. L351-1 (V)
+	  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+
+###### Article L2334-18
+
+Les dispositions de l'article L. 2334-17 s'appliquent pour le calcul de l'indice synthétique de ressources et de charges des
+communes de 5 000 à 9 999 habitants, sous réserve de la substitution des moyennes nationales constatées pour ces communes à
+celles constatées pour les communes de 10 000 habitants et plus.
+
+Les communes sont classées en fonction de la valeur décroissante de leur indice synthétique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°96-241 du 26 mars 1996 - art. 4 ()
+
+	**Cité par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 67 (V)
+	  - Code général des collectivités territoriales - art. L2334-16 (V)
+	  - Code général des collectivités territoriales - art. L2334-18-4 (V)
+
+	**Anciens textes**:
+
+	  - Code des communes L234-12 par. IV
+	  - CODE DES COMMUNES. - art. L234-12 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-17 (M)
+
+
+###### Article L2334-18-1
+
+L'enveloppe à répartir entre les communes de 5 000 à 9 999 habitants éligibles à la dotation est égale au produit de leur
+population par le montant moyen par habitant revenant à l'ensemble des communes éligibles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°91-429 1991-05-13 art. 8
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°96-241 du 26 mars 1996 - art. 4 ()
+
+
+###### Article L2334-18-2
+
+L'attribution revenant à chaque commune éligible de 10 000 habitants et plus est égale au produit de sa population par la
+valeur de l'indice qui lui est attribué, pondéré par un coefficient variant uniformément de 2 à 0,5 dans l'ordre croissant du
+rang de classement des communes éligibles, ainsi que par l'effort fiscal dans la limite de 1,3.
+
+L'attribution revenant à chaque commune éligible de 5 000 à 9 999 habitants est égale au produit de sa population par la
+valeur de l'indice qui lui est attribué ainsi que par son effort fiscal, dans la limite de 1,3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°96-241 du 26 mars 1996 - art. 4 ()
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. R2334-5-1 (V)
+
+
+###### Article L2334-18-3
+
+Lorsqu'une commune cesse d'être éligible à la dotation, elle perçoit, à titre de garantie non renouvelable, une attribution
+égale à la moitié de celle qu'elle a perçue l'année précédente.
+
+Les sommes nécessaires sont prélevées sur les crédits affecté s par le comité des finances locales à la dotation de
+solidarité urbaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi n°96-241 du 26 mars 1996 - art. 4 ()
+
+
+###### Article L2334-19
+
+Le maire d'une commune ayant bénéficié, au cours de l'exercice précédent, de la dotation de solidarité urbaine présente au
+conseil municipal, avant la fin du deuxième trimestre qui suit la clôture de cet exercice, un rapport qui retrace les actions
+de développement social urbain entreprises au cours de cet exercice et les conditions de leur financement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°91-429 1991-05-13 art. 8
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Modifié par**:
+
+	  - Loi n°96-241 du 26 mars 1996 - art. 4 ()
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales L2334-15 à L2334-18
 
 
 ##### Paragraphe 2 : Dotation de solidarité rurale.
@@ -26035,14 +26138,18 @@ est estimé dans la projection économique présentée en annexe au projet de lo
 
 ###### Article L2334-33
 
-- La dotation globale d'équipement des communes est répartie, après constitution d'une quote-part au profit des collectivités
+La dotation globale d'équipement des communes est répartie, après constitution d'une quote-part au profit des collectivités
 territoriales et groupements mentionnés à l'article L. 2334-37, entre :
 
-- les communes dont la population n'excède pas 20 000 habitants dans les départements de métropole ou 35 000 habitants dans
-les départements d'outre-mer et dont le potentiel fiscal par habitant est inférieur à 1,3 fois le potentiel fiscal moyen par
-habitant de l'ensemble des communes de métropole dont la population n'excède pas 20 000 habitants ;
+les communes dont la population n'excède pas 2 000 habitants dans les départements de métropole ou 7 500 habitants dans les
+départements d'outre-mer ;
 
-- les établissements publics de coopération intercommunale dont la population n'excède pas 20 000 habitants dans les
+les communes dont la population est supérieure à 2 000 habitants et n'excède pas 20 000 habitants dans les départements de
+métropole ou est supérieure à 7 500 habitants et n'excède pas 35 000 habitants dans les départements d'outre-mer et dont le
+potentiel fiscal par habitant est inférieur à 1,3 fois le potentiel fiscal moyen par habitant de l'ensemble des communes de
+métropole dont la population est supérieure à 2 000 habitants et n'excède pas 20 000 habitants ; "
+
+les établissements publics de coopération intercommunale dont la population n'excède pas 20 000 habitants dans les
 départements de métropole et 35 000 habitants dans les départements d'outre-mer.
 
 Les communes de la collectivité territoriale de Saint-Pierre-et-Miquelon bénéficient de la dotation.
@@ -26072,9 +26179,9 @@ communes.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-241 du 26 mars 1996 - art. 12 ()
 
 	**Cité par**:
 
@@ -26101,7 +26208,7 @@ communes.
 ###### Article L2334-34
 
 - Un préciput est constitué au profit des établissements publics de coopération intercommunale par application à la somme des
-deux fractions mentionnées au sixième alinéa de l'article L. 2334-33 du rapport entre le montant, pour la dernière année
+deux fractions mentionnées au septième alinéa de l'article L. 2334-33 du rapport entre le montant, pour la dernière année
 connue, des investissements réalisés par les établissements éligibles et le montant total, pour la même année, des
 investissements réalisés par l'ensemble des communes et établissements publics de coopération intercommunale. Le montant de
 ce préciput est réparti entre les deux fractions, pour la première, proportionnellement au montant des investissements
@@ -26110,15 +26217,15 @@ proportionnellement au montant des investissements réalisés par les établisse
 supérieure à 2 000 habitants.
 
 Les modalités de répartition entre les départements des crédits de la dotation globale d'équipement attribués aux communes
-sont fixées, pour la première fraction mentionnée au sixième alinéa de l'article L. 2334-33, par décret en Conseil d'Etat en
+sont fixées, pour la première fraction mentionnée au septième alinéa de l'article L. 2334-33, par décret en Conseil d'Etat en
 tenant compte notamment du nombre des communes éligibles dont la population n'excède pas 2 000 habitants, de l'importance de
 leur population, de la longueur de leur voirie classée dans le domaine public, celle-ci étant doublée en zone de montagne,
-ainsi que de leur potentiel fiscal. Pour la seconde fraction mentionnée au sixième alinéa de l'article L. 2334-33, la
+ainsi que de leur potentiel fiscal. Pour la seconde fraction mentionnée au septième alinéa de l'article L. 2334-33, la
 répartition entre les départements est calculée au prorata du nombre d'habitants des communes éligibles dont la population
 est supérieure à 2 000 habitants.
 
 Les crédits de la dotation globale d'équipement attribués aux établissements publics de coopération intercommunale sont
-répartis entre les départements, pour chacune des deux fractions mentionnées au sixième alinéa de l'article L. 2334-33,
+répartis entre les départements, pour chacune des deux fractions mentionnées au septième alinéa de l'article L. 2334-33,
 proportionnellement au montant des investissements réalisés au cours de la dernière année connue dans chaque département,
 respectivement par les établissements éligibles dont la population n'excède pas 2 000 habitants et par les établissements
 éligibles dont la population est supérieure à 2 000 habitants.
@@ -26156,9 +26263,9 @@ notification, les communes peuvent engager les travaux auxquels se rapportent le
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-241 du 26 mars 1996 - art. 13 ()
 
 
 ###### Article L2334-35
@@ -32160,34 +32267,36 @@ Un décret en Conseil d'Etat définit les conditions d'application du présent a
 
 ###### Article L2531-13
 
-- Le fonds de solidarité des communes de la région d'Ile-de-France est alimenté par un prélèvement sur les ressources
-fiscales des communes de la région d'Ile-de-France.
+Le fonds de solidarité des communes de la région d'Ile-de-France est alimenté par un prélèvement sur les ressources fiscales
+des communes de la région d'Ile-de-France.
 
-Sont soumises au prélèvement les communes de la région d'Ile-de-France dont le potentiel fiscal par habitant est supérieur à
-une fois et demie le potentiel fiscal moyen par habitant des communes de la région d'Ile-de-France. Ce dernier est égal à la
-somme des potentiels fiscaux des communes de la région d'Ile-de-France rapportée à la population de l'ensemble de ces
+Sont soumises au prélèvement les communes de la région d'Ile-de-France dont le potentiel fiscal par habitant est supérieur
+d'au moins 40 p. 100 au potentiel fiscal moyen par habitant des communes de la région d'Ile-de-France. Ce dernier est égal à
+la somme des potentiels fiscaux des communes de la région d'Ile-de-France rapportée à la population de l'ensemble de ces
 communes.
 
 Le prélèvement est réalisé dans les conditions suivantes :
 
-1° Lorsque le potentiel fiscal par habitant d'une commune est compris entre une fois et demie le potentiel fiscal moyen par
-habitant des communes de la région d'Ile-de-France et deux fois ce potentiel fiscal, il est perçu un prélèvement égal à 8 p.
-100 du montant du potentiel fiscal excédant le potentiel fiscal moyen par habitant multiplié par le nombre d'habitants de la
-commune considérée ;
+1° Lorsque le potentiel fiscal par habitant d'une commune est égal ou supérieur à 1,4 fois le potentiel fiscal moyen par
+habitant des communes de la région d'Ile-de-France et est inférieur à deux fois ce potentiel fiscal, il est perçu un
+prélèvement égal à 8 p. 100 du montant du potentiel fiscal excédant le potentiel fiscal moyen par habitant multiplié par le
+nombre d'habitants de la commune considérée ;
 
-2° Lorsque le potentiel fiscal par habitant d'une commune est compris entre deux fois le potentiel fiscal moyen par habitant
-des communes de la région d'Ile-de-France et trois fois ce potentiel fiscal, il est perçu un prélèvement égal à 9 p. 100 du
-montant du potentiel fiscal excédant le potentiel fiscal moyen par habitant multiplié par le nombre d'habitants de la commune
-considérée ;
+2° Lorsque le potentiel fiscal par habitant d'une commune est égal ou supérieur à deux fois le potentiel fiscal moyen par
+habitant des communes de la région d'Ile-de-France et est inférieur à trois fois ce potentiel fiscal, il est perçu un
+prélèvement égal à 9 p. 100 du montant du potentiel fiscal excédant le potentiel fiscal moyen par habitant multiplié par le
+nombre d'habitants de la commune considérée ;
 
-3° Lorsque le potentiel fiscal par habitant d'une commune est supérieur à trois fois le potentiel fiscal moyen par habitant
-des communes de la région d'Ile-de-France, il est perçu un prélèvement égal à 10 p. 100 du montant du potentiel fiscal
-excédant le potentiel fiscal moyen par habitant multiplié par le nombre d'habitants de la commune considérée.
+3° Lorsque le potentiel fiscal par habitant d'une commune est égal ou supérieur à trois fois le potentiel fiscal moyen par
+habitant des communes de la région d'Ile-de-France, il est perçu un prélèvement égal à 10 p. 100 du montant du potentiel
+fiscal excédant le potentiel fiscal moyen par habitant multiplié par le nombre d'habitants de la commune considérée.
 
-Dans le cas des communes qui remplissent les conditions nécessaires pour bénéficier de la deuxième part du Fonds national de
-péréquation de la taxe professionnelle visée au 2° du II de l'article 1648 B du code général des impôts, il sera sursis
-exceptionnellement à l'application du prélèvement ci-dessus, la régularisation à intervenir ultérieurement n'étant chiffrée
-qu'après approbation des comptes administratifs de l'exercice précédent et de l'exercice en cours.
+Les communes éligibles à la dotation de solidarité urbaine ou au fonds au titre de la même année sont exonérées de
+contribution au fonds.
+
+En 1996, la contribution des communes dont le potentiel fiscal est compris entre 1,4 et 1,5 fois le potentiel fiscal moyen
+par habitant des communes de la région d'Ile-de-France, et qui contribuent au fonds pour la première fois, fait l'objet d'un
+abattement de 50 p. 100.
 
 Le prélèvement opéré en application du présent article ne peut excéder 5 p. 100 du montant des dépenses réelles de
 fonctionnement de la commune constatées dans le compte administratif afférent au pénultième exercice.
@@ -32214,9 +32323,9 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-241 du 26 mars 1996 - art. 6 ()
 
 	**Cité par**:
 
@@ -32237,26 +32346,67 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 ###### Article L2531-14
 
-- I. - Bénéficient d'une attribution du fonds destinée à tenir compte de l'insuffisance de leurs ressources fiscales et des
-charges particulièrement élevées qu'elles supportent les communes soit de moins de 10 000 habitants dont le nombre de
-logements sociaux tels que définis au 2° de l'article L. 2334-17 est supérieur à 1 100, soit celles de 10 000 habitants et
-plus et qui remplissent les deux conditions suivantes :
+I. - Sous réserve des dispositions du VI, bénéficient, à compter de 1996, d'une attribution du fonds destinée à tenir compte
+de l'insuffisance de leurs ressources fiscales au regard des charges particulièrement élevées qu'elles supportent :
 
-1° Le rapport entre le nombre de logements sociaux et la population de la commune telle que définie à l'article L. 2334-2 est
-supérieur à 11 p. 100 ;
+1° Les deux premiers cinquièmes des communes de 10 000 habitants et plus classées en fonction d'un indice synthétique de
+ressources et de charges défini au II ci-après ;
 
-2° Le potentiel fiscal par habitant de la commune tel que défini à l'article L. 2334-4 est inférieur à 80 p. 100 du potentiel
-fiscal moyen par habitant des communes de la région d'Ile-de-France.
+2° Le premier dixième des communes dont la population est comprise entre 5 000 et 9 999 habitants classées en fonction d'un
+indice synthétique de ressources et de charges défini au III ci-après.
 
-La liste des communes remplissant les conditions ci dessus est arrêtée chaque année après avis du comité institué à l'article
+II. - L'indice synthétique de ressources et de charges mentionné au I pour les communes de 10 000 habitants et plus est
+constitué :
+
+1° Du rapport entre le potentiel fiscal par habitant des communes de 10 000 habitants et plus de la région d'Ile-de-France et
+le potentiel fiscal par habitant de la commune, tel que défini à l'article L. 2334-4 ;
+
+2° Du rapport entre la proportion de logements sociaux, tels qu'ils sont définis à l'article L. 2334-17, dans le total des
+logements de la commune et la proportion de logements sociaux dans le total de logements des communes de 10 000 habitants et
+plus de la région d'Ile-de-France ;
+
+3° Du rapport entre la proportion du total des bénéficiaires d'aides au logement, telles qu'elles sont définies à l'article
+L. 2334-17, y compris leur conjoint et les personnes à charge vivant habituellement dans leur foyer, dans le nombre total de
+logements de la commune et cette même proportion constatée dans l'ensemble des communes de 10 000 habitants et plus de la
+région d'Ile-de-France ;
+
+4° Du rapport entre le revenu moyen par habitant des communes de 10 000 habitants et plus de la région d'Ile-de-France et le
+revenu par habitant de la commune, calculé en prenant en compte la population qui résulte des recensements généraux ou
+complémentaires.
+
+Le revenu pris en compte pour l'application de l'alinéa précédent est le dernier revenu imposable connu.
+
+L'indice synthétique de ressources et de charges est obtenu par l'addition des rapports visés aux 1°, 2°, 3° et 4°, en
+pondérant le premier par 55 p. 100, le deuxième par 15 p. 100, le troisième par 20 p. 100 et le quatrième par 10 p. 100.
+Toutefois, chacun des pourcentages de pondération peut être majoré ou minoré pour l'ensemble des communes bénéficiaires d'au
+plus cinq points dans les conditions fixées par un décret en Conseil d'Etat, pris après avis du comité institué par l'article
 L. 2531-12.
 
-II. - Les ressources du fonds sont réparties entre les communes dans des conditions fixées par décret en Conseil d'Etat en
-tenant compte de la population, du potentiel fiscal, de l'effort fiscal pris en compte dans la limite de 1,20 et du nombre de
-logements sociaux.
+Les communes de 10 000 habitants et plus de la région d'Ile-de-France sont classées en fonction de la valeur décroissante de
+leur indice synthétique.
 
-Le comité institué par l'article L. 2531-12 arrête la pondération des critères définis à l'alinéa précédent dans des limites
-fixées par décret en Conseil d'Etat.
+III. - Les dispositions du II s'appliquent pour le calcul de l'indice synthétique de ressources et de charges mentionné au I
+pour les communes de 5 000 à 9 999 habitants, sous réserve de la substitution des moyennes constatées en Ile-de-France pour
+ces communes aux moyennes constatées pour les communes de 10 000 habitants et plus.
+
+Les communes de la région d'Ile-de-France dont la population est comprise entre 5 000 et 9 999 habitants sont classées en
+fonction de la valeur décroissante de leur indice synthétique.
+
+IV. - L'enveloppe à répartir entre les communes de 5 000 à 9 999 habitants éligibles au fonds est égale au produit de leur
+population par le montant moyen par habitant revenant à l'ensemble des communes éligibles.
+
+L'attribution revenant à chaque commune éligible est égale au produit de sa population par la valeur de l'indice qui lui est
+attribué et par celle de son effort fiscal, dans la limite de 1,3.
+
+V. - A compter de 1997, les communes qui cessent d'être éligibles au fonds perçoivent, à titre de garantie non renouvelable,
+une attribution égale à la moitié de celle qu'elles avaient perçue l'année précédente.
+
+Les sommes nécessaires sont prélevées sur les ressources du fonds avant application des dispositions du IV.
+
+VI. - Chaque commune bénéficiaire d'une attribution du fonds au titre de 1995 perçoit 90 p. 100 du montant correspondant en
+1996, 60 p. 100 en 1997 et 30 p. 100 en 1998.
+
+Les sommes nécessaires sont prélevées sur les ressources du
 
 **Liens relatifs à cet article**
 
@@ -32264,13 +32414,12 @@ fixées par décret en Conseil d'Etat.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-241 du 26 mars 1996 - art. 7 ()
 
 	**Anciens textes**:
 
-	  - Code des communes 263-15
 	  - CODE DES COMMUNES. - art. L263-15 (Ab)
 
 	**Cité par**:
@@ -32284,7 +32433,6 @@ fixées par décret en Conseil d'Etat.
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2334-17 (M)
-	  - Code général des collectivités territoriales - art. L2334-2 (M)
 	  - Code général des collectivités territoriales - art. L2334-4 (M)
 	  - Code général des collectivités territoriales - art. L2531-12 (V)
 
@@ -40097,8 +40245,8 @@ répartition.
 
 ###### Article L3334-2
 
-- La population à prendre en compte pour l'application de la présente section est celle qui résulte des recensements
-généraux, majorée chaque année des accroissements de population, dans des conditions définies par décret en Conseil d'Etat.
+La population à prendre en compte pour l'application de la présente section est celle qui résulte des recensements généraux,
+majorée chaque année des accroissements de population communaux constatés dans les conditions prévues à l'article L. 2334-2..
 
 Cette population est la population totale sans double compte, majorée d'un habitant par résidence secondaire.
 
@@ -40113,9 +40261,9 @@ Cette population est la population totale sans double compte, majorée d'un habi
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-241 du 26 mars 1996 - art. 10 ()
 
 	**Cité par**:
 
@@ -40145,6 +40293,10 @@ Cette population est la population totale sans double compte, majorée d'un habi
 	  - Code général des collectivités territoriales - art. R3334-23 (T)
 	  - Code général des collectivités territoriales - art. R3335-2 (V)
 	  - Code général des collectivités territoriales - art. R3443-2-1 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-2 (M)
 
 
 ##### Sous-section 2 : Dotation forfaitaire.
@@ -40411,7 +40563,7 @@ tiers de cette même dotation.
 
 ###### Article L3334-8
 
-- I. - Il est institué un mécanisme de solidarité financière entre des départements contributifs et des départements
+I. - Il est institué un mécanisme de solidarité financière entre des départements contributifs et des départements
 bénéficiaires au sein de la dotation globale de fonctionnement des départements, afin de contribuer à l'amélioration des
 conditions de vie en milieu rural.
 
@@ -40426,10 +40578,14 @@ prorata des attributions de ce concours particulier.
 
 III. - Contribuent au mécanisme de solidarité financière :
 
-1° Les départements dont le potentiel fiscal par habitant est compris entre le potentiel fiscal moyen national par habitant
-des départements et le double de cette valeur et dont le rapport entre le nombre de logements sociaux, tels que visés à
-l'article L. 2334-17, et la population du département est inférieur à 10 p. 100. Un prélèvement égal à 15 p. 100 est appliqué
-à la dotation globale de fonctionnement de l'exercice considéré pour ces départements ;
+1° Les départements dont le potentiel fiscal par habitant est supérieur au potentiel fiscal moyen national par habitant des
+départements et inférieur ou égal au double de cette valeur. Un prélèvement égal à 15 p. 100 est appliqué à la dotation
+globale de fonctionnement de l'exercice considéré pour ces départements.
+
+Sont toutefois exonérés de ce prélèvement les départements dans lesquels le rapport entre le nombre de logements sociaux,
+tels que définis à l'article L. 2334-17, et la population est supérieur à 8,5 p. 100 ainsi que les départements dans lesquels
+la moyenne par logement des bénéficiaires d'aides au logement, telles que définies à l'article L. 2334-17, de leur conjoint
+et des personnes à charge vivant habituellement dans leur foyer est supérieure à la moyenne nationale ;
 
 2° Les départements dont le potentiel fiscal par habitant est supérieur au double du potentiel fiscal moyen national par
 habitant des départements. Un prélèvement égal à 24 p. 100 est appliqué à la dotation globale de fonctionnement de l'exercice
@@ -40458,9 +40614,13 @@ compte administratif afférent au pénultième exercice.
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi n°96-241 du 26 mars 1996 - art. 8 ()
+
+	**Abrogé par**:
+
+	  - Loi - art. 49 (V) JORF 31 décembre 2003
 
 	**Cite**:
 
