@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 2000-06-22
+Version Consolidée au 2000-07-06
 
 # Partie législative
 
@@ -23643,7 +23643,10 @@ remboursement ;
 
 30° Les intérêts de la dette et les dépenses de remboursement de la dette en capital ;
 
-31° L'acquittement des dettes exigibles.
+31° Les dépenses occasionnées par l'application des dispositions des articles 2 et 3 de la loi n° 2000-614 du 5 juillet 2000
+relative à l'accueil et à l'habitat des gens du voyage ;
+
+32° L'acquittement des dettes exigibles.
 
 **Liens relatifs à cet article**
 
@@ -23652,6 +23655,8 @@ remboursement ;
 	  - Loi n°64-1246 du 16 décembre 1964 - art. 1 (M)
 	  - Loi n°74-1129 1974-12-30 art. 65 Finances pour 1975
 	  - Loi n°83-8 1983-01-07 art. 93
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 2 (M)
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 3 ()
 	  - Code général des collectivités territoriales - art. L2122-34 (V)
 	  - Code général des collectivités territoriales - art. L2123-13 (M)
 	  - Code général des collectivités territoriales - art. L2123-20 (M)
@@ -23707,7 +23712,7 @@ remboursement ;
 
 	**Modifié par**:
 
-	  - Loi n°99-641 1999-07-27 art. 13 jorf 28 juillet 1999
+	  - Loi n°2000-614 2000-07-05 art. 3 JORF 6 juillet 2000
 
 
 ###### Article L2321-3
@@ -27720,11 +27725,16 @@ application de l'article L. 3334-7-1.
 
 ###### Article L2334-2
 
-- La population à prendre en compte pour l'application de la présente section est celle qui résulte des recensements généraux
+La population à prendre en compte pour l'application de la présente section est celle qui résulte des recensements généraux
 ou complémentaires, majorée chaque année des accroissements de population dans des conditions définies par décret en Conseil
 d'Etat.
 
-Cette population est la population totale majorée, sauf disposition particulière, d'un habitant par résidence secondaire.
+Cette population est la population totale majorée, sauf disposition particulière, d'un habitant par résidence secondaire et
+d'un habitant par place de caravane située sur une aire d'accueil des gens du voyage satisfaisant aux conditions de la
+convention de l'article L. 851-1 du code de la sécurité sociale et aux normes techniques en vigueur, fixées par un décret en
+Conseil d'Etat. La majoration de population est portée à deux habitants par place de caravane pour les communes éligibles
+l'année précédente à la dotation de solidarité urbaine prévue à l'article L. 2334-15 ou à la première fraction de la dotation
+de solidarité rurale prévue à l'article L. 2334-21.
 
 Lorsque le recensement général de population de 1999 fait apparaître une diminution de la population d'une commune telle
 qu'elle est définie à l'alinéa précédent, seule une part de cette diminution est prise en compte, pendant deux ans, pour
@@ -27826,12 +27836,18 @@ elle est égale aux deux tiers de l'augmentation.
 
 	**Modifié par**:
 
-	  - Loi n°99-1126 du 28 décembre 1999 - art. 1 ()
+	  - Loi n°2000-614 du 5 juillet 2000 - art. 7 () JORF 6 juillet 2000
 
 	**Anciens textes**:
 
 	  - Code des communes 234-2
 	  - CODE DES COMMUNES. - art. L234-2 (Ab)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2334-15 (M)
+	  - Code général des collectivités territoriales - art. L2334-21 (M)
+	  - Code de la sécurité sociale. - art. L851-1 (M)
 
 
 ###### Article L2334-3
