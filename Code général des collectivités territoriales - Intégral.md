@@ -1,5 +1,5 @@
 # Code général des collectivités territoriales  
-Version Consolidée au 1999-12-29
+Version Consolidée au 1999-12-31
 
 # Partie législative
 
@@ -27516,6 +27516,12 @@ application de ce régime la cessation de l'application des dispositions de l'ar
 portant aménagement de la fiscalité directe locale, les bases retenues pour déterminer leur potentiel fiscal tiennent compte
 de la correction de potentiel fiscal appliquée la dernière année précédant l'institution de ce régime.
 
+Lorsque, à compter de 1999, l'institution du régime fiscal prévu à l'article 1609 quinquies C du code général des impôts
+entraîne, pour des communes membres de l'établissement public de coopération intercommunale faisant application de ce régime,
+la cessation de l'application des dispositions de l'article 11 de la loi n° 80-10 du 10 janvier 1980 portant aménagement de
+la fiscalité directe locale, les bases retenues pour déterminer leur potentiel fiscal tiennent compte de la correction de
+potentiel fiscal appliquée la dernière année précédant l'institution de ce régime.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -27573,15 +27579,14 @@ de la correction de potentiel fiscal appliquée la dernière année précédant 
 	  - Code général des collectivités territoriales - art. R2335-1 (V)
 	  - Code général des collectivités territoriales - art. R2531-32 (V)
 
-	**Modifié par**:
-
-	  - Loi n°99-1126 1999-12-28 art. 1 I, 9 jorf 29 décembre 1999
-	  - Loi n°99-1126 du 28 décembre 1999 - art. 1 ()
-
 	**Anciens textes**:
 
 	  - CODE DES COMMUNES. - art. L234-4 (M)
 	  - CODE DES COMMUNES. - art. L234-4 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°99-1173 1999-12-28 art. 39 jorf 31 décembre 1999
 
 
 ###### Article L2334-5
@@ -29447,8 +29452,8 @@ ministériel à des communes dans lesquelles des circonstances anormales entraî
 
 ###### Article L2335-3
 
-- Lorsque les exonérations de taxe foncière sur les propriétés bâties, prévues aux articles 1384 et 1384 A du code général
-des impôts et aux I et II bis de l'article 1385 du même code, entraînent pour les communes une perte de recettes
+- Lorsque les exonérations de taxe foncière sur les propriétés bâties, prévues aux articles 1384 et 1384 A et 1384 D du code
+général des impôts et aux I et II bis de l'article 1385 du même code, entraînent pour les communes une perte de recettes
 substantielle, ces collectivités ont droit à une compensation par l'Etat dans les conditions fixées par décret en Conseil
 d'Etat.
 
@@ -29456,15 +29461,11 @@ d'Etat.
 
 	**Cite**:
 
-	  - CGI 1384, 1384 A, 1385
+	  - CGI 1384, 1384 A, 1384 D, 1385
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
-
-	**Créé par**:
-
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
 
 	**Cité par**:
 
@@ -29478,6 +29479,10 @@ d'Etat.
 	  - Code général des collectivités territoriales - art. L5214-23-2 (V)
 	  - Code général des collectivités territoriales - art. L5215-35 (V)
 	  - Code général des collectivités territoriales - art. L5216-8-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°99-1173 1999-12-30 36 II jorf 31 décembre 1999
 
 	**Anciens textes**:
 
@@ -29658,8 +29663,7 @@ Elle est imputée sur un crédit budgétaire spécialement ouvert à cette fin.
 
 ###### Article L2335-9
 
-Le compte d'affectation spéciale ouvert dans les écritures du Trésor sous le titre de Fonds national pour le développement
-des adductions d'eau a pour objet de permettre :
+Le Fonds national pour le développement des adductions d'eau a pour objet de permettre :
 
 1° L'allégement de la charge des annuités supportées par les collectivités locales qui réalisent des adductions d'eau potable
 dans les communes rurales ;
@@ -29670,7 +29674,7 @@ dans les communes rurales ;
 3° Subsidiairement, l'octroi de prêts pour le financement des travaux d'alimentation en eau potable dans les communes
 rurales.
 
-4° Jusqu'au 31 décembre 1999, l'attribution de subventions en capital aux exploitations agricoles pour l'exécution de travaux
+4° Jusqu'au 31 décembre 2000, l'attribution de subventions en capital aux exploitations agricoles pour l'exécution de travaux
 de maîtrise des pollutions d'origine agricole destinés à assurer la protection de la qualité de l'eau.
 
 A cette date, il sera procédé à un réexamen de cette compétence du Fonds national pour le développement des adductions d'eau.
@@ -29688,7 +29692,7 @@ Il est débité des dépenses correspondant aux charges énumérées ci-dessus.
 
 	**Modifié par**:
 
-	  - Loi n°96-1181 du 30 décembre 1996 - art. 65 ()
+	  - Loi - art. 49 ()
 
 	**Cité par**:
 
@@ -50043,17 +50047,12 @@ départements prévue à l'article L. 3334-7.
 
 ###### Article L4414-7
 
-- - Le produit du fonds d'aménagement de la région d'Ile-de-France est affecté dans les conditions prévues par la loi de
-finances pour 1995 (n° 94-1162 du 29 décembre 1994) à la région d'Ile-de-France à due concurrence du montant du prélèvement
-effectué sur la dotation globale de fonctionnement versée à cette région en application de l'article L. 4414-6. Jusqu'en
-1998, la région prendra en charge, à due concurrence des sommes transférées, les engagements de l'Etat financés par le fonds.
+A compter du 1er janvier 2000, une fraction de la taxe annuelle sur les locaux à usage de bureaux, les locaux commerciaux et
+les locaux de stockage, régie par l'article 231 ter du code général des impôts, est affectée à la région d'Ile-de-France.
+Cette fraction est fixée à 50 % dans la limite de 720 000 000 F en 2000, 840 000 000 F en 2001, 960 000 000 F en 2002, 1 080
+000 000 F en 2003 et 1 200 000 000 F en 2004 et les années suivantes.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°94-1162 1994-12-29 Finances pour 1995
-	  - Code général des collectivités territoriales - art. L4414-6 (M)
 
 	**Anciens textes**:
 
@@ -50064,9 +50063,9 @@ effectué sur la dotation globale de fonctionnement versée à cette région en 
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi - art. 57 ()
 
 	**Cité par**:
 
@@ -59410,6 +59409,29 @@ représentant de l'Etat dans le département avant le 31 décembre de l'année d
 	  - Code général des collectivités territoriales - art. R5211-2 (Ab)
 
 
+###### Article L5214-23-2
+
+Les pertes de recettes que la communauté de communes subit du fait des exemptions temporaires dont bénéficient les
+constructions nouvelles ainsi que les locaux visés à l'article 1384 D du code général des impôts au titre de la taxe foncière
+sur les propriétés bâties sont compensées par une subvention de l'Etat, déterminée dans les mêmes conditions que l'allocation
+servie aux communes, conformément aux disposition de l'article L. 2335-3. "
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°96-142 1996-02-21
+
+	**Créé par**:
+
+	  - Loi - art. 36 ()
+
+	**Cité par**:
+
+	  - Loi n°2004-809 du 13 août 2004 - art. 154 (V)
+	  - Code général des collectivités territoriales - art. L2334-17 (V)
+
+
 ##### Section 6 : Modifications des conditions initiales de composition et de fonctionnement de la communauté de communes
 
 ##### Sous-section 3 : Retrait de communes.
@@ -60557,19 +60579,24 @@ circulation publique qui incombe aux propriétaires riverains.
 ###### Article L5215-35
 
 - Les pertes de recettes que la communauté urbaine subit du fait des exemptions temporaires dont bénéficient les
-constructions nouvelles au titre de la taxe foncière des propriétés bâties sont compensées par une subvention de l'Etat,
-déterminée dans les mêmes conditions que l'allocation servie aux communes, conformément aux dispositions de l'article L.
-2335-3.
+constructions nouvelles ainsi que les locaux visés à l'article 1384 D du code général des impots au titre de la taxe foncière
+des propriétés bâties sont compensées par une subvention de l'Etat, déterminée dans les mêmes conditions que l'allocation
+servie aux communes, conformément aux dispositions de l'article L. 2335-3.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1384 D
+	  - Code général des collectivités territoriales - art. L2335-3 (M)
 
 	**Codifié par**:
 
 	  - Loi n°96-142 1996-02-21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°96-142 1996-02-21 jorf 24 février 1996
+	  - Loi - art. 36 ()
 
 	**Cité par**:
 
@@ -60580,10 +60607,6 @@ déterminée dans les mêmes conditions que l'allocation servie aux communes, co
 
 	  - CODE DES COMMUNES. - art. L253-5 (M)
 	  - CODE DES COMMUNES. - art. L253-5 (Ab)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L2335-3 (M)
 
 
 ###### Article L5215-36
