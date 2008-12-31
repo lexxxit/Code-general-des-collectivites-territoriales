@@ -98,6 +98,10 @@ _Mission : relations avec les collectivités territoriales _
 
 121-01 Action : aides à l'équipement des régions. 
 
+122 Programme : concours spécifiques et administration. 
+
+122-03 Action : dotation générale de décentralisation
+
 _Mission : santé _
 
 171 Programme : offre de soins et qualité du système de soins. 
@@ -157,13 +161,13 @@ _Mission : ville et logement _
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-700 du 16 juin 2006 (V)
+	  - Décret n°2009-637 du 8 juin 2009 - art. 6
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2334-39 (V)
+	  - Code général des collectivités territoriales - art. L2334-39
 
 	**Cité par**:
 
