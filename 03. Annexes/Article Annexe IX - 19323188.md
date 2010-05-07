@@ -48,7 +48,8 @@ des retraités de l'activité agricole.
 
 **Jardins familiaux **
 
-Création et aménagement de jardins familiaux par des organismes visés à l'article L. 561-1 du code rural. 
+Création et aménagement de jardins familiaux par des organismes visés à l'article L. 561-1 du code rural et de la pêche
+maritime. 
 
 **Aménagement rural **
 
@@ -75,4 +76,4 @@ territoriales.
 
 	**Modifié par**:
 
-	  - Décret n°2006-700 du 16 juin 2006 - art. 3 II
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
