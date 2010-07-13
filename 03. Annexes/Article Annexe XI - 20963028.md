@@ -2,7 +2,7 @@
 
 ANNEXE A L'ARTICLE R. 4134-1
 
-Nombre des membres des conseils économiques et sociaux régionaux 
+Nombre des membres des    conseils économiques, sociaux et environnementaux régionaux 
 
 et répartition de ces derniers entre les collèges 
 
@@ -457,12 +457,3 @@ collège
     </tbody>
   </table>
 
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2001-731 du 31 juillet 2001 - art. ANNEXE XI (V)
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. R4134-1 (V)
