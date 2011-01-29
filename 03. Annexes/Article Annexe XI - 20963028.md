@@ -2,458 +2,848 @@
 
 ANNEXE A L'ARTICLE R. 4134-1
 
-Nombre des membres des    conseils économiques, sociaux et environnementaux régionaux 
+Nombre des membres des conseils économiques, sociaux et environnementaux régionaux
 
 et répartition de ces derniers entre les collèges 
 
 <table>
-    <tbody>
-      <tr>
-        <td align="center">REGIONS </td>
-        <td>
+  <tbody>
+    <tr>
+      <td rowspan="2">
 
-PREMIER 
+RÉGIONS
 
-collège 
+</td>
+      <td rowspan="2">
+
+PREMIER
+
+collège
+
+</td>
+      <td rowspan="2">
+
+DEUXIÈME
+
+collège
+
+</td>
+      <td colspan="2">
+
+TROISIÈME COLLÈGE
+
+</td>
+      <td rowspan="2">
+
+QUATRIÈME
+
+collège
+
+</td>
+      <td rowspan="2">
+
+TOTAL
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Total troisième collège
+
+</td>
+      <td>
+
+Dont au titre
+
+du deuxième alinéa
+
+de l'article L. 4134-2
+
+du CGCT
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Alsace
+
+</td>
+      <td align="center">
+
+25
+
+</td>
+      <td align="center">
+
+25
+
+</td>
+      <td align="center">
+
+25
+
+</td>
+      <td align="center">
+
+4
+
+</td>
+      <td align="center">
+
+3
+
+</td>
+      <td align="center">
+
+78
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Aquitaine
+
+</td>
+      <td align="center">
 
+38
+
+</td>
+      <td align="center">
+
+38
+
+</td>
+      <td align="center">
+
+38
+
+</td>
+      <td align="center">
+
+6
+
+</td>
+      <td align="center">
+
+5
+
 </td>
-        <td>
+      <td align="center">
+
+119
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Auvergne
+
+</td>
+      <td align="center">
+
+24
+
+</td>
+      <td align="center">
+
+24
+
+</td>
+      <td align="center">
+
+24
 
-DEUXIEME 
+</td>
+      <td align="center">
 
-collège 
+4
 
 </td>
-        <td>
+      <td align="center">
 
-TROISIEME 
+3
+
+</td>
+      <td align="center">
 
-collège 
+75
 
 </td>
-        <td>
+    </tr>
+    <tr>
+      <td align="center">
 
-QUATRIEME 
+Basse-Normandie
 
-collège 
+</td>
+      <td align="center">
 
+25
+
 </td>
-        <td>TOTAL 
+      <td align="center">
+
+25
 
 </td>
-      </tr>
-      <tr>
-        <td>Alsace 
+      <td align="center">
 
+25
+
 </td>
-        <td align="center">25 
+      <td align="center">
 
+4
+
 </td>
-        <td align="center">25 
+      <td align="center">
+
+3
 
 </td>
-        <td align="center">21 
+      <td align="center">
 
+78
+
 </td>
-        <td align="center">3 
+    </tr>
+    <tr>
+      <td align="center">
+
+Bourgogne
 
 </td>
-        <td align="center">74 
+      <td align="center">
 
+25
+
 </td>
-      </tr>
-      <tr>
-        <td>Aquitaine </td>
-        <td align="center">38 
+      <td align="center">
+
+25
 
 </td>
-        <td align="center">38 
+      <td align="center">
 
+25
+
 </td>
-        <td align="center">32 
+      <td align="center">
 
+4
+
 </td>
-        <td align="center">5 
+      <td align="center">
+
+3
 
 </td>
-        <td align="center">113 
+      <td align="center">
 
+78
+
 </td>
-      </tr>
-      <tr>
-        <td>Auvergne 
+    </tr>
+    <tr>
+      <td align="center">
 
+Bretagne
+
 </td>
-        <td align="center">24 
+      <td align="center">
+
+38
 
 </td>
-        <td align="center">24 
+      <td align="center">
 
+38
+
 </td>
-        <td align="center">20 
+      <td align="center">
 
+38
+
 </td>
-        <td align="center">3 
+      <td align="center">
+
+6
 
 </td>
-        <td align="center">71 
+      <td align="center">
 
+5
+
 </td>
-      </tr>
-      <tr>
-        <td>Basse-Normandie 
+      <td align="center">
+
+119
 
 </td>
-        <td align="center">25 
+    </tr>
+    <tr>
+      <td align="center">
 
+Centre
+
 </td>
-        <td align="center">25 
+      <td align="center">
+
+32
 
 </td>
-        <td align="center">21 
+      <td align="center">
 
+32
+
 </td>
-        <td align="center">3 
+      <td align="center">
 
+32
+
 </td>
-        <td align="center">74 
+      <td align="center">
+
+5
 
 </td>
-      </tr>
-      <tr>
-        <td>Bourgogne 
+      <td align="center">
 
+4
+
 </td>
-        <td align="center">25 
+      <td align="center">
 
+100
+
 </td>
-        <td align="center">25 
+    </tr>
+    <tr>
+      <td align="center">
+
+Champagne-Ardenne
 
 </td>
-        <td align="center">21 
+      <td align="center">
 
+25
+
 </td>
-        <td align="center">3 
+      <td align="center">
 
+25
+
 </td>
-        <td align="center">74 
+      <td align="center">
+
+25
 
 </td>
-      </tr>
-      <tr>
-        <td>Bretagne 
+      <td align="center">
 
+4
+
 </td>
-        <td align="center">38 
+      <td align="center">
+
+3
 
 </td>
-        <td align="center">38 
+      <td align="center">
 
+78
+
 </td>
-        <td align="center">32 
+    </tr>
+    <tr>
+      <td align="center">
+
+Franche-Comté
 
 </td>
-        <td align="center">5 
+      <td align="center">
 
+22
+
 </td>
-        <td align="center">113 
+      <td align="center">
 
+22
+
 </td>
-      </tr>
-      <tr>
-        <td>Centre 
+      <td align="center">
+
+22
 
 </td>
-        <td align="center">32 
+      <td align="center">
 
+4
+
 </td>
-        <td align="center">32 
+      <td align="center">
 
+3
+
 </td>
-        <td align="center">27 
+      <td align="center">
+
+69
 
 </td>
-        <td align="center">4 
+    </tr>
+    <tr>
+      <td align="center">
 
+Haute-Normandie
+
 </td>
-        <td align="center">95 
+      <td align="center">
 
+25
+
 </td>
-      </tr>
-      <tr>
-        <td>Champagne-Ardennes 
+      <td align="center">
+
+25
 
 </td>
-        <td align="center">25 
+      <td align="center">
 
+25
+
 </td>
-        <td align="center">25 
+      <td align="center">
+
+4
 
 </td>
-        <td align="center">21 
+      <td align="center">
 
+3
+
 </td>
-        <td align="center">3 
+      <td align="center">
+
+78
 
 </td>
-        <td align="center">74 
+    </tr>
+    <tr>
+      <td align="center">
 
+Ile-de-France
+
 </td>
-      </tr>
-      <tr>
-        <td>Franche-Comté 
+      <td align="center">
 
+41
+
 </td>
-        <td align="center">22 
+      <td align="center">
+
+41
 
 </td>
-        <td align="center">22 
+      <td align="center">
 
+41
+
 </td>
-        <td align="center">18 
+      <td align="center">
 
+6
+
 </td>
-        <td align="center">3 </td>
-        <td align="center">65 
+      <td align="center">
+
+5
 
 </td>
-      </tr>
-      <tr>
-        <td>Haute-Normandie 
+      <td align="center">
 
+128
+
 </td>
-        <td align="center">25 
+    </tr>
+    <tr>
+      <td align="center">
 
+Languedoc-Roussillon
+
 </td>
-        <td align="center">25 
+      <td align="center">
+
+30
 
 </td>
-        <td align="center">21 
+      <td align="center">
 
+30
+
 </td>
-        <td align="center">3 
+      <td align="center">
+
+30
 
 </td>
-        <td align="center">74 
+      <td align="center">
 
+5
+
 </td>
-      </tr>
-      <tr>
-        <td>Ile-de-France 
+      <td align="center">
+
+4
 
 </td>
-        <td align="center">41 
+      <td align="center">
 
+94
+
 </td>
-        <td align="center">41 
+    </tr>
+    <tr>
+      <td align="center">
 
+Limousin
+
 </td>
-        <td align="center">35 
+      <td align="center">
+
+22
 
 </td>
-        <td align="center">5 
+      <td align="center">
 
+22
+
 </td>
-        <td align="center">122 
+      <td align="center">
 
+22
+
 </td>
-      </tr>
-      <tr>
-        <td>Languedoc-Roussillon 
+      <td align="center">
+
+4
 
 </td>
-        <td align="center">30 
+      <td align="center">
 
+3
+
 </td>
-        <td align="center">30 
+      <td align="center">
 
+69
+
 </td>
-        <td align="center">25 
+    </tr>
+    <tr>
+      <td align="center">
+
+Lorraine
 
 </td>
-        <td align="center">4 
+      <td align="center">
 
+31
+
 </td>
-        <td align="center">89 
+      <td align="center">
+
+31
 
 </td>
-      </tr>
-      <tr>
-        <td>Limousin 
+      <td align="center">
 
+31
+
 </td>
-        <td align="center">22 
+      <td align="center">
+
+5
 
 </td>
-        <td align="center">22 
+      <td align="center">
 
+4
+
 </td>
-        <td align="center">18 
+      <td align="center">
 
+97
+
 </td>
-        <td align="center">3 
+    </tr>
+    <tr>
+      <td align="center">
+
+Midi-Pyrénées
 
 </td>
-        <td align="center">65 
+      <td align="center">
 
+38
+
 </td>
-      </tr>
-      <tr>
-        <td>Lorraine 
+      <td align="center">
 
+38
+
 </td>
-        <td align="center">31 
+      <td align="center">
+
+38
 
 </td>
-        <td align="center">31 
+      <td align="center">
 
+6
+
 </td>
-        <td align="center">26 
+      <td align="center">
 
+5
+
 </td>
-        <td align="center">4 
+      <td align="center">
+
+119
 
 </td>
-        <td align="center">92 
+    </tr>
+    <tr>
+      <td align="center">
 
+Nord - Pas-de-Calais
+
 </td>
-      </tr>
-      <tr>
-        <td>Midi-Pyrénées 
+      <td align="center">
+
+38
 
 </td>
-        <td align="center">38 
+      <td align="center">
 
+38
+
 </td>
-        <td align="center">38 
+      <td align="center">
+
+38
 
 </td>
-        <td align="center">32 
+      <td align="center">
 
+6
+
 </td>
-        <td align="center">5 
+      <td align="center">
 
+5
+
 </td>
-        <td align="center">113 
+      <td align="center">
+
+119
 
 </td>
-      </tr>
-      <tr>
-        <td>Nord-Pas-de-Calais </td>
-        <td align="center">38 
+    </tr>
+    <tr>
+      <td align="center">
 
+Pays de la Loire
+
 </td>
-        <td align="center">38 
+      <td align="center">
 
+38
+
 </td>
-        <td align="center">32 
+      <td align="center">
+
+38
 
 </td>
-        <td align="center">5 
+      <td align="center">
 
+38
+
 </td>
-        <td align="center">113 
+      <td align="center">
 
+6
+
 </td>
-      </tr>
-      <tr>
-        <td>Pays de la Loire 
+      <td align="center">
+
+5
 
 </td>
-        <td align="center">38 
+      <td align="center">
 
+119
+
 </td>
-        <td align="center">38 
+    </tr>
+    <tr>
+      <td align="center">
+
+Picardie
 
 </td>
-        <td align="center">32 
+      <td align="center">
 
+25
+
 </td>
-        <td align="center">5 
+      <td align="center">
+
+25
 
 </td>
-        <td align="center">113 
+      <td align="center">
 
+25
+
 </td>
-      </tr>
-      <tr>
-        <td>Picardie 
+      <td align="center">
 
+4
+
 </td>
-        <td align="center">25 
+      <td align="center">
+
+3
 
 </td>
-        <td align="center">25 
+      <td align="center">
 
+78
+
 </td>
-        <td align="center">21 
+    </tr>
+    <tr>
+      <td align="center">
 
+Poitou-Charentes
+
 </td>
-        <td align="center">3 
+      <td align="center">
+
+25
 
 </td>
-        <td align="center">74 
+      <td align="center">
 
+25
+
 </td>
-      </tr>
-      <tr>
-        <td>Poitou Charentes </td>
-        <td align="center">25 
+      <td align="center">
 
+25
+
 </td>
-        <td align="center">25 
+      <td align="center">
+
+4
 
 </td>
-        <td align="center">21 
+      <td align="center">
 
+3
+
 </td>
-        <td align="center">3 
+      <td align="center">
+
+78
 
 </td>
-        <td align="center">74 
+    </tr>
+    <tr>
+      <td align="center">
 
+Provence-Alpes-Côte d'Azur
+
 </td>
-      </tr>
-      <tr>
-        <td>Provence-Alpes-Côte d'Azur 
+      <td align="center">
+
+39
 
 </td>
-        <td align="center">39 
+      <td align="center">
 
+39
+
 </td>
-        <td align="center">39 
+      <td align="center">
 
+39
+
 </td>
-        <td align="center">33 
+      <td align="center">
+
+6
 
 </td>
-        <td align="center">5 
+      <td align="center">
 
+5
+
 </td>
-        <td align="center">116 
+      <td align="center">
+
+122
 
 </td>
-      </tr>
-      <tr>
-        <td>Rhônes-Alpes 
+    </tr>
+    <tr>
+      <td align="center">
 
+Rhône-Alpes
+
 </td>
-        <td align="center">39 
+      <td align="center">
+
+39
 
 </td>
-        <td align="center">39 
+      <td align="center">
 
+39
+
 </td>
-        <td align="center">33 
+      <td align="center">
 
+39
+
 </td>
-        <td align="center">5 
+      <td align="center">
+
+6
 
 </td>
-        <td align="center">116
+      <td align="center">
 
+5
+
 </td>
-      </tr>
-    </tbody>
-  </table>
+      <td align="center">
+
+122</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
 
+	  - Décret n°2011-112 du 27 janvier 2011 - art.
