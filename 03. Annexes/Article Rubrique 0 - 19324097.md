@@ -135,7 +135,7 @@ administrateur provisoire.
 0252 - Successions vacantes
 
 Copie du jugement du tribunal de grande instance du lieu d'ouverture de la succession déclarant la vacance et désignant un
-curateur (le service des domaines).
+curateur (l'administration chargée des domaines).
 
 0253 - Successions en déshérence
 
@@ -405,6 +405,6 @@ Décision de l'assemblée délibérante de ne pas opposer la prescription ou cop
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-450 du 25 mars 2007 - art. 2
+	  - Décret n°2014-552 du 27 mai 2014 - art. 2

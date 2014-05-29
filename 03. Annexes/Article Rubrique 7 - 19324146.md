@@ -60,7 +60,7 @@ bénéficiaire, pour toute subvention d'un montant supérieur à 23 000 euros.
 dispositif. 
 
 (4) Sur la base de cette convention, le comptable assignataire délègue le contrôle de l'existence des pièces justificatives
-au trésorier-payeur général.
+au directeur régional des finances publiques.
 
 2. Le cas échéant, la décision fixant les conditions d'octroi et les modalités de l'aide. 
 
@@ -190,10 +190,10 @@ Annexes de la liste des pièces justificatives
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-450 du 25 mars 2007 - art. 2
+	  - Décret n°2014-552 du 27 mai 2014 - art. 2
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L2311-7 (V)
+	  - Code général des collectivités territoriales - art. L2311-7

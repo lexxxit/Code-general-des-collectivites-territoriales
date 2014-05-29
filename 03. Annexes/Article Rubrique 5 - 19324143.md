@@ -598,7 +598,8 @@ de quinze jours à dater de la notification de l'ordonnance ou copie de l'acte d
 
 4. Justification du droit de l'exproprié par l'expropriant, précisant notamment que le juge de l'expropriation a été saisi
 pour fixation de l'indemnité, que le relogement de l'exproprié ne sera pas assuré par l'expropriant et indiquant, en outre,
-le montant des propositions chiffrées de l'expropriant ainsi que celles du service des domaines. 
+le montant des propositions chiffrées de l'expropriant ainsi que celles du directeur départemental ou, le cas échéant,
+régional des finances publiques. 
 
 5312 - Mandatement d'indemnités mobilières 
 
@@ -662,7 +663,8 @@ Pièces prévues à la rubrique 531165.
 
 1. Copie de l'arrêté du représentant de l'Etat dans la région ou dans le département. 
 
-2. Copie de l'évaluation de l'indemnité provisionnelle par le service des domaines. 
+2. Copie de l'évaluation de l'indemnité provisionnelle par le directeur départemental ou, le cas échéant, régional des
+finances publiques. 
 
 3. Justification, selon les formes signifiées prévues à l'article I 
   <sup>er </sup>du décret du 13 février 1961, du droit de propriété de l'exproprié. 
@@ -891,20 +893,12 @@ publique.
 
 2. Attestation de défaillance établie par le syndic de copropriété.
 
-**Nota:**
-
-Une nouvelle version de cet article modifié par le décret n° 2013-938 du 18 octobre 2013 portant application de la loi n°
-2013-403 du 17 mai 2013 relative à l'élection des conseillers départementaux, des conseillers municipaux et des conseillers
-communautaires, et modifiant le calendrier électoral s'appliquera aux élections organisées en mars 2015 à l'occasion du
-prochain renouvellement général des conseils départementaux, y compris aux opérations préparatoires à ce scrutin (Fin de
-vigueur : date indéterminée).
-
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2007-450 du 25 mars 2007 - art. 2
+	  - Décret n°2014-552 du 27 mai 2014 - art. 2
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L313-29-1 (V)
+	  - Code monétaire et financier - art. L313-29-1
