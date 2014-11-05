@@ -289,7 +289,8 @@ ou déclaration du débiteur autorisant le tiers saisi à payer sans délai la c
 
 0312 - Cession ferme ou nantissement
 
-03121 - Paiement à un établissement de crédit cessionnaire ou bénéficiaire d'un nantissement :
+03121 - Paiement à un établissement de crédit ou à une société de financement cessionnaire ou bénéficiaire d'un
+nantissement :
 
 1. Notification de la cession (ou du nantissement) par lettre recommandée avec demande d'avis de réception ou tout autre
 moyen permettant de donner date certaine ;
@@ -309,8 +310,8 @@ créance cédée (ou nantie) ;
 
 03123. Paiement au cédant (ou au créancier à l'initiative du nantissement) :
 
-Mainlevée de la cession (ou du nantissement) donnée par l'établissement de crédit par lettre recommandée avec demande d'avis
-de réception ou par tout autre moyen permettant de donner date certaine,
+Mainlevée de la cession (ou du nantissement) donnée par l'établissement de crédit ou la société de financement par lettre
+recommandée avec demande d'avis de réception ou par tout autre moyen permettant de donner date certaine,
 
 ou
 
@@ -407,4 +408,4 @@ Décision de l'assemblée délibérante de ne pas opposer la prescription ou cop
 
 	**Modifié par**:
 
-	  - Décret n°2014-552 du 27 mai 2014 - art. 2
+	  - Décret n°2014-1316 du 3 novembre 2014 - art. 6
