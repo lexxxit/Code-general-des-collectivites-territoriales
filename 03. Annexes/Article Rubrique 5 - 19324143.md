@@ -196,7 +196,7 @@ présente liste.
 
 (8) L'acceptation provisoire résulte de l'exécutif pour les établissements publics de santé, les établissements publics
 sociaux et médico-sociaux, les centre communaux ou intercommunaux d'action sociale ; elle peut résulter du maire ou du
-président de conseil général.
+président de conseil départemental.
 
 2. Copie de l'acte de disposition à titre gratuit ; 
 
@@ -898,7 +898,7 @@ publique.
 
 	**Modifié par**:
 
-	  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
 
 	**Cite**:
 
