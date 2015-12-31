@@ -9,841 +9,510 @@ et répartition de ces derniers entre les collèges
 <table>
   <tbody>
     <tr>
-      <td rowspan="2">
+      <th>RÉGIONS 
 
-RÉGIONS
+</th>
+      <th>
+
+PREMIER 
+
+collège 
+
+</th>
+      <th>
+
+DEUXIÈME 
+
+collège 
+
+</th>
+      <th colspan="2">
+
+TROISIÈME COLLÈGE 
+
+</th>
+      <th>
+
+QUATRIÈME 
+
+collège 
+
+</th>
+      <th>
+
+TOTAL 
+
+</th>
+    </tr>
+    <tr>
+      <td align="left" valign="middle"> </td>
+      <td valign="middle" align="left"> </td>
+      <td align="left" valign="middle"> </td>
+      <td align="justify" valign="middle">
+
+Total troisième collège 
 
 </td>
-      <td rowspan="2">
+      <td align="justify" valign="middle">
 
-PREMIER
-
-collège
+Dont au titre du deuxième alinéa de l'article L. 4134-2 du CGCT 
 
 </td>
-      <td rowspan="2">
+      <td align="left" valign="middle"> </td>
+      <td align="left" valign="middle"> </td>
+    </tr>
+    <tr>
+      <td align="justify" valign="middle">
 
-DEUXIÈME
-
-collège
-
-</td>
-      <td colspan="2">
-
-TROISIÈME COLLÈGE
+Alsace-Champagne-Ardenne-Lorraine 
 
 </td>
-      <td rowspan="2">
+      <td align="center" valign="middle">
 
-QUATRIÈME
-
-collège
+58 
 
 </td>
-      <td rowspan="2">
+      <td valign="middle" align="center">
 
-TOTAL
+58 
+
+</td>
+      <td valign="middle" align="center">
+
+58 
+
+</td>
+      <td valign="middle" align="center">
+
+9 
+
+</td>
+      <td align="center" valign="middle">
+
+6 
+
+</td>
+      <td valign="middle" align="center">
+
+180 
 
 </td>
     </tr>
     <tr>
-      <td>
+      <td valign="middle" align="justify">
 
-Total troisième collège
-
-</td>
-      <td>
-
-Dont au titre
-
-du deuxième alinéa
-
-de l'article L. 4134-2
-
-du CGCT
+Aquitaine-Limousin-Poitou-Charentes 
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td align="center" valign="middle">
 
-Alsace
+58 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-25
-
-</td>
-      <td align="center">
-
-25
+58 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-25
-
-</td>
-      <td align="center">
-
-4
+58 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-3
+9 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-78
+6 
+
+</td>
+      <td align="center" valign="middle">
+
+180 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="justify">
 
-Aquitaine
-
-</td>
-      <td align="center">
-
-38
+Auvergne-Rhône-Alpes 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-38
-
-</td>
-      <td align="center">
-
-38
+61 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-6
-
-</td>
-      <td align="center">
-
-5
+61 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-119
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Auvergne
+61 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-24
-
-</td>
-      <td align="center">
-
-24
+10 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-24
-
-</td>
-      <td align="center">
-
-4
+7 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-3
-
-</td>
-      <td align="center">
-
-75
+190 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify" valign="middle">
 
-Basse-Normandie
-
-</td>
-      <td align="center">
-
-25
+Bourgogne-Franche-Comté 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-25
-
-</td>
-      <td align="center">
-
-25
+35 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-4
-
-</td>
-      <td align="center">
-
-3
+35 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-78
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Bourgogne
+35 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-25
-
-</td>
-      <td align="center">
-
-25
+6 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-25
-
-</td>
-      <td align="center">
-
-4
+5 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-3
-
-</td>
-      <td align="center">
-
-78
+110 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="justify">
 
-Bretagne
-
-</td>
-      <td align="center">
-
-38
+Bretagne 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-38
-
-</td>
-      <td align="center">
-
-38
+38 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-6
-
-</td>
-      <td align="center">
-
-5
+38 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-119
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Centre
+38 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-32
-
-</td>
-      <td align="center">
-
-32
+6 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-32
-
-</td>
-      <td align="center">
-
-5
+6 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-4
-
-</td>
-      <td align="center">
-
-100
+120 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="justify">
 
-Champagne-Ardenne
-
-</td>
-      <td align="center">
-
-25
+Centre-Val de Loire 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-25
-
-</td>
-      <td align="center">
-
-25
+32 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-4
-
-</td>
-      <td align="center">
-
-3
+32 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-78
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Franche-Comté
+32 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-22
-
-</td>
-      <td align="center">
-
-22
+5 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-22
-
-</td>
-      <td align="center">
-
-4
+4 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-3
-
-</td>
-      <td align="center">
-
-69
+100 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify" valign="middle">
 
-Haute-Normandie
-
-</td>
-      <td align="center">
-
-25
+Ile-de-France 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-25
-
-</td>
-      <td align="center">
-
-25
+61 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-4
-
-</td>
-      <td align="center">
-
-3
+61 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-78
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Ile-de-France
+61 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-41
-
-</td>
-      <td align="center">
-
-41
+10 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-41
-
-</td>
-      <td align="center">
-
-6
+7 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-5
-
-</td>
-      <td align="center">
-
-128
+190 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify" valign="middle">
 
-Languedoc-Roussillon
-
-</td>
-      <td align="center">
-
-30
+Languedoc-Roussillon-Midi-Pyrénées 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-30
-
-</td>
-      <td align="center">
-
-30
+54 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-5
-
-</td>
-      <td align="center">
-
-4
+54 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-94
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Limousin
+54 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-22
-
-</td>
-      <td align="center">
-
-22
+9 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-22
-
-</td>
-      <td align="center">
-
-4
+8 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-3
-
-</td>
-      <td align="center">
-
-69
+170 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td valign="middle" align="justify">
 
-Lorraine
-
-</td>
-      <td align="center">
-
-31
+Nord-Pas-de-Calais-Picardie 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-31
-
-</td>
-      <td align="center">
-
-31
+54 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-5
-
-</td>
-      <td align="center">
-
-4
+54 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-97
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Midi-Pyrénées
+54 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-38
-
-</td>
-      <td align="center">
-
-38
+9 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-38
-
-</td>
-      <td align="center">
-
-6
+8 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-5
-
-</td>
-      <td align="center">
-
-119
+170 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify" valign="middle">
 
-Nord - Pas-de-Calais
-
-</td>
-      <td align="center">
-
-38
+Normandie 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-38
-
-</td>
-      <td align="center">
-
-38
+42 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-6
-
-</td>
-      <td align="center">
-
-5
+42 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-119
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Pays de la Loire
+42 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-38
-
-</td>
-      <td align="center">
-
-38
+7 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-38
-
-</td>
-      <td align="center">
-
-6
+4 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-5
-
-</td>
-      <td align="center">
-
-119
+130 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify" valign="middle">
 
-Picardie
-
-</td>
-      <td align="center">
-
-25
+Pays de la Loire 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-25
-
-</td>
-      <td align="center">
-
-25
+38 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-4
-
-</td>
-      <td align="center">
-
-3
+38 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-78
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Poitou-Charentes
+38 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-25
-
-</td>
-      <td align="center">
-
-25
+6 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-25
-
-</td>
-      <td align="center">
-
-4
+6 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-3
-
-</td>
-      <td align="center">
-
-78
+120 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify" valign="middle">
 
-Provence-Alpes-Côte d'Azur
-
-</td>
-      <td align="center">
-
-39
+Provence-Alpes-Côte d'Azur 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-39
-
-</td>
-      <td align="center">
-
-39
+45 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-6
-
-</td>
-      <td align="center">
-
-5
+45 
 
 </td>
-      <td align="center">
+      <td align="center" valign="middle">
 
-122
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Rhône-Alpes
+45 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-39
-
-</td>
-      <td align="center">
-
-39
+7 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-39
-
-</td>
-      <td align="center">
-
-6
+5 
 
 </td>
-      <td align="center">
+      <td valign="middle" align="center">
 
-5
-
-</td>
-      <td align="center">
-
-122</td>
+140</td>
     </tr>
   </tbody>
 </table>
+
+**Nota:**
+
+Aux termes du I de l'article 1er du décret n° 2015-1917 du 30 décembre 2015, ces dispositions s'appliquent à compter du
+prochain renouvellement des membres des conseils économiques, sociaux et environnementaux régionaux.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2011-112 du 27 janvier 2011 - art.
+	  - Décret n°2015-1917 du 30 décembre 2015 - art.
