@@ -2,170 +2,210 @@
 
 **Rubrique 3-Dépenses liées à l'exercice de fonctions électives ou de représentation**
 
-31-Indemnités 
+31.Indemnités
 
-311-Indemnité de fonction d'un élu local 
+311.Indemnité de fonction d'un élu local
 
-3111-Premier paiement 
+3111.Premier paiement
 
-1. Délibération fixant les conditions d'octroi de l'indemnité et son montant. 
+1. Délibération fixant les conditions d'octroi de l'indemnité et son montant.
 
-2. Le cas échéant, arrêté de délégation de fonction. 
+2. Le cas échéant, arrêté de délégation de fonction.
 
-3. Le cas échéant (1), déclaration de l'élu désignant la collectivité ou l'établissement chargé d'opérer la retenue. 
+3. Le cas échéant (1), déclaration de l'élu désignant la collectivité ou l'établissement chargé d'opérer la retenue.
 
-(1) Lorsque, en cas de cumul de mandats, le comptable qui verse l'indemnité est celui de la collectivité ou de
-l'établissement désigné pour opérer la retenue à la source. 
+4. Les cas échéant, délibération désignant l'élu bénéficiaire de la part écrêtée.
 
-4. Le cas échéant, délibération désignant l'élu bénéficiaire de la part écrêtée. 
+5. Pièces prévues pour les paiements ultérieurs.
 
-5. Pièces prévues pour les paiement ultérieurs. 
+3112.Paiements ultérieurs
 
-3112-Paiements ultérieurs 
+1. Etat liquidatif précisant le montant brut de l'indemnité, le montant des précomptes, le montant net versé.
 
-1. Etat liquidatif précisant le montant brut de l'indemnité, le montant des précomptes, le montant net versé. 
+2. Mention de la base imposable et de l'impôt dû dans l'état liquidatif de la retenue à la source, accompagné, le cas échéant
+(1), des informations relatives aux indemnités versées par les collectivités non-retenues pour effectuer la retenue à la
+source
 
-2. Selon le cas : 
+Ou
 
-Mention de la base imposable et de l'impôt dû dans l'état liquidatif de la retenue à la source, accompagné, le cas échéant
-(1) des informations relatives aux indemnités versées par les collectivités non choisies pour effectuer la retenue à la
-source, 
+Déclaration d'option pour l'imposition des indemnités à l'impôt sur le revenu
 
-(1) Lorsque, en cas de cumul de mandats, le comptable qui verse l'indemnité est celui de la collectivité ou de
-l'établissement désigné pour opérer la retenue à la source. 
+Ou
 
-ou 
+en cas de cumul de mandats, déclaration du choix de la collectivité chargée d'effectuer la liquidation de la retenue.
 
-Déclaration d'option pour l'imposition des indemnités à l'impôt sur le revenu, 
+(1) Lorsque qu'en cas de cumul de mandats, le comptable qui verse l'indemnité est celui de la collectivité ou de
+l'établissement désigné pour opérer la retenue à la source.
 
-ou 
+312.Indemnité d'un membre du conseil économique et social régional
 
-En cas de cumul de mandats, déclaration du choix de la collectivité chargée d'effectuer la liquidation de la retenue. 
+3121.Premier paiement
 
-312-Indemnité d'un membre du    conseil économique, social et environnemental régional 
+1. Délibération fixant le montant de l'indemnité et les conditions de sa modulation.
 
-3121-Premier paiement 
+2. Le cas échéant, arrêté de délégation de fonction.
 
-1. Délibération fixant le montant de l'indemnité et les conditions de sa modulation. 
+3. Pièces prévues pour les paiements ultérieurs.
 
-2. Le cas échéant, arrêté de délégation de fonction. 
+3122.Paiements ultérieurs
 
-3. Pièces prévues pour les paiements ultérieurs. 
+1. Etat liquidatif précisant le montant brut des indemnités, le montant des précomptes, le montant net versé.
 
-3122-Paiements ultérieurs 
+2. Pièce(s) particulière(s) exigée(s) par la délibération.
 
-1. Etat liquidatif précisant le montant brut des indemnités, le montant des précomptes, le montant net versé. 
+313.Indemnités forfaitaires des administrateurs des Offices Publics de l'Habitat
 
-2. Pièce (s) particulière (s) exigée (s) par la délibération. 
+3131.Premier paiement
 
-313-Indemnités forfaitaires des administrateurs salariés des OPHLM et des OPAC 
+1. Décision du conseil d'administration fixant le montant de l'indemnité forfaitaire.
 
-3131-Premier paiement 
+2. Pièces prévues pour les paiements ultérieurs.
 
-1. Décision du conseil d'administration fixant le montant de l'indemnité forfaitaire. 
+3132.Paiements ultérieurs
 
-2. Pièces prévues pour les paiements ultérieurs. 
+Convocation
 
-3132-Paiements ultérieurs 
+Et
 
-Attestation de l'employeur précisant le nombre d'heures perdues par l'intéressé. 
+Attestation de l'employeur précisant le nombre d'heures perdues par l'intéressé.
 
-314-Indemnités du président, du vice-président ou des membres du syndicat d'une association syndicale de propriétaires 
+314.Indemnités du président, du vice-président ou des membres du syndicat d'une association syndicale de propriétaires
 
-1. Délibération de l'assemblée des propriétaires en fixant le principe et le montant. 
+1. Délibération de l'assemblée des propriétaires en fixant le principe et le montant.
 
-2. Etat liquidatif. 
+2. État liquidatif.
 
-315-Indemnités pour frais de représentation 
+315.Frais de représentation (2)
 
-Délibération fixant le régime d'attribution. 
+1. Délibération précisant le montant plafond et la nature des frais pris en charge ou le montant forfaitaire alloué à l'élu.
 
-316-Charges sociales 
+2. Lorsque l'indemnité n'est pas versée sous une forme forfaitaire :
 
-Décompte indiquant notamment l'assiette, le taux et le montant des charges à payer, 
+- factures ;
 
-ou 
+- état de consommation des crédits.
 
-Etat de redressement suite à un contrôle. 
+(2) L'organe délibérant peut :
 
-32-Remboursement de frais 
+- soit instaurer le versement d'une somme forfaitaire non subordonnée à la production de justificatifs des frais exposés ;
 
-321-Frais d'exécution d'un mandat spécial 
+- soit instituer une dotation permettant la prise en charge directe des frais par la collectivité elle-même ou le
+remboursement, le cas échéant sous forme forfaitaire, des dépenses de représentation exposées et dûment justifiées. Dans ces
+hypothèses, un état de consommation de crédit permet de suivre l'emploi de la dotation votée par l'organe délibérant.
 
-3211-Pièces générale 
+316.Charges sociales
 
-Délibération accordant un mandat spécial. 
+Décompte indiquant notamment l'assiette, le taux et le montant des charges à payer
 
-3212-Pièces particulières 
+Ou
 
-1. Frais de déplacement et de mission : pièces prévues à la rubrique 322. 
+Etat de redressement suite à un contrôle
 
-2. Frais d'aide à la personne et autres frais :
+Ou
 
-- le cas échéant (2), délibération ; 
+Pour le remboursement à un élu d'un trop prélevé :
 
-(2) Si la décision donnant mandat spécial n'a pas décidé de la prise en charge de ces frais.
+- décision précisant l'objet du remboursement ;
 
-- état de frais. 
+- décompte.
 
-322-Frais de déplacement et de mission 
+32.Remboursements de frais (3)
 
-Etat de frais (voir annexe A de la présente liste). 
+(3) Les dépenses réglées directement par la collectivité à des prestataires relèvent de la rubrique 4.
 
-323-Indemnités de déplacement et frais de transport des administrateurs des offices publics de l'habitat 
+321.Frais d'exécution d'un mandat spécial
 
-1. Décision du conseil d'administration fixant les conditions de versement des indemnités et frais. 
+3211.Pièce générale
 
-2. Etat de frais. 
+Délibération accordant un mandat spécial.
 
-3. Le cas échéant (3), justificatifs. 
+3212.Pièces particulières
 
-(3) Lorsque les indemnités kilométriques compensatrices des frais de transport ne sont pas celles fixées pour les
-fonctionnaires. 
+1. Frais de déplacement et de mission : voir rubrique 312.
 
-324-Frais de déplacement et de mission des administrateurs des EPS et EPSMS 
+2. Frais d'aide à la personne et autres frais.
 
-Pièces prévues au g de la rubrique 2261. 
+- Le cas échéant (4), délibération.
 
-325-Dépenses exceptionnelles d'aide et de secours 
+- Etat de frais.
 
-1. Délibération décidant du remboursement des frais d'assistance ou de secours engagés par l'élu. 
+(4) Si la décision donnant mandat spécial n'a pas décidé de la prise en charge de ces frais.
 
-2. Justificatifs. 
+322.Frais de déplacement et de mission
 
-326-Frais d'aide à la personne 
+Etat de frais (voir annexe A de la présente liste).
 
-1. Délibération fixant les conditions du droit à remboursement. 
+323.Indemnités de déplacement et frais de transport des administrateurs des OPH ou des représentants des associations
+syndicale de propriétaires
 
-2. Etat de frais. 
+1. Décision du conseil d'administration fixant les conditions de versement des indemnités et frais.
 
-327-Frais spécifiques des élus en situation de handicap 
+2. Etat de frais.
 
-Etat de frais précisant les frais engagés mensuellement. 
+3. Le cas échéant (5), justificatifs.
 
-328-Remboursement des frais exposés par les élus pour leur défense 
+(5) Lorsque les indemnités kilométriques compensatrices des frais de transport ne sont pas celles fixées pour les
+fonctionnaires.
 
-1. Délibération autorisant la prise en charge des frais. 
+324. Frais de déplacement et de mission des administrateurs des EPS ET EPSMS
 
-2. Factures. 
+Pièces prévues pour le cas (g) de la rubrique 2251.
 
-33-Autres dépenses 
+325.Dépenses exceptionnelles d'aide et de secours
 
-331-Compensation des pertes de revenu 
+1. Délibération décidant du remboursement des frais d'assistance ou de secours engagés par l'élu.
 
-Etat liquidatif précisant le motif de la perte de revenu, le nombre d'heures compensées et le nombre total d'heures
-compensées soit au titre de l'année civile, soit au titre de la durée du mandat (4). 
+2. Justificatifs.
 
-(4) Au titre de la durée du mandat pour les congés de formation. 
+326.Frais d'aide à la personne
 
-332-Accidents survenus dans l'exercice des fonctions 
+1. Délibération fixant les conditions du droit à remboursement.
 
-1. Certificat de prise en charge. 
+2. Etat de frais.
+
+327. Frais spécifiques des élus en situation de handicap
+
+Etat de frais précisant les frais engagés mensuellement.
+
+328. Remboursement des frais exposés par les élus pour leur défense
+
+1. Délibération autorisant la prise en charge des frais ou en cas d'indemnisation, fixant son montant.
+
+2. Factures ou notes d'honoraires ou décompte de l'indemnisation.
+
+33. Autres dépenses
+
+331. Compensation des pertes de revenu
+
+Etat liquidatif précisant, le motif de la perte de revenu, le nombre d'heures compensées et le nombre total d'heures
+compensées soit au titre de l'année civile soit au titre de la durée du mandat (6).
+
+(6) Au titre de la durée du mandat pour les congés de formation.
+
+332. Accidents survenus dans l'exercice des fonctions
+
+1. Certificat de prise en charge.
 
 2. Etat de frais, factures.
+
+333.Prise en charge des frais de formation engagés par les élus ou les administrateurs des OPH (7)
+
+3331.Indemnisation
+
+1. Délibération autorisant la prise en charge de frais de formation engagés par l'élu ou l'administrateur de l'OPH.
+
+2. Décompte.
+
+3. Facture.
+
+3332.Frais de déplacement
+
+Pièces prévues à la rubrique 322 ou 323 selon le cas.
+
+(7) Les frais acquittés directement auprès d'un prestataire relèvent de la rubrique 4.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-788 du 12 juillet 2010 - art. 250 (V)
+	  - Décret n°2016-33 du 20 janvier 2016 - art.
