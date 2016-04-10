@@ -1,8 +1,8 @@
 # Article Annexe VII
 
-**Liste des missions, programmes, actions établie pour l'application des articles L. 2334-39 et R. 2334-19**
+Liste des missions, programmes, actions établie pour l'application des articles L. 2334-39 et R. 2334-19
 
-_Mission : agriculture, pêche, forêts et affaires rurales _
+Mission : agriculture, pêche, forêts et affaires rurales 
 
 154 Programme : gestion durable de l'agriculture, de la pêche et développement rural. 
 
@@ -20,7 +20,7 @@ _Mission : agriculture, pêche, forêts et affaires rurales _
 
 149-04 Action : prévention des risques et protection de la forêt. 
 
-_Mission : culture _
+Mission : culture 
 
 175 Programme : patrimoines. 
 
@@ -42,7 +42,7 @@ _Mission : culture _
 
 131-03 Action : soutien à la création, à la production, à la diffusion et à la valorisation du livre et de la lecture. 
 
-_Mission : écologie et développement durable _
+Mission : écologie et développement durable 
 
 181 Programme : prévention des risques et lutte contre les pollutions. 
 
@@ -58,7 +58,7 @@ _Mission : écologie et développement durable _
 
 153-04 Action : incitation à la gestion durable du patrimoine naturel. 
 
-_Mission : politique des territoires _
+Mission : politique des territoires 
 
 113 Programme : aménagement, urbanisme et ingénierie publique. 
 
@@ -70,7 +70,7 @@ _Mission : politique des territoires _
 
 223-03 Action : accès aux vacances. 
 
-_Mission : recherche et enseignement supérieur _
+Mission : recherche et enseignement supérieur 
 
 186 Programme : recherche culturelle et culture scientifique. 
 
@@ -84,7 +84,7 @@ _Mission : recherche et enseignement supérieur _
 
 190-04 Action : recherche et développement dans le domaine de l'urbanisme et du logement. 
 
-_Mission : relations avec les collectivités territoriales _
+Mission : relations avec les collectivités territoriales 
 
 119 Programme : concours financiers aux communes et groupements de communes. 
 
@@ -102,13 +102,13 @@ _Mission : relations avec les collectivités territoriales _
 
 122-03 Action : dotation générale de décentralisation
 
-_Mission : santé _
+Mission : santé 
 
 171 Programme : offre de soins et qualité du système de soins. 
 
 171-03 Action : soutien. 
 
-_Mission : solidarité et intégration _
+Mission : solidarité et intégration 
 
 106 Programme : actions en faveur des familles vulnérables. 
 
@@ -120,16 +120,13 @@ _Mission : solidarité et intégration _
 
 157-05 Action : personnes âgées. 
 
-_Mission : sport, jeunesse et vie associative _
+Mission : sport, jeunesse et vie associative 
 
 163 Programme : jeunesse et vie associative. 
 
 163-04 Action : protection des jeunes. 
 
-Subventions d'équipement sportif aux collectivités territoriales ou à leurs établissements versées par le Centre national
-pour le développement du sport (CNDS). 
-
-_Mission : transports _
+Mission : transports 
 
 203 Programme : réseau routier national. 
 
@@ -147,7 +144,7 @@ _Mission : transports _
 
 225-01 Action : affaires techniques, prospective et soutien au programme. 
 
-_Mission : ville et logement _
+Mission : ville et logement 
 
 147 Programme : équité sociale et territoriale et soutien. 
 
@@ -163,7 +160,7 @@ _Mission : ville et logement _
 
 	**Modifié par**:
 
-	  - Décret n°2009-637 du 8 juin 2009 - art. 6
+	  - Décret n°2016-423 du 8 avril 2016 - art. 3
 
 	**Cite**:
 
